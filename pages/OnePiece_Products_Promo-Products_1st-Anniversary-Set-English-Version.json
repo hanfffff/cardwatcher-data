@@ -3,14 +3,14 @@
   "card": "1st Anniversary Set (English Version)",
   "set": "Promo Products",
   "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-  "image": "static/Blanko/images/OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version.jpg",
+  "image": "data/images/OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version.jpg",
   "languages": [
     "English"
   ],
   "only_germany": "False",
-  "available": 56,
-  "sold": 0,
-  "inserted": 2,
+  "available": 57,
+  "sold": 5,
+  "inserted": 7,
   "listings": [
     {
       "card": "1st Anniversary Set (English Version)",
@@ -108,29 +108,6 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
-        "name": "skystore02",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 990.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "no sealed",
-      "date": "1768771171.0465372",
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": "1767869083.658967",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
         "name": "Brutapoke",
         "country": "Item location: Belgium"
       },
@@ -200,22 +177,77 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "Omegastore",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "envoie rapide Sceller",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1200.0,
+          1769585714.0921896
+        ],
+        [
+          1100.0,
+          1770323785.4347353
+        ]
+      ],
+      "first_date": "1767869083.658967",
+      "last_date": "",
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Benii1",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed in Brown Box",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770761311.460743,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "LoboRagnar",
         "country": "Item location: Spain"
       },
       "language": "English",
       "price": 1000.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed in Brown Box",
       "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1770230031.3145883,
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -369,9 +401,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "without all the external plastic. all contents sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1770323785.4347353,
       "last_date": "",
@@ -407,6 +439,34 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "skystore02",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1049.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Open tutto completo",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          990.0,
+          "1768771171.0465372"
+        ]
+      ],
+      "first_date": "1767869083.658967",
+      "last_date": "",
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "Progct01",
         "country": "Item location: Italy"
       },
@@ -415,7 +475,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "without brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -425,6 +485,29 @@
         ]
       ],
       "first_date": "1768771171.0465372",
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "MMoro10",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1050.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770761311.460743,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -595,7 +678,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -605,62 +688,6 @@
         ]
       ],
       "first_date": 1769340414.1480937,
-      "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Nish33",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED IN BOX BROWN",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1300.0,
-          1770039126.0986178
-        ]
-      ],
-      "first_date": "1767869083.658967",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Omegastore",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "envoie rapide Sceller",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1200.0,
-          1769585714.0921896
-        ]
-      ],
-      "first_date": "1767869083.658967",
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -679,7 +706,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - possibile ritiro a mano in toscana",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -687,6 +714,34 @@
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Nish33",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1100.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "SEALED IN BOX BROWN",
+      "date": 1770323785.4347353,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          1300.0,
+          1770039126.0986178
+        ]
+      ],
+      "first_date": "1767869083.658967",
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -799,7 +854,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in Brown Box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -870,17 +925,40 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
-        "name": "thecardcoll3ctor",
-        "country": "Item location: Germany"
+        "name": "Manamangasas",
+        "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1150.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1770323785.4347353,
+      "comment": "X FOTO DM!!",
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
+      "previous_prices": [],
+      "first_date": 1769496146.1895323,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "thecardcoll3ctor",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770323785.4347353,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           "1300.0",
@@ -901,31 +979,8 @@
       ],
       "first_date": "1767869083.658967",
       "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Manamangasas",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "X FOTO DM!!",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1769496146.1895323,
-      "last_date": "",
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -938,12 +993,12 @@
       },
       "language": "English",
       "price": 1150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BROWN BOX. opened just for verify",
       "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1000.0,
@@ -957,7 +1012,7 @@
       "first_date": "1768160466.5320683",
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1052,7 +1107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "stock a (without brown box)",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1088,7 +1143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "open brown packages",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1139,7 +1194,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Meet up in Rome",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1208,7 +1263,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1231,34 +1286,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed all included",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": "1769072003.2214963",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Barricax",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1200.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1769672750.9318452,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -1277,7 +1309,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box. Fast shipping and hand delivery available",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1285,6 +1317,75 @@
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Quegliom",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770761311.460743,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "GS-GameOn",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770761311.460743,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Barricax",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP Sealed",
+      "date": 1770323785.4347353,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1769672750.9318452,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1392,7 +1493,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1432,7 +1533,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1478,13 +1579,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1769340414.1480937,
       "last_date": "",
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Arkantos2",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 1325.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1999.95,
+          1770039126.0986178
+        ],
+        [
+          1375.0,
+          1770323785.4347353
+        ]
+      ],
+      "first_date": "1769072003.2214963",
+      "last_date": "",
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -1501,7 +1634,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown Box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1521,6 +1654,34 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "GGvelDone",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1349.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed OVP / Brown Box from Bandai",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1399.0,
+          1770323785.4347353
+        ]
+      ],
+      "first_date": "1769072003.2214963",
+      "last_date": "",
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "chonky",
         "country": "Item location: Switzerland"
       },
@@ -1529,13 +1690,41 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": "1767869083.658967",
       "last_date": "",
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "Blobbo",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "No brown box - all cards sealed",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1770323785.4347353
+        ]
+      ],
+      "first_date": 1770230031.3145883,
+      "last_date": "",
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -1552,7 +1741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. in brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1567,47 +1756,19 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
-        "name": "Arkantos2",
+        "name": "Demko",
         "country": "Item location: Switzerland"
       },
       "language": "English",
-      "price": 1375.0,
+      "price": 1390.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1770323785.4347353,
+      "comment": "Still in original sealed packaging",
+      "date": 1770761311.460743,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1999.95,
-          1770039126.0986178
-        ]
-      ],
-      "first_date": "1769072003.2214963",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "GGvelDone",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1399.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed OVP / Brown Box from Bandai",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
-      "first_date": "1769072003.2214963",
+      "first_date": 1770761311.460743,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -1676,15 +1837,15 @@
       "price": 1399.89,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! OVP Sealed versiegelter brauner Umkarton",
-      "date": 1770323785.4347353,
+      "comment": "OVP Sealed versiegelter brauner Umkarton",
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1769763086.5782266,
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1700,7 +1861,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1723,7 +1884,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box (Umkarton) Abholung in Frankfurt",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1746,34 +1907,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": "1769072003.2214963",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
-        "name": "Blobbo",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 1400.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "No brown box",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1770230031.3145883,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -1815,7 +1953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "In brown box. Brown box opened on one side to check if the box inside is the right one.",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1835,6 +1973,29 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
+        "name": "channytcg",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 1479.72,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770761311.460743,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
         "name": "darkMC7",
         "country": "Item location: Lithuania"
       },
@@ -1843,7 +2004,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1871,13 +2032,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": "1767869083.658967",
       "last_date": "",
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "1st Anniversary Set (English Version)",
+      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
+      "seller": {
+        "name": "frederick3800",
+        "country": "Item location: Ireland"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "New seller on Cardmarket but with extensive experience in collectibles. The card is in mint conditio",
+      "date": 1770761311.460743,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          8000.0,
+          1769939631.8460474
+        ],
+        [
+          2000.0,
+          1770323785.4347353
+        ]
+      ],
+      "first_date": "1767869083.658967",
+      "last_date": "",
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -1894,7 +2087,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1922,7 +2115,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf . scellé et emballé dans le carton d'origine",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1945,7 +2138,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sellado",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1968,7 +2161,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1987,11 +2180,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 1607.62,
+      "price": 1598.09,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2042,6 +2235,10 @@
         [
           1611.62,
           1770230031.3145883
+        ],
+        [
+          1607.62,
+          1770323785.4347353
         ]
       ],
       "first_date": "1767869083.658967",
@@ -2063,7 +2260,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2152,34 +2349,6 @@
       "card": "1st Anniversary Set (English Version)",
       "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
       "seller": {
-        "name": "frederick3800",
-        "country": "Item location: Ireland"
-      },
-      "language": "English",
-      "price": 2000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "New seller on Cardmarket but with extensive experience in collectibles. The card is in mint conditio",
-      "date": 1770323785.4347353,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          8000.0,
-          1769939631.8460474
-        ]
-      ],
-      "first_date": "1767869083.658967",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "1st Anniversary Set (English Version)",
-      "canonical_name": "OnePiece_Products_Promo-Products_1st-Anniversary-Set-English-Version",
-      "seller": {
         "name": "Pabloferex",
         "country": "Item location: Spain"
       },
@@ -2188,7 +2357,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Perfect condition. I can send more photos if needed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2211,7 +2380,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2239,7 +2408,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "brown box is open",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2262,7 +2431,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2285,7 +2454,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "stock a (sealed in original brown box)",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2308,7 +2477,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP/ With brown box from Bandai",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2331,7 +2500,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2354,7 +2523,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED IN BOX BROWN",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2377,7 +2546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED in brown box",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2405,7 +2574,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED BROWN BOX",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2433,7 +2602,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brown box sealed",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2479,7 +2648,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Black Label Chopper. BGS-rated. almost all 10s. two 9.5s. Unsealed. Frame and accessories included.",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2511,11 +2680,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 23816.49,
+      "price": 23675.38,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2534,6 +2703,10 @@
         [
           23875.82,
           1770230031.3145883
+        ],
+        [
+          23816.49,
+          1770323785.4347353
         ]
       ],
       "first_date": "1767869083.658967",
@@ -2555,7 +2728,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory Sealed Perfect",
-      "date": 1770323785.4347353,
+      "date": 1770761311.460743,
       "ended": false,
       "new": false,
       "previous_prices": [],

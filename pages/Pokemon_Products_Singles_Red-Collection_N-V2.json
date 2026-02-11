@@ -3,14 +3,14 @@
   "card": "N (BW2 071)",
   "set": "Red Collection - Singles",
   "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_Red-Collection_N-V2.jpg",
+  "image": "data/images/Pokemon_Products_Singles_Red-Collection_N-V2.jpg",
   "languages": [
     "Japanese",
     "Korean",
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 1,
+  "available": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -120,16 +120,39 @@
       "card": "N (BW2 071)",
       "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
       "seller": {
+        "name": "PokekaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.97,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "some whitenings no bents",
+      "date": 1770791107.7055793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1770739400.3196168,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0
+    },
+    {
+      "card": "N (BW2 071)",
+      "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
+      "seller": {
         "name": "CelebiCollectables",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 199.98,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
       "comment": "GD/LP. Light dent/bend on top. Thousands of Japanese Holo's and Bulk! Old + Modern!",
-      "date": 1769370440.542685,
-      "ended": true,
+      "date": 1770791107.7055793,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -202,7 +225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM - Fast shipping // Pictures on request",
-      "date": 1770314666.5574696,
+      "date": 1770791107.7055793,
       "ended": false,
       "new": false,
       "previous_prices": [

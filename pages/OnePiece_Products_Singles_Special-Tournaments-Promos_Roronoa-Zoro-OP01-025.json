@@ -3,16 +3,16 @@
   "card": "Roronoa Zoro (OP01-025)",
   "set": "Special Tournament Promos - Singles",
   "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025.jpg",
+  "image": "data/images/OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025.jpg",
   "languages": [
     "English",
     "Japanese",
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 19,
-  "sold": 2,
-  "inserted": 3,
+  "available": 16,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -84,7 +84,7 @@
       "comment": "",
       "date": 1770196450.9385993,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           349.0,
@@ -94,7 +94,7 @@
       "first_date": "1765638515.9909399",
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1081,9 +1081,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1770290750.6417341,
       "last_date": "",
@@ -1101,11 +1101,11 @@
       },
       "language": "Japanese",
       "price": 1400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1770290750.6417341,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1769,12 +1769,12 @@
       "comment": "",
       "date": 1770196450.9385993,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1769348639.639614,
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1877,8 +1877,8 @@
       "price": 1895.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1770290750.6417341,
+      "comment": "PSA 10",
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1901,8 +1901,8 @@
       ],
       "first_date": "1756375918.171141",
       "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1918,7 +1918,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2000,7 +2000,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2199,8 +2199,8 @@
       "price": 1999.95,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1770290750.6417341,
+      "comment": "PSA 10",
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2211,8 +2211,8 @@
       ],
       "first_date": "1765807549.0169878",
       "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -2476,7 +2476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2528,7 +2528,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2666,7 +2666,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2738,7 +2738,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2761,7 +2761,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2866,8 +2866,8 @@
       "price": 3449.99,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1770290750.6417341,
+      "comment": "RELISTED! PSA 10",
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2879,7 +2879,7 @@
       "first_date": "1766080186.582869",
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -3055,11 +3055,11 @@
       },
       "language": "Japanese",
       "price": 5100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "check out my other stuff",
       "date": 1770290750.6417341,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3261,40 +3261,17 @@
       "card": "Roronoa Zoro (OP01-025)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
       "seller": {
-        "name": "Pokedrop",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 7000.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 10 | PM OBLIGATE BEFORE BUY",
-      "date": "1714742632.9387958",
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": "1714742632.9387958",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
-      "seller": {
         "name": "Sh3rlock",
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 7499.0,
-      "quantity": 1,
+      "price": 6800.0,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "PSA10 Englisch -open to offers",
-      "date": 1770290750.6417341,
-      "ended": false,
-      "new": false,
+      "comment": "PSA10! Special offer from February 8.02 to 10.02. If the card is not sold by will be stored.",
+      "date": 1770716000.4524913,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           "4800.0",
@@ -3311,9 +3288,36 @@
         [
           7500.0,
           1769955577.773206
+        ],
+        [
+          7499.0,
+          1770290750.6417341
         ]
       ],
       "first_date": "1764750712.0301478",
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Pokedrop",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 7000.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10 | PM OBLIGATE BEFORE BUY",
+      "date": "1714742632.9387958",
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "first_date": "1714742632.9387958",
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -3388,11 +3392,11 @@
       },
       "language": "English",
       "price": 9000.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10 - Shipping from CH possible - Open for offers",
-      "date": "1767728813.1113708",
-      "ended": true,
+      "comment": "PSA 10 - Open for offers - Shipping from CH possible",
+      "date": 1770768240.0444968,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -3708,7 +3712,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - F2F possible in Liege (Belgium) - Prices are firm - No cash - USDC/USDT ok",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3752,7 +3756,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "! PSA 10 ! Berlin. Warsaw - Possible meeting",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3811,7 +3815,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10/Trade possible",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3834,7 +3838,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. contact me for offer. personal delivery possible in Europe",
-      "date": 1770290750.6417341,
+      "date": 1770768240.0444968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3950,11 +3954,11 @@
       },
       "language": "English",
       "price": 99999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 10 - Surface 9.5 - High BL Chance - PM for offers",
       "date": 1770290750.6417341,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [

@@ -3,7 +3,7 @@
   "card": "Roronoa Zoro (ST12-008)",
   "set": "Special Tournament Promos - Singles",
   "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008.jpg",
+  "image": "data/images/OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008.jpg",
   "languages": [
     "English"
   ],
@@ -1415,7 +1415,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Little whitening on the back. PN for pictures",
-      "date": 1770291497.8081632,
+      "date": 1770768998.6881807,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1454,8 +1454,8 @@
       "price": 800.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! two small dots on the back / front perfect",
-      "date": 1770291497.8081632,
+      "comment": "two small dots on the back / front perfect",
+      "date": 1770768998.6881807,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1470,8 +1470,8 @@
       ],
       "first_date": "1768160673.0062804",
       "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1854,19 +1854,70 @@
       "card": "Roronoa Zoro (ST12-008)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
       "seller": {
+        "name": "Kumaneko-TCG",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 1350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "disponibile ritiro in negozio a Roma.",
+      "date": 1770768998.6881807,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1770716729.8183434
+        ]
+      ],
+      "first_date": 1770716729.8183434,
+      "last_date": "",
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
         "name": "iWozGaming",
         "country": "Item location: Italy"
       },
       "language": "English",
       "price": 1400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "disponibile ritiro in negozio a Roma.",
       "date": 1770291497.8081632,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1770197178.1121871,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Roronoa Zoro (ST12-008)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-ST12-008",
+      "seller": {
+        "name": "YUGI-13",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 1450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770768998.6881807,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1770768998.6881807,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -1885,7 +1936,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770291497.8081632,
+      "date": 1770768998.6881807,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1929,7 +1980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770291497.8081632,
+      "date": 1770768998.6881807,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1980,7 +2031,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770291497.8081632,
+      "date": 1770768998.6881807,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2005,11 +2056,11 @@
       },
       "language": "English",
       "price": 2600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "check out my other stuff",
       "date": 1770291497.8081632,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [

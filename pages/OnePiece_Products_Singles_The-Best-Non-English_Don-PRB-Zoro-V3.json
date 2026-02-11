@@ -3,7 +3,7 @@
   "card": "Don!! (PRB Zoro) (V.3)",
   "set": "The Best (Non-English) - Singles",
   "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3.jpg",
+  "image": "data/images/OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3.jpg",
   "languages": [
     "S-Chinese",
     "Japanese",
@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 7,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Don!! (PRB Zoro) (V.3)",
@@ -69,11 +69,11 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Double Sleeve and Toploader - Little imperfection. ask for pics",
       "date": 1770294612.7848105,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -87,7 +87,7 @@
       ],
       "first_date": "1765402306.104001",
       "last_date": "",
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -491,34 +491,6 @@
       "new": false,
       "previous_prices": [],
       "first_date": "1766080209.1258585",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Don!! (PRB Zoro) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
-      "seller": {
-        "name": "ButzCards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 134.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Inkl. 19% Ust. More Gold Dons available",
-      "date": "1767728846.0682986",
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          "144.99",
-          "1765871466.9482508"
-        ]
-      ],
-      "first_date": "1765402306.104001",
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -1026,6 +998,38 @@
       "card": "Don!! (PRB Zoro) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
       "seller": {
+        "name": "ButzCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 154.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Inkl. 19% Ust. More Gold Dons available",
+      "date": 1770772172.5638175,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          "144.99",
+          "1765871466.9482508"
+        ],
+        [
+          134.99,
+          "1767728846.0682986"
+        ]
+      ],
+      "first_date": "1765402306.104001",
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Don!! (PRB Zoro) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Don-PRB-Zoro-V3",
+      "seller": {
         "name": "Sash7",
         "country": "Item location: Germany"
       },
@@ -1085,7 +1089,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770294612.7848105,
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1210,7 +1214,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770294612.7848105,
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1302,7 +1306,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve to toploader",
-      "date": 1770294612.7848105,
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1587,7 +1591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 ! You can feel free to DM for pics. :)",
-      "date": 1770294612.7848105,
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1610,7 +1614,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1770294612.7848105,
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1668,8 +1672,8 @@
       "price": 449.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! Psa10",
-      "date": 1770294612.7848105,
+      "comment": "Psa10",
+      "date": 1770772172.5638175,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1681,7 +1685,7 @@
       "first_date": "1768771380.762922",
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     }

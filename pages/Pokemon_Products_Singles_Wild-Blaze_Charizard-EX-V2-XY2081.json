@@ -3,14 +3,14 @@
   "card": "Charizard EX  (XY2 081)",
   "set": "Wild Blaze - Singles",
   "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081.jpg",
+  "image": "data/images/Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081.jpg",
   "languages": [
     "Japanese",
     "Korean",
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 21,
+  "available": 18,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -49,7 +49,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Zal A - 002 - 021",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -166,11 +166,11 @@
       },
       "language": "Japanese",
       "price": 199.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Looks perfect in sleeve. small crease on the back",
       "date": 1770307381.7726252,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -194,11 +194,11 @@
       },
       "language": "Japanese",
       "price": 199.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "Front GD. Back LP!",
       "date": 1770307381.7726252,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": "1761774382.9705136",
@@ -353,7 +353,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -605,11 +605,11 @@
       },
       "language": "Japanese",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 7",
       "date": 1770307381.7726252,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": "1768771616.3001108",
@@ -631,7 +631,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "exc-. ask por pics",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -682,38 +682,15 @@
       "card": "Charizard EX  (XY2 081)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
       "seller": {
-        "name": "Lgeorge",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 267.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "frist ed",
-      "date": "1761774382.9705136",
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": "1761774382.9705136",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Charizard EX  (XY2 081)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-      "seller": {
         "name": "GardzCards",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 267.88,
+      "price": 265.67,
       "quantity": 1,
       "condition": "LP",
       "comment": "Pics available upon request",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -800,11 +777,42 @@
         [
           268.55,
           1770212144.6877527
+        ],
+        [
+          267.88,
+          1770307381.7726252
+        ],
+        [
+          266.29,
+          1770732215.860348
         ]
       ],
       "first_date": "1730792154.4589503",
       "last_date": "",
       "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
+        "name": "Lgeorge",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 267.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "frist ed",
+      "date": "1761774382.9705136",
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "first_date": "1761774382.9705136",
+      "last_date": "",
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0
@@ -821,7 +829,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "First edition for more pics DM PLS",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -936,7 +944,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7 - Mehrere Karten Vorhanden :)",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1110,7 +1118,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1188,7 +1196,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1309,7 +1317,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "little white  on the bottom corner",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1392,7 +1400,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1420,7 +1428,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "exc + / many more cards",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1499,7 +1507,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Sleeve -> top loader // ask for pictures",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1550,7 +1558,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 8.5 | Abholung & weitere Einzelkarten im Store in Berlin | WhatsApp: wa.me/493064382882",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1588,6 +1596,34 @@
       "card": "Charizard EX  (XY2 081)",
       "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
       "seller": {
+        "name": "Empalador",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 520.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1770784413.6150296,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          550.0,
+          1770307381.7726252
+        ]
+      ],
+      "first_date": "1761774382.9705136",
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Charizard EX  (XY2 081)",
+      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
+      "seller": {
         "name": "Wanghy",
         "country": "Item location: Italy"
       },
@@ -1596,7 +1632,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1624,29 +1660,6 @@
       "new": false,
       "previous_prices": [],
       "first_date": "1708506431.9482605",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Charizard EX  (XY2 081)",
-      "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Charizard-EX-V2-XY2081",
-      "seller": {
-        "name": "Empalador",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 550.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1770307381.7726252,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": "1761774382.9705136",
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -2003,7 +2016,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2022,11 +2035,11 @@
         "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 1450.0,
+      "price": 1550.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "Gem mint psa 10 (old label). goed bod welkom",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2057,11 +2070,15 @@
         [
           1525.0,
           1769701024.8859084
+        ],
+        [
+          1450.0,
+          1770732215.860348
         ]
       ],
       "first_date": "1740082879.8528185",
       "last_date": "",
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0
@@ -2147,7 +2164,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "POP 33 UNLIMITED PSA 10",
-      "date": 1770307381.7726252,
+      "date": 1770784413.6150296,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -3,14 +3,14 @@
   "card": "Boa Hancock (OP07-051) (V.3)",
   "set": "Unnumbered Promos (Non-English) - Singles",
   "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3.jpg",
+  "image": "data/images/OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3.jpg",
   "languages": [
     "S-Chinese",
     "Japanese",
     "Korean"
   ],
   "only_germany": "False",
-  "available": 4,
+  "available": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -64,15 +64,43 @@
       "card": "Boa Hancock (OP07-051) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
       "seller": {
+        "name": "Benjoo007",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 270.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1770773832.4830377,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          250.0,
+          1769356595.6859486
+        ]
+      ],
+      "first_date": 1769356595.6859486,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP07-051) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
+      "seller": {
         "name": "Lukatzoo",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 250.0,
+      "price": 300.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770296262.423238,
+      "date": 1770773832.4830377,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -83,32 +111,13 @@
         [
           300.0,
           1770201414.2122927
+        ],
+        [
+          250.0,
+          1770296262.423238
         ]
       ],
       "first_date": 1769862494.270704,
-      "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP07-051) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
-      "seller": {
-        "name": "Benjoo007",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 250.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "Un point blanc et un angle mal decoupé",
-      "date": 1769356595.6859486,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1769356595.6859486,
       "last_date": "",
       "price_is_new": false,
       "quantity_change": 0,
@@ -127,7 +136,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770296262.423238,
+      "date": 1770773832.4830377,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -150,7 +159,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770296262.423238,
+      "date": 1770773832.4830377,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -173,7 +182,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770296262.423238,
+      "date": 1770773832.4830377,
       "ended": false,
       "new": false,
       "previous_prices": [
