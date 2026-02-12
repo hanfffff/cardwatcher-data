@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 5,
-  "sold": 0,
+  "available": 4,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -72,7 +72,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1770773832.4830377,
+      "date": 1770842765.9623458,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -92,7 +92,7 @@
       "card": "Boa Hancock (OP07-051) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
       "seller": {
-        "name": "Lukatzoo",
+        "name": "kingkill55",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
@@ -100,9 +100,32 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770773832.4830377,
+      "date": 1770842765.9623458,
       "ended": false,
       "new": false,
+      "previous_prices": [],
+      "first_date": 1769961632.490435,
+      "last_date": "",
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP07-051) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
+      "seller": {
+        "name": "Lukatzoo",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1770773832.4830377,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           400.0,
@@ -120,30 +143,7 @@
       "first_date": 1769862494.270704,
       "last_date": "",
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP07-051) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
-      "seller": {
-        "name": "kingkill55",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1770773832.4830377,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1769961632.490435,
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -159,7 +159,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770773832.4830377,
+      "date": 1770842765.9623458,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -182,7 +182,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1770773832.4830377,
+      "date": 1770842765.9623458,
       "ended": false,
       "new": false,
       "previous_prices": [
