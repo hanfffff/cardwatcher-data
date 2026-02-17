@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "card": "N (BXY 180)",
-  "set": "The Best of XY - Singles",
+  "set": " The Best of XY - Singles",
   "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
   "image": "data/images/Pokemon_Products_Singles_The-Best-of-XY_N-V2.jpg",
   "languages": [
@@ -11,9 +11,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 3,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "N (BXY 180)",
@@ -27,12 +27,12 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9 / SHIPPED FROM FRANCE",
-      "date": "1736842208.741176",
+      "date": 1736842208.741176,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1730793508.65069",
-      "last_date": "",
+      "first_date": 1730793508.65069,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -50,12 +50,12 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1770827911.368073,
+      "date": 1771286416.9627044,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1769801530.4244914,
-      "last_date": "",
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -77,8 +77,31 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1768161142.2337966",
-      "last_date": "",
+      "first_date": 1768161142.2337966,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "N (BXY 180)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
+      "seller": {
+        "name": "Kelz0rDK",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 1299.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Graded 9.5 - Guard&Grading",
+      "date": 1771286416.9627044,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771286416.9627044,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -96,17 +119,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! BGS 9",
-      "date": "1755773983.942184",
+      "date": 1755773983.942184,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "2300.0",
-          "35"
+          2300.0,
+          35.0
         ]
       ],
-      "first_date": "1719386373.4163008",
-      "last_date": "",
+      "first_date": 1719386373.4163008,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -124,12 +147,12 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": "1712921627.0087128",
+      "date": 1712921627.0087128,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711009308.999026",
-      "last_date": "",
+      "first_date": 1711009308.999026,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -147,37 +170,37 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved + Toploaded | Pack Fresh",
-      "date": "1719386373.4163008",
+      "date": 1719386373.4163008,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "1574.33",
-          ""
+          1574.33,
+          0.0
         ],
         [
-          "1572.19",
-          ""
+          1572.19,
+          0.0
         ],
         [
-          "1583.45",
-          ""
+          1583.45,
+          0.0
         ],
         [
-          "1584.44",
-          ""
+          1584.44,
+          0.0
         ],
         [
-          "1590.03",
-          ""
+          1590.03,
+          0.0
         ],
         [
-          "1584.95",
-          ""
+          1584.95,
+          0.0
         ]
       ],
-      "first_date": "1716881312.2641027",
-      "last_date": "",
+      "first_date": 1716881312.2641027,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -199,8 +222,8 @@
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1768771593.0927832",
-      "last_date": "",
+      "first_date": 1768771593.0927832,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -218,12 +241,12 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / Shipped & Handled with care / Discount with multiple purchases / Ask for more pictures.",
-      "date": "1755773983.942184",
+      "date": 1755773983.942184,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1755773983.942184",
-      "last_date": "",
+      "first_date": 1755773983.942184,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -241,12 +264,12 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10. DM for pics. Can also msg on IG - khezu_",
-      "date": "1755773983.942184",
+      "date": 1755773983.942184,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1755773983.942184",
-      "last_date": "",
+      "first_date": 1755773983.942184,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -264,26 +287,26 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1770827911.368073,
+      "date": 1771286416.9627044,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "1539.95",
-          "750898.520"
+          1539.95,
+          750898.52
         ],
         [
-          "1999.95",
-          "1768161142.2337966"
+          1999.95,
+          1768161142.2337966
         ],
         [
           2349.95,
           1770760685.4125006
         ]
       ],
-      "first_date": "1761774366.1031413",
-      "last_date": "",
-      "price_is_new": true,
+      "first_date": 1761774366.1031413,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -300,12 +323,12 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "GSG 9.5 perfect card. price not fixed",
-      "date": "1711960412.1504574",
+      "date": 1711960412.1504574,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711009308.999026",
-      "last_date": "",
+      "first_date": 1711009308.999026,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
@@ -323,12 +346,12 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 possible shipping from Germany",
-      "date": "1740082861.667203",
+      "date": 1740082861.667203,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1736842208.741176",
-      "last_date": "",
+      "first_date": 1736842208.741176,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
