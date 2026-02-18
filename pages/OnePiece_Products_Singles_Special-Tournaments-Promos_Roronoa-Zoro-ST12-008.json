@@ -8,7 +8,7 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
   "sold": 1,
   "inserted": 0,
   "listings": [
@@ -1412,12 +1412,12 @@
       },
       "language": "English",
       "price": 800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Little whitening on the back. PN for pictures",
       "date": 1771278481.8331995,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           750.0,
@@ -1439,7 +1439,7 @@
       "first_date": 1765871480.4701674,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1864,7 +1864,7 @@
       "comment": "disponibile ritiro in negozio a Roma.",
       "date": 1771229427.264827,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1400.0,
@@ -1874,7 +1874,7 @@
       "first_date": 1770716729.8183434,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1913,7 +1913,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771278481.8331995,
+      "date": 1771337520.7749455,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1936,7 +1936,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771278481.8331995,
+      "date": 1771337520.7749455,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1980,7 +1980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771278481.8331995,
+      "date": 1771337520.7749455,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2031,7 +2031,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771278481.8331995,
+      "date": 1771337520.7749455,
       "ended": false,
       "new": false,
       "previous_prices": [
