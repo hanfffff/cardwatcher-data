@@ -11,9 +11,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 5,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "N (BXY 180)",
@@ -50,7 +50,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1771345472.162055,
+      "date": 1771434610.5365188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -70,17 +70,17 @@
       },
       "language": "Japanese",
       "price": 1150.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "BGS 9 - 9 | 9.5 | 9.5 | 8.5",
-      "date": 1769372865.297779,
-      "ended": true,
+      "comment": "RELISTED! BGS 9 - 9 | 9.5 | 9.5 | 8.5",
+      "date": 1771434610.5365188,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1768161142.2337966,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -96,7 +96,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graded 9.5 - Guard&Grading",
-      "date": 1771345472.162055,
+      "date": 1771434610.5365188,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -210,29 +210,6 @@
       "card": "N (BXY 180)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
       "seller": {
-        "name": "mijumaru-",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1899.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1769372865.297779,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1768771593.0927832,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "N (BXY 180)",
-      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
-      "seller": {
         "name": "UngradedBenjamin",
         "country": "Item location: Netherlands"
       },
@@ -279,6 +256,34 @@
       "card": "N (BXY 180)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
       "seller": {
+        "name": "mijumaru-",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 2399.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! PSA 10",
+      "date": 1771434610.5365188,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1899.0,
+          1769372865.297779
+        ]
+      ],
+      "first_date": 1768771593.0927832,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "N (BXY 180)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_N-V2",
+      "seller": {
         "name": "depokeplugcm",
         "country": "Item location: Netherlands"
       },
@@ -287,7 +292,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1771345472.162055,
+      "date": 1771434610.5365188,
       "ended": false,
       "new": false,
       "previous_prices": [

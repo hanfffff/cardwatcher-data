@@ -12,8 +12,8 @@
     "Thai"
   ],
   "only_germany": "False",
-  "available": 12,
-  "sold": 0,
+  "available": 11,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -25,12 +25,12 @@
       },
       "language": "Japanese",
       "price": 1399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1771420391.3088334,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1550.0,
@@ -40,7 +40,7 @@
       "first_date": 1770309912.443227,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -56,7 +56,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP Mint",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -107,7 +107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "30 Box Case",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -244,7 +244,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Perfect sealed!",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -319,7 +319,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -379,7 +379,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -470,7 +470,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -526,7 +526,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1771420391.3088334,
+      "date": 1771465947.9425514,
       "ended": false,
       "new": false,
       "previous_prices": [

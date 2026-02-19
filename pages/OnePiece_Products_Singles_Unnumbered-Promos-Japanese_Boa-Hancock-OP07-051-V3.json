@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 7,
+  "available": 8,
   "sold": 0,
-  "inserted": 2,
+  "inserted": 1,
   "listings": [
     {
       "card": "Boa Hancock (OP07-051) (V.3)",
@@ -68,11 +68,11 @@
         "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 220.0,
+      "price": 240.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -83,6 +83,10 @@
         [
           270.0,
           1771300664.7878559
+        ],
+        [
+          220.0,
+          1771359752.1672359
         ]
       ],
       "first_date": 1769356595.6859486,
@@ -100,11 +104,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 295.0,
+      "price": 275.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "+ Boa Playmat",
-      "date": 1771359752.1672359,
+      "comment": "Tiny dot + Boa Playmat",
+      "date": 1771446587.9893887,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -123,11 +127,15 @@
         [
           300.0,
           1770773832.4830377
+        ],
+        [
+          295.0,
+          1771359752.1672359
         ]
       ],
       "first_date": 1769862494.270704,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -144,9 +152,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771359752.1672359,
       "last_date": 0.0,
@@ -167,7 +175,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -190,9 +198,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771359752.1672359,
       "last_date": 0.0,
@@ -213,11 +221,34 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1769631534.5502,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP07-051) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Boa-Hancock-OP07-051-V3",
+      "seller": {
+        "name": "Godrik07",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sleeve / toploader / ask for pics",
+      "date": 1771446587.9893887,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771446587.9893887,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -236,7 +267,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771359752.1672359,
+      "date": 1771446587.9893887,
       "ended": false,
       "new": false,
       "previous_prices": [

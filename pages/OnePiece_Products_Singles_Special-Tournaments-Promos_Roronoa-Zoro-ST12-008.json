@@ -9,7 +9,7 @@
   ],
   "only_germany": "False",
   "available": 3,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -1913,7 +1913,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425230.313481,
+      "date": 1771473896.1840968,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1938,7 +1938,7 @@
       "comment": "",
       "date": 1771337520.7749455,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           888.88,
@@ -1964,7 +1964,7 @@
       "first_date": 1765807552.9973836,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1980,7 +1980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425230.313481,
+      "date": 1771473896.1840968,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2027,22 +2027,26 @@
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 1600.0,
+      "price": 1800.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425230.313481,
+      "date": 1771473896.1840968,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           1200.0,
           1769956472.6227412
+        ],
+        [
+          1600.0,
+          1771425230.313481
         ]
       ],
       "first_date": 1766529343.9009266,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0

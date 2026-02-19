@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 32,
   "sold": 0,
-  "inserted": 15,
+  "inserted": 0,
   "listings": [
     {
       "card": "Boa Hancock (OP14-112) (V.3)",
@@ -163,8 +163,8 @@
       "price": 199.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1771425598.0287018,
+      "comment": "",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -175,8 +175,8 @@
       ],
       "first_date": 1770717469.7396586,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -215,64 +215,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping. In good condition. A465",
-      "date": 1771425598.0287018,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "first_date": 1771425598.0287018,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP14-112) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
-      "seller": {
-        "name": "takuya96",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 269.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! FAST SHIP / TOPLOADER / DM FOR PIC :)",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          291.0,
-          1770984472.4862254
-        ],
-        [
-          282.0,
-          1771278849.0594878
-        ]
-      ],
-      "first_date": 1770908582.4740527,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP14-112) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
-      "seller": {
-        "name": "Kovacic01",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 270.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Shipped with pluriball sleeve toploader. possible 10",
-      "date": 1771425598.0287018,
-      "ended": false,
-      "new": true,
       "previous_prices": [],
       "first_date": 1771425598.0287018,
       "last_date": 0.0,
@@ -289,11 +234,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 275.0,
+      "price": 268.5,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! clean",
-      "date": 1771425598.0287018,
+      "comment": "clean",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -344,12 +289,71 @@
         [
           270.0,
           1771278849.0594878
+        ],
+        [
+          275.0,
+          1771425598.0287018
         ]
       ],
       "first_date": 1769100299.3884864,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP14-112) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
+      "seller": {
+        "name": "takuya96",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 269.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "FAST SHIP / TOPLOADER / DM FOR PIC :)",
+      "date": 1771474485.7526855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          291.0,
+          1770984472.4862254
+        ],
+        [
+          282.0,
+          1771278849.0594878
+        ]
+      ],
+      "first_date": 1770908582.4740527,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP14-112) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
+      "seller": {
+        "name": "Kovacic01",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 270.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Shipped with pluriball sleeve toploader. possible 10",
+      "date": 1771474485.7526855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1771425598.0287018,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -410,8 +414,8 @@
       "price": 279.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! FAST&SAFE Ship. Booster -> Sleeve -> Toploader",
-      "date": 1771425598.0287018,
+      "comment": "FAST&SAFE Ship. Booster -> Sleeve -> Toploader",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -434,8 +438,8 @@
       ],
       "first_date": 1770717469.7396586,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -450,8 +454,8 @@
       "price": 280.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sleeve und Magnetcase!!",
-      "date": 1771425598.0287018,
+      "comment": "Sleeve und Magnetcase!!",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -479,7 +483,7 @@
       "first_date": 1769957378.6851711,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -586,8 +590,8 @@
       "price": 299.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Top Condition / Sleeve + Toploader / Bei Fragen schreiben!",
-      "date": 1771425598.0287018,
+      "comment": "Top Condition / Sleeve + Toploader / Bei Fragen schreiben!",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -619,7 +623,7 @@
       "first_date": 1769596006.6264677,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -680,15 +684,15 @@
       "price": 300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Dm for pictures",
-      "date": 1771425598.0287018,
+      "comment": "Dm for pictures",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1770717469.7396586,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -703,8 +707,8 @@
       "price": 300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1771425598.0287018,
+      "comment": "",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -719,8 +723,8 @@
       ],
       "first_date": 1769506673.9839735,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -736,7 +740,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -832,8 +836,8 @@
       "price": 305.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Perfect condition",
-      "date": 1771425598.0287018,
+      "comment": "Perfect condition",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -845,7 +849,7 @@
       "first_date": 1770908582.4740527,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -888,15 +892,15 @@
       "price": 310.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sleeve to Toploader",
-      "date": 1771425598.0287018,
+      "comment": "Sleeve to Toploader",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771229795.4120667,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -911,8 +915,8 @@
       "price": 311.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! straight into Sideloader",
-      "date": 1771425598.0287018,
+      "comment": "straight into Sideloader",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -924,7 +928,7 @@
       "first_date": 1770197917.471197,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -960,6 +964,34 @@
       "card": "Boa Hancock (OP14-112) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
       "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 324.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "From Pack to Sleeve / + cards in stock",
+      "date": 1771474485.7526855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1771425598.0287018
+        ]
+      ],
+      "first_date": 1771229795.4120667,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP14-112) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
+      "seller": {
         "name": "3D-Michele",
         "country": "Item location: Germany"
       },
@@ -967,8 +999,8 @@
       "price": 325.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Top Zustand -> Sleeve -> Toploader: Bei Fragen schreibt :)",
-      "date": 1771425598.0287018,
+      "comment": "Top Zustand -> Sleeve -> Toploader: Bei Fragen schreibt :)",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -980,7 +1012,7 @@
       "first_date": 1769506673.9839735,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -996,7 +1028,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1024,13 +1056,41 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1770769771.5744207,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Boa Hancock (OP14-112) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
+      "seller": {
+        "name": "JeffPesos-GTCorciano",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 349.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OP14-112",
+      "date": 1771474485.7526855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          449.98,
+          1771425598.0287018
+        ]
+      ],
+      "first_date": 1770717469.7396586,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -1047,7 +1107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "O01",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1075,29 +1135,6 @@
       "card": "Boa Hancock (OP14-112) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
       "seller": {
-        "name": "trapcardtcg",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 349.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "From Pack to Sleeve / + cards in stock",
-      "date": 1771425598.0287018,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771229795.4120667,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP14-112) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
-      "seller": {
         "name": "EveeRose",
         "country": "Item location: Germany"
       },
@@ -1105,8 +1142,8 @@
       "price": 350.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! clean",
-      "date": 1771425598.0287018,
+      "comment": "clean",
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1126,7 +1163,7 @@
       "first_date": 1769506673.9839735,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1142,7 +1179,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "pulled. sleeved immediately. video available",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1216,7 +1253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve+toploader",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1239,7 +1276,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "02202610 toploader",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1295,7 +1332,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster-> Sleeve -> Toploader",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1327,7 +1364,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1355,7 +1392,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From pack to sleeve to toploader",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1383,7 +1420,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1472,29 +1509,6 @@
       "card": "Boa Hancock (OP14-112) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
       "seller": {
-        "name": "JeffPesos-GTCorciano",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 449.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OP14-112",
-      "date": 1771425598.0287018,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1770717469.7396586,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Boa Hancock (OP14-112) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Boa-Hancock-OP14-112-V3",
-      "seller": {
         "name": "SadCrobat",
         "country": "Item location: Switzerland"
       },
@@ -1503,7 +1517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "<3",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1539,7 +1553,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster to sleeve",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1641,7 +1655,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10 ready to be shpped",
-      "date": 1771425598.0287018,
+      "date": 1771474485.7526855,
       "ended": false,
       "new": false,
       "previous_prices": [],
