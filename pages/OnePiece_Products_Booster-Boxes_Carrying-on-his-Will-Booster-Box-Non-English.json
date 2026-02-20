@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 228,
-  "sold": 2,
-  "inserted": 5,
+  "available": 236,
+  "sold": 3,
+  "inserted": 1,
   "listings": [
     {
       "card": "Carrying on his Will Booster Box (Non-English)",
@@ -1091,7 +1091,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1282,7 +1282,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sicherer Versand bei einem der größten TCG Shops in Deutschland :)",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1305,14 +1305,14 @@
       "quantity": 23,
       "condition": "NM",
       "comment": "b2b possible",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771233673.5201187,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1542,12 +1542,12 @@
       "comment": "",
       "date": 1771341734.9026487,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1769071210.5844595,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -1702,7 +1702,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1722,50 +1722,6 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
-        "name": "Berna88",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 90.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "With promo pack",
-      "date": 1771431518.3140552,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          82.5,
-          1769072075.9564962
-        ],
-        [
-          85.0,
-          1769153939.3134553
-        ],
-        [
-          87.0,
-          1769675207.274398
-        ],
-        [
-          83.0,
-          1769938883.8002193
-        ],
-        [
-          87.5,
-          1770038331.898876
-        ]
-      ],
-      "first_date": 1769071210.5844595,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Carrying on his Will Booster Box (Non-English)",
-      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
-      "seller": {
         "name": "Fabryamg",
         "country": "Item location: Italy"
       },
@@ -1774,7 +1730,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Leggermente rovinate",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1806,7 +1762,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1814,6 +1770,50 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
+        "name": "Berna88",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 90.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "With promo pack",
+      "date": 1771431518.3140552,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          82.5,
+          1769072075.9564962
+        ],
+        [
+          85.0,
+          1769153939.3134553
+        ],
+        [
+          87.0,
+          1769675207.274398
+        ],
+        [
+          83.0,
+          1769938883.8002193
+        ],
+        [
+          87.5,
+          1770038331.898876
+        ]
+      ],
+      "first_date": 1769071210.5844595,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -2128,7 +2128,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Fast Shipping",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2197,7 +2197,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2565,7 +2565,7 @@
       "quantity": 17,
       "condition": "NM",
       "comment": "sealed . fast ship",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2577,7 +2577,7 @@
       "first_date": 1769495258.1092632,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -2590,17 +2590,17 @@
       },
       "language": "Japanese",
       "price": 99.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed. fast shipping",
       "date": 1771431518.3140552,
-      "ended": false,
+      "ended": true,
       "new": true,
       "previous_prices": [],
       "first_date": 1771431518.3140552,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -2618,12 +2618,12 @@
       "comment": "Shipped in premium packaging!",
       "date": 1771341734.9026487,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771233673.5201187,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -2694,7 +2694,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2717,9 +2717,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771431518.3140552,
       "last_date": 0.0,
@@ -2737,12 +2737,12 @@
       },
       "language": "Japanese",
       "price": 99.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "January SALE - B2B possible - message us!",
       "date": 1771431518.3140552,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           69.99,
@@ -2784,7 +2784,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Talk to me for the shipment",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2862,9 +2862,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed / 3 on stock",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771431518.3140552,
       "last_date": 0.0,
@@ -2982,7 +2982,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Ovp. safe delivery",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2997,7 +2997,7 @@
       ],
       "first_date": 1770747229.719758,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -3054,9 +3054,9 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Fresh from Case",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771431518.3140552,
       "last_date": 0.0,
@@ -3077,7 +3077,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3097,7 +3097,7 @@
       "first_date": 1768771127.5707726,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -3113,7 +3113,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Kleinunternehmer Regelung",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3149,7 +3149,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3172,7 +3172,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3195,7 +3195,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "sealed from case - dents on box possible incl vat",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3251,7 +3251,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "ovp sealed - 19% UST",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3283,7 +3283,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Versiegelt/OVP",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3306,7 +3306,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/OVP",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3342,7 +3342,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3370,7 +3370,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3416,7 +3416,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "FAST SHIPPING",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3435,11 +3435,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 110.8,
+      "price": 110.79,
       "quantity": 4,
       "condition": "NM",
       "comment": "New & Sealed. Will Ship Securely",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3470,6 +3470,10 @@
         [
           111.34,
           1771341734.9026487
+        ],
+        [
+          110.8,
+          1771431518.3140552
         ]
       ],
       "first_date": 1770747229.719758,
@@ -3483,15 +3487,38 @@
       "card": "Carrying on his Will Booster Box (Non-English)",
       "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
       "seller": {
+        "name": "PortaCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 110.99,
+      "quantity": 12,
+      "condition": "NM",
+      "comment": "12x = seald Case",
+      "date": 1771505820.51379,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771505820.51379,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0
+    },
+    {
+      "card": "Carrying on his Will Booster Box (Non-English)",
+      "canonical_name": "OnePiece_Products_Booster-Boxes_Carrying-on-his-Will-Booster-Box-Non-English",
+      "seller": {
         "name": "MargatePoke",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 111.98,
+      "price": 111.97,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3514,6 +3541,10 @@
         [
           112.52,
           1771341734.9026487
+        ],
+        [
+          111.98,
+          1771431518.3140552
         ]
       ],
       "first_date": 1770824724.0198388,
@@ -3535,7 +3566,7 @@
       "quantity": 22,
       "condition": "NM",
       "comment": "SEALED - PM for a possible shipping discount.",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3546,8 +3577,8 @@
       ],
       "first_date": 1770747229.719758,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
     },
@@ -3563,7 +3594,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "Consegna 24/48 ore",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3599,7 +3630,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3738,7 +3769,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3766,7 +3797,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3906,7 +3937,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NEW & SEALED!",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3938,11 +3969,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 117.87,
+      "price": 117.86,
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed. UK Seller",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3997,6 +4028,10 @@
         [
           118.44,
           1771341734.9026487
+        ],
+        [
+          117.87,
+          1771431518.3140552
         ]
       ],
       "first_date": 1765786038.7302985,
@@ -4018,7 +4053,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "Ovp sealed 12 box = sealed case. From Japan/transparent tape",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4077,7 +4112,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4100,7 +4135,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4115,7 +4150,7 @@
       ],
       "first_date": 1769847224.169089,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -4132,7 +4167,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "Nuovo/Sigillato/Sealed",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4228,7 +4263,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4287,7 +4322,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "12 = sealed case",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4315,7 +4350,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4397,7 +4432,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4429,7 +4464,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "#1089800",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4604,7 +4639,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Op13 Sealed Case Japanese",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4627,7 +4662,7 @@
       ],
       "first_date": 1768771127.5707726,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
@@ -4703,9 +4738,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed Case (12 Boxes) - ship only in switzerland !!!",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771431518.3140552,
       "last_date": 0.0,
@@ -4749,7 +4784,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed case",
-      "date": 1771431518.3140552,
+      "date": 1771505820.51379,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4768,7 +4803,7 @@
       ],
       "first_date": 1768771127.5707726,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0
