@@ -8,7 +8,7 @@
     "S-Chinese"
   ],
   "only_germany": false,
-  "available": 3,
+  "available": 2,
   "sold": 1,
   "inserted": 0,
   "listings": [
@@ -21,12 +21,12 @@
       },
       "language": "S-Chinese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "small dent on back",
       "date": 1771513180.182835,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           80.0,
@@ -36,9 +36,10 @@
       "first_date": 1769852460.3199327,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -61,7 +62,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -77,14 +79,15 @@
       "comment": "",
       "date": 1771439107.3552363,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1770712872.4701023,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -120,7 +123,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -143,7 +147,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -166,7 +171,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -180,7 +186,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check my other chinese exclusives",
-      "date": 1771513180.182835,
+      "date": 1771647785.2754788,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -194,7 +200,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Yamato (EB02-006) (V.1)",
@@ -208,7 +215,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771513180.182835,
+      "date": 1771647785.2754788,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -217,7 +224,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     }
   ]
 }

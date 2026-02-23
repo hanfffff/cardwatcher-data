@@ -1,17 +1,17 @@
 {
   "version": "1.0",
   "card": "Nami (OP01-016)",
-  "set": "Unnumbered Promos (Japanese) - Singles",
+  "set": " Unnumbered Promos (Non-English) - Singles",
   "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016.jpg",
+  "image": "data/images/OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016.jpg",
   "languages": [
     "S-Chinese",
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 58,
-  "sold": 0,
-  "inserted": 0,
+  "available": 48,
+  "sold": 12,
+  "inserted": 36,
   "listings": [
     {
       "card": "Nami (OP01-016)",
@@ -22,19 +22,20 @@
       },
       "language": "Japanese",
       "price": 9.9,
-      "quantity": 31,
+      "quantity": 0,
       "condition": "NM",
       "comment": "C41 - asia stamp",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 15,
+      "quantity_change": -31,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -48,16 +49,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "with asia stamp !",
-      "date": "1717497719.5536575",
+      "date": 1717497719.5536575,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -71,21 +73,22 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Nuevo vendedor. envío rápido for asia",
-      "date": "1718290519.2242033",
+      "date": 1718290519.2242033,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "35.0",
-          "395519.22"
+          35.0,
+          395519.22
         ]
       ],
-      "first_date": "1716395519.223472",
-      "last_date": "",
+      "first_date": 1716395519.223472,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -99,16 +102,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "For Asia",
-      "date": "1717497719.5536575",
+      "date": 1717497719.5536575,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -122,16 +126,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "For Asia stamp",
-      "date": "1720078765.05285",
+      "date": 1720078765.05285,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -4,
+      "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -145,29 +150,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved + toploader",
-      "date": "1718290519.2242033",
+      "date": 1718290519.2242033,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "60.0",
-          ""
+          60.0,
+          0.0
         ],
         [
-          "50.0",
-          "5605."
+          50.0,
+          5605.0
         ],
         [
-          "40.0",
-          "497719.553"
+          40.0,
+          497719.553
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -181,48 +187,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720078765.05285",
+      "date": 1720078765.05285,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
-          "9.8",
-          "18290519.22420"
+          9.8,
+          18290519.2242
         ],
         [
-          "59.0",
-          "719418485.420963"
+          59.0,
+          719418485.420963
         ]
       ],
-      "first_date": "1718097489.514095",
-      "last_date": "",
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
-      "seller": {
-        "name": "MadAsian",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 30.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1718097489.514095,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -236,16 +220,17 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Jap. version!",
-      "date": "1718097489.514095",
+      "date": 1718097489.514095,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -259,21 +244,22 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Toploader",
-      "date": "1714320582.06942",
+      "date": 1714320582.06942,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "65.0",
-          ""
+          65.0,
+          0.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -284,28 +270,29 @@
       },
       "language": "Japanese",
       "price": 39.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! GO GO GO GO GO",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "65.0",
-          "72743.1"
+          65.0,
+          72743.1
         ],
         [
-          "45.0",
-          "1718290519.2242033"
+          45.0,
+          1718290519.2242033
         ]
       ],
-      "first_date": "1714032627.8772483",
-      "last_date": "",
-      "price_is_new": true,
-      "quantity_change": 1,
+      "first_date": 1714032627.8772483,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -316,19 +303,20 @@
       },
       "language": "Japanese",
       "price": 39.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -339,24 +327,25 @@
       },
       "language": "Japanese",
       "price": 39.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "49.0",
-          ""
+          49.0,
+          0.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -370,16 +359,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "first print . no stamp !!",
-      "date": "1719418485.4209633",
+      "date": 1719418485.4209633,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1719418485.4209633",
-      "last_date": "",
+      "first_date": 1719418485.4209633,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -393,16 +383,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714972743.155926",
+      "date": 1714972743.155926,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -416,21 +407,22 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pics!",
-      "date": "1716395519.223472",
+      "date": 1716395519.223472,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "41.0",
-          "5605."
+          41.0,
+          5605.0
         ]
       ],
-      "first_date": "1714138826.3967235",
-      "last_date": "",
+      "first_date": 1714138826.3967235,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -441,19 +433,20 @@
       },
       "language": "Japanese",
       "price": 44.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "x foto in privato",
-      "date": "1720782405.0218892",
-      "ended": false,
+      "date": 1720782405.0218892,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720782405.0218892",
-      "last_date": "",
+      "first_date": 1720782405.0218892,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -464,24 +457,25 @@
       },
       "language": "Japanese",
       "price": 45.93,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast Shipping :) - First Print (no for asia)",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "29.99",
-          "95519.2"
+          29.99,
+          95519.2
         ]
       ],
-      "first_date": "1716395519.223472",
-      "last_date": "",
+      "first_date": 1716395519.223472,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -492,24 +486,25 @@
       },
       "language": "Japanese",
       "price": 45.94,
-      "quantity": 7,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OP cards for sale :)",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "66.65",
-          "70"
+          66.65,
+          70.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -7,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -520,24 +515,25 @@
       },
       "language": "Japanese",
       "price": 45.95,
-      "quantity": 8,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Jp version. Top condition",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "59.95",
-          ""
+          59.95,
+          0.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -8,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -548,24 +544,25 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "60.0",
-          "5605."
+          60.0,
+          5605.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -576,24 +573,25 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Jap Version - Other cards in trade",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "60.0",
-          "95519.2"
+          60.0,
+          95519.2
         ]
       ],
-      "first_date": "1714138826.3967235",
-      "last_date": "",
+      "first_date": 1714138826.3967235,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -604,19 +602,20 @@
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -630,21 +629,46 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": "1720078765.05285",
+      "date": 1720078765.05285,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
-          "60.0",
-          "497719.553"
+          60.0,
+          497719.553
         ]
       ],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "CardsandHearts",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Tiny white dot on back. for Asia version",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -658,16 +682,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1720078765.05285",
+      "date": 1720078765.05285,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "first_date": "1718097489.514095",
-      "last_date": "",
+      "first_date": 1718097489.514095,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -681,16 +706,41 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1717497719.5536575",
+      "date": 1717497719.5536575,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715175605.919135",
-      "last_date": "",
+      "first_date": 1715175605.919135,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "For Asia! Strict grading | Daily shipping | Safely packed!",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -704,16 +754,65 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1716395519.223472",
+      "date": 1716395519.223472,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714972743.155926",
-      "last_date": "",
+      "first_date": 1714972743.155926,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "AggroLex92",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for pics!",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "derpdead",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -727,25 +826,122 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Psa 9",
-      "date": "1716395519.223472",
+      "date": 1716395519.223472,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "80.0",
-          ""
+          80.0,
+          0.0
         ],
         [
-          "70.0",
-          "5605."
+          70.0,
+          5605.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "CanShipFromGermany",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 60.41,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "A lot in stock. pick up possible in Dortmund",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Hendrok12321",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 62.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Backside small whitening top left",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Rikou999",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 64.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "¨For Asia¨",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Genji92",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 64.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "for Asia / schneller Versand",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -759,16 +955,262 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1715175605.919135",
+      "date": 1715175605.919135,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Xanou",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 65.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 69.98,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "FOR ASIA - Viele JP Karten verfügbar! | BOX: JP-1",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "BaconLine",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "For Asia / Sleeve+Toploader",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Fabien24px",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Stamp For Asia",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "BravePoke",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "For Asia",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 78.97,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-5",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 79.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "FOR ASIA - Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "wollech",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 79.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Vitrine (For Asia)",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "MadAsian",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          30.0,
+          1720782405.0218892
+        ]
+      ],
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "DateACard",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for pic",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -782,16 +1224,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714972743.155926",
+      "date": 1714972743.155926,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -805,16 +1248,65 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": "1717497719.5536575",
+      "date": 1717497719.5536575,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497719.5536575",
-      "last_date": "",
+      "first_date": 1717497719.5536575,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Coolstuff99",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 94.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "No Stamp on this card.",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Der-3114",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "First Print No For Asia Stamp",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -828,16 +1320,113 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Psa10 First print",
-      "date": "1718290519.2242033",
+      "date": 1718290519.2242033,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718290519.2242033",
-      "last_date": "",
+      "first_date": 1718290519.2242033,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "TradingCardsUnited",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 99.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.94,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-3",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "JAPANAESE - Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "robboppp",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "First Print - no stamp",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -851,16 +1440,65 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782405.0218892",
+      "date": 1771763551.7201533,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "miky90",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Ricolo7",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "For ASIA",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -871,32 +1509,33 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "psa10",
-      "date": "1720782405.0218892",
-      "ended": false,
-      "new": false,
+      "date": 1720782405.0218892,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          "120.0",
-          ""
+          120.0,
+          0.0
         ],
         [
-          "59.95",
-          ""
+          59.95,
+          0.0
         ],
         [
-          "120.0",
-          ""
+          120.0,
+          0.0
         ]
       ],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -910,16 +1549,17 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1719418485.4209633",
+      "date": 1719418485.4209633,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713849526.6091266",
-      "last_date": "",
+      "first_date": 1713849526.6091266,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Nami (OP01-016)",
@@ -933,16 +1573,281 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "psa10",
-      "date": "1714320582.06942",
+      "date": 1714320582.06942,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714032627.8772483",
-      "last_date": "",
+      "first_date": 1714032627.8772483,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Reherischef",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Kampf-Trupp93",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "For Asia",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "CardCaesar",
+        "country": "Item location: Romania"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "No stamp. beautiful foil. cheap shipping",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Freshica",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "RyumaSenpai97",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 155.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "booster fresh - sleeve - toploader",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Curtisblk123",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 235.64,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "imAERI",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Taerendar",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - Japan Version",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "nvasiliadis",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 280.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 JAPAN",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Rouven",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016",
+      "seller": {
+        "name": "Sturi",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "2023 CGC Pristine 10",
+      "date": 1771763551.7201533,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771763551.7201533,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     }
   ]
 }

@@ -8,7 +8,7 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 24,
+  "available": 23,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -38,7 +38,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -61,7 +62,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -84,7 +86,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -112,7 +115,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -135,7 +139,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -158,7 +163,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -181,7 +187,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -204,7 +211,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -227,7 +235,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -250,7 +259,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -282,7 +292,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -305,7 +316,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -337,7 +349,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -360,7 +373,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -383,7 +397,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -406,7 +421,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -429,7 +445,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -452,7 +469,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -463,11 +481,11 @@
       },
       "language": "S-Chinese",
       "price": 369.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1771471569.9468951,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1771423783.8373437,
@@ -475,7 +493,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -489,7 +508,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Whitening on the back",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -498,7 +517,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -526,7 +546,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -537,19 +558,20 @@
       },
       "language": "S-Chinese",
       "price": 400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Full set available",
-      "date": 1771471569.9468951,
-      "ended": false,
-      "new": false,
+      "date": 1771631199.584869,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1770315757.3471215,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -572,7 +594,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -595,7 +618,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -618,7 +642,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -632,7 +657,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -646,7 +671,37 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Twinsun",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 440.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "New Seller ! Fast Shipping !",
+      "date": 1771771411.0125933,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          560.0,
+          1771471569.9468951
+        ]
+      ],
+      "first_date": 1769105051.0318155,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -660,7 +715,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -669,7 +724,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -683,7 +739,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "clean raw copy pm for whole set w/o nami",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -697,7 +753,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -711,7 +768,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -720,7 +777,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -734,7 +792,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -745,10 +803,11 @@
       ],
       "first_date": 1771227629.0682175,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -762,7 +821,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Bgs 9.5. Ask for picks. open for offers",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -771,7 +830,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -785,7 +845,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -799,7 +859,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -822,7 +883,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -845,7 +907,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -859,7 +922,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sent in sleeve + toploader",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -868,7 +931,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -882,7 +946,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "#489",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -891,7 +955,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -905,7 +970,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check out my other listings",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -923,7 +988,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -937,7 +1003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -946,7 +1012,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -960,7 +1027,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -974,30 +1041,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
-      "seller": {
-        "name": "Twinsun",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 560.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "New Seller ! Fast Shipping !",
-      "date": 1771471569.9468951,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1769105051.0318155,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1020,7 +1065,32 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Son-Furko",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 850.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1771771411.0125933,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1771631199.584869,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1034,7 +1104,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1043,7 +1113,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1071,7 +1142,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1094,7 +1166,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1108,7 +1181,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa10",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1122,7 +1195,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1136,7 +1210,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1145,7 +1219,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1177,7 +1252,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1191,7 +1267,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. slab in sleeve",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1200,7 +1276,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1214,7 +1291,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Zoro. Luffy. Sanji. Chopper PSA 10",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1228,7 +1305,37 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP01-025)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
+      "seller": {
+        "name": "Dima95",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Beckett 10",
+      "date": 1771771411.0125933,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          20000.0,
+          1771631199.584869
+        ]
+      ],
+      "first_date": 1770033180.978623,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1242,7 +1349,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SLABS",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1256,7 +1363,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1270,7 +1378,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "5 sequential psa10 Robin Luffy Zoro Chopper and Sanji",
-      "date": 1771471569.9468951,
+      "date": 1771771411.0125933,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1284,7 +1392,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false
     },
     {
       "card": "Roronoa Zoro (OP01-025)",
@@ -1316,30 +1425,8 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
-    },
-    {
-      "card": "Roronoa Zoro (OP01-025)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-025",
-      "seller": {
-        "name": "Dima95",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 20000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Beckett 10",
-      "date": 1771471569.9468951,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1770033180.978623,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": true
     }
   ]
 }
