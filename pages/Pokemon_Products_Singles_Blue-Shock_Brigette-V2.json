@@ -11,9 +11,38 @@
   ],
   "only_germany": "False",
   "available": 2,
-  "sold": 2,
-  "inserted": 2,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
+    {
+      "card": "Brigette (XY8b 064)",
+      "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
+      "seller": {
+        "name": "OrazioGem",
+        "country": "Item location: Italy"
+      },
+      "language": "Korean",
+      "price": 499.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "AIGRADING 7.5",
+      "date": 1771943992.7837143,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          599.0,
+          1771764268.474148
+        ]
+      ],
+      "first_date": 1771764268.474148,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
     {
       "card": "Brigette (XY8b 064)",
       "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
@@ -42,30 +71,6 @@
       "card": "Brigette (XY8b 064)",
       "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
       "seller": {
-        "name": "OrazioGem",
-        "country": "Item location: Italy"
-      },
-      "language": "Korean",
-      "price": 599.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "AIGRADING 7.5",
-      "date": 1771764268.474148,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "first_date": 1771764268.474148,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Brigette (XY8b 064)",
-      "canonical_name": "Pokemon_Products_Singles_Blue-Shock_Brigette-V2",
-      "seller": {
         "name": "Krcma7",
         "country": "Item location: Switzerland"
       },
@@ -76,12 +81,12 @@
       "comment": "PSA 10",
       "date": 1736842082.9062643,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1736842082.9062643,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -219,9 +224,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1771764268.474148,
+      "date": 1771943992.7837143,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1771764268.474148,
       "last_date": 0.0,
@@ -245,15 +250,15 @@
       "comment": "UNFINDABLE",
       "date": 1736842082.9062643,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1736842082.9062643,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": true
     }
   ]
 }

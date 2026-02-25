@@ -8,8 +8,8 @@
     "S-Chinese"
   ],
   "only_germany": false,
-  "available": 2,
-  "sold": 1,
+  "available": 3,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "comment": "small dent on back",
       "date": 1771513180.182835,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           80.0,
@@ -36,7 +36,7 @@
       "first_date": 1769852460.3199327,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -178,6 +178,35 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
+        "name": "TyzefTCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 99.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771892357.8783157,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          105.0,
+          1771829135.956731
+        ]
+      ],
+      "first_date": 1769852460.3199327,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
         "name": "Cis300",
         "country": "Item location: Netherlands"
       },
@@ -186,7 +215,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check my other chinese exclusives",
-      "date": 1771647785.2754788,
+      "date": 1771892357.8783157,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -207,19 +236,19 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
-        "name": "TyzefTCG",
+        "name": "BravePoke",
         "country": "Item location: France"
       },
       "language": "S-Chinese",
-      "price": 105.0,
+      "price": 100.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771647785.2754788,
+      "date": 1771892357.8783157,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1769852460.3199327,
+      "first_date": 1771829135.956731,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

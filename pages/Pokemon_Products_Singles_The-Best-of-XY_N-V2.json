@@ -12,7 +12,7 @@
   ],
   "only_germany": "False",
   "available": 4,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -51,7 +51,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1771783648.9138427,
+      "date": 1771912352.2042985,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -75,7 +75,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9 - 9 | 9.5 | 9.5 | 8.5",
-      "date": 1771783648.9138427,
+      "date": 1771912352.2042985,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -99,7 +99,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graded 9.5 - Guard&Grading",
-      "date": 1771783648.9138427,
+      "date": 1771912352.2042985,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -273,7 +273,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1771783648.9138427,
+      "date": 1771912352.2042985,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -304,7 +304,7 @@
       "comment": "PSA 10",
       "date": 1771642957.8169496,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1539.95,
@@ -322,7 +322,7 @@
       "first_date": 1761774366.1031413,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

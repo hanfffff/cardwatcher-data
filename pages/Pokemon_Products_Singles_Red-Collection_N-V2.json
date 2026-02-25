@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
-  "sold": 0,
+  "available": 1,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -132,7 +132,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "some whitenings no bents",
-      "date": 1771770688.0333488,
+      "date": 1771900151.253026,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -153,12 +153,12 @@
       },
       "language": "Japanese",
       "price": 199.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "GD/LP. Light dent/bend on top. Thousands of Japanese Holo's and Bulk! Old + Modern!",
-      "date": 1771770688.0333488,
-      "ended": false,
-      "new": false,
+      "date": 1771836816.7681098,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           174.98,
@@ -168,7 +168,7 @@
       "first_date": 1716278462.3130982,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

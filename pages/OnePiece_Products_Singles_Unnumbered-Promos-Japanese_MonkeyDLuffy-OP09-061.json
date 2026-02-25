@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 21,
+  "available": 24,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 3,
   "listings": [
     {
       "card": "Monkey.D.Luffy (OP09-061)",
@@ -22,11 +22,11 @@
       },
       "language": "S-Chinese",
       "price": 99.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1771781869.2408648,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -46,22 +46,27 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "JustPippo",
+        "name": "miorxu",
         "country": "Item location: Italy"
       },
       "language": "S-Chinese",
-      "price": 145.0,
-      "quantity": 1,
+      "price": 120.0,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          150.0,
+          1771847080.8575873
+        ]
+      ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -70,15 +75,15 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "miorxu",
+        "name": "JustPippo",
         "country": "Item location: Italy"
       },
       "language": "S-Chinese",
-      "price": 150.0,
+      "price": 145.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -102,7 +107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -118,15 +123,63 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
       "seller": {
+        "name": "Minivivi61",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771910540.412465,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771910540.412465,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "Pascal-ree",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 202.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771910540.412465,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771910540.412465,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
         "name": "LA-collectibles",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 204.95,
+      "price": 203.95,
       "quantity": 1,
       "condition": "NM",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -149,11 +202,39 @@
         [
           208.95,
           1771641288.3038597
+        ],
+        [
+          204.95,
+          1771847080.8575873
         ]
       ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
       "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "Godrik07",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 204.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sleeve / toploader / ask for pics",
+      "date": 1771910540.412465,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771910540.412465,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -171,7 +252,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -208,7 +289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -232,13 +313,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771235728.82653,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "Sax2k",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 209.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "#3",
+      "date": 1771910540.412465,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          249.99,
+          1770989502.6034467
+        ],
+        [
+          239.99,
+          1771235728.82653
+        ],
+        [
+          214.99,
+          1771847080.8575873
+        ]
+      ],
+      "first_date": 1770758830.944618,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -256,43 +374,10 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1770758830.944618,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (OP09-061)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
-      "seller": {
-        "name": "Sax2k",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 214.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "#3",
-      "date": 1771781869.2408648,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          249.99,
-          1770989502.6034467
-        ],
-        [
-          239.99,
-          1771235728.82653
-        ]
-      ],
       "first_date": 1770758830.944618,
       "last_date": 0.0,
       "price_is_new": false,
@@ -337,7 +422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -361,7 +446,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "for YOU in business since 2021 <3",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -409,7 +494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -433,13 +518,50 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           240.0,
           1770989502.6034467
+        ]
+      ],
+      "first_date": 1770758830.944618,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "Bombocards",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 237.6,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771910540.412465,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          259.0,
+          1771343780.6520083
+        ],
+        [
+          249.0,
+          1771433208.8336809
+        ],
+        [
+          240.0,
+          1771781869.2408648
         ]
       ],
       "first_date": 1770758830.944618,
@@ -462,44 +584,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771235728.82653,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (OP09-061)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-OP09-061",
-      "seller": {
-        "name": "Bombocards",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 240.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1771781869.2408648,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          259.0,
-          1771343780.6520083
-        ],
-        [
-          249.0,
-          1771433208.8336809
-        ]
-      ],
-      "first_date": 1770758830.944618,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -519,7 +608,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve - A lot of japanese cards",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -543,7 +632,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -572,7 +661,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGS 10",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -620,7 +709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1771781869.2408648,
+      "date": 1771910540.412465,
       "ended": false,
       "new": false,
       "previous_prices": [],
