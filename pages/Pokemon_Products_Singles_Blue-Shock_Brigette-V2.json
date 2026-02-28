@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -22,22 +22,26 @@
         "country": "Item location: Italy"
       },
       "language": "Korean",
-      "price": 499.0,
+      "price": 399.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "AIGRADING 7.5",
-      "date": 1771943992.7837143,
+      "date": 1772155930.6412058,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           599.0,
           1771764268.474148
+        ],
+        [
+          499.0,
+          1772058667.6184995
         ]
       ],
       "first_date": 1771764268.474148,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -221,11 +225,11 @@
       },
       "language": "Japanese",
       "price": 2499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
       "date": 1771943992.7837143,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1771764268.474148,

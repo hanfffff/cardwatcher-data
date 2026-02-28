@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 24,
-  "sold": 0,
-  "inserted": 1,
+  "available": 23,
+  "sold": 2,
+  "inserted": 2,
   "listings": [
     {
       "card": "Team Aqua's Kyogre EX (CP1 006)",
@@ -435,7 +435,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "ED1. Only selling together with Groudon. see my listings !",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -678,7 +678,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Sleeve + Toploader",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -973,7 +973,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1385,6 +1385,35 @@
       "archived": false
     },
     {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
+        "name": "Labilador",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 249.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "GD/EX photos available",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          299.0,
+          1772138660.818007
+        ]
+      ],
+      "first_date": 1770301567.6748009,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
       "card": "Team Aqua's Kyogre EX (CP1 006)",
       "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
       "seller": {
@@ -1441,11 +1470,11 @@
       },
       "language": "Japanese",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "LOTS OF POKEMON CARDS AVAILABLE!!",
-      "date": 1771926211.0667033,
-      "ended": false,
+      "date": 1772044504.4870186,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1769968280.3675177,
@@ -1733,6 +1762,39 @@
       "card": "Team Aqua's Kyogre EX  (CP1 006)",
       "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
       "seller": {
+        "name": "FullHealPokemon",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 289.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "A-044",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.0,
+          1771010420.1591363
+        ],
+        [
+          299.0,
+          1772044504.4870186
+        ]
+      ],
+      "first_date": 1770726542.3486476,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
         "name": "tilop",
         "country": "Item location: Spain"
       },
@@ -1963,59 +2025,6 @@
       "archived": false
     },
     {
-      "card": "Team Aqua's Kyogre EX  (CP1 006)",
-      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
-      "seller": {
-        "name": "Labilador",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 299.0,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "GD/EX photos available",
-      "date": 1771926211.0667033,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1770301567.6748009,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Team Aqua's Kyogre EX  (CP1 006)",
-      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
-      "seller": {
-        "name": "FullHealPokemon",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 299.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "A-044",
-      "date": 1771926211.0667033,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          349.0,
-          1771010420.1591363
-        ]
-      ],
-      "first_date": 1770726542.3486476,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
       "card": "Team Aqua's Kyogre EX (CP1 006)",
       "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
       "seller": {
@@ -2037,6 +2046,30 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 2,
+      "archived": false
+    },
+    {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
+        "name": "andrielix",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "VERY good condition only bended",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1772310162.9504063,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
       "archived": false
     },
     {
@@ -2171,7 +2204,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2224,7 +2257,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "I have alot of other Japanese cards - take a loot",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2272,7 +2305,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2349,7 +2382,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "O-P-5",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2502,7 +2535,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2763,12 +2796,12 @@
       },
       "language": "Japanese",
       "price": 470.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster to sleeve to Card Case",
-      "date": 1771926211.0667033,
-      "ended": false,
-      "new": false,
+      "date": 1772138660.818007,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           500.0,
@@ -2778,7 +2811,7 @@
       "first_date": 1768771529.2039697,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2800,6 +2833,30 @@
       "new": false,
       "previous_prices": [],
       "first_date": 1761774332.3696475,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
+        "name": "Erikgy",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 490.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1772044504.4870186,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2843,7 +2900,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small dot whitening",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2867,7 +2924,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Toploader",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3013,11 +3070,11 @@
       },
       "language": "Japanese",
       "price": 550.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "CLEAN PSA 8",
-      "date": 1771926211.0667033,
-      "ended": false,
+      "date": 1772044504.4870186,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1766529449.5257277,
@@ -3182,11 +3239,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Korean",
-      "price": 589.55,
+      "price": 587.57,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3329,6 +3386,18 @@
         [
           588.91,
           1771862601.3812213
+        ],
+        [
+          589.55,
+          1771926211.0667033
+        ],
+        [
+          590.36,
+          1772044504.4870186
+        ],
+        [
+          590.87,
+          1772138660.818007
         ]
       ],
       "first_date": 1755774144.76551,
@@ -3548,7 +3617,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve+toploader",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3557,30 +3626,6 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Team Aqua's Kyogre EX  (CP1 006)",
-      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
-      "seller": {
-        "name": "entonsmigraene",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 8",
-      "date": 1767385195.7345138,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1766080330.9979756,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },
@@ -3705,6 +3750,35 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
+        "name": "entonsmigraene",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! PSA 8",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          800.0,
+          1767385195.7345138
+        ]
+      ],
+      "first_date": 1766080330.9979756,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -3963,14 +4037,63 @@
       },
       "language": "Japanese",
       "price": 1499.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1771926211.0667033,
-      "ended": false,
-      "new": false,
+      "date": 1772138660.818007,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1769114535.8158722,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Team Aqua's Kyogre EX  (CP1 006)",
+      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
+      "seller": {
+        "name": "depokeplugcm",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1499.95,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1772310162.9504063,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1499.95,
+          0.0
+        ],
+        [
+          1394.95,
+          50782.16
+        ],
+        [
+          1298.95,
+          1768161063.2533858
+        ],
+        [
+          1399.95,
+          1769694108.026779
+        ],
+        [
+          1749.95,
+          1771010420.1591363
+        ],
+        [
+          1799.95,
+          1771926211.0667033
+        ]
+      ],
+      "first_date": 1755774144.76551,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4078,51 +4201,6 @@
       "card": "Team Aqua's Kyogre EX  (CP1 006)",
       "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
       "seller": {
-        "name": "depokeplugcm",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1799.95,
-      "quantity": 2,
-      "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1771926211.0667033,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1499.95,
-          0.0
-        ],
-        [
-          1394.95,
-          50782.16
-        ],
-        [
-          1298.95,
-          1768161063.2533858
-        ],
-        [
-          1399.95,
-          1769694108.026779
-        ],
-        [
-          1749.95,
-          1771010420.1591363
-        ]
-      ],
-      "first_date": 1755774144.76551,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 2,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Team Aqua's Kyogre EX  (CP1 006)",
-      "canonical_name": "Pokemon_Products_Singles_Magma-Gang-VS-Aqua-Gang-Double-Crisis_Team-Aquas-Kyogre-EX-CP1006",
-      "seller": {
         "name": "VintageTrader92",
         "country": "Item location: Italy"
       },
@@ -4131,7 +4209,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4236,11 +4314,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 11789.75,
+      "price": 11750.1,
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4375,6 +4453,18 @@
         [
           11776.98,
           1771862601.3812213
+        ],
+        [
+          11789.75,
+          1771926211.0667033
+        ],
+        [
+          11806.02,
+          1772044504.4870186
+        ],
+        [
+          11816.22,
+          1772138660.818007
         ]
       ],
       "first_date": 1764588969.5103517,
@@ -4393,11 +4483,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 11789.75,
+      "price": 11750.1,
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 10",
-      "date": 1771926211.0667033,
+      "date": 1772310162.9504063,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4532,6 +4622,18 @@
         [
           11776.98,
           1771862601.3812213
+        ],
+        [
+          11789.75,
+          1771926211.0667033
+        ],
+        [
+          11806.02,
+          1772044504.4870186
+        ],
+        [
+          11816.22,
+          1772138660.818007
         ]
       ],
       "first_date": 1764588969.5103517,

@@ -10,10 +10,47 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 31,
-  "sold": 0,
-  "inserted": 3,
+  "available": 30,
+  "sold": 3,
+  "inserted": 1,
   "listings": [
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
+        "name": "CanShipFromGermany",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 36.75,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "A lot in stock. pick up possible in Dortmund",
+      "date": 1772304778.054806,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          50.0,
+          1771651504.7413116
+        ],
+        [
+          44.1,
+          1771919520.1328626
+        ],
+        [
+          38.22,
+          1772133311.5241685
+        ]
+      ],
+      "first_date": 1771651504.7413116,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
     {
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
@@ -22,12 +59,12 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 39.0,
-      "quantity": 1,
+      "price": 38.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! Shipping only in Germany / Sleeved - Toploader",
-      "date": 1771919520.1328626,
-      "ended": false,
+      "comment": "Shipping only in Germany / Sleeved - Toploader",
+      "date": 1772038059.3241754,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -65,12 +102,16 @@
         [
           42.0,
           1771792624.7762892
+        ],
+        [
+          39.0,
+          1771919520.1328626
         ]
       ],
       "first_date": 1769101290.6311758,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -87,7 +128,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -202,48 +243,19 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
-        "name": "CanShipFromGermany",
+        "name": "Lukman29",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 44.1,
+      "price": 44.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "A lot in stock. pick up possible in Dortmund",
-      "date": 1771919520.1328626,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          50.0,
-          1771651504.7413116
-        ]
-      ],
-      "first_date": 1771651504.7413116,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Kid & Killer (EB01-003)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
-      "seller": {
-        "name": "REYOo",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 45.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Every order comes with a goodie",
-      "date": 1771919520.1328626,
+      "comment": "",
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": 1771792624.7762892,
+      "first_date": 1772133311.5241685,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -262,15 +274,39 @@
       "price": 45.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1771919520.1328626,
+      "comment": "",
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771651504.7413116,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
+        "name": "REYOo",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Every order comes with a goodie",
+      "date": 1772133311.5241685,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771792624.7762892,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -380,6 +416,30 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
+        "name": "GunplaCards",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 46.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1772304778.054806,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1772038059.3241754,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
         "name": "KHRoXaS01",
         "country": "Item location: Italy"
       },
@@ -387,8 +447,8 @@
       "price": 46.5,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1771919520.1328626,
+      "comment": "",
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -399,8 +459,8 @@
       ],
       "first_date": 1769597124.7953427,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -555,7 +615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -634,6 +694,35 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
+        "name": "Rikou999",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 48.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1772133311.5241685,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          53.9,
+          1772038059.3241754
+        ]
+      ],
+      "first_date": 1771444002.7160668,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
         "name": "Minivivi61",
         "country": "Item location: France"
       },
@@ -642,7 +731,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -671,7 +760,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve + Toploader! Fast shipping!",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -695,7 +784,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OBO PRICE / min. CM Contact me",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -777,7 +866,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -825,7 +914,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ZG",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -882,7 +971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -915,7 +1004,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -984,24 +1073,19 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
-        "name": "Zaptoys",
-        "country": "Item location: Netherlands"
+        "name": "jglauda",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 50.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Map C1",
-      "date": 1771919520.1328626,
+      "comment": "",
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          53.0,
-          1771356672.2075772
-        ]
-      ],
-      "first_date": 1769101290.6311758,
+      "previous_prices": [],
+      "first_date": 1771248687.9355094,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1013,22 +1097,27 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
-        "name": "jglauda",
-        "country": "Item location: France"
+        "name": "Zaptoys",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 50.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1771919520.1328626,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771248687.9355094,
+      "comment": "Map C1",
+      "date": 1772133311.5241685,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          53.0,
+          1771356672.2075772
+        ]
+      ],
+      "first_date": 1769101290.6311758,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1213,7 +1302,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1261,35 +1350,11 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771356672.2075772,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Kid & Killer (EB01-003)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
-      "seller": {
-        "name": "Rikou999",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 53.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1771919520.1328626,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771444002.7160668,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1309,7 +1374,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve + top loader",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1338,7 +1403,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selling cards with love and passion",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1419,7 +1484,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1443,7 +1508,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "O03",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1467,7 +1532,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1491,7 +1556,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1683,7 +1748,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "card is scand in sleve / from booster to sleve",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1707,7 +1772,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Daily Shipping Mo-Fr",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1771,6 +1836,30 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
+        "name": "Phyloup",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 64.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to sleeve+toploader",
+      "date": 1772304778.054806,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1772304778.054806,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
         "name": "Toug31",
         "country": "Item location: France"
       },
@@ -1779,7 +1868,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve+Toploader",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1803,7 +1892,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1771919520.1328626,
+      "date": 1772304778.054806,
       "ended": false,
       "new": false,
       "previous_prices": [],
