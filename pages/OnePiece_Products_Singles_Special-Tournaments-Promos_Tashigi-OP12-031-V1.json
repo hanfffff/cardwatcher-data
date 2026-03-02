@@ -9,8 +9,8 @@
     "French"
   ],
   "only_germany": false,
-  "available": 51,
-  "sold": 0,
+  "available": 49,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -22,12 +22,12 @@
       },
       "language": "English",
       "price": 35.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "JP- off centered - one white dot on the back",
       "date": 1772292877.3796287,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           34.99,
@@ -37,7 +37,7 @@
       "first_date": 1771476871.7813041,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -54,7 +54,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version - see picture - new in bag",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -91,7 +91,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version - see picture - new in bag",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -124,7 +124,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version - see picture - new in bag",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -161,7 +161,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version - see picture - new in bag",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -187,12 +187,12 @@
       },
       "language": "English",
       "price": 40.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Japanese Version",
       "date": 1772292877.3796287,
-      "ended": false,
-      "new": false,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           160.0,
@@ -206,7 +206,7 @@
       "first_date": 1771230167.851925,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -343,7 +343,7 @@
       "quantity": 3,
       "condition": "MT",
       "comment": "FOR ASIA. still sealed many copies available",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -353,6 +353,39 @@
         ]
       ],
       "first_date": 1771903700.6753583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Tashigi (OP12-031) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Tashigi-OP12-031-V1",
+      "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "French",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SILVER JAPANESE VERSION / + cards in stock",
+      "date": 1772378060.5828345,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          60.0,
+          1771425968.7607956
+        ],
+        [
+          59.9,
+          1772292877.3796287
+        ]
+      ],
+      "first_date": 1771230167.851925,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -372,7 +405,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Rare \"for asia\" version. sealed. fast & save shipping",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -429,7 +462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese version - #2",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -462,7 +495,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese version - #1",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -495,7 +528,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Rare \"for asia\" version. sealed. fast & save shipping",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -548,7 +581,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese version - #3",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -602,35 +635,6 @@
       "card": "Tashigi (OP12-031) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Tashigi-OP12-031-V1",
       "seller": {
-        "name": "trapcardtcg",
-        "country": "Item location: Portugal"
-      },
-      "language": "French",
-      "price": 59.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SILVER JAPANESE VERSION / + cards in stock",
-      "date": 1772292877.3796287,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          60.0,
-          1771425968.7607956
-        ]
-      ],
-      "first_date": 1771230167.851925,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Tashigi (OP12-031) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Tashigi-OP12-031-V1",
-      "seller": {
         "name": "Pascal-ree",
         "country": "Item location: Germany"
       },
@@ -668,7 +672,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "SEALED JAPAN VERSION - FLAGSHIP",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -679,7 +683,7 @@
       ],
       "first_date": 1771425968.7607956,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -697,7 +701,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "JaPAN SEALED",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -721,7 +725,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -754,7 +758,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "JAPAN VERSION - FLAGSHIP",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -778,7 +782,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "JAPAN VERSION - FLAGSHIP NEW",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -802,7 +806,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "JAPAN VERSION - FLAGSHIP",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -826,7 +830,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "japan version",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -874,7 +878,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "JAPAN VERSION. FLAGSHIP BATTLE. SEALED",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -957,7 +961,7 @@
       ],
       "first_date": 1769727514.1298954,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1016,7 +1020,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Japanese Version",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1049,7 +1053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese Sealed",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1078,7 +1082,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japan version",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1102,7 +1106,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "JAPANESE SILVER - Toploader - Fast Secured Shipping",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1126,7 +1130,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "JAPANESE NO STAMP. See my other cards JP2",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1174,7 +1178,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "JAPAN VERSION",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1231,7 +1235,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1264,7 +1268,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1297,7 +1301,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1334,7 +1338,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1367,7 +1371,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1415,7 +1419,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772292877.3796287,
+      "date": 1772378060.5828345,
       "ended": false,
       "new": false,
       "previous_prices": [],
