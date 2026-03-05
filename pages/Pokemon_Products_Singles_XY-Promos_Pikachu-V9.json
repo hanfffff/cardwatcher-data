@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
+  "available": 8,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Pikachu (XY-P 090)",
@@ -622,7 +622,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -735,7 +735,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "We buy single cards. collections and bulk",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -913,21 +913,49 @@
       "card": "Pikachu  (XY-P 090)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
       "seller": {
+        "name": "Wanghy",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 2499.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "bus 8.5 strong",
+      "date": 1772682032.159446,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1772682032.159446,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
         "name": "NRG099",
         "country": "Item location: Belgium"
       },
       "language": "Japanese",
-      "price": 3250.0,
+      "price": 3450.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "Mint psa 9",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           3450.0,
           1770855773.7045445
+        ],
+        [
+          3250.0,
+          1772478235.3054035
         ]
       ],
       "first_date": 1770855773.7045445,
@@ -949,8 +977,8 @@
       "price": 3500.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1772400612.227494,
+      "comment": "PSA 9 Photo & Video whatsapp 3793351263",
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1178,7 +1206,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 with slab case",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1223,11 +1251,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 9401.02,
+      "price": 9471.31,
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1378,11 +1406,23 @@
         [
           9453.92,
           1772144329.8255744
+        ],
+        [
+          9401.02,
+          1772400612.227494
+        ],
+        [
+          9399.46,
+          1772478235.3054035
+        ],
+        [
+          9447.41,
+          1772573782.5677288
         ]
       ],
       "first_date": 1755774006.9515474,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1400,7 +1440,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1772400612.227494,
+      "date": 1772682032.159446,
       "ended": false,
       "new": false,
       "previous_prices": [

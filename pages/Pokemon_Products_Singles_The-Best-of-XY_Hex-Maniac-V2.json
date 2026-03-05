@@ -156,7 +156,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.0]",
-      "date": 1772397504.9094968,
+      "date": 1772679648.223346,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -180,7 +180,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Condition / Ask for pictures",
-      "date": 1772397504.9094968,
+      "date": 1772679648.223346,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -205,17 +205,26 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 4500.0,
+      "price": 3999.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 10.0]",
-      "date": 1772397504.9094968,
+      "date": 1772679648.223346,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          4500.0,
+          1772475127.471674
+        ],
+        [
+          4200.0,
+          1772570653.8159046
+        ]
+      ],
       "first_date": 1769873795.2320585,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

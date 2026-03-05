@@ -9,7 +9,7 @@
   ],
   "only_germany": "False",
   "available": 3,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -1369,8 +1369,8 @@
       "price": 420.0,
       "quantity": 0,
       "condition": "MT",
-      "comment": "still sealed (Price slightly tractable)",
-      "date": 1736842007.4448075,
+      "comment": "RELISTED! still sealed (Price slightly tractable)",
+      "date": 1772548207.580176,
       "ended": true,
       "new": false,
       "previous_prices": [],
@@ -2901,7 +2901,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to Sleeve + Toploader / More Cards on Stock",
-      "date": 1772375669.9825923,
+      "date": 1772709846.0755634,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2930,17 +2930,21 @@
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 1600.0,
+      "price": 1500.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772375669.9825923,
+      "date": 1772709846.0755634,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           1999.0,
           1770291875.9491434
+        ],
+        [
+          1600.0,
+          1772548207.580176
         ]
       ],
       "first_date": 1770197546.5587993,
@@ -3002,7 +3006,7 @@
       "comment": "BGS 9.5 Strong (9.5/10/10/9.5)",
       "date": 1772290486.69619,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           6000.0,
@@ -3016,7 +3020,7 @@
       "first_date": 1768771334.2882926,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3033,7 +3037,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1772375669.9825923,
+      "date": 1772709846.0755634,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 6,
+  "available": 7,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -23,11 +23,11 @@
       },
       "language": "Korean",
       "price": 249.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "PL",
       "comment": "Kor1003",
-      "date": 1772107857.5560253,
-      "ended": true,
+      "date": 1772697675.0098279,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1765402355.7503712,
@@ -74,7 +74,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1772364005.290948,
+      "date": 1772697675.0098279,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -200,17 +200,21 @@
         "country": "Item location: Denmark"
       },
       "language": "Japanese",
-      "price": 650.0,
+      "price": 700.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1772364005.290948,
+      "date": 1772697675.0098279,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           700.0,
           1772279529.5772662
+        ],
+        [
+          650.0,
+          1772643586.1750345
         ]
       ],
       "first_date": 1771657428.5979524,
@@ -286,7 +290,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772364005.290948,
+      "date": 1772697675.0098279,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -326,15 +330,68 @@
       "card": "Dialga EX  (XYb 019)",
       "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
       "seller": {
+        "name": "Kaos8364",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1772697675.0098279,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1770205631.5127816
+        ]
+      ],
+      "first_date": 1764588990.1805494,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dialga EX  (XYb 019)",
+      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
+      "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1771925147.1220095,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1771256657.6794226,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dialga EX  (XYb 019)",
+      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
+      "seller": {
         "name": "LenonWryn",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 998.86,
+      "price": 1006.33,
       "quantity": 1,
       "condition": "NM",
       "comment": "Can send more pics if needed",
-      "date": 1772364005.290948,
+      "date": 1772697675.0098279,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -429,64 +486,27 @@
         [
           1004.48,
           1772107857.5560253
+        ],
+        [
+          998.86,
+          1772364005.290948
+        ],
+        [
+          998.7,
+          1772439069.2091444
+        ],
+        [
+          1003.79,
+          1772535646.71419
+        ],
+        [
+          1006.27,
+          1772643586.1750345
         ]
       ],
       "first_date": 1768161032.0673025,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dialga EX  (XYb 019)",
-      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
-      "seller": {
-        "name": "Kaos8364",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 1000.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1772364005.290948,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          600.0,
-          1770205631.5127816
-        ]
-      ],
-      "first_date": 1764588990.1805494,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dialga EX  (XYb 019)",
-      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
-      "seller": {
-        "name": "Marcos200200",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1000.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1771925147.1220095,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771256657.6794226,
-      "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -504,7 +524,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Brand New",
-      "date": 1772364005.290948,
+      "date": 1772697675.0098279,
       "ended": false,
       "new": false,
       "previous_prices": [

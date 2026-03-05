@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 19,
+  "available": 17,
   "sold": 2,
   "inserted": 0,
   "listings": [
@@ -767,7 +767,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -948,10 +948,10 @@
       "price": 2195.0,
       "quantity": 0,
       "condition": "MT",
-      "comment": "PGS 9",
-      "date": 1772314790.7217488,
+      "comment": "RELISTED! PGS 9",
+      "date": 1772477711.606939,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           975.0,
@@ -977,7 +977,7 @@
       "first_date": 1711009919.66888,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -991,17 +991,17 @@
       },
       "language": "Japanese",
       "price": 2200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "[BGS 7.0] THE CARDS YOU WANT",
-      "date": 1772400088.0095854,
-      "ended": false,
-      "new": false,
+      "date": 1772573254.6768067,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1772049759.0023253,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1018,7 +1018,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Slab 9",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1114,7 +1114,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 / VB / NUR ABHOLUNG!",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1186,7 +1186,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 8.5]",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1282,7 +1282,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9 + Artbook",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1363,7 +1363,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Fresh graded",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1387,7 +1387,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCC 9.5/10",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1397,35 +1397,6 @@
         ]
       ],
       "first_date": 1713717284.512755,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard EX  (XY-P 276)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
-      "seller": {
-        "name": "TGCPOKEMON89",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 3500.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA9 MORE INFO TELEGRAM-->t.me/TGCPOKEMON89",
-      "date": 1772400088.0095854,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3350.0,
-          1769187300.6797998
-        ]
-      ],
-      "first_date": 1769187300.6797998,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1469,7 +1440,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1490,16 +1461,49 @@
       },
       "language": "Japanese",
       "price": 3800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1772400088.0095854,
-      "ended": false,
-      "new": false,
+      "date": 1772573254.6768067,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1769187300.6797998,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
+        "name": "TGCPOKEMON89",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 3999.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA9  Old Gradation MORE INFO TELEGRAM-->t.me/TGCPOKEMON89",
+      "date": 1772681629.3765893,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3350.0,
+          1769187300.6797998
+        ],
+        [
+          3500.0,
+          1772573254.6768067
+        ]
+      ],
+      "first_date": 1769187300.6797998,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1517,7 +1521,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1542,11 +1546,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 4112.94,
+      "price": 4143.69,
       "quantity": 1,
       "condition": "MT",
       "comment": "Still in plastic seal. Comes with artbook",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1629,11 +1633,23 @@
         [
           4136.08,
           1772143805.6004593
+        ],
+        [
+          4112.94,
+          1772400088.0095854
+        ],
+        [
+          4112.25,
+          1772477711.606939
+        ],
+        [
+          4133.23,
+          1772573254.6768067
         ]
       ],
       "first_date": 1769187300.6797998,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1874,7 +1890,7 @@
       "comment": "PSA 10 - New Cert.",
       "date": 1772314790.7217488,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           6000.0,
@@ -1888,7 +1904,7 @@
       "first_date": 1769534598.0784097,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1905,7 +1921,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1942,7 +1958,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1990,7 +2006,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2067,7 +2083,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Set complete Bgs 9.5",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2139,7 +2155,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sealed Art Book in bubble wrap contains the unopened card inside. Fresh from the Pokecenter .",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2163,7 +2179,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Complete set with artbook and other 2 Charizard card psa10",
-      "date": 1772400088.0095854,
+      "date": 1772681629.3765893,
       "ended": false,
       "new": false,
       "previous_prices": [
