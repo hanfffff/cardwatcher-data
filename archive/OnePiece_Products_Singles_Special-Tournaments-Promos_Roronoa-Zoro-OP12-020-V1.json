@@ -8,7 +8,7 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 0,
+  "available": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -374,6 +374,30 @@
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": true
+    },
+    {
+      "card": "Roronoa Zoro (OP12-020) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournaments-Promos_Roronoa-Zoro-OP12-020-V1",
+      "seller": {
+        "name": "cardversearenalucca",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 150000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "bgs10 pristine",
+      "date": 1773265601.6227002,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1772739911.9711096,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
     }
   ]
 }

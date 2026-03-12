@@ -10,10 +10,43 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
-  "sold": 0,
-  "inserted": 0,
+  "available": 8,
+  "sold": 1,
+  "inserted": 2,
   "listings": [
+    {
+      "card": "Skyla (XY-P 164)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Skyla",
+      "seller": {
+        "name": "Lord-lugia",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 280.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "",
+      "date": 1773227182.6068788,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          275.0,
+          1772116763.4278028
+        ],
+        [
+          300.0,
+          1772708283.4339821
+        ]
+      ],
+      "first_date": 1761774847.9573703,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
     {
       "card": "Skyla (XY-P 164)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Skyla",
@@ -36,35 +69,6 @@
         ]
       ],
       "first_date": 1711009689.3881023,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Skyla (XY-P 164)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Skyla",
-      "seller": {
-        "name": "Lord-lugia",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "",
-      "date": 1772708283.4339821,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          275.0,
-          1772116763.4278028
-        ]
-      ],
-      "first_date": 1761774847.9573703,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -153,22 +157,22 @@
       "card": "Skyla (XY-P 164)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Skyla",
       "seller": {
-        "name": "JPtrainers",
-        "country": "Item location: France"
+        "name": "KeineAhnung2",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 400.0,
-      "quantity": 1,
+      "quantity": 5,
       "condition": "NM",
-      "comment": "perfect condition ! Selling trainer collection",
-      "date": 1772708283.4339821,
+      "comment": "RELISTED! ",
+      "date": 1773227182.6068788,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1761774847.9573703,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 5,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -177,22 +181,22 @@
       "card": "Skyla (XY-P 164)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Skyla",
       "seller": {
-        "name": "KeineAhnung2",
-        "country": "Item location: Germany"
+        "name": "JPtrainers",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 400.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1772288560.293507,
+      "comment": "perfect condition ! Selling trainer collection",
+      "date": 1773091050.1701384,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "first_date": 1761774847.9573703,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -233,7 +237,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10.  The PSA case has a scratch. see picture.",
-      "date": 1772708283.4339821,
+      "date": 1773227182.6068788,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -259,17 +263,17 @@
       },
       "language": "Japanese",
       "price": 950.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "RELISTED! PSA 10",
-      "date": 1772288560.293507,
-      "ended": true,
+      "date": 1773227182.6068788,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1761774847.9573703,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

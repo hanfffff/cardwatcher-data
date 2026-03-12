@@ -156,11 +156,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[BGS 9.0]",
-      "date": 1772679648.223346,
+      "date": 1773251984.827453,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1764588953.260651,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Hex Maniac (BXY 181)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Hex-Maniac-V2",
+      "seller": {
+        "name": "euonPi",
+        "country": "Item location: Poland"
+      },
+      "language": "Korean",
+      "price": 3000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773251984.827453,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3500.0,
+          1773057509.258865
+        ]
+      ],
+      "first_date": 1772829081.3020964,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -180,7 +209,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Condition / Ask for pictures",
-      "date": 1772679648.223346,
+      "date": 1773251984.827453,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -206,11 +235,11 @@
       },
       "language": "Japanese",
       "price": 3999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "[PSA 10.0]",
-      "date": 1772679648.223346,
-      "ended": false,
+      "date": 1772829081.3020964,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -224,7 +253,7 @@
       ],
       "first_date": 1769873795.2320585,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

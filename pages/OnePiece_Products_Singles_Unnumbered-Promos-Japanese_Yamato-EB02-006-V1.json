@@ -8,8 +8,8 @@
     "S-Chinese"
   ],
   "only_germany": false,
-  "available": 2,
-  "sold": 1,
+  "available": 6,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -36,6 +36,35 @@
       "first_date": 1769852460.3199327,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "jerr1023",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "S-Chinese",
+      "price": 83.39,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773220633.020527,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          95.11,
+          1773081415.087041
+        ]
+      ],
+      "first_date": 1773081415.087041,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -188,38 +217,9 @@
       "comment": "",
       "date": 1772647596.3111115,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1772539654.6262271,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (EB02-006) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
-      "seller": {
-        "name": "TyzefTCG",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 99.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1772015026.33916,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          105.0,
-          1771829135.956731
-        ]
-      ],
-      "first_date": 1769852460.3199327,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -239,7 +239,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check my other chinese exclusives",
-      "date": 1772702050.1902595,
+      "date": 1773220633.020527,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -268,7 +268,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772702050.1902595,
+      "date": 1773220633.020527,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -308,6 +308,39 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
+        "name": "TyzefTCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773220633.020527,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          105.0,
+          1771829135.956731
+        ],
+        [
+          99.0,
+          1772015026.33916
+        ]
+      ],
+      "first_date": 1769852460.3199327,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
         "name": "BaconLine",
         "country": "Item location: Germany"
       },
@@ -321,6 +354,30 @@
       "new": false,
       "previous_prices": [],
       "first_date": 1772367647.271251,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 109.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773220633.020527,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1772937625.433897,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

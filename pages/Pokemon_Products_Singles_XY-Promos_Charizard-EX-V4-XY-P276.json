@@ -10,10 +10,34 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 17,
-  "sold": 2,
-  "inserted": 0,
+  "available": 14,
+  "sold": 0,
+  "inserted": 1,
   "listings": [
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
+        "name": "Wasted1ntellect",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 495.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Art Book without card",
+      "date": 1773254584.908259,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773192153.4695134,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
     {
       "card": "Charizard EX (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
@@ -764,11 +788,11 @@
       },
       "language": "Japanese",
       "price": 1800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": 1772681629.3765893,
-      "ended": false,
+      "date": 1772733132.790694,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1771372669.006341,
@@ -996,12 +1020,12 @@
       "comment": "[BGS 7.0] THE CARDS YOU WANT",
       "date": 1772573254.6768067,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1772049759.0023253,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1015,11 +1039,11 @@
       },
       "language": "Japanese",
       "price": 2300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Slab 9",
-      "date": 1772681629.3765893,
-      "ended": false,
+      "date": 1772733132.790694,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1769187300.6797998,
@@ -1111,11 +1135,11 @@
       },
       "language": "Japanese",
       "price": 2599.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 / VB / NUR ABHOLUNG!",
-      "date": 1772681629.3765893,
-      "ended": false,
+      "date": 1772733132.790694,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1763818201.827554,
@@ -1175,30 +1199,6 @@
       "archived": false
     },
     {
-      "card": "Charizard EX  (XY-P 276)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
-      "seller": {
-        "name": "PokePosta-Store",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 2790.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "[BGS 8.5]",
-      "date": 1772681629.3765893,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1763818201.827554,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
       "card": "Charizard EX (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
@@ -1215,6 +1215,35 @@
       "new": false,
       "previous_prices": [],
       "first_date": 1711009919.66888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
+        "name": "PokePosta-Store",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 2900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "[BGS 8.5]",
+      "date": 1773254584.908259,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2790.0,
+          1772733132.790694
+        ]
+      ],
+      "first_date": 1763818201.827554,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1274,39 +1303,6 @@
       "card": "Charizard EX  (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
-        "name": "Jeanostaire",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 3100.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Psa 9 + Artbook",
-      "date": 1772681629.3765893,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3100.0,
-          1763818201.827554
-        ],
-        [
-          3000.0,
-          1770308382.667087
-        ]
-      ],
-      "first_date": 1763818201.827554,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard EX  (XY-P 276)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
-      "seller": {
         "name": "Schiazzetta92",
         "country": "Item location: Italy"
       },
@@ -1355,18 +1351,31 @@
       "card": "Charizard EX  (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
-        "name": "mattia-susta",
-        "country": "Item location: Italy"
+        "name": "Jeanostaire",
+        "country": "Item location: Belgium"
       },
       "language": "Japanese",
       "price": 3500.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9 - Fresh graded",
-      "date": 1772681629.3765893,
+      "comment": "Psa 9 + Artbook",
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          3100.0,
+          1763818201.827554
+        ],
+        [
+          3000.0,
+          1770308382.667087
+        ],
+        [
+          3100.0,
+          1772733132.790694
+        ]
+      ],
       "first_date": 1763818201.827554,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1379,24 +1388,19 @@
       "card": "Charizard EX  (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
-        "name": "Navilus",
-        "country": "Item location: France"
+        "name": "mattia-susta",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 3500.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "CCC 9.5/10",
-      "date": 1772681629.3765893,
+      "condition": "MT",
+      "comment": "PSA 9 - Fresh graded",
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          1375.0,
-          1720783936.455261
-        ]
-      ],
-      "first_date": 1713717284.512755,
+      "previous_prices": [],
+      "first_date": 1763818201.827554,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1432,6 +1436,39 @@
       "card": "Charizard EX  (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
+        "name": "Navilus",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 3700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CCC 9.5/10 main propre (paris uniquement)",
+      "date": 1773254584.908259,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1375.0,
+          1720783936.455261
+        ],
+        [
+          3500.0,
+          1773192153.4695134
+        ]
+      ],
+      "first_date": 1713717284.512755,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
         "name": "Stagsted90",
         "country": "Item location: Denmark"
       },
@@ -1440,7 +1477,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1466,12 +1503,12 @@
       "comment": "Sealed",
       "date": 1772573254.6768067,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1769187300.6797998,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1488,7 +1525,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9  Old Gradation MORE INFO TELEGRAM-->t.me/TGCPOKEMON89",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1503,7 +1540,7 @@
       ],
       "first_date": 1769187300.6797998,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1518,11 +1555,11 @@
       },
       "language": "Japanese",
       "price": 3999.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1772681629.3765893,
-      "ended": false,
+      "date": 1772733132.790694,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1547,11 +1584,11 @@
       },
       "language": "Japanese",
       "price": 4143.69,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Still in plastic seal. Comes with artbook",
       "date": 1772681629.3765893,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1649,7 +1686,7 @@
       ],
       "first_date": 1769187300.6797998,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1921,7 +1958,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1938,30 +1975,6 @@
           1771806954.4454813
         ]
       ],
-      "first_date": 1763818201.827554,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Charizard EX  (XY-P 276)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
-      "seller": {
-        "name": "VintageModernGoat",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 8000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1772681629.3765893,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
       "first_date": 1763818201.827554,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1998,6 +2011,30 @@
       "card": "Charizard EX  (XY-P 276)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
       "seller": {
+        "name": "MauSieDel",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 10000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Gem Mint",
+      "date": 1773254584.908259,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1773254584.908259,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
         "name": "Stagsted90",
         "country": "Item location: Denmark"
       },
@@ -2006,11 +2043,40 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1769187300.6797998,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Charizard EX  (XY-P 276)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Charizard-EX-V4-XY-P276",
+      "seller": {
+        "name": "VintageModernGoat",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 10000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1773254584.908259,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          8000.0,
+          1772919693.9578023
+        ]
+      ],
+      "first_date": 1763818201.827554,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2083,7 +2149,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Set complete Bgs 9.5",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2155,7 +2221,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sealed Art Book in bubble wrap contains the unopened card inside. Fresh from the Pokecenter .",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2179,7 +2245,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Complete set with artbook and other 2 Charizard card psa10",
-      "date": 1772681629.3765893,
+      "date": 1773254584.908259,
       "ended": false,
       "new": false,
       "previous_prices": [

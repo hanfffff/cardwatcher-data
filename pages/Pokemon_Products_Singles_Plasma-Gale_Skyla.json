@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 9,
-  "sold": 0,
+  "available": 7,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -50,7 +50,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Check Image!",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -75,17 +75,21 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 140.0,
+      "price": 139.99,
       "quantity": 1,
       "condition": "LP",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           160.0,
           1772443910.5925758
+        ],
+        [
+          140.0,
+          1772935461.3194501
         ]
       ],
       "first_date": 1768161095.5329478,
@@ -100,68 +104,15 @@
       "card": "Skyla (BW7 076)",
       "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Skyla",
       "seller": {
-        "name": "IIPegasi",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 209.0,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "Sleeved & Toploader für Fotos einfach fragen :D",
-      "date": 1772700400.7987857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771636926.8893197,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Skyla (BW7 076)",
-      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Skyla",
-      "seller": {
-        "name": "PokekaTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 209.99,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1772700400.7987857,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          219.99,
-          1770224770.6798353
-        ]
-      ],
-      "first_date": 1764750791.8861113,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Skyla (BW7 076)",
-      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Skyla",
-      "seller": {
         "name": "PokeMano-Shop",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 210.0,
+      "price": 199.99,
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -176,6 +127,10 @@
         [
           240.0,
           1772443910.5925758
+        ],
+        [
+          210.0,
+          1772935461.3194501
         ]
       ],
       "first_date": 1761774361.5986974,
@@ -194,17 +149,21 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 210.0,
+      "price": 199.99,
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           240.0,
           1772443910.5925758
+        ],
+        [
+          210.0,
+          1772935461.3194501
         ]
       ],
       "first_date": 1768161095.5329478,
@@ -223,17 +182,21 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 210.0,
+      "price": 199.99,
       "quantity": 1,
       "condition": "GD",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           240.0,
           1772443910.5925758
+        ],
+        [
+          210.0,
+          1772935461.3194501
         ]
       ],
       "first_date": 1768161095.5329478,
@@ -241,6 +204,63 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Skyla (BW7 076)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Skyla",
+      "seller": {
+        "name": "PokekaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 208.99,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Sleeved + Toploader & fast shipping",
+      "date": 1773218913.5039482,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          219.99,
+          1770224770.6798353
+        ],
+        [
+          209.99,
+          1772935461.3194501
+        ]
+      ],
+      "first_date": 1764750791.8861113,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Skyla (BW7 076)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Skyla",
+      "seller": {
+        "name": "IIPegasi",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 209.0,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "Sleeved & Toploader für Fotos einfach fragen :D",
+      "date": 1773078833.1982388,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1771636926.8893197,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -332,8 +352,8 @@
       "price": 320.0,
       "quantity": 0,
       "condition": "EX",
-      "comment": "RELISTED! Front Nm- / Back Good",
-      "date": 1772109755.9422574,
+      "comment": "Front Nm- / Back Good",
+      "date": 1772935461.3194501,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -382,7 +402,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1772700400.7987857,
+      "date": 1773218913.5039482,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -403,17 +423,17 @@
       },
       "language": "Japanese",
       "price": 410.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Minor whitenings ! Selling trainer collection",
-      "date": 1772700400.7987857,
-      "ended": false,
-      "new": false,
+      "date": 1773078833.1982388,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1755774155.2951593,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

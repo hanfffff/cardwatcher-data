@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
-  "sold": 0,
+  "available": 5,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Kor1003",
-      "date": 1772697675.0098279,
+      "date": 1773216656.0639222,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -71,17 +71,17 @@
       },
       "language": "Japanese",
       "price": 329.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "Sleeved + Toploader & fast shipping",
-      "date": 1772697675.0098279,
-      "ended": false,
-      "new": false,
+      "date": 1773075365.82861,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "first_date": 1770725646.0622196,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -196,39 +196,6 @@
       "card": "Dialga EX  (XYb 019)",
       "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
       "seller": {
-        "name": "CatDoesThings",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 700.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1772697675.0098279,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          700.0,
-          1772279529.5772662
-        ],
-        [
-          650.0,
-          1772643586.1750345
-        ]
-      ],
-      "first_date": 1771657428.5979524,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dialga EX  (XYb 019)",
-      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
-      "seller": {
         "name": "Calv0017",
         "country": "Item location: Denmark"
       },
@@ -282,6 +249,43 @@
       "card": "Dialga EX  (XYb 019)",
       "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
       "seller": {
+        "name": "CatDoesThings",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 750.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1773216656.0639222,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          700.0,
+          1772279529.5772662
+        ],
+        [
+          650.0,
+          1772643586.1750345
+        ],
+        [
+          700.0,
+          1772746027.1985917
+        ]
+      ],
+      "first_date": 1771657428.5979524,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dialga EX  (XYb 019)",
+      "canonical_name": "Pokemon_Products_Singles_Hyper-Metal-Chain-Deck_Dialga-EX-V2-XYb019",
+      "seller": {
         "name": "BazaarBaron",
         "country": "Item location: Switzerland"
       },
@@ -290,7 +294,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772697675.0098279,
+      "date": 1773216656.0639222,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -335,11 +339,11 @@
       },
       "language": "Japanese",
       "price": 1000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1772697675.0098279,
-      "ended": false,
+      "date": 1772932583.0545967,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -387,11 +391,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1006.33,
+      "price": 1012.49,
       "quantity": 1,
       "condition": "NM",
       "comment": "Can send more pics if needed",
-      "date": 1772697675.0098279,
+      "date": 1773216656.0639222,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -502,6 +506,18 @@
         [
           1006.27,
           1772643586.1750345
+        ],
+        [
+          1006.33,
+          1772746027.1985917
+        ],
+        [
+          1010.68,
+          1772932583.0545967
+        ],
+        [
+          1010.45,
+          1773075365.82861
         ]
       ],
       "first_date": 1768161032.0673025,
@@ -524,7 +540,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Brand New",
-      "date": 1772697675.0098279,
+      "date": 1773216656.0639222,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 33,
+  "available": 34,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Shanks (OP09-001)",
@@ -22,14 +22,38 @@
       },
       "language": "S-Chinese",
       "price": 45.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
-      "ended": false,
+      "date": 1772811448.1587203,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "first_date": 1772030736.7315223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "MarvinZan",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 49.5,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773046595.2455144,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773046595.2455144,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -49,7 +73,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -73,7 +97,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many OP cards available",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -89,40 +113,43 @@
       "card": "Shanks (OP09-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
       "seller": {
-        "name": "bombayjhin",
+        "name": "LeoLu07",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 63.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Scambio a mano su roma",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773179291.354523,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "JoJo2194",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 68.0,
+      "price": 67.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Many Best Price JP Cards",
-      "date": 1772716349.261112,
+      "comment": "",
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          102.0,
-          1770989860.3415513
-        ],
-        [
-          89.9,
-          1771344197.9577022
-        ],
-        [
-          75.0,
-          1771433553.1226404
-        ],
-        [
-          77.0,
-          1771641699.6871526
-        ],
-        [
-          75.0,
-          1772126500.6478455
-        ]
-      ],
-      "first_date": 1770758935.0320654,
+      "previous_prices": [],
+      "first_date": 1773179291.354523,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -138,11 +165,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 71.95,
-      "quantity": 3,
+      "price": 67.99,
+      "quantity": 2,
       "condition": "NM",
       "comment": "Daily shipping | Many more cards | Safely packed",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -185,9 +212,91 @@
         [
           72.5,
           1772555755.4744227
+        ],
+        [
+          71.95,
+          1772716349.261112
+        ],
+        [
+          71.5,
+          1773179291.354523
         ]
       ],
       "first_date": 1770758935.0320654,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "bombayjhin",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 68.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Many Best Price JP Cards",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          102.0,
+          1770989860.3415513
+        ],
+        [
+          89.9,
+          1771344197.9577022
+        ],
+        [
+          75.0,
+          1771433553.1226404
+        ],
+        [
+          77.0,
+          1771641699.6871526
+        ],
+        [
+          75.0,
+          1772126500.6478455
+        ]
+      ],
+      "first_date": 1770758935.0320654,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "KiraKiraJP",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 71.94,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "new VAT Registered Shop. Please Trust!",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          79.99,
+          1772716349.261112
+        ]
+      ],
+      "first_date": 1772126500.6478455,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -236,6 +345,30 @@
       "card": "Shanks (OP09-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
       "seller": {
+        "name": "MAXD46",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 72.85,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "100% clean card! / Quick shipping! / DM for questions! / Check my other stuff!",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773179291.354523,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
         "name": "cardpacksplaza",
         "country": "Item location: Germany"
       },
@@ -243,8 +376,8 @@
       "price": 72.88,
       "quantity": 1,
       "condition": "NM",
-      "comment": "free Booster for orders over 70 Euro",
-      "date": 1772716349.261112,
+      "comment": "free Booster for orders over 100 Euro - IG: cardpacksplazaEuro",
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -267,12 +400,41 @@
       "price": 72.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1772716349.261112,
+      "comment": "RELISTED! ",
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "first_date": 1771910988.2190692,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "phluk4s",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          87.0,
+          1773046595.2455144
+        ]
+      ],
+      "first_date": 1771847524.7633524,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -321,7 +483,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Minor imperfections",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -345,7 +507,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -402,7 +564,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "toploader or cardsaver",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -418,72 +580,28 @@
       "card": "Shanks (OP09-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
       "seller": {
-        "name": "KiraKiraJP",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 79.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "new VAT Registered Shop. Please Trust!",
-      "date": 1772716349.261112,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1772126500.6478455,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
-      "seller": {
         "name": "Galactus-Roma",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 82.99,
+      "price": 84.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           113.99,
           1772126500.6478455
+        ],
+        [
+          82.99,
+          1772811448.1587203
         ]
       ],
       "first_date": 1770758935.0320654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
-      "seller": {
-        "name": "phluk4s",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 87.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1772716349.261112,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "first_date": 1771847524.7633524,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -503,7 +621,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Minor imperfections #3",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -536,7 +654,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#3",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -569,7 +687,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -581,6 +699,43 @@
       "first_date": 1770758935.0320654,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP09-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
+      "seller": {
+        "name": "Bombocards",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 91.19,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773237094.6968114,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          110.0,
+          1771344197.9577022
+        ],
+        [
+          94.96,
+          1771782310.434901
+        ],
+        [
+          94.01,
+          1773179291.354523
+        ]
+      ],
+      "first_date": 1770758935.0320654,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -623,39 +778,6 @@
       "card": "Shanks (OP09-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
       "seller": {
-        "name": "Bombocards",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 94.01,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1772716349.261112,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          110.0,
-          1771344197.9577022
-        ],
-        [
-          94.96,
-          1771782310.434901
-        ]
-      ],
-      "first_date": 1770758935.0320654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP09-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Shanks-OP09-001",
-      "seller": {
         "name": "ManaTrust",
         "country": "Item location: Italy"
       },
@@ -664,7 +786,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -734,7 +856,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -758,7 +880,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -811,7 +933,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve> Toploader",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -840,7 +962,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -864,7 +986,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "No whitening. no dents",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -888,7 +1010,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -912,7 +1034,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics /  Sleeve Toploader",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -936,7 +1058,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Livraison le jour même et bon emballage",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -960,7 +1082,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 Pristine: 10.10.10.9.5. Error Label",
-      "date": 1772716349.261112,
+      "date": 1773237094.6968114,
       "ended": false,
       "new": false,
       "previous_prices": [

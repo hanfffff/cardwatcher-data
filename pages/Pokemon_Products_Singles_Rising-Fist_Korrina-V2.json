@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 4,
+  "available": 5,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Korrina (XY3 102)",
@@ -22,11 +22,11 @@
         "country": "Item location: France"
       },
       "language": "Korean",
-      "price": 99.99,
+      "price": 49.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "VERY RARE",
-      "date": 1772682846.2035427,
+      "date": 1773256172.124075,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -41,6 +41,10 @@
         [
           149.99,
           1771935651.477478
+        ],
+        [
+          99.99,
+          1772920648.0311928
         ]
       ],
       "first_date": 1771407875.5231001,
@@ -63,7 +67,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Many more cards | Safely packed",
-      "date": 1772682846.2035427,
+      "date": 1773256172.124075,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -79,6 +83,30 @@
       "card": "Korrina (XY3 102)",
       "canonical_name": "Pokemon_Products_Singles_Rising-Fist_Korrina-V2",
       "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 299.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8! Strict grading | Daily shipping | Safely packed!",
+      "date": 1773256172.124075,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1773256172.124075,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Korrina (XY3 102)",
+      "canonical_name": "Pokemon_Products_Singles_Rising-Fist_Korrina-V2",
+      "seller": {
         "name": "TN-POKEMON",
         "country": "Item location: France"
       },
@@ -87,7 +115,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Photos sur demande",
-      "date": 1772682846.2035427,
+      "date": 1773256172.124075,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -197,7 +225,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. new cert. 1st edition",
-      "date": 1772682846.2035427,
+      "date": 1773256172.124075,
       "ended": false,
       "new": false,
       "previous_prices": [],
