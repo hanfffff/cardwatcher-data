@@ -11,8 +11,8 @@
   ],
   "only_germany": "False",
   "available": 40,
-  "sold": 2,
-  "inserted": 1,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Dracule Mihawk (OP12-030)",
@@ -102,8 +102,8 @@
       "price": 49.99,
       "quantity": 2,
       "condition": "NM",
-      "comment": "",
-      "date": 1773244009.871361,
+      "comment": "many chinese cards in stock",
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -231,7 +231,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Quick shipping! / DM for questions! / Check my other stuff!",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -292,7 +292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -410,11 +410,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 69.09,
+      "price": 69.29,
       "quantity": 1,
       "condition": "EX",
       "comment": "White dot on side. DM for photos!",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -441,6 +441,14 @@
         [
           69.06,
           1773184282.5635922
+        ],
+        [
+          69.09,
+          1773244009.871361
+        ],
+        [
+          69.26,
+          1773335894.6590757
         ]
       ],
       "first_date": 1772467218.5965886,
@@ -465,12 +473,12 @@
       "comment": "Sleeved+Cardsaver :) Many more Cards available",
       "date": 1773184282.5635922,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1772673673.7972503,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -601,7 +609,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More OP in stock!",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -625,7 +633,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -721,7 +729,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scrivici al 3516454980 o su Instagram @gamestimelameziaterme",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -766,30 +774,6 @@
       "card": "Dracule Mihawk (OP12-030)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
       "seller": {
-        "name": "prototypdrache",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 75.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sammlungsauflösung",
-      "date": 1773244009.871361,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "first_date": 1773244009.871361,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Dracule Mihawk (OP12-030)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
-      "seller": {
         "name": "taku1917",
         "country": "Item location: France"
       },
@@ -798,7 +782,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve + Top Loader - Photos sur demande",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -822,7 +806,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask me for photo",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -851,6 +835,30 @@
       "card": "Dracule Mihawk (OP12-030)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
       "seller": {
+        "name": "prototypdrache",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 75.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sammlungsauflösung",
+      "date": 1773244009.871361,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773244009.871361,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
         "name": "Greys67",
         "country": "Item location: Italy"
       },
@@ -859,7 +867,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack Fresh",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -925,7 +933,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -954,7 +962,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved+toploader",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1007,7 +1015,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1073,7 +1081,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + Toploader",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1124,12 +1132,12 @@
       "comment": "",
       "date": 1773184282.5635922,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1773184282.5635922,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1239,6 +1247,30 @@
       "card": "Dracule Mihawk (OP12-030)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
       "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 89.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1773395331.186103,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773335894.6590757,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP12-030)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Dracule-Mihawk-OP12-030",
+      "seller": {
         "name": "CerberusTCG",
         "country": "Item location: Italy"
       },
@@ -1247,7 +1279,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1276,7 +1308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1313,7 +1345,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve & top",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1509,7 +1541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From Pack to Sleeve / + cards in stock",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1603,7 +1635,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Condition",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1636,7 +1668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1660,7 +1692,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1761,7 +1793,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1785,7 +1817,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Guardare Foto",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1809,7 +1841,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2080,7 +2112,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2113,7 +2145,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2142,7 +2174,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "every order comes with a little present",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2339,7 +2371,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Udine",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2596,7 +2628,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-5",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2649,7 +2681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2678,7 +2710,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved/toploader",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2707,7 +2739,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2731,7 +2763,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sortie de booster + Sleeve + toploader",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2755,7 +2787,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC Gold Label ! Check my profil to see all cards !",
-      "date": 1773244009.871361,
+      "date": 1773395331.186103,
       "ended": false,
       "new": false,
       "previous_prices": [],
