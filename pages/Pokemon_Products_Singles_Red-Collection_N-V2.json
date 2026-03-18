@@ -10,10 +10,34 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 4,
   "sold": 0,
   "inserted": 0,
   "listings": [
+    {
+      "card": "N (BW2 071)",
+      "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
+      "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 99.95,
+      "quantity": 1,
+      "condition": "PO",
+      "comment": "Strict grading | Daily shipping | Safely packed!",
+      "date": 1773750536.8982687,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "first_date": 1773691956.0303137,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
     {
       "card": "N (BW2 071)",
       "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
@@ -132,7 +156,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "GD/LP. Light dent/bend on top. Thousands of Japanese Holo's and Bulk! Old + Modern!",
-      "date": 1773362206.3398197,
+      "date": 1773750536.8982687,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -165,7 +189,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "some whitenings no bents",
-      "date": 1773362206.3398197,
+      "date": 1773750536.8982687,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -229,6 +253,43 @@
       "card": "N (BW2 071)",
       "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
       "seller": {
+        "name": "LA-collectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 429.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Strict grading | Daily shipping | Safely packed!",
+      "date": 1773750536.8982687,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          499.95,
+          0.0
+        ],
+        [
+          539.95,
+          56.0
+        ],
+        [
+          484.95,
+          1766080348.8437524
+        ]
+      ],
+      "first_date": 1755774158.8807933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "N (BW2 071)",
+      "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
+      "seller": {
         "name": "Babochabo",
         "country": "Item location: Germany"
       },
@@ -255,39 +316,6 @@
         ]
       ],
       "first_date": 1761774356.9656155,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "N (BW2 071)",
-      "canonical_name": "Pokemon_Products_Singles_Red-Collection_N-V2",
-      "seller": {
-        "name": "LA-collectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 484.95,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Many more Japanese and other cards! Safely packed!",
-      "date": 1766080348.8437524,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          499.95,
-          0.0
-        ],
-        [
-          539.95,
-          56.0
-        ]
-      ],
-      "first_date": 1755774158.8807933,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

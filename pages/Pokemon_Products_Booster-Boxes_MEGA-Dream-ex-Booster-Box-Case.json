@@ -12,8 +12,8 @@
     "Thai"
   ],
   "only_germany": "False",
-  "available": 11,
-  "sold": 1,
+  "available": 8,
+  "sold": 2,
   "inserted": 0,
   "listings": [
     {
@@ -28,9 +28,9 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": 1772371510.959276,
+      "date": 1773703190.1788063,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [
         [
           1550.0,
@@ -40,7 +40,7 @@
       "first_date": 1770309912.443227,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -230,12 +230,12 @@
       "comment": "Sealed same day shipping",
       "date": 1773316680.5268352,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1772114559.4974155,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -430,7 +430,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1773373450.5107877,
+      "date": 1773761776.3956954,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -492,7 +492,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "inkl. VAT",
-      "date": 1773373450.5107877,
+      "date": 1773761776.3956954,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -516,7 +516,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1773373450.5107877,
+      "date": 1773761776.3956954,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -545,7 +545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1773373450.5107877,
+      "date": 1773761776.3956954,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -614,7 +614,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1773373450.5107877,
+      "date": 1773761776.3956954,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -669,12 +669,12 @@
       },
       "language": "Japanese",
       "price": 1900.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1773373450.5107877,
-      "ended": false,
-      "new": false,
+      "date": 1773703190.1788063,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           2300.0,
@@ -684,7 +684,7 @@
       "first_date": 1765786005.6088374,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

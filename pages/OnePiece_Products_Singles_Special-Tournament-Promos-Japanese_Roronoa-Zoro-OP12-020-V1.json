@@ -10,7 +10,7 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 5,
+  "available": 6,
   "sold": 0,
   "inserted": 1,
   "listings": [
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Also on Ricardo (Lizazhou)",
-      "date": 1773365203.599082,
+      "date": 1773753533.5505908,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -50,9 +50,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773365203.599082,
+      "date": 1773753533.5505908,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "first_date": 1773365203.599082,
       "last_date": 0.0,
@@ -70,14 +70,19 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 3800.0,
+      "price": 3650.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "For Japan - Sealed Booster",
-      "date": 1773365203.599082,
+      "comment": "Sealed - For Japan -",
+      "date": 1773753533.5505908,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          3800.0,
+          1773365203.599082
+        ]
+      ],
       "first_date": 1773309606.1285932,
       "last_date": 0.0,
       "price_is_new": false,
@@ -94,15 +99,48 @@
         "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 5200.0,
+      "price": 3700.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1773365203.599082,
+      "date": 1773753533.5505908,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          5200.0,
+          1773365203.599082
+        ],
+        [
+          3950.0,
+          1773694941.775285
+        ]
+      ],
       "first_date": 1773218011.0198574,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Roronoa Zoro (OP12-020) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Roronoa-Zoro-OP12-020-V1",
+      "seller": {
+        "name": "GoblinCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 4699.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED. incl. 19%",
+      "date": 1773753533.5505908,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "first_date": 1773753533.5505908,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -122,7 +160,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 - 0063 Also Available",
-      "date": 1773365203.599082,
+      "date": 1773753533.5505908,
       "ended": false,
       "new": false,
       "previous_prices": [],
