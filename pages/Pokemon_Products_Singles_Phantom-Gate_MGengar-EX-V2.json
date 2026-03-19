@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 1,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -76,7 +76,7 @@
       "comment": "Ask for pictures",
       "date": 1773673485.8762505,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           550.0,
@@ -86,7 +86,7 @@
       "first_date": 1773197112.8439994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -132,7 +132,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1773743715.3385985,
+      "date": 1773829784.9493263,
       "ended": false,
       "new": false,
       "previous_prices": [
