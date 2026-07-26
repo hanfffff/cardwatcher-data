@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 32,
+  "available": 34,
   "sold": 1,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Luffy-Tarou (ST18-005)",
@@ -23,11 +23,11 @@
       },
       "language": "S-Chinese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Card stored in sleeve.",
-      "date": 1784583898.932079,
-      "ended": false,
+      "date": 1784719485.2078676,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -43,7 +43,12 @@
           1784008396.9304688
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784719485.2078676
+        ]
+      ],
       "first_date": 1782459906.2275703,
       "last_date": 0.0,
       "price_is_new": false,
@@ -96,7 +101,7 @@
       "comment": "RELISTED! ",
       "date": 1784427935.9526038,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           105.0,
@@ -120,7 +125,7 @@
       "first_date": 1783616187.3203783,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -159,6 +164,31 @@
       "card": "Luffy-Tarou (ST18-005)",
       "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
       "seller": {
+        "name": "KemoniaCardsLab",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Japanese & Chinese seller!! Check my store!",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784719485.2078676,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
         "name": "XxZeroxX13",
         "country": "Item location: Germany"
       },
@@ -167,7 +197,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved -> Toploader",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -189,14 +219,19 @@
       },
       "language": "S-Chinese",
       "price": 120.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve+Toploader// Fast shipping",
       "date": 1784583898.932079,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784583898.932079
+        ]
+      ],
       "first_date": 1782459906.2275703,
       "last_date": 0.0,
       "price_is_new": false,
@@ -214,14 +249,19 @@
       },
       "language": "Japanese",
       "price": 175.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Sleeved and toploader",
       "date": 1784583898.932079,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784583898.932079
+        ]
+      ],
       "first_date": 1784266678.3027744,
       "last_date": 0.0,
       "price_is_new": false,
@@ -242,7 +282,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -268,6 +308,31 @@
       "card": "Luffy-Tarou (ST18-005)",
       "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
       "seller": {
+        "name": "mujiwara",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "small damage on the back",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784719485.2078676,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
         "name": "MagicLizard",
         "country": "Item location: Italy"
       },
@@ -276,12 +341,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[CGC 9.0] ^_^ Experience and Passion at your Service ^_^",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782459906.2275703,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
+        "name": "Ced08",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 210.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Envoi du Japon délai de 7 jours ouvrables pour arriver chez vous",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785061043.6011944,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -301,7 +391,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -343,7 +433,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -544,6 +634,36 @@
       "card": "Luffy-Tarou (ST18-005)",
       "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
       "seller": {
+        "name": "Jgnd770",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 240.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "AOG 9.5",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          245.0,
+          1784810572.9334853
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784810572.9334853,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
         "name": "Holocrate",
         "country": "Item location: Italy"
       },
@@ -552,12 +672,79 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More Cards On Profile",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782737818.1976175,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
+        "name": "ikasu93",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 249.95,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9 (see picture)/Fast shipping",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          249.95,
+          1782832975.436247
+        ],
+        [
+          299.95,
+          1783357756.9826617
+        ],
+        [
+          349.95,
+          1783616187.3203783
+        ],
+        [
+          299.95,
+          1784583898.932079
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782459906.2275703,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
+        "name": "NenaShopTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 249.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784719485.2078676,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -577,7 +764,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to Sleeve + Toploader / More Cards on Stock",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -602,7 +789,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -636,7 +823,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bilder auf Anfrage",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -661,50 +848,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster to sleeve to top loader. good centering . overall impecable/  ask for pictures",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783884578.5464263,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Luffy-Tarou (ST18-005)",
-      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
-      "seller": {
-        "name": "ikasu93",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 299.95,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 (see picture)/Fast shipping",
-      "date": 1784583898.932079,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          249.95,
-          1782832975.436247
-        ],
-        [
-          299.95,
-          1783357756.9826617
-        ],
-        [
-          349.95,
-          1783616187.3203783
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782459906.2275703,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -724,7 +873,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -779,7 +928,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -818,7 +967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -843,7 +992,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -865,18 +1014,23 @@
       },
       "language": "Japanese",
       "price": 499.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1784583898.932079,
-      "ended": false,
-      "new": false,
+      "date": 1784810572.9334853,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784810572.9334853
+        ]
+      ],
       "first_date": 1783492266.6057868,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -893,12 +1047,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 I Bilder auf Anfrage",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783492266.6057868,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Luffy-Tarou (ST18-005)",
+      "canonical_name": "OnePiece_Products_Singles_A-Fist-of-Divine-Speed-Non-English_Luffy-Tarou-ST18-005",
+      "seller": {
+        "name": "BELLO-CARDS",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ORIGINAL BILD - TOPLOADER",
+      "date": 1785061043.6011944,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784810572.9334853,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -918,7 +1097,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -944,11 +1123,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 750.0,
+      "price": 700.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -959,6 +1138,10 @@
         [
           780.0,
           1784427935.9526038
+        ],
+        [
+          750.0,
+          1784810572.9334853
         ]
       ],
       "previous_quantities": [],
@@ -982,7 +1165,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ARS 10 *with certificate",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1007,7 +1190,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1037,7 +1220,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1062,7 +1245,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1087,7 +1270,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1117,7 +1300,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1142,7 +1325,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1167,7 +1350,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1192,7 +1375,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1222,7 +1405,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784583898.932079,
+      "date": 1785061043.6011944,
       "ended": false,
       "new": false,
       "previous_prices": [],

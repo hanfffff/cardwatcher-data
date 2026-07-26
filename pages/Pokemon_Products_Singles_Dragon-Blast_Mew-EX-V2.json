@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
-  "sold": 0,
-  "inserted": 1,
+  "available": 1,
+  "sold": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Mew EX  (BW5t 051)",
@@ -270,12 +270,12 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
-      "comment": "RELISTED! Carte en très bel état. Face GOOD mais très légère pliure de 3mm quasi invisible. et dos played.",
-      "date": 1784468284.9086382,
-      "ended": false,
-      "new": false,
+      "comment": "Carte en très bel état. Face GOOD mais très légère pliure de 3mm quasi invisible. et dos played.",
+      "date": 1784760941.083999,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           145.0,
@@ -298,12 +298,16 @@
         [
           0,
           1784203213.7438023
+        ],
+        [
+          1,
+          1784760941.083999
         ]
       ],
       "first_date": 1730793392.600934,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -743,7 +747,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784468284.9086382,
+      "date": 1785010498.052241,
       "ended": false,
       "new": false,
       "previous_prices": [

@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 4,
-  "sold": 0,
+  "available": 3,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -56,7 +56,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784620916.642803,
+      "date": 1785096217.3642588,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -81,7 +81,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784620916.642803,
+      "date": 1785096217.3642588,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -148,7 +148,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Some whitening NM- | Send with sleeve + toploader! Ask for pictures!",
-      "date": 1784620916.642803,
+      "date": 1785096217.3642588,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -208,18 +208,23 @@
       },
       "language": "Japanese",
       "price": 372.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Straight from Japan - ask for more Photos :)",
-      "date": 1784620916.642803,
-      "ended": false,
-      "new": false,
+      "date": 1784845696.8741393,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784845696.8741393
+        ]
+      ],
       "first_date": 1783130571.127785,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

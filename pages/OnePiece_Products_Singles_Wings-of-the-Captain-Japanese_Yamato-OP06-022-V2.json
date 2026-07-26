@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 51,
-  "sold": 0,
-  "inserted": 0,
+  "available": 53,
+  "sold": 2,
+  "inserted": 2,
   "listings": [
     {
       "card": "Yamato (OP06-022) (V.2)",
@@ -82,10 +82,10 @@
       },
       "language": "S-Chinese",
       "price": 24.99,
-      "quantity": 4,
+      "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -118,12 +118,16 @@
         [
           0,
           1782761436.3047652
+        ],
+        [
+          4,
+          1784787292.5165763
         ]
       ],
       "first_date": 1778994479.5832882,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -495,7 +499,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Dm for pictures",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -641,6 +645,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP06-022) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
+      "seller": {
+        "name": "Moinmeister1996",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 31.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784787292.5165763,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784787292.5165763
+        ]
+      ],
+      "first_date": 1784696286.0344508,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -799,7 +833,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -919,7 +953,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "New seller on Cardmarket but with extensive experience in collectibles. The card is in mint conditio",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -944,7 +978,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1081,7 +1115,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1154,14 +1188,19 @@
       },
       "language": "Japanese",
       "price": 34.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Join our discord! discord.gg/cardhub",
-      "date": 1784495996.9124856,
-      "ended": false,
+      "date": 1784696286.0344508,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784696286.0344508
+        ]
+      ],
       "first_date": 1782074359.9044452,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1212,7 +1251,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1234,18 +1273,23 @@
       },
       "language": "Japanese",
       "price": 35.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve + Toploader / Fast Shipping",
-      "date": 1784495996.9124856,
-      "ended": false,
-      "new": false,
+      "date": 1784787292.5165763,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784787292.5165763
+        ]
+      ],
       "first_date": 1781559202.4814048,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1357,6 +1401,91 @@
       "card": "Yamato (OP06-022) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
       "seller": {
+        "name": "BanzaiTimes",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 35.97,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Shipping Every 2 Business Days || B2B || F-1-5",
+      "date": 1785037443.5347004,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          34.89,
+          1783630588.8286006
+        ],
+        [
+          38.38,
+          1784495996.9124856
+        ],
+        [
+          36.63,
+          1784787292.5165763
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1784243092.73985
+        ]
+      ],
+      "first_date": 1783629065.4996915,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP06-022) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
+      "seller": {
+        "name": "JK-Entertainment",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 35.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "We buy your single cards. collections and sealed products",
+      "date": 1785037443.5347004,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          41.93,
+          1783101983.8942912
+        ],
+        [
+          40.14,
+          1783630588.8286006
+        ],
+        [
+          38.39,
+          1784495996.9124856
+        ],
+        [
+          36.64,
+          1784787292.5165763
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782341185.5895045,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP06-022) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
+      "seller": {
         "name": "Saege",
         "country": "Item location: Germany"
       },
@@ -1365,7 +1494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bilder auf Anfrage",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1390,7 +1519,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1445,7 +1574,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1500,7 +1629,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1538,75 +1667,6 @@
       "card": "Yamato (OP06-022) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
       "seller": {
-        "name": "BanzaiTimes",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 38.38,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "Shipping Every 2 Business Days || B2B || F-1-5",
-      "date": 1784495996.9124856,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          34.89,
-          1783630588.8286006
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1784243092.73985
-        ]
-      ],
-      "first_date": 1783629065.4996915,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP06-022) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
-      "seller": {
-        "name": "JK-Entertainment",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 38.39,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "We buy your single cards. collections and sealed products",
-      "date": 1784495996.9124856,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          41.93,
-          1783101983.8942912
-        ],
-        [
-          40.14,
-          1783630588.8286006
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782341185.5895045,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP06-022) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
-      "seller": {
         "name": "RareFinds",
         "country": "Item location: France"
       },
@@ -1615,7 +1675,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1665,7 +1725,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sleeve + Toploader Smart Guard",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1704,7 +1764,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve- cardsaver",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1759,7 +1819,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1784,7 +1844,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1795,12 +1855,20 @@
         [
           159.95,
           1781470715.5266798
+        ],
+        [
+          39.95,
+          1784696286.0344508
+        ],
+        [
+          159.95,
+          1784787292.5165763
         ]
       ],
       "previous_quantities": [],
       "first_date": 1778994479.5832882,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1818,7 +1886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1843,7 +1911,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1868,7 +1936,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Store in Mannheim kommt vorbei",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1893,7 +1961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster --> Sleeve-->TopLoader",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1966,7 +2034,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1991,7 +2059,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FAST SHIPPING ENVIO FOTO",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2212,11 +2280,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 41.2,
+      "price": 41.05,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2347,6 +2415,14 @@
         [
           41.32,
           1784243092.73985
+        ],
+        [
+          41.2,
+          1784495996.9124856
+        ],
+        [
+          41.1,
+          1784696286.0344508
         ]
       ],
       "previous_quantities": [],
@@ -2675,7 +2751,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3216,7 +3292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4339,7 +4415,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4453,7 +4529,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4763,7 +4839,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve Toploader",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5371,7 +5447,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5590,7 +5666,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fresh from booster",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5621,11 +5697,11 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784243092.73985,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1785037443.5347004,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5640,12 +5716,16 @@
         [
           1,
           1784243092.73985
+        ],
+        [
+          0,
+          1784243092.73985
         ]
       ],
       "first_date": 1778994479.5832882,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5662,7 +5742,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 PRISTINE",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5742,7 +5822,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5801,7 +5881,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10!!! Japanese seller!! Check my store!",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5887,6 +5967,31 @@
       "card": "Yamato (OP06-022) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
       "seller": {
+        "name": "GoblinCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 + inkl. 19%",
+      "date": 1785037443.5347004,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784696286.0344508,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP06-022) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Yamato-OP06-022-V2",
+      "seller": {
         "name": "ONE-cards",
         "country": "Item location: Germany"
       },
@@ -5895,7 +6000,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5925,7 +6030,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADED 10 OP06-022",
-      "date": 1784495996.9124856,
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6018,8 +6123,8 @@
       "price": 159.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA10 - Fast Secured Shipping",
-      "date": 1784495996.9124856,
+      "comment": "RELISTED! PSA10 - Fast Secured Shipping",
+      "date": 1785037443.5347004,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6031,12 +6136,20 @@
         [
           0,
           1781301337.9639592
+        ],
+        [
+          1,
+          1784696286.0344508
+        ],
+        [
+          0,
+          1784696286.0344508
         ]
       ],
       "first_date": 1781301337.9639592,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

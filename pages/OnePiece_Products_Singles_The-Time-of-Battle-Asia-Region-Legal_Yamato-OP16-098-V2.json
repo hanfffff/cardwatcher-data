@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 16,
-  "sold": 1,
-  "inserted": 0,
+  "available": 20,
+  "sold": 2,
+  "inserted": 3,
   "listings": [
     {
       "card": "Yamato (OP16-098) (V.2)",
@@ -28,7 +28,7 @@
       "comment": "",
       "date": 1784455162.3709073,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           60.0,
@@ -56,7 +56,7 @@
       "first_date": 1783139758.201617,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -108,7 +108,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster-sleeve-toploader",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -124,7 +124,7 @@
       "previous_quantities": [],
       "first_date": 1783308989.1989377,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -139,18 +139,23 @@
       },
       "language": "Japanese",
       "price": 45.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1784609841.1257253,
-      "ended": false,
-      "new": false,
+      "date": 1784836059.292233,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784836059.292233
+        ]
+      ],
       "first_date": 1783912423.4095871,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -178,6 +183,31 @@
         ]
       ],
       "first_date": 1781809120.4273574,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
+        "name": "PokePeddy",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785086331.2043378,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -249,6 +279,31 @@
       "card": "Yamato (OP16-098) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
       "seller": {
+        "name": "Fantho22",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "S-Chinese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785086331.2043378,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
         "name": "Viuliz",
         "country": "Item location: Italy"
       },
@@ -257,12 +312,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "thanks to those who trust us!!",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784035905.6218011,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
+        "name": "DracoFight",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster > Sleeve > Toploader",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784744539.9875019,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -338,6 +418,31 @@
       "card": "Yamato (OP16-098) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
       "seller": {
+        "name": "Pancho27",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 54.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784744539.9875019,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
         "name": "PokeStep",
         "country": "Item location: Italy"
       },
@@ -346,7 +451,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "pack fresh",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -445,7 +550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "shipping with toploader",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -453,6 +558,36 @@
       "first_date": 1783912423.4095871,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
+        "name": "Greyb4ck",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast and Careful shipping - Envoi Rapide et Soigné",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1784836059.292233
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783139758.201617,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -470,7 +605,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Instant sleeve  + top loader",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -525,7 +660,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -563,6 +698,61 @@
       "card": "Yamato (OP16-098) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
       "seller": {
+        "name": "onecardtcgstore",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 59.89,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785086331.2043378,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
+        "name": "CardGameCorner",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 59.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          69.9,
+          1784744539.9875019
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783545555.6054492,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
         "name": "CouchCardTrading",
         "country": "Item location: Netherlands"
       },
@@ -571,7 +761,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved | Toploader",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -593,20 +783,50 @@
       },
       "language": "Japanese",
       "price": 63.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Check my other cards!!",
-      "date": 1784609841.1257253,
-      "ended": false,
-      "new": false,
+      "date": 1784836059.292233,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           65.0,
           1783664046.6508155
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784836059.292233
+        ]
+      ],
       "first_date": 1782529005.5867305,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yamato (OP16-098) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
+      "seller": {
+        "name": "Miracle23k",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster fresh + toploader",
+      "date": 1785086331.2043378,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784744539.9875019,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -626,7 +846,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -661,11 +881,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 66.66,
+      "price": 66.4,
       "quantity": 1,
       "condition": "NM",
       "comment": "Excellent condition. ready to ship anytime",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -736,35 +956,18 @@
         [
           66.64,
           1784455162.3709073
+        ],
+        [
+          66.66,
+          1784609841.1257253
+        ],
+        [
+          66.48,
+          1784744539.9875019
         ]
       ],
       "previous_quantities": [],
       "first_date": 1781809120.4273574,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP16-098) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
-      "seller": {
-        "name": "CardGameCorner",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 69.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784609841.1257253,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783545555.6054492,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -780,11 +983,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 72.72,
+      "price": 72.43,
       "quantity": 1,
       "condition": "NM",
       "comment": "top loader + fast shipping",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -859,35 +1062,18 @@
         [
           72.7,
           1784455162.3709073
+        ],
+        [
+          72.72,
+          1784609841.1257253
+        ],
+        [
+          72.53,
+          1784744539.9875019
         ]
       ],
       "previous_quantities": [],
       "first_date": 1781809120.4273574,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yamato (OP16-098) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Time-of-Battle-Asia-Region-Legal_Yamato-OP16-098-V2",
-      "seller": {
-        "name": "Greyb4ck",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 75.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Fast and Careful shipping - Envoi Rapide et Soigné",
-      "date": 1784609841.1257253,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783139758.201617,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -907,7 +1093,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -932,7 +1118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784609841.1257253,
+      "date": 1785086331.2043378,
       "ended": false,
       "new": false,
       "previous_prices": [],

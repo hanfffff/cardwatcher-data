@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 78,
-  "sold": 3,
-  "inserted": 2,
+  "available": 81,
+  "sold": 6,
+  "inserted": 4,
   "listings": [
     {
       "card": "Red's Pikachu  (SM-P 270)",
@@ -330,11 +330,11 @@
       },
       "language": "Japanese",
       "price": 325.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "RELISTED! Fixable crease / ask for high res pictures",
       "date": 1784619367.3605373,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -361,12 +361,16 @@
         [
           0,
           1784198599.10931
+        ],
+        [
+          1,
+          1784619367.3605373
         ]
       ],
       "first_date": 1780014442.0840876,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -493,6 +497,31 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "kosei69",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "GD",
+      "comment": "Corners not good. Rest clean. Next Day Shipping",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784752802.3077905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "KiraKiraJP",
         "country": "Item location: Italy"
       },
@@ -535,7 +564,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Vitrine",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -596,12 +625,12 @@
       },
       "language": "Japanese",
       "price": 375.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "scratches in the back. Edges and front are fine!",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -627,12 +656,16 @@
         [
           0,
           1783673407.4275405
+        ],
+        [
+          1,
+          1784844375.5202384
         ]
       ],
       "first_date": 1780406557.4372299,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -671,6 +704,77 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "Yannick123125",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 399.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 7 + Color matching Bumper",
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          450.0,
+          1779799249.6072986
+        ],
+        [
+          500.0,
+          1781425154.6006327
+        ],
+        [
+          480.0,
+          1781517209.3452625
+        ],
+        [
+          449.0,
+          1782538283.3228047
+        ],
+        [
+          420.0,
+          1784301711.8061502
+        ],
+        [
+          405.0,
+          1784752802.3077905
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779799249.6072986
+        ],
+        [
+          0,
+          1779799249.6072986
+        ],
+        [
+          1,
+          1782538283.3228047
+        ],
+        [
+          0,
+          1782538283.3228047
+        ],
+        [
+          1,
+          1784844375.5202384
+        ]
+      ],
+      "first_date": 1778745680.0916736,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "WiindMaker",
         "country": "Item location: France"
       },
@@ -679,7 +783,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PARIS MEET UP POSSIBLE",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -758,69 +862,6 @@
         ]
       ],
       "first_date": 1777581560.3664737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
-        "name": "Yannick123125",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 405.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 7 + Color matching Bumper",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          450.0,
-          1779799249.6072986
-        ],
-        [
-          500.0,
-          1781425154.6006327
-        ],
-        [
-          480.0,
-          1781517209.3452625
-        ],
-        [
-          449.0,
-          1782538283.3228047
-        ],
-        [
-          420.0,
-          1784301711.8061502
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1779799249.6072986
-        ],
-        [
-          0,
-          1779799249.6072986
-        ],
-        [
-          1,
-          1782538283.3228047
-        ],
-        [
-          0,
-          1782538283.3228047
-        ]
-      ],
-      "first_date": 1778745680.0916736,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1073,7 +1114,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "#1111355",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1150,7 +1191,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B2.1",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1177,7 +1218,7 @@
       "comment": "Clean! -> Sleeve + Toploader",
       "date": 1784463385.4045658,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           740.0,
@@ -1201,7 +1242,7 @@
       "first_date": 1782809429.5922327,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1294,7 +1335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1473,6 +1514,56 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "FortieSicks",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 532.49,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Shipped securely!",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784752802.3077905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "PokeAlexM",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8 - Guard not included:)",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784752802.3077905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "Tismewat",
         "country": "Item location: Netherlands"
       },
@@ -1481,7 +1572,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1515,7 +1606,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Near perfect condition. ask for other pictures",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1540,7 +1631,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "B known vendor ig goldcards_",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1736,7 +1827,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Very light default",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1783,7 +1874,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1817,7 +1908,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 MINT",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1989,6 +2080,31 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "Towerseller",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785094656.8952682,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "Mawine",
         "country": "Item location: France"
       },
@@ -1997,7 +2113,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Gradée 9 PCA",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2041,40 +2157,20 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "CGC 9 Old Label",
       "date": 1784619367.3605373,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784619367.3605373
+        ]
+      ],
       "first_date": 1784463385.4045658,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
-        "name": "Warthog-1994",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 650.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "GRAAD 9 - FAST SHIP",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783149541.203294,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2167,7 +2263,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Graad 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2226,16 +2322,25 @@
       "price": 680.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "comment": "RELISTED! PSA 9",
+      "date": 1785094656.8952682,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784752802.3077905
+        ],
+        [
+          0,
+          1784752802.3077905
+        ]
+      ],
       "first_date": 1784619367.3605373,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2249,23 +2354,27 @@
       },
       "language": "Japanese",
       "price": 686.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
-      "comment": "Front Ex+. Sleeve -) Toploader. Envoi soigné. Careful shipping",
-      "date": 1783319761.4217134,
-      "ended": true,
+      "comment": "RELISTED! Front Ex+. Sleeve -) Toploader. Envoi soigné. Careful shipping",
+      "date": 1785094656.8952682,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1783319761.4217134
+        ],
+        [
+          0,
+          1783319761.4217134
         ]
       ],
       "first_date": 1779542036.610676,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2312,7 +2421,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Fast and secure shipping in air bubble envelope!!! #05372",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2346,7 +2455,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 9.5",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2432,7 +2541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PK-V / sleeved / diff. bstrg.",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2457,7 +2566,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "clean card",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2482,7 +2591,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "bgs9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2508,28 +2617,72 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "TheRichieTcg",
+        "name": "Tismewat",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 720.0,
       "quantity": 1,
-      "condition": "MT",
+      "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
+      "previous_prices": [
+        [
+          745.0,
+          1784844375.5202384
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782809429.5922327
+        ],
+        [
+          0,
+          1782809429.5922327
+        ]
+      ],
+      "first_date": 1782626832.6800787,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "TheRichieTcg",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 720.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           745.0,
           1783920934.1762166
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784844375.5202384
+        ]
+      ],
       "first_date": 1783419128.97394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2576,7 +2729,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2636,31 +2789,27 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "Tismewat",
-        "country": "Item location: Netherlands"
+        "name": "Warthog-1994",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 745.0,
+      "price": 730.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "condition": "MT",
+      "comment": "GRAAD 9 - FAST SHIP",
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
+      "previous_prices": [
         [
-          1,
-          1782809429.5922327
-        ],
-        [
-          0,
-          1782809429.5922327
+          650.0,
+          1784844375.5202384
         ]
       ],
-      "first_date": 1782626832.6800787,
+      "previous_quantities": [],
+      "first_date": 1783149541.203294,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2678,7 +2827,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "HUGE STOCK!!!",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2713,20 +2862,20 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "Impoleon",
-        "country": "Item location: Germany"
+        "name": "SomebodyOneX",
+        "country": "Item location: Latvia"
       },
       "language": "Japanese",
       "price": 749.0,
       "quantity": 1,
-      "condition": "MT",
+      "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1781712564.9296622,
+      "first_date": 1783149541.203294,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2738,23 +2887,28 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "SomebodyOneX",
-        "country": "Item location: Latvia"
+        "name": "Impoleon",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 749.0,
-      "quantity": 1,
-      "condition": "NM",
+      "quantity": 0,
+      "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783149541.203294,
+      "previous_quantities": [
+        [
+          1,
+          1784844375.5202384
+        ]
+      ],
+      "first_date": 1781712564.9296622,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2801,7 +2955,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2835,7 +2989,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2865,7 +3019,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2899,7 +3053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2964,7 +3118,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading 9.5",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2981,6 +3135,85 @@
       "first_date": 1779397094.4950187,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "Flametrain",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 799.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 9.5",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          750.0,
+          1777803471.8209553
+        ],
+        [
+          799.0,
+          1777939375.075095
+        ],
+        [
+          834.0,
+          1778114364.9145453
+        ],
+        [
+          850.0,
+          1779397094.4950187
+        ],
+        [
+          900.0,
+          1780014442.0840876
+        ],
+        [
+          950.0,
+          1780301310.486116
+        ],
+        [
+          799.0,
+          1780406557.4372299
+        ],
+        [
+          900.0,
+          1780521359.1223917
+        ],
+        [
+          1000.0,
+          1781425154.6006327
+        ],
+        [
+          949.0,
+          1784619367.3605373
+        ],
+        [
+          899.0,
+          1784844375.5202384
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778820479.7493415
+        ],
+        [
+          0,
+          1778820479.7493415
+        ]
+      ],
+      "first_date": 1777581560.3664737,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3036,7 +3269,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3135,11 +3368,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 836.27,
+      "price": 832.94,
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9.5",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3338,12 +3571,20 @@
         [
           836.02,
           1784463385.4045658
+        ],
+        [
+          836.27,
+          1784619367.3605373
+        ],
+        [
+          834.01,
+          1784752802.3077905
         ]
       ],
       "previous_quantities": [],
       "first_date": 1777939375.075095,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3361,7 +3602,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3378,66 +3619,34 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "Flametrain",
+        "name": "airmax7122",
         "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 949.0,
+      "price": 900.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "AOG 9.5",
-      "date": 1784619367.3605373,
+      "comment": "AOG 10 Gem Mint",
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          750.0,
-          1777803471.8209553
-        ],
-        [
-          799.0,
-          1777939375.075095
-        ],
-        [
-          834.0,
-          1778114364.9145453
-        ],
-        [
-          850.0,
-          1779397094.4950187
-        ],
-        [
-          900.0,
-          1780014442.0840876
-        ],
-        [
-          950.0,
-          1780301310.486116
-        ],
-        [
-          799.0,
-          1780406557.4372299
-        ],
-        [
-          900.0,
-          1780521359.1223917
-        ],
-        [
-          1000.0,
-          1781425154.6006327
+          1050.0,
+          1784198599.10931
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1778820479.7493415
+          1784198599.10931
         ],
         [
           0,
-          1778820479.7493415
+          1784198599.10931
         ]
       ],
-      "first_date": 1777581560.3664737,
+      "first_date": 1784198599.10931,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3645,27 +3854,27 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "airmax7122",
-        "country": "Item location: Austria"
+        "name": "KishynHQ",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1050.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "AOG 10  Gem Mint",
-      "date": 1784198599.10931,
-      "ended": true,
+      "comment": "",
+      "date": 1785094656.8952682,
+      "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
+      "previous_prices": [
         [
-          1,
-          1784198599.10931
+          1300.0,
+          1784844375.5202384
         ]
       ],
-      "first_date": 1784198599.10931,
+      "previous_quantities": [],
+      "first_date": 1784044976.061131,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3732,6 +3941,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "KishynHQ",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784844375.5202384
+        ]
+      ],
+      "first_date": 1784844375.5202384,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3817,7 +4056,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graad 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3844,7 +4083,7 @@
       "comment": "PSA 10",
       "date": 1784463385.4045658,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3855,7 +4094,7 @@
       "first_date": 1784198599.10931,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3872,7 +4111,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PCA 9.5",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3910,7 +4149,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4031,28 +4270,57 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "Michael10o",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Pickup only",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784844375.5202384,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "DannyWillCatchEm",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 1250.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784463385.4045658,
-      "ended": true,
-      "new": true,
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784463385.4045658
+        ],
+        [
+          0,
           1784463385.4045658
         ]
       ],
       "first_date": 1784463385.4045658,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4096,14 +4364,19 @@
       },
       "language": "Japanese",
       "price": 1275.0,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1784619367.3605373
+        ]
+      ],
       "first_date": 1784044976.061131,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4135,31 +4408,6 @@
         ]
       ],
       "first_date": 1779163492.4930696,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
-        "name": "KishynHQ",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1300.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784044976.061131,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4316,7 +4564,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4359,6 +4607,40 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "CardCenterNijmegen",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1350.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784301711.8061502
+        ],
+        [
+          0,
+          1784301711.8061502
+        ]
+      ],
+      "first_date": 1784044976.061131,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "Josh1988",
         "country": "Item location: Belgium"
       },
@@ -4367,7 +4649,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4397,42 +4679,12 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 -  Please msg me for pictures.",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782809429.5922327,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
-        "name": "CardCenterNijmegen",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1350.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1784301711.8061502,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784301711.8061502
-        ]
-      ],
-      "first_date": 1784044976.061131,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4593,7 +4845,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "HUGE STOCK!!!",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4628,6 +4880,31 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "albbert43",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1399.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa 10",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784752802.3077905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "Aquarius12",
         "country": "Item location: Germany"
       },
@@ -4636,7 +4913,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 10 Bilder auf Anfrage <3 SALE",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4691,7 +4968,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_PSA 10_ Since 1996 - TOP SERVICE",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4751,7 +5028,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4776,7 +5053,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4806,7 +5083,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5089,7 +5366,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5114,7 +5391,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Fast shipping - DM for questions",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5224,6 +5501,73 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
+        "name": "collector0913",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1499.0,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1195.0,
+          1778286242.9916573
+        ],
+        [
+          1399.0,
+          1780521359.1223917
+        ],
+        [
+          1495.0,
+          1781517209.3452625
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777581560.3664737
+        ],
+        [
+          2,
+          1780406557.4372299
+        ],
+        [
+          1,
+          1780871134.25612
+        ],
+        [
+          2,
+          1781923623.4603136
+        ],
+        [
+          0,
+          1781923623.4603136
+        ],
+        [
+          2,
+          1782390004.096132
+        ],
+        [
+          0,
+          1782390004.096132
+        ]
+      ],
+      "first_date": 1777581560.3664737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
         "name": "vaticards",
         "country": "Item location: France"
       },
@@ -5297,69 +5641,6 @@
       "card": "Red's Pikachu  (SM-P 270)",
       "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
       "seller": {
-        "name": "collector0913",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1499.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1782390004.096132,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          1195.0,
-          1778286242.9916573
-        ],
-        [
-          1399.0,
-          1780521359.1223917
-        ],
-        [
-          1495.0,
-          1781517209.3452625
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777581560.3664737
-        ],
-        [
-          2,
-          1780406557.4372299
-        ],
-        [
-          1,
-          1780871134.25612
-        ],
-        [
-          2,
-          1781923623.4603136
-        ],
-        [
-          0,
-          1781923623.4603136
-        ],
-        [
-          2,
-          1782390004.096132
-        ]
-      ],
-      "first_date": 1777581560.3664737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
         "name": "roztomilka",
         "country": "Item location: Czech Republic"
       },
@@ -5400,11 +5681,11 @@
       },
       "language": "Japanese",
       "price": 1499.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10!",
-      "date": 1784619367.3605373,
-      "ended": false,
+      "date": 1784752802.3077905,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5412,33 +5693,13 @@
           1784044976.061131
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784752802.3077905
+        ]
+      ],
       "first_date": 1783920934.1762166,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Red's Pikachu  (SM-P 270)",
-      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
-      "seller": {
-        "name": "Lesjeuxdemerlin",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782626832.6800787,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5458,7 +5719,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graad 10 . PSA 10 Equivalent",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5488,7 +5749,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5521,7 +5782,7 @@
       ],
       "first_date": 1777581560.3664737,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5539,7 +5800,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "PSA 10. ask for pictures",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5563,6 +5824,36 @@
         ]
       ],
       "first_date": 1777581560.3664737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "Lesjeuxdemerlin",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1784752802.3077905,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784752802.3077905
+        ]
+      ],
+      "first_date": 1782626832.6800787,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5767,12 +6058,37 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / NEW CERT",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784198599.10931,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Red's Pikachu  (SM-P 270)",
+      "canonical_name": "Pokemon_Products_Singles_Sun-Moon-Promos_Reds-Pikachu-SM-P270",
+      "seller": {
+        "name": "CardEmpireSK",
+        "country": "Item location: Slovakia"
+      },
+      "language": "Japanese",
+      "price": 1600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1785094656.8952682,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785094656.8952682,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5792,7 +6108,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5887,7 +6203,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5966,7 +6282,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRADATO PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6009,7 +6325,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6108,7 +6424,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADATA PSA 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6190,7 +6506,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. please ask me for pictures if needed",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6340,7 +6656,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10 solo consegna a mano",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6402,18 +6718,23 @@
       },
       "language": "Japanese",
       "price": 2500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Beckett BGS 10",
-      "date": 1784619367.3605373,
-      "ended": false,
-      "new": false,
+      "date": 1784844375.5202384,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784844375.5202384
+        ]
+      ],
       "first_date": 1783920934.1762166,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6430,7 +6751,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6455,7 +6776,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "RED PIKACHU  GRADATA(BGS)10 PRISTINE POP 300",
-      "date": 1784619367.3605373,
+      "date": 1785094656.8952682,
       "ended": false,
       "new": false,
       "previous_prices": [],

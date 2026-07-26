@@ -13,9 +13,9 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 410,
-  "sold": 19,
-  "inserted": 11,
+  "available": 416,
+  "sold": 12,
+  "inserted": 20,
   "listings": [
     {
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
@@ -518,7 +518,7 @@
       "comment": "",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           59.9,
@@ -534,7 +534,7 @@
       "first_date": 1781345158.0433514,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -606,7 +606,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Disponibile anche etb gardevoir",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -885,15 +885,65 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "viky91",
+        "name": "KaibaCorpStore",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 59.99,
       "quantity": 2,
       "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784750206.4644673,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Cartopoli",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 59.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ask for photo",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "viky91",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 59.99,
+      "quantity": 1,
+      "condition": "NM",
       "comment": "sealed perfetto spedi 5 euro",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -918,37 +968,16 @@
         [
           3,
           1784461103.0694833
+        ],
+        [
+          2,
+          1784842231.2757134
         ]
       ],
       "first_date": 1783146615.3858597,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "ukl14",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Piccolo foro sul lato",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782387325.4794886,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -965,7 +994,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "disponibile anche gardevoir",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -990,12 +1019,42 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780975509.9524372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "ukl14",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Piccolo foro sul lato",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
+      "first_date": 1782387325.4794886,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1556,7 +1615,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sigillo Perfetto non garantito",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1611,7 +1670,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1779,8 +1838,8 @@
       "price": 64.98,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Fast shipping/sealed",
-      "date": 1784616660.700298,
+      "comment": "Fast shipping/sealed w protector",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1852,31 +1911,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "ErenzCardStore",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784196076.6513546,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "TilledHauk",
         "country": "Item location: Italy"
       },
@@ -1885,7 +1919,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1919,7 +1953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Rimborso la spedizione se prendete un altro etb dei mia",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1944,9 +1978,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - Ottimo imballaggio +220 5s on Vinted",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784616660.700298,
@@ -1969,7 +2003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Hole in the seal on the back",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2003,7 +2037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2028,12 +2062,42 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Spedite con protezioni e double box",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "ErenzCardStore",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
+      "first_date": 1784196076.6513546,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2623,7 +2687,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Ask for pictures*",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3003,31 +3067,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "NobleGarden",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 67.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP/Sealed",
-      "date": 1773841201.6672041,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "Lars1234",
         "country": "Item location: Germany"
       },
@@ -3216,7 +3255,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3296,7 +3335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3603,29 +3642,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "ldexsl",
+        "name": "mattebene",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 69.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "sealed. for feed edoasalazar vinted",
-      "date": 1784616660.700298,
+      "comment": "sigillato",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778468162.9026499
-        ],
-        [
-          0,
-          1778468162.9026499
-        ]
-      ],
-      "first_date": 1775889074.225428,
+      "previous_quantities": [],
+      "first_date": 1772444137.6602192,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3637,23 +3667,36 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "mattebene",
+        "name": "ldexsl",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 69.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "sigillato",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
+      "comment": "sealed. for feed edoasalazar vinted",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772444137.6602192,
+      "previous_quantities": [
+        [
+          1,
+          1778468162.9026499
+        ],
+        [
+          0,
+          1778468162.9026499
+        ],
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1775889074.225428,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3843,7 +3886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED ALTRI PRODOTTI DISPONIBILI",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3868,7 +3911,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed spedizione veloce",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3898,7 +3941,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4408,7 +4451,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4433,7 +4476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed gedis",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4458,7 +4501,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4483,7 +4526,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4508,7 +4551,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "new. sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4533,7 +4576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for pics. new seller . vinted: +40 feedback",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4558,42 +4601,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Zeniser",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 70.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          75.0,
-          1779160488.7485392
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1778283206.35962,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4613,12 +4626,47 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sigillato perfettamente. se preso in coppia con megaevoluzione di gardevoir 135 euro totale",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778895535.7085545,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Zeniser",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 70.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1779160488.7485392
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
+      "first_date": 1778283206.35962,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6617,7 +6665,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7226,7 +7274,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Disponibile su Milano / Lodi",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7260,7 +7308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condizioni perfette - Sealed - Solo spedizioni tracciate",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7285,7 +7333,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7327,7 +7375,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed by Gedis - ask for more pics",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7357,12 +7405,37 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779467815.26148,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "DaniChaneira",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 75.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7382,7 +7455,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7407,7 +7480,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "3netb megalucario .75 euro l'uno",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7432,7 +7505,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9258,7 +9331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Piccoli tagli sulla pellicola",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9619,7 +9692,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9901,6 +9974,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "chrisitol93",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 79.5,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Jibbi5433",
         "country": "Item location: Germany"
       },
@@ -10029,7 +10127,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "More items in stock / OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10071,7 +10169,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10113,7 +10211,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nuovo sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10138,7 +10236,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Spedizione tracciata da 5.00 euro",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10606,7 +10704,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RIBO cards",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10632,6 +10730,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Ahri777",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 79.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Schönheitsfehler",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784750206.4644673,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Nikguido",
         "country": "Item location: Italy"
       },
@@ -10640,12 +10763,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast ship and Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1773841201.6672041,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "akelau1101",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 79.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784842231.2757134,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10665,7 +10813,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Avec défauts",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11384,66 +11532,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "TheMatchStore",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 80.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Matzel",
-        "country": "Item location: Italy"
-      },
-      "language": "German",
-      "price": 80.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          62.0,
-          1773755547.4684045
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1773755547.4684045
-        ]
-      ],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "Onyx77",
         "country": "Item location: Switzerland"
       },
@@ -11452,32 +11540,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "RealHack",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 80.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11502,7 +11565,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11527,7 +11590,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11552,7 +11615,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11577,7 +11640,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11602,7 +11665,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Nuovo Venditore. Fresh from case",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11636,7 +11699,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11658,6 +11721,144 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Matzel",
+        "country": "Item location: Italy"
+      },
+      "language": "German",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          62.0,
+          1773755547.4684045
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773755547.4684045
+        ],
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Nick1900",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed OVP - Kleine Factorylöcher",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          82.0,
+          1784750206.4644673
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1784616660.700298
+        ],
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784616660.700298,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "RealHack",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "SEALED",
+      "date": 1784750206.4644673,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784750206.4644673
+        ]
+      ],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "TheMatchStore",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784616660.700298
+        ]
+      ],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Danae22",
         "country": "Item location: Switzerland"
       },
@@ -11668,7 +11869,7 @@
       "comment": "",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -11679,7 +11880,7 @@
       "first_date": 1780868003.9547477,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -13264,31 +13465,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Nick1900",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 82.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Sealed OVP - Kleine Factorylöcher",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784616660.700298,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "pasottimichele80",
         "country": "Item location: Italy"
       },
@@ -13297,7 +13473,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SIGILLATO PERFETTO",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13929,18 +14105,23 @@
       },
       "language": "German",
       "price": 83.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Neu - OVP - Sealed",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
       "first_date": 1783416127.4088523,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14037,8 +14218,8 @@
       "price": 83.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
+      "comment": "RELISTED! ",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14055,50 +14236,20 @@
         [
           0,
           1783416127.4088523
+        ],
+        [
+          1,
+          1784750206.4644673
+        ],
+        [
+          0,
+          1784750206.4644673
         ]
       ],
       "first_date": 1778283206.35962,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Isi40",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 83.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Kleines Loch hinten",
-      "date": 1784461103.0694833,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1783146615.3858597
-        ],
-        [
-          1,
-          1783316612.9005933
-        ],
-        [
-          2,
-          1784461103.0694833
-        ]
-      ],
-      "first_date": 1782710353.783055,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14115,7 +14266,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "OVP / SEALED",
-      "date": 1784461103.0694833,
+      "date": 1784842231.2757134,
       "ended": true,
       "new": true,
       "previous_prices": [
@@ -14136,12 +14287,58 @@
         [
           1,
           1784461103.0694833
+        ],
+        [
+          0,
+          1784461103.0694833
+        ],
+        [
+          1,
+          1784842231.2757134
         ]
       ],
       "first_date": 1783552756.0544853,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Isi40",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 83.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Kleines Loch hinten",
+      "date": 1784461103.0694833,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1783146615.3858597
+        ],
+        [
+          1,
+          1783316612.9005933
+        ],
+        [
+          2,
+          1784461103.0694833
+        ]
+      ],
+      "first_date": 1782710353.783055,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -14379,6 +14576,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "P-man",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 84.59,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neu. ovp. schneller Versand",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "NenaShopTCG",
         "country": "Item location: Italy"
       },
@@ -14387,7 +14609,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14493,6 +14715,73 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "allcards4you",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 84.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP & Sealed",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          84.99,
+          1779033410.3814194
+        ],
+        [
+          79.95,
+          1779797283.7925458
+        ],
+        [
+          86.95,
+          1784461103.0694833
+        ],
+        [
+          87.95,
+          1784842231.2757134
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779033410.3814194
+        ],
+        [
+          2,
+          1779160488.7485392
+        ],
+        [
+          1,
+          1779797283.7925458
+        ],
+        [
+          0,
+          1779797283.7925458
+        ],
+        [
+          1,
+          1783552756.0544853
+        ],
+        [
+          0,
+          1783552756.0544853
+        ]
+      ],
+      "first_date": 1779033410.3814194,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Laucardz",
         "country": "Item location: Germany"
       },
@@ -14501,7 +14790,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Etwas beschädigt. perfekt zum öffnen",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14548,19 +14837,49 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "TurboBallCards",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 84.99,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "sealed ovp. kleinunternehmerregelung gemäß § 19 ustg",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Laxo28",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 84.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NEU - OVP - SEALED",
       "date": 1784616660.700298,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
       "first_date": 1784196076.6513546,
       "last_date": 0.0,
       "price_is_new": false,
@@ -14921,7 +15240,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14956,6 +15275,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "bobby3003",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 85.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784750206.4644673,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "daniismarca",
         "country": "Item location: Italy"
       },
@@ -14964,7 +15308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed con Teca magnetica in Plexiglass",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15006,7 +15350,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15036,7 +15380,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15075,7 +15419,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kleines Loch in der Folie",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15105,7 +15449,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kleine Factorylöcher möglich.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15122,23 +15466,28 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "SaschaLam",
-        "country": "Item location: Austria"
+        "name": "pikauxane",
+        "country": "Item location: France"
       },
-      "language": "German",
+      "language": "French",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "etwas beschädigt. leider ein Sticker angebracht. Bilder auf Anfrage",
-      "date": 1784616660.700298,
+      "comment": "livraison mondial relay 24/48h/ pas defaut",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784299450.8350573,
+      "previous_quantities": [
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784842231.2757134,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -15155,7 +15504,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. pluriball shipped and gift keychain Pokémon",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15164,6 +15513,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "SaschaLam",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 85.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "etwas beschädigt. leider ein Sticker angebracht. Bilder auf Anfrage",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784299450.8350573,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -15182,7 +15561,7 @@
       "comment": "léger défault (mini déchirure) de scellage photos aux besoin",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -15201,37 +15580,7 @@
       "first_date": 1780299337.0741224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Joon-Walther",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 85.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Ovp. Sealed",
-      "date": 1784461103.0694833,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784461103.0694833
-        ]
-      ],
-      "first_date": 1784461103.0694833,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -15490,49 +15839,6 @@
         ]
       ],
       "first_date": 1778603016.9742856,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "RadiantBlaziken",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 85.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! Fotos por privado",
-      "date": 1778603016.9742856,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          73.0,
-          1778382001.4688199
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778382001.4688199
-        ],
-        [
-          0,
-          1778382001.4688199
-        ],
-        [
-          1,
-          1778603016.9742856
-        ]
-      ],
-      "first_date": 1776390751.9488266,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16421,6 +16727,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Madizou",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 85.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neuf scellé",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Chillab0ng",
         "country": "Item location: Germany"
       },
@@ -16429,7 +16760,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16450,7 +16781,7 @@
       ],
       "first_date": 1775117611.5888412,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -16490,38 +16821,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Ank19",
-        "country": "Item location: France"
+        "name": "mstelljes1203",
+        "country": "Item location: Germany"
       },
-      "language": "French",
+      "language": "German",
       "price": 86.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Neuf et scellé",
-      "date": 1784616660.700298,
+      "comment": "OVP/Sealed",
+      "date": 1785092466.6287203,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          94.99,
-          1780404598.2113624
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780404598.2113624
-        ],
-        [
-          0,
-          1780404598.2113624
-        ],
-        [
-          2,
-          1784299450.8350573
-        ]
-      ],
-      "first_date": 1780299337.0741224,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16667,58 +16980,76 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "allcards4you",
+        "name": "cardarmy",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 87.95,
-      "quantity": 1,
+      "quantity": 10,
       "condition": "NM",
-      "comment": "OVP & Sealed",
-      "date": 1784616660.700298,
+      "comment": "Sealed - Kleinunternehmerregelung nach § 19 UStG",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          84.99,
-          1779033410.3814194
+          82.95,
+          1777935780.9106205
         ],
         [
-          79.95,
-          1779797283.7925458
+          89.95,
+          1784616660.700298
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777652797.3689437,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Ank19",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 87.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neuf et Scellé (vendu avec protection souple)",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          94.99,
+          1780404598.2113624
         ],
         [
-          86.95,
-          1784461103.0694833
+          86.99,
+          1784842231.2757134
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1779033410.3814194
+          1780404598.2113624
+        ],
+        [
+          0,
+          1780404598.2113624
         ],
         [
           2,
-          1779160488.7485392
-        ],
-        [
-          1,
-          1779797283.7925458
-        ],
-        [
-          0,
-          1779797283.7925458
-        ],
-        [
-          1,
-          1783552756.0544853
-        ],
-        [
-          0,
-          1783552756.0544853
+          1784299450.8350573
         ]
       ],
-      "first_date": 1779033410.3814194,
+      "first_date": 1780299337.0741224,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -16738,7 +17069,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu OVP - kleine Produktionslöcher. Bilder auf Anfrage",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16848,7 +17179,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16882,7 +17213,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16972,18 +17303,58 @@
       },
       "language": "French",
       "price": 89.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Avec protection souple",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1784750206.4644673
+        ]
+      ],
       "first_date": 1784196076.6513546,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Dems23",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 89.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Scellage parfait",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          85.0,
+          1784842231.2757134
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784842231.2757134,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -17173,12 +17544,12 @@
       },
       "language": "German",
       "price": 89.69,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -17188,12 +17559,16 @@
         [
           0,
           1779467815.26148
+        ],
+        [
+          1,
+          1784842231.2757134
         ]
       ],
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -17240,7 +17615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Nuovo venditore",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17413,7 +17788,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed inkl 19%",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17428,36 +17803,6 @@
         ]
       ],
       "first_date": 1781345158.0433514,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "cardarmy",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 89.95,
-      "quantity": 10,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          82.95,
-          1777935780.9106205
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777652797.3689437,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -17608,7 +17953,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17650,7 +17995,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEU & OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17680,7 +18025,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17705,7 +18050,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast ship and Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18163,41 +18508,23 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Koenni1902",
+        "name": "Zwieve",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 90.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784616660.700298,
+      "comment": "OVP - Sealed",
+      "date": 1785092466.6287203,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          90.0,
-          1782209209.16131
-        ],
-        [
-          85.0,
-          1783146615.3858597
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784299450.8350573
-        ],
-        [
-          0,
-          1784299450.8350573
-        ]
-      ],
-      "first_date": 1782117626.502197,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -18214,7 +18541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed keine Beschädigung",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18239,7 +18566,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Difetto pellicola",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18264,7 +18591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18289,7 +18616,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ungeöffnet neu",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18300,6 +18627,96 @@
       ],
       "previous_quantities": [],
       "first_date": 1773219615.9312353,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Joon-Walther",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 90.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ovp. Sealed",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          85.0,
+          1784461103.0694833
+        ],
+        [
+          80.0,
+          1784750206.4644673
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784461103.0694833
+        ],
+        [
+          0,
+          1784461103.0694833
+        ]
+      ],
+      "first_date": 1784461103.0694833,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Koenni1902",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 90.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784750206.4644673,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          90.0,
+          1782209209.16131
+        ],
+        [
+          85.0,
+          1783146615.3858597
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784299450.8350573
+        ],
+        [
+          0,
+          1784299450.8350573
+        ],
+        [
+          1,
+          1784750206.4644673
+        ]
+      ],
+      "first_date": 1782117626.502197,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -19419,7 +19836,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19958,7 +20375,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19977,6 +20394,41 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "NobleGarden",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 94.99,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "RELISTED! OVP SEALED",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          67.99,
+          1773841201.6672041
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773841201.6672041
+        ]
+      ],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20158,7 +20610,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20200,7 +20652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Kleiner DMG in der Folie. ask for Pics",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20234,7 +20686,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf. scellé en parfait état / Envoi rapide et soigné",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20259,7 +20711,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20297,7 +20749,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20792,6 +21244,169 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "DaGoatCards",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 96.56,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "some damage to seal",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          89.21,
+          1774565486.1818044
+        ],
+        [
+          89.26,
+          1774645011.0188622
+        ],
+        [
+          88.77,
+          1774947112.9171915
+        ],
+        [
+          88.37,
+          1775031320.026811
+        ],
+        [
+          88.6,
+          1775117611.5888412
+        ],
+        [
+          88.53,
+          1775203400.8190966
+        ],
+        [
+          88.47,
+          1775459268.0496545
+        ],
+        [
+          101.25,
+          1778382001.4688199
+        ],
+        [
+          101.15,
+          1778468162.9026499
+        ],
+        [
+          101.12,
+          1778603016.9742856
+        ],
+        [
+          101.1,
+          1778742738.4003608
+        ],
+        [
+          100.52,
+          1778817530.2828038
+        ],
+        [
+          100.33,
+          1779033410.3814194
+        ],
+        [
+          100.91,
+          1779160488.7485392
+        ],
+        [
+          101.05,
+          1779310097.9189785
+        ],
+        [
+          101.2,
+          1779467815.26148
+        ],
+        [
+          101.31,
+          1779618994.5031786
+        ],
+        [
+          101.37,
+          1779717771.2141988
+        ],
+        [
+          101.51,
+          1779797283.7925458
+        ],
+        [
+          101.21,
+          1779920615.420834
+        ],
+        [
+          101.07,
+          1780012486.6676295
+        ],
+        [
+          101.0,
+          1780089713.478497
+        ],
+        [
+          101.02,
+          1780222828.084771
+        ],
+        [
+          101.07,
+          1780299337.0741224
+        ],
+        [
+          101.28,
+          1780404598.2113624
+        ],
+        [
+          101.38,
+          1780518233.2527564
+        ],
+        [
+          101.33,
+          1780868003.9547477
+        ],
+        [
+          101.24,
+          1780975509.9524372
+        ],
+        [
+          101.47,
+          1781422029.8655584
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775459268.0496545
+        ],
+        [
+          1,
+          1779310097.9189785
+        ],
+        [
+          0,
+          1779310097.9189785
+        ],
+        [
+          1,
+          1781422029.8655584
+        ],
+        [
+          0,
+          1781422029.8655584
+        ]
+      ],
+      "first_date": 1774403293.9280977,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Smartem",
         "country": "Item location: Germany"
       },
@@ -20855,7 +21470,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20880,7 +21495,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20914,7 +21529,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Kleines Loch hinten in der Folie",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21058,7 +21673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf sous blister envoi rapide",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21117,7 +21732,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory sealed / OVP / ask for photos",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21151,7 +21766,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21433,7 +22048,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21450,6 +22065,14 @@
         [
           0,
           1783146615.3858597
+        ],
+        [
+          1,
+          1784616660.700298
+        ],
+        [
+          0,
+          1784616660.700298
         ]
       ],
       "first_date": 1777935780.9106205,
@@ -21602,7 +22225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21627,7 +22250,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/SEALED!",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21674,7 +22297,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21704,7 +22327,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21738,7 +22361,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21763,7 +22386,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé / Ship Colissimo sous 24/48h",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21806,7 +22429,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21831,7 +22454,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21865,7 +22488,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast & safe shipping",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21887,66 +22510,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "CakedApe",
-        "country": "Item location: Romania"
-      },
-      "language": "English",
-      "price": 99.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! Small imperfections.dings or scuffs",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          79.99,
-          1773219615.9312353
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1773219615.9312353
-        ]
-      ],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Camam-Store",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 99.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP verschweißt & versicherter Versand mit Tracking",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "Cardspiration",
         "country": "Item location: Germany"
       },
@@ -21955,7 +22518,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Originalverpackt (OVP).Bilder auf Anfrage. Keine Ausweisung der Umsatzsteuer gem. § 19 UStG.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21980,11 +22543,80 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New - Sealed - Perfect",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "CakedApe",
+        "country": "Item location: Romania"
+      },
+      "language": "English",
+      "price": 99.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Small imperfections.dings or scuffs",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          79.99,
+          1773219615.9312353
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773219615.9312353
+        ],
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Camam-Store",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 99.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP verschweißt & versicherter Versand mit Tracking",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
       "price_is_new": false,
@@ -22210,7 +22842,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22244,7 +22876,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22269,7 +22901,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22286,6 +22918,68 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Vstratus",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Scellé + Protection Acrylique",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          0,
+          1776290631.5658011
+        ],
+        [
+          1,
+          1780518233.2527564
+        ],
+        [
+          0,
+          1780518233.2527564
+        ],
+        [
+          1,
+          1781345158.0433514
+        ],
+        [
+          0,
+          1781345158.0433514
+        ],
+        [
+          1,
+          1782209209.16131
+        ],
+        [
+          0,
+          1782209209.16131
+        ],
+        [
+          1,
+          1784042410.0215223
+        ],
+        [
+          0,
+          1784042410.0215223
+        ]
+      ],
+      "first_date": 1774403293.9280977,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Pafou",
         "country": "Item location: France"
       },
@@ -22294,7 +22988,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22345,7 +23039,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Auf Anfrage mit Acryl Case",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22370,7 +23064,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé. envoi rapide et protégé.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22395,7 +23089,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp & Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22429,7 +23123,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22453,8 +23147,8 @@
       "price": 100.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! OVP / Sealed",
-      "date": 1784616660.700298,
+      "comment": "OVP / Sealed",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22483,8 +23177,8 @@
       ],
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22501,7 +23195,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22535,12 +23229,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772701075.6613333,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Bragon35190",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22560,9 +23279,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784616660.700298,
@@ -22585,7 +23304,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP. Bilder auf Nachfrage",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22610,7 +23329,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22635,7 +23354,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed ohne Schäden",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22660,37 +23379,12 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784616660.700298,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "d4n1o2k",
-        "country": "Item location: Switzerland"
-      },
-      "language": "German",
-      "price": 100.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Top Zustand Sealed + PET Case",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1773219615.9312353,
+      "first_date": 1784616660.700298,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22710,12 +23404,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784042410.0215223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "d4n1o2k",
+        "country": "Item location: Switzerland"
+      },
+      "language": "German",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Top Zustand Sealed + PET Case",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1773219615.9312353,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22735,7 +23454,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellado y en perfecto estado",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22771,64 +23490,6 @@
         ]
       ],
       "first_date": 1784299450.8350573,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Vstratus",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 100.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Scellé + Protection Acrylique",
-      "date": 1784042410.0215223,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          0,
-          1776290631.5658011
-        ],
-        [
-          1,
-          1780518233.2527564
-        ],
-        [
-          0,
-          1780518233.2527564
-        ],
-        [
-          1,
-          1781345158.0433514
-        ],
-        [
-          0,
-          1781345158.0433514
-        ],
-        [
-          1,
-          1782209209.16131
-        ],
-        [
-          0,
-          1782209209.16131
-        ],
-        [
-          1,
-          1784042410.0215223
-        ]
-      ],
-      "first_date": 1774403293.9280977,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -23778,7 +24439,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23823,161 +24484,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1775031320.026811,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "DaGoatCards",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 101.47,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1781422029.8655584,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          89.21,
-          1774565486.1818044
-        ],
-        [
-          89.26,
-          1774645011.0188622
-        ],
-        [
-          88.77,
-          1774947112.9171915
-        ],
-        [
-          88.37,
-          1775031320.026811
-        ],
-        [
-          88.6,
-          1775117611.5888412
-        ],
-        [
-          88.53,
-          1775203400.8190966
-        ],
-        [
-          88.47,
-          1775459268.0496545
-        ],
-        [
-          101.25,
-          1778382001.4688199
-        ],
-        [
-          101.15,
-          1778468162.9026499
-        ],
-        [
-          101.12,
-          1778603016.9742856
-        ],
-        [
-          101.1,
-          1778742738.4003608
-        ],
-        [
-          100.52,
-          1778817530.2828038
-        ],
-        [
-          100.33,
-          1779033410.3814194
-        ],
-        [
-          100.91,
-          1779160488.7485392
-        ],
-        [
-          101.05,
-          1779310097.9189785
-        ],
-        [
-          101.2,
-          1779467815.26148
-        ],
-        [
-          101.31,
-          1779618994.5031786
-        ],
-        [
-          101.37,
-          1779717771.2141988
-        ],
-        [
-          101.51,
-          1779797283.7925458
-        ],
-        [
-          101.21,
-          1779920615.420834
-        ],
-        [
-          101.07,
-          1780012486.6676295
-        ],
-        [
-          101.0,
-          1780089713.478497
-        ],
-        [
-          101.02,
-          1780222828.084771
-        ],
-        [
-          101.07,
-          1780299337.0741224
-        ],
-        [
-          101.28,
-          1780404598.2113624
-        ],
-        [
-          101.38,
-          1780518233.2527564
-        ],
-        [
-          101.33,
-          1780868003.9547477
-        ],
-        [
-          101.24,
-          1780975509.9524372
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775459268.0496545
-        ],
-        [
-          1,
-          1779310097.9189785
-        ],
-        [
-          0,
-          1779310097.9189785
-        ],
-        [
-          1,
-          1781422029.8655584
-        ]
-      ],
-      "first_date": 1774403293.9280977,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -24044,6 +24550,56 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "goldglurak",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 103.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed. Feel free to ask for pictures",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "chrisitol93",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 104.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "NathanaelTillier",
         "country": "Item location: France"
       },
@@ -24052,7 +24608,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf. Scellé",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24107,7 +24663,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24183,25 +24739,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Huylikopter",
+        "name": "Laxo28",
         "country": "Item location: Germany"
       },
-      "language": "German",
+      "language": "English",
       "price": 104.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed - New - OVP",
-      "date": 1784616660.700298,
+      "comment": "NEU - OVP - SEALED",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          100.0,
-          1783670673.6787183
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783552756.0544853,
+      "first_date": 1784750206.4644673,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -24221,7 +24772,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New/Sealed. New seller. 90+ positive reviews on Vinted",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24237,6 +24788,41 @@
         ]
       ],
       "first_date": 1783146615.3858597,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Huylikopter",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 104.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed - New - OVP",
+      "date": 1784750206.4644673,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1783670673.6787183
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784750206.4644673
+        ]
+      ],
+      "first_date": 1783552756.0544853,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -24345,7 +24931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24362,23 +24948,53 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Chiefinkeef",
+        "country": "Item location: Poland"
+      },
+      "language": "English",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Pikpocket-TCG",
         "country": "Item location: France"
       },
       "language": "French",
       "price": 105.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "envoi rapide/ avec protection souple",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784842231.2757134
+        ]
+      ],
       "first_date": 1783146615.3858597,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -24740,7 +25356,7 @@
       "comment": "Sealed. Top Condition",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -24751,7 +25367,7 @@
       "first_date": 1784461103.0694833,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25001,12 +25617,12 @@
       },
       "language": "English",
       "price": 107.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "More sealed offers available",
-      "date": 1784461103.0694833,
-      "ended": true,
-      "new": true,
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           118.0,
@@ -25017,12 +25633,16 @@
         [
           1,
           1784461103.0694833
+        ],
+        [
+          0,
+          1784461103.0694833
         ]
       ],
       "first_date": 1782710353.783055,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25039,12 +25659,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784299450.8350573,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Pokeroom",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 108.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ovp Sealed",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -25104,14 +25749,14 @@
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
         "name": "ChillingMoon",
-        "country": "Item location: Germany"
+        "country": "Item location: Switzerland"
       },
       "language": "English",
       "price": 108.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25349,20 +25994,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Not-So-Stupid",
-        "country": "Item location: France"
+        "name": "ztomx7",
+        "country": "Item location: Italy"
       },
-      "language": "French",
+      "language": "English",
       "price": 109.0,
-      "quantity": 4,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Scellé & emballage soigné",
-      "date": 1784616660.700298,
+      "comment": "Sealed EU Fast Ship",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783918474.12343,
+      "first_date": 1783416127.4088523,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -25374,23 +26019,28 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "ztomx7",
-        "country": "Item location: Italy"
+        "name": "Not-So-Stupid",
+        "country": "Item location: France"
       },
-      "language": "English",
+      "language": "French",
       "price": 109.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Sealed EU Fast Ship",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
+      "comment": "Scellé & emballage soigné",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783416127.4088523,
+      "previous_quantities": [
+        [
+          4,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1783918474.12343,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25513,7 +26163,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25543,6 +26193,36 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Pokatiro",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 109.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP/Sealed. Wird in PET Case geliefert. Lagerspuren möglich .",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          119.99,
+          1784842231.2757134
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784616660.700298,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "DieSuppee",
         "country": "Item location: Germany"
       },
@@ -25553,7 +26233,7 @@
       "comment": "neu ovp - Bilder auf Anfrage",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -25564,7 +26244,7 @@
       "first_date": 1784299450.8350573,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25744,6 +26424,45 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Karten-Dschungel",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 110.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP 19 %",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          115.0,
+          1784842231.2757134
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784750206.4644673
+        ],
+        [
+          5,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784750206.4644673,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "da-ausi",
         "country": "Item location: Austria"
       },
@@ -25752,7 +26471,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP & Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25778,31 +26497,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "RealHack",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 110.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1773311319.5122654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "NerdCompany",
         "country": "Item location: Italy"
       },
@@ -25811,7 +26505,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25836,7 +26530,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Sealed -Ask FOTO Before Buy",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25861,7 +26555,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Piccoli difetti su pellicola",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25886,7 +26580,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "- Neuf/Scellé/ FR -",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25911,7 +26605,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25936,7 +26630,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25961,7 +26655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PERFECT SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25986,7 +26680,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "parfait état. sous protection acrylique",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26003,19 +26697,54 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "RealHack",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 110.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784750206.4644673,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784750206.4644673
+        ]
+      ],
+      "first_date": 1773311319.5122654,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "KStcggg",
         "country": "Item location: Belgium"
       },
       "language": "French",
       "price": 110.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Scelled. sending fast",
       "date": 1784616660.700298,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1784616660.700298
+        ]
+      ],
       "first_date": 1784461103.0694833,
       "last_date": 0.0,
       "price_is_new": false,
@@ -26838,7 +27567,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26868,7 +27597,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26927,53 +27656,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "FilimonG1",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 114.97,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed | Fast Shipping",
-      "date": 1784461103.0694833,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          117.99,
-          1780975509.9524372
-        ],
-        [
-          119.97,
-          1784042410.0215223
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780975509.9524372
-        ],
-        [
-          0,
-          1780975509.9524372
-        ],
-        [
-          1,
-          1784461103.0694833
-        ]
-      ],
-      "first_date": 1779920615.420834,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "GoPaddle",
         "country": "Item location: Germany"
       },
@@ -26982,7 +27664,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Folie hat an der rechten Seite einen kleinen Einriss. ansonsten Seal intakt",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27007,7 +27689,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27092,12 +27774,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "opv sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783316612.9005933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Kevvinvw",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 115.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfect condition - more deals available",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784842231.2757134,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -27117,7 +27824,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27142,7 +27849,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect. Con protector de plástico.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27167,7 +27874,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27192,7 +27899,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27214,20 +27921,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "WolfieKrk",
-        "country": "Item location: Poland"
+        "name": "ToaKhu",
+        "country": "Item location: Belgium"
       },
       "language": "English",
       "price": 115.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "sealed mint",
-      "date": 1784616660.700298,
+      "comment": "Sealed",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784042410.0215223,
+      "first_date": 1784461103.0694833,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -27239,20 +27946,20 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "ToaKhu",
-        "country": "Item location: Belgium"
+        "name": "WolfieKrk",
+        "country": "Item location: Poland"
       },
       "language": "English",
       "price": 115.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1784616660.700298,
+      "comment": "sealed mint",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784461103.0694833,
+      "first_date": 1784042410.0215223,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -27274,7 +27981,7 @@
       "comment": "Sealed and perfect",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -27285,7 +27992,7 @@
       "first_date": 1778742738.4003608,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -27540,8 +28247,8 @@
       "price": 115.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed / incl. PET-Case",
-      "date": 1784616660.700298,
+      "comment": "Sealed / incl. PET-Case",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27566,8 +28273,33 @@
       ],
       "first_date": 1772749788.28844,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "NickMoker",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 117.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785092466.6287203,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -27627,7 +28359,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27666,17 +28398,77 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "PokeMasterLuc",
+        "name": "Signon36",
         "country": "Item location: Netherlands"
       },
       "language": "English",
       "price": 118.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed",
-      "date": 1784616660.700298,
+      "comment": "Perfecte staat",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
+      "previous_prices": [
+        [
+          124.0,
+          1784842231.2757134
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784299450.8350573,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Moiclago",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 118.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          125.0,
+          1780518233.2527564
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779717771.2141988,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "PokeMasterLuc",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 118.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           94.0,
@@ -27699,42 +28491,16 @@
         [
           0,
           1778382001.4688199
+        ],
+        [
+          1,
+          1784842231.2757134
         ]
       ],
       "first_date": 1777276828.9988265,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Moiclago",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 118.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          125.0,
-          1780518233.2527564
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779717771.2141988,
-      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -27923,6 +28689,86 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "FilimonG1",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 118.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed | Fast Shipping",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          117.99,
+          1780975509.9524372
+        ],
+        [
+          119.97,
+          1784042410.0215223
+        ],
+        [
+          114.97,
+          1784461103.0694833
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780975509.9524372
+        ],
+        [
+          0,
+          1780975509.9524372
+        ],
+        [
+          1,
+          1784461103.0694833
+        ],
+        [
+          0,
+          1784461103.0694833
+        ]
+      ],
+      "first_date": 1779920615.420834,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Alejandrabirr",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 118.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Nueva",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784842231.2757134,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "yugiohgame88",
         "country": "Item location: France"
       },
@@ -27931,7 +28777,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27986,7 +28832,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28016,7 +28862,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf/Sealed ETB DISP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28050,7 +28896,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28100,7 +28946,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28125,7 +28971,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28180,7 +29026,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28312,31 +29158,6 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
-        "name": "Pokatiro",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 119.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP/Sealed. Wird in PET Case geliefert. Lagerspuren möglich .",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784616660.700298,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
         "name": "un4ilo",
         "country": "Item location: Spain"
       },
@@ -28345,7 +29166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28370,7 +29191,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "UVP / Sofort versandbereit / Bilder per PM",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28515,6 +29336,31 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "Robertb93",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Box x / Original seal",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784750206.4644673,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "AndreCM",
         "country": "Item location: Spain"
       },
@@ -28523,7 +29369,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28548,7 +29394,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf scellé envoi rapide et soigné",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28570,6 +29416,64 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "cardportholland",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! SEALED",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777799881.3307045
+        ],
+        [
+          0,
+          1777799881.3307045
+        ],
+        [
+          1,
+          1779618994.5031786
+        ],
+        [
+          0,
+          1779618994.5031786
+        ],
+        [
+          1,
+          1780404598.2113624
+        ],
+        [
+          0,
+          1780404598.2113624
+        ],
+        [
+          1,
+          1784461103.0694833
+        ],
+        [
+          0,
+          1784461103.0694833
+        ]
+      ],
+      "first_date": 1777276828.9988265,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "gianedavicollezioni",
         "country": "Item location: Italy"
       },
@@ -28578,7 +29482,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "new and sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28603,7 +29507,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28637,7 +29541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ETB / Parfaitement scellés / Envoi rapide et bien protéger avec papier bulle (photos sur demande)",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28662,7 +29566,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28717,7 +29621,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28742,7 +29646,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28767,7 +29671,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28776,60 +29680,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "cardportholland",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 120.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "SEALED",
-      "date": 1784461103.0694833,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777799881.3307045
-        ],
-        [
-          0,
-          1777799881.3307045
-        ],
-        [
-          1,
-          1779618994.5031786
-        ],
-        [
-          0,
-          1779618994.5031786
-        ],
-        [
-          1,
-          1780404598.2113624
-        ],
-        [
-          0,
-          1780404598.2113624
-        ],
-        [
-          1,
-          1784461103.0694833
-        ]
-      ],
-      "first_date": 1777276828.9988265,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -29077,11 +29927,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 121.2,
+      "price": 120.72,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29408,12 +30258,20 @@
         [
           121.17,
           1784461103.0694833
+        ],
+        [
+          121.2,
+          1784616660.700298
+        ],
+        [
+          120.88,
+          1784750206.4644673
         ]
       ],
       "previous_quantities": [],
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -29427,11 +30285,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 121.2,
+      "price": 120.72,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29510,12 +30368,20 @@
         [
           121.17,
           1784461103.0694833
+        ],
+        [
+          121.2,
+          1784616660.700298
+        ],
+        [
+          120.88,
+          1784750206.4644673
         ]
       ],
       "previous_quantities": [],
       "first_date": 1781710491.1712604,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -29529,11 +30395,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 121.2,
+      "price": 120.72,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29760,12 +30626,20 @@
         [
           121.17,
           1784461103.0694833
+        ],
+        [
+          121.2,
+          1784616660.700298
+        ],
+        [
+          120.88,
+          1784750206.4644673
         ]
       ],
       "previous_quantities": [],
       "first_date": 1776906517.6823626,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -29822,7 +30696,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29871,7 +30745,7 @@
       "comment": "Fast and secure shipping!",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -29880,31 +30754,6 @@
         ]
       ],
       "first_date": 1784461103.0694833,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -3,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Signon36",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 124.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784299450.8350573,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -29924,7 +30773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30001,7 +30850,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30035,7 +30884,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed - Huge Cards Stock",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30104,7 +30953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED Big pokemon stock - LuckyPullsTCG",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30138,7 +30987,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30160,6 +31009,53 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "M3nace",
+        "country": "Item location: Switzerland"
+      },
+      "language": "French",
+      "price": 125.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Envoi soigné",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          129.0,
+          1779033410.3814194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782117626.502197
+        ],
+        [
+          0,
+          1782117626.502197
+        ],
+        [
+          1,
+          1782710353.783055
+        ],
+        [
+          0,
+          1782710353.783055
+        ]
+      ],
+      "first_date": 1778111319.1952052,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "Pok3store",
         "country": "Item location: Spain"
       },
@@ -30168,7 +31064,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30193,7 +31089,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Gardevoir ETB also available!",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30218,7 +31114,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition. fast shipping",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30243,7 +31139,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30268,37 +31164,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775761377.0022888,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "felixvalois18",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 125.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Venta en mano en alicante",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779538839.719265,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -30318,12 +31189,42 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed mint",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783146615.3858597,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "felixvalois18",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 125.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Venta en mano en alicante",
+      "date": 1784750206.4644673,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784750206.4644673
+        ]
+      ],
+      "first_date": 1779538839.719265,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -30345,7 +31246,7 @@
       "comment": "",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -30356,7 +31257,7 @@
       "first_date": 1773696953.1524837,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -30384,49 +31285,6 @@
         ]
       ],
       "first_date": 1783316612.9005933,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "M3nace",
-        "country": "Item location: Switzerland"
-      },
-      "language": "French",
-      "price": 125.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Envoi soigné",
-      "date": 1782710353.783055,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          129.0,
-          1779033410.3814194
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782117626.502197
-        ],
-        [
-          0,
-          1782117626.502197
-        ],
-        [
-          1,
-          1782710353.783055
-        ]
-      ],
-      "first_date": 1778111319.1952052,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -30664,8 +31522,8 @@
       "price": 128.0,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! OVP | Sealed | inkl. 19% MwSt.",
-      "date": 1784616660.700298,
+      "comment": "OVP | Sealed | inkl. 19% MwSt.",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30687,7 +31545,7 @@
       "first_date": 1777799881.3307045,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -30742,7 +31600,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Ovp Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30759,16 +31617,46 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "SealedCardzz",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 129.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Ovp Sealed / inc 19% VAT",
+      "date": 1784842231.2757134,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784842231.2757134
+        ]
+      ],
+      "first_date": 1784299450.8350573,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "lukrashop",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 129.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP - Sealed - Inkl. 19% MwSt.",
       "date": 1784616660.700298,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -30780,77 +31668,13 @@
         [
           0,
           1773079882.4338202
+        ],
+        [
+          1,
+          1784616660.700298
         ]
       ],
       "first_date": 1772444137.6602192,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "SealedCardzz",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 129.9,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Ovp Sealed / inc 19% VAT",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784299450.8350573,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "ShaniceH12",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 129.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed | Ask for more pictures",
-      "date": 1784196076.6513546,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          124.9,
-          1782806640.3716815
-        ],
-        [
-          129.9,
-          1783416127.4088523
-        ],
-        [
-          124.9,
-          1783552756.0544853
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784196076.6513546
-        ]
-      ],
-      "first_date": 1782310673.0175407,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -30872,7 +31696,7 @@
       "comment": "",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -30883,7 +31707,7 @@
       "first_date": 1783146615.3858597,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -4,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -30973,7 +31797,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31052,12 +31876,37 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Ask for shipping options - Invoice without VAT possible",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782310673.0175407,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "HASEK-SHOP",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 129.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP Sealed",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784842231.2757134,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -31077,7 +31926,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31102,7 +31951,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31127,7 +31976,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31182,7 +32031,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31228,7 +32077,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31250,6 +32099,57 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "RadiantBlaziken",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 130.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sellado / Fotos por privado",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          73.0,
+          1778382001.4688199
+        ],
+        [
+          85.0,
+          1778603016.9742856
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778382001.4688199
+        ],
+        [
+          0,
+          1778382001.4688199
+        ],
+        [
+          1,
+          1778603016.9742856
+        ],
+        [
+          0,
+          1778603016.9742856
+        ]
+      ],
+      "first_date": 1776390751.9488266,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "xmarjoleinx",
         "country": "Item location: Netherlands"
       },
@@ -31258,7 +32158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New. sealed!",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31294,7 +32194,7 @@
       "comment": "Sealed",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           100.0,
@@ -31314,7 +32214,7 @@
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -31333,7 +32233,7 @@
       "comment": "",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -31344,7 +32244,7 @@
       "first_date": 1784461103.0694833,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -31649,6 +32549,57 @@
       "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
       "seller": {
+        "name": "ShaniceH12",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 134.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed | Ask for more pictures",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          124.9,
+          1782806640.3716815
+        ],
+        [
+          129.9,
+          1783416127.4088523
+        ],
+        [
+          124.9,
+          1783552756.0544853
+        ],
+        [
+          129.9,
+          1784196076.6513546
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784196076.6513546
+        ],
+        [
+          0,
+          1784196076.6513546
+        ]
+      ],
+      "first_date": 1782310673.0175407,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
         "name": "momiafantastic8",
         "country": "Item location: Spain"
       },
@@ -31700,7 +32651,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Guardevoir ETB also available. clean Box. daily shipping with bubble wrap",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31725,7 +32676,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31764,7 +32715,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31794,7 +32745,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "-18.23-",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31816,10 +32767,10 @@
       },
       "language": "English",
       "price": 139.95,
-      "quantity": 7,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31980,12 +32931,20 @@
         [
           8,
           1784461103.0694833
+        ],
+        [
+          7,
+          1784616660.700298
+        ],
+        [
+          6,
+          1784842231.2757134
         ]
       ],
       "first_date": 1774127449.968964,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": -4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -32067,7 +33026,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32110,7 +33069,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32142,7 +33101,7 @@
       "comment": "die Verpackung kann Mängel aufweisen. zum öffnen perfekt.",
       "date": 1784461103.0694833,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           99.99,
@@ -32202,7 +33161,32 @@
       "first_date": 1776100475.550545,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "StepAtmo",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 140.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785092466.6287203,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784842231.2757134,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -32219,7 +33203,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Delivery from CH",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32244,7 +33228,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Delivery from CH",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32269,7 +33253,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Factory Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32294,7 +33278,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed & OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32324,7 +33308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32379,7 +33363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP & Sealed INV",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32418,7 +33402,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory sealed / OVP / ask for photos",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32452,7 +33436,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32486,7 +33470,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32511,7 +33495,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "5",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32578,7 +33562,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#2. OVP sealed. seal has some damage on corner. Ask for more pictures.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32603,7 +33587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#1. OVP sealed. seal has some damage on corners. Ask for more pictures.",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32628,7 +33612,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32687,7 +33671,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32712,7 +33696,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Ask more photos",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32747,7 +33731,7 @@
       "quantity": 15,
       "condition": "NM",
       "comment": "Objet officiel sous licence. Photos non contractuelles  l'objet peut présenter de légers défauts d'",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32802,7 +33786,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32836,7 +33820,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32861,7 +33845,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32886,7 +33870,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed perfetto",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32902,7 +33886,7 @@
       "previous_quantities": [],
       "first_date": 1772444137.6602192,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -32920,46 +33904,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775117611.5888412,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
-      "seller": {
-        "name": "Tdm90",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778283206.35962
-        ],
-        [
-          0,
-          1778283206.35962
-        ]
-      ],
-      "first_date": 1778111319.1952052,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -32979,7 +33929,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33004,7 +33954,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33038,7 +33988,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33063,12 +34013,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775117611.5888412,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Tdm90",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784616660.700298,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778283206.35962
+        ],
+        [
+          0,
+          1778283206.35962
+        ],
+        [
+          1,
+          1784616660.700298
+        ]
+      ],
+      "first_date": 1778111319.1952052,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -33212,7 +34200,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33237,7 +34225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33262,7 +34250,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33292,7 +34280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "scellé",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33322,7 +34310,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33346,8 +34334,8 @@
       "price": 160.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "(Lisboa + arredores) Levantamento em mãos disponível. Preço mais baixo. Contacte-me antes da compra.",
-      "date": 1784616660.700298,
+      "comment": "(Lisboa + arredores / faço a entrega) Com o levantamento em mãos fica 140",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33402,7 +34390,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed & OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33440,7 +34428,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "mint parfaite",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33465,7 +34453,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed with acrylic case",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33495,7 +34483,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33538,7 +34526,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33585,7 +34573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33615,7 +34603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / OVP",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33645,7 +34633,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP & Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33679,7 +34667,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP & Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33730,7 +34718,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33755,7 +34743,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New and sealed. Fast shipping",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33794,7 +34782,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Envoi rapide et soigné - neuf et scellé",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33889,7 +34877,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33923,7 +34911,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33948,7 +34936,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "avec protection etb acrylique",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33973,7 +34961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and new",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34023,7 +35011,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34080,11 +35068,11 @@
       },
       "language": "English",
       "price": 260.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784616660.700298,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -34108,6 +35096,10 @@
         [
           1,
           1780975509.9524372
+        ],
+        [
+          2,
+          1784616660.700298
         ]
       ],
       "first_date": 1772749788.28844,
@@ -34160,7 +35152,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34198,7 +35190,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP & Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34359,7 +35351,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34384,7 +35376,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP. Sealed",
-      "date": 1784616660.700298,
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34448,16 +35440,25 @@
       "price": 300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784616660.700298,
+      "comment": "RELISTED! ",
+      "date": 1785092466.6287203,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784616660.700298
+        ],
+        [
+          0,
+          1784616660.700298
+        ]
+      ],
       "first_date": 1782209209.16131,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -34474,7 +35475,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed + PET Protective Box - shipping from GER possible",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34624,7 +35625,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "OVP/Sealed",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34714,7 +35715,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34744,7 +35745,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34778,7 +35779,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "professional and fast shipping",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34808,7 +35809,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "im Acryl Cade",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34863,7 +35864,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34905,7 +35906,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1784842231.2757134,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34935,7 +35936,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784616660.700298,
+      "date": 1784750206.4644673,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34967,7 +35968,7 @@
       "comment": "ETB ME01\"2x\"/02/2.5/04 perfectly sealed",
       "date": 1784196076.6513546,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -34978,7 +35979,7 @@
       "first_date": 1783552756.0544853,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -35055,7 +36056,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "N'est pas a vendre",
-      "date": 1784616660.700298,
+      "date": 1784750206.4644673,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35080,7 +36081,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784616660.700298,
+      "date": 1784750206.4644673,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -35091,6 +36092,31 @@
       ],
       "previous_quantities": [],
       "first_date": 1772444137.6602192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Mega Evolution: Mega Lucario Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_Mega-Evolution-Mega-Lucario-Elite-Trainer-Box",
+      "seller": {
+        "name": "Skynes",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 10000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED!!",
+      "date": 1784750206.4644673,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784750206.4644673,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

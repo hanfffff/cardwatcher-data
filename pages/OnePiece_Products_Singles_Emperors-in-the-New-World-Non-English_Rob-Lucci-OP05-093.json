@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 36,
-  "sold": 2,
-  "inserted": 1,
+  "available": 44,
+  "sold": 1,
+  "inserted": 2,
   "listings": [
     {
       "card": "Rob Lucci (OP05-093)",
@@ -242,6 +242,40 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "KemoniaCardsLab",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 22.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Japanese & Chinese seller!! Check my store!",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          5,
+          1784735966.4267192
+        ],
+        [
+          4,
+          1784827004.20777
+        ]
+      ],
+      "first_date": 1784735966.4267192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3296,20 +3330,25 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
-        "name": "FrazerSxStyl",
-        "country": "Item location: Germany"
+        "name": "YudeshiCards",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 32.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
+      "comment": "Sleeve + Toploader",
+      "date": 1785078170.3612883,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1783903648.6640055
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1784601020.0813665,
+      "first_date": 1783122361.5298984,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3321,25 +3360,25 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
-        "name": "YudeshiCards",
-        "country": "Item location: Spain"
+        "name": "FrazerSxStyl",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 32.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Sleeve + Toploader",
-      "date": 1784601020.0813665,
-      "ended": false,
+      "comment": "",
+      "date": 1784735966.4267192,
+      "ended": true,
       "new": false,
-      "previous_prices": [
+      "previous_prices": [],
+      "previous_quantities": [
         [
-          40.0,
-          1783903648.6640055
+          1,
+          1784735966.4267192
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1783122361.5298984,
+      "first_date": 1784601020.0813665,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3424,7 +3463,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEW SELLER!!!",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3547,7 +3586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfresh & sleeved",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3809,7 +3848,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3845,7 +3884,7 @@
       "comment": "pack to sleeve and toploader // shipping with toploader",
       "date": 1784446092.9368258,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           39.5,
@@ -3885,7 +3924,7 @@
       "first_date": 1776182002.6513205,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3902,7 +3941,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeves+toploader",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4095,12 +4134,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775869600.6003766,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Cards-Hunter",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 35.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784735966.4267192,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4120,7 +4184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4155,18 +4219,23 @@
       },
       "language": "Japanese",
       "price": 35.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "booster to sleeve",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
+      "date": 1784827004.20777,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784827004.20777
+        ]
+      ],
       "first_date": 1769179973.4290824,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4249,40 +4318,6 @@
         ]
       ],
       "first_date": 1774220979.4471316,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "KemoniaCardsLab",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 35.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! Japanese & Chinese seller!! Check my store!",
-      "date": 1777217667.7436092,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          45.0,
-          1769179973.4290824
-        ],
-        [
-          50.0,
-          1769622332.0517569
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769179973.4290824,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4486,7 +4521,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4541,7 +4576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4752,7 +4787,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4815,7 +4850,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "R.P. - 183",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4870,6 +4905,31 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
+        "name": "Tomzi105",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 39.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to sleeve to toploader",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784827004.20777,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
         "name": "Rising-Phoenix",
         "country": "Item location: Italy"
       },
@@ -4888,6 +4948,49 @@
         ]
       ],
       "previous_quantities": [],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "KemoniaCardsLab",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 40.0,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "Japanese & Chinese seller!! Check my store!",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          45.0,
+          1769179973.4290824
+        ],
+        [
+          50.0,
+          1769622332.0517569
+        ],
+        [
+          35.0,
+          1777217667.7436092
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1777217667.7436092
+        ]
+      ],
       "first_date": 1769179973.4290824,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5198,15 +5301,847 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
+        "name": "KiuBear",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 42.66,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784735966.4267192,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784735966.4267192
+        ]
+      ],
+      "first_date": 1784735966.4267192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "BuiBui",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 43.89,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784446092.9368258,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784446092.9368258
+        ]
+      ],
+      "first_date": 1784182045.283093,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Ionocast-Shop",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 43.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Weißer Binder - 1",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779765769.4574265
+        ],
+        [
+          0,
+          1779765769.4574265
+        ],
+        [
+          1,
+          1784285084.970874
+        ],
+        [
+          0,
+          1784285084.970874
+        ]
+      ],
+      "first_date": 1770713881.3836172,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "jordan-de",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 43.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1778877031.2865815,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778877031.2865815
+        ]
+      ],
+      "first_date": 1769772290.2206008,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "capaz13",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1781661568.116249,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "NenaShopTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          34.47,
+          1775741899.1704435
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775741899.1704435
+        ],
+        [
+          1,
+          1782281509.0645418
+        ],
+        [
+          0,
+          1782281509.0645418
+        ]
+      ],
+      "first_date": 1773919457.4711175,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 44.98,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-3",
+      "date": 1782361298.5279377,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1782092085.1020844
+        ],
+        [
+          1,
+          1782361298.5279377
+        ]
+      ],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Galactus-Roma",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "~#| Order more. save on shipping",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784182045.283093,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Tobostop",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 44.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1778724243.7215002
+        ],
+        [
+          0,
+          1778724243.7215002
+        ]
+      ],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "CerberusTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "O03",
+      "date": 1777613845.9475367,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777613845.9475367
+        ]
+      ],
+      "first_date": 1771440303.4360397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "CollectorsMania",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 44.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1770920996.6288042,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          100.0,
+          1770713881.3836172
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1770194333.410067,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "PlaceOfGeek",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Best Deals Many Cards In Stock Daily Shipping 0307261038XD",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784182045.283093,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "raulrubio",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "See my other cards JP2",
+      "date": 1777995800.2701325,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1777995800.2701325
+        ]
+      ],
+      "first_date": 1770833790.519509,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "GamesTimeAlzate",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1773919457.4711175,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1769501450.3872938,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Reddington9256",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1769680018.680909,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1769591470.1661146,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Godpack-Mother",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 47.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783122361.5298984,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          55.0,
+          1775183406.8364234
+        ],
+        [
+          35.0,
+          1776563638.5283978
+        ],
+        [
+          33.99,
+          1778362547.5886977
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783122361.5298984
+        ]
+      ],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "ZurisShop",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "More Singles. Local Store Wuppertal",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          44.99,
+          1784601020.0813665
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1777774469.2734265
+        ],
+        [
+          0,
+          1777774469.2734265
+        ],
+        [
+          3,
+          1784601020.0813665
+        ]
+      ],
+      "first_date": 1776885869.233223,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Markdd27",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784182045.283093,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "XDembo",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Top Conditions and fast delivery",
+      "date": 1769345701.411857,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "kelefaba",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sleeved/toploader",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1770996880.7060478
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782782568.5020118
+        ],
+        [
+          0,
+          1782782568.5020118
+        ]
+      ],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Ganenlink",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785078170.3612883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
+      "date": 1784285084.970874,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          29.95,
+          1776270005.4797988
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776270005.4797988
+        ],
+        [
+          1,
+          1784285084.970874
+        ]
+      ],
+      "first_date": 1775869600.6003766,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Sballo90",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          55.0,
+          1783122361.5298984
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Babaone59",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve -> Magnet Card Case",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Kuri66",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1783649303.2915685,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783649303.2915685
+        ]
+      ],
+      "first_date": 1769179973.4290824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Sugarvale21",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Pack fresh",
+      "date": 1771244254.778251,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1769622332.0517569,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "EinfachJes",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1770194333.410067,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1770194333.410067,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
         "name": "Anti-Meta",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 43.62,
+      "price": 60.35,
       "quantity": 1,
       "condition": "NM",
       "comment": "Anti-Meta - Professionally Packed",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5585,776 +6520,24 @@
         [
           43.61,
           1784446092.9368258
+        ],
+        [
+          43.62,
+          1784601020.0813665
+        ],
+        [
+          43.51,
+          1784735966.4267192
+        ],
+        [
+          43.45,
+          1784827004.20777
         ]
       ],
       "previous_quantities": [],
       "first_date": 1771293190.9042602,
       "last_date": 0.0,
       "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "BuiBui",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 43.89,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784446092.9368258,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784446092.9368258
-        ]
-      ],
-      "first_date": 1784182045.283093,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Ionocast-Shop",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 43.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Weißer Binder - 1",
-      "date": 1784285084.970874,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779765769.4574265
-        ],
-        [
-          0,
-          1779765769.4574265
-        ],
-        [
-          1,
-          1784285084.970874
-        ]
-      ],
-      "first_date": 1770713881.3836172,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "jordan-de",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 43.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778877031.2865815,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778877031.2865815
-        ]
-      ],
-      "first_date": 1769772290.2206008,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "capaz13",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 44.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781661568.116249,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "NenaShopTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 44.97,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          34.47,
-          1775741899.1704435
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775741899.1704435
-        ],
-        [
-          1,
-          1782281509.0645418
-        ],
-        [
-          0,
-          1782281509.0645418
-        ]
-      ],
-      "first_date": 1773919457.4711175,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Sapphire-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 44.98,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Viele JP Karten verfügbar! | BOX: JP-3",
-      "date": 1782361298.5279377,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1782092085.1020844
-        ],
-        [
-          1,
-          1782361298.5279377
-        ]
-      ],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Galactus-Roma",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 44.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "~#| Order more. save on shipping",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784182045.283093,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Tobostop",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 44.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778724243.7215002
-        ],
-        [
-          0,
-          1778724243.7215002
-        ]
-      ],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "ZurisShop",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 44.99,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "More Singles. Local Store Wuppertal",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1777774469.2734265
-        ],
-        [
-          0,
-          1777774469.2734265
-        ]
-      ],
-      "first_date": 1776885869.233223,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "CerberusTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 44.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "O03",
-      "date": 1777613845.9475367,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777613845.9475367
-        ]
-      ],
-      "first_date": 1771440303.4360397,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "CollectorsMania",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 44.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1770920996.6288042,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          100.0,
-          1770713881.3836172
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1770194333.410067,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "PlaceOfGeek",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 45.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Best Deals Many Cards In Stock Daily Shipping 0307261038XD",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784182045.283093,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "raulrubio",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 45.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "See my other cards JP2",
-      "date": 1777995800.2701325,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777995800.2701325
-        ]
-      ],
-      "first_date": 1770833790.519509,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "GamesTimeAlzate",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 45.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1773919457.4711175,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769501450.3872938,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Reddington9256",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 45.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1769680018.680909,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769591470.1661146,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Godpack-Mother",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 47.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783122361.5298984,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          55.0,
-          1775183406.8364234
-        ],
-        [
-          35.0,
-          1776563638.5283978
-        ],
-        [
-          33.99,
-          1778362547.5886977
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783122361.5298984
-        ]
-      ],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Markdd27",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784182045.283093,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "XDembo",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Top Conditions and fast delivery",
-      "date": 1769345701.411857,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "kelefaba",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sleeved/toploader",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1770996880.7060478
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782782568.5020118
-        ],
-        [
-          0,
-          1782782568.5020118
-        ]
-      ],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Hansecollectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 59.95,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1784285084.970874,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          29.95,
-          1776270005.4797988
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776270005.4797988
-        ],
-        [
-          1,
-          1784285084.970874
-        ]
-      ],
-      "first_date": 1775869600.6003766,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Sballo90",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          55.0,
-          1783122361.5298984
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Babaone59",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve -> Magnet Card Case",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Kuri66",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1783649303.2915685,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783649303.2915685
-        ]
-      ],
-      "first_date": 1769179973.4290824,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "Sugarvale21",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Pack fresh",
-      "date": 1771244254.778251,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1769622332.0517569,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
-        "name": "EinfachJes",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 60.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1770194333.410067,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1770194333.410067,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6402,7 +6585,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sleeved - Toploader - Fast Secured ShiP",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6487,7 +6670,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6608,14 +6791,19 @@
       },
       "language": "Japanese",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "AiGrading 9.5 - Join our discord! discord.gg/cardhub",
       "date": 1784601020.0813665,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784601020.0813665
+        ]
+      ],
       "first_date": 1781895017.2758706,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6666,7 +6854,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6806,7 +6994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 / ask for pictures :)",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6831,7 +7019,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AIGRADING 9.5",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6908,40 +7096,6 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
-        "name": "Datbig87",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 125.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "AOG 10 Pristine",
-      "date": 1784601020.0813665,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          140.0,
-          1782361298.5279377
-        ],
-        [
-          130.0,
-          1783903648.6640055
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781319962.2568066,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Rob Lucci (OP05-093)",
-      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
-      "seller": {
         "name": "angeles94",
         "country": "Item location: France"
       },
@@ -6961,6 +7115,31 @@
         ]
       ],
       "first_date": 1781319962.2568066,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
+        "name": "Marko08",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 130.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ARS 10 with certificate",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785078170.3612883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7065,7 +7244,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7210,6 +7389,44 @@
       "card": "Rob Lucci (OP05-093)",
       "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
       "seller": {
+        "name": "Datbig87",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 10 Pristine open for offers",
+      "date": 1785078170.3612883,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          140.0,
+          1782361298.5279377
+        ],
+        [
+          130.0,
+          1783903648.6640055
+        ],
+        [
+          125.0,
+          1784601020.0813665
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781319962.2568066,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rob Lucci (OP05-093)",
+      "canonical_name": "OnePiece_Products_Singles_Emperors-in-the-New-World-Non-English_Rob-Lucci-OP05-093",
+      "seller": {
         "name": "WeilerTCG",
         "country": "Item location: Germany"
       },
@@ -7218,7 +7435,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7256,7 +7473,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784601020.0813665,
+      "date": 1785078170.3612883,
       "ended": false,
       "new": false,
       "previous_prices": [

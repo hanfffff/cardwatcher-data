@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 7,
+  "available": 8,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -166,7 +166,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "ask for pictures",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -294,7 +294,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "9-22 (2) See pics. Double sleeved. daily shipping. contact for reduced shipping!",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -362,7 +362,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "custom slab not included",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -487,7 +487,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 8",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -815,11 +815,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 248.65,
+      "price": 247.29,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -894,6 +894,14 @@
         [
           248.62,
           1784434857.5939674
+        ],
+        [
+          248.65,
+          1784590513.618859
+        ],
+        [
+          248.02,
+          1784758870.9652033
         ]
       ],
       "previous_quantities": [
@@ -926,7 +934,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "### 12370",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1006,7 +1014,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unlimited. front perfect back with white dots",
-      "date": 1784590513.618859,
+      "date": 1784927378.2622876,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1479,6 +1487,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Giratina EX  (XY7 091)",
+      "canonical_name": "Pokemon_Products_Singles_Bandit-Ring_Giratina-EX-V2-XY7091",
+      "seller": {
+        "name": "VegaStore38",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1784927378.2622876,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784758870.9652033,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     },

@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 2,
-  "sold": 0,
+  "available": 1,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -478,7 +478,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "[EXC+] [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1784611568.9583187,
+      "date": 1785088065.6269271,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -500,18 +500,23 @@
       },
       "language": "Japanese",
       "price": 2400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1784611568.9583187,
-      "ended": false,
-      "new": false,
+      "date": 1784838254.7645123,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784838254.7645123
+        ]
+      ],
       "first_date": 1783142547.3782535,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

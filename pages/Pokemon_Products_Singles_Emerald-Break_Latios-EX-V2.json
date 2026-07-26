@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 7,
-  "sold": 2,
-  "inserted": 1,
+  "available": 8,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Latios EX  (XY6 082)",
@@ -28,7 +28,7 @@
       "comment": "",
       "date": 1784322277.5291657,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -55,7 +55,7 @@
       "first_date": 1774137769.9998093,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -98,11 +98,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 66.64,
+      "price": 66.4,
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -457,12 +457,20 @@
         [
           66.7,
           1784322277.5291657
+        ],
+        [
+          66.64,
+          1784484935.0089304
+        ],
+        [
+          66.48,
+          1784685099.6393778
         ]
       ],
       "previous_quantities": [],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -505,7 +513,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Really near to excellent",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -551,7 +559,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -581,9 +589,9 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "TCG Shop in Finland - Ask for more cards",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784484935.0089304,
@@ -606,7 +614,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+ | B7",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -631,7 +639,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve > Toploader - DM me for more pics",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -656,7 +664,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784484935.0089304,
+      "date": 1785026127.9603517,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -835,23 +843,27 @@
       },
       "language": "Japanese",
       "price": 1100.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784322277.5291657,
-      "ended": true,
-      "new": true,
+      "date": 1785026127.9603517,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784322277.5291657
+        ],
+        [
+          0,
           1784322277.5291657
         ]
       ],
       "first_date": 1784066057.9999855,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

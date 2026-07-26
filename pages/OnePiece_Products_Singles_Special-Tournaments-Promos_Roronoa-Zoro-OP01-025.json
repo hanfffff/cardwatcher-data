@@ -10,8 +10,8 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 15,
-  "sold": 0,
+  "available": 14,
+  "sold": 1,
   "inserted": 1,
   "listings": [
     {
@@ -166,11 +166,11 @@
       },
       "language": "S-Chinese",
       "price": 500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
-      "comment": "three tiny white dots and 2 small scatch on the back. perfect binder copy.",
-      "date": 1784483159.9459455,
-      "ended": false,
+      "comment": "5 tiny white dots and 2 small scatch on the back+printline front. perfect binder copy.",
+      "date": 1784683001.0744598,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -178,10 +178,15 @@
           1784320280.3031375
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784683001.0744598
+        ]
+      ],
       "first_date": 1784216998.0828798,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1121,12 +1126,12 @@
       },
       "language": "S-Chinese",
       "price": 1100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1784483159.9459455,
-      "ended": false,
-      "new": false,
+      "date": 1784774622.2706516,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           700.0,
@@ -1177,12 +1182,16 @@
         [
           0,
           1782820314.5048068
+        ],
+        [
+          1,
+          1784774622.2706516
         ]
       ],
       "first_date": 1777190790.8609977,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1283,7 +1292,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1308,7 +1317,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3856,7 +3865,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "daily shipping",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3905,8 +3914,8 @@
       "price": 2500.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Could be BGS10 or Black Label",
-      "date": 1784483159.9459455,
+      "comment": "Could be BGS10 or Black Label",
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3927,8 +3936,8 @@
       ],
       "first_date": 1721370145.7408068,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4288,7 +4297,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4373,11 +4382,11 @@
       },
       "language": "Japanese",
       "price": 4500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "check out my other stuff",
-      "date": 1782820314.5048068,
-      "ended": true,
+      "comment": "RELISTED! check out my other stuff",
+      "date": 1785024233.6144903,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -4417,12 +4426,16 @@
         [
           1,
           1782820314.5048068
+        ],
+        [
+          0,
+          1782820314.5048068
         ]
       ],
       "first_date": 1774573400.5865781,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4494,7 +4507,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4561,7 +4574,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10 sell or trade Paris",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4586,7 +4599,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4620,7 +4633,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4861,7 +4874,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5004,7 +5017,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5553,7 +5566,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5615,7 +5628,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Prices are firm",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5792,7 +5805,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "! PSA 10 ! Berlin. Warsaw - Possible meeting",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5851,7 +5864,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5  will be in Utrecht in september",
-      "date": 1784483159.9459455,
+      "date": 1785024233.6144903,
       "ended": false,
       "new": false,
       "previous_prices": [],

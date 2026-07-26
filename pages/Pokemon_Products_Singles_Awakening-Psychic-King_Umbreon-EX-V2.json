@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 3,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Umbreon EX  (XY10 082)",
@@ -25,16 +25,25 @@
       "price": 145.0,
       "quantity": 1,
       "condition": "PO",
-      "comment": "",
-      "date": 1784475057.4174192,
+      "comment": "RELISTED! ",
+      "date": 1785016474.7913396,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784674935.0773404
+        ],
+        [
+          0,
+          1784674935.0773404
+        ]
+      ],
       "first_date": 1771830443.176994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -90,7 +99,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1784475057.4174192,
+      "date": 1785016474.7913396,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -192,11 +201,11 @@
       },
       "language": "Japanese",
       "price": 1500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1784209554.9013736,
-      "ended": true,
+      "date": 1785016474.7913396,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -223,6 +232,10 @@
         ],
         [
           1,
+          1784209554.9013736
+        ],
+        [
+          0,
           1784209554.9013736
         ]
       ],

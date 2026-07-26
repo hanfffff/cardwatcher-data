@@ -13,9 +13,9 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 274,
-  "sold": 20,
-  "inserted": 20,
+  "available": 296,
+  "sold": 19,
+  "inserted": 22,
   "listings": [
     {
       "card": "Psyduck  (MEW 175)",
@@ -26,14 +26,19 @@
       },
       "language": "Italian",
       "price": 30.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "per foto contattatemi",
       "date": 1784577451.995933,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -50,17 +55,21 @@
         "country": "Item location: Netherlands"
       },
       "language": "French",
-      "price": 38.0,
-      "quantity": 1,
+      "price": 35.0,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sleeve - toploader",
-      "date": 1784577451.995933,
-      "ended": false,
+      "date": 1784712847.6429439,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
           49.0,
           1783609848.991645
+        ],
+        [
+          38.0,
+          1784577451.995933
         ]
       ],
       "previous_quantities": [
@@ -79,6 +88,10 @@
         [
           0,
           1784157679.852165
+        ],
+        [
+          1,
+          1784712847.6429439
         ]
       ],
       "first_date": 1783117125.6873133,
@@ -101,7 +114,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -148,31 +161,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Adventures-Sold0",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 40.0,
-      "quantity": 1,
-      "condition": "GD",
-      "comment": "VETRINA V",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783117125.6873133,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "B3o3z3z",
         "country": "Item location: Italy"
       },
@@ -180,8 +168,8 @@
       "price": 40.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "RELISTED! ",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -201,9 +189,47 @@
         [
           0,
           1783609848.991645
+        ],
+        [
+          1,
+          1784712847.6429439
+        ],
+        [
+          0,
+          1784712847.6429439
         ]
       ],
       "first_date": 1782776562.0582523,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Adventures-Sold0",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 40.0,
+      "quantity": 0,
+      "condition": "GD",
+      "comment": "VETRINA V",
+      "date": 1784577451.995933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -318,14 +344,19 @@
       },
       "language": "Italian",
       "price": 41.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784577451.995933,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
       "first_date": 1784577451.995933,
       "last_date": 0.0,
       "price_is_new": false,
@@ -373,23 +404,67 @@
       },
       "language": "Italian",
       "price": 43.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           44.0,
           1783609848.991645
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1783609848.991645,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Fuhrious-TC",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 43.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.94,
+          1784712847.6429439
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ],
+        [
+          2,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -406,7 +481,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Negozio Fisico A Nola",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -415,6 +490,49 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "floppyx3",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 44.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "booster -> sleeve -> toploader",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          46.0,
+          1784420927.0081582
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784420927.0081582
+        ],
+        [
+          0,
+          1784420927.0081582
+        ],
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784420927.0081582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -433,7 +551,7 @@
       "comment": "",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -444,7 +562,7 @@
       "first_date": 1784259842.1762838,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -461,7 +579,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -518,7 +636,7 @@
       "comment": "",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           46.0,
@@ -534,7 +652,7 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -578,11 +696,11 @@
       },
       "language": "Italian",
       "price": 44.9,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1784259842.1762838,
-      "ended": true,
+      "date": 1785054328.8029583,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -596,6 +714,10 @@
         ],
         [
           1,
+          1784259842.1762838
+        ],
+        [
+          0,
           1784259842.1762838
         ]
       ],
@@ -619,7 +741,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -644,7 +766,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -661,31 +783,27 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Zalogue10",
-        "country": "Item location: France"
+        "name": "GamesTimePavia",
+        "country": "Item location: Italy"
       },
-      "language": "French",
-      "price": 45.0,
+      "language": "Italian",
+      "price": 44.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
+      "previous_prices": [
         [
-          1,
-          1783878243.0333786
-        ],
-        [
-          0,
-          1783878243.0333786
+          45.41,
+          1784803887.057636
         ]
       ],
-      "first_date": 1783878243.0333786,
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -703,7 +821,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -728,12 +846,51 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Derek-8",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          45.3,
+          1784157679.852165
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784157679.852165
+        ],
+        [
+          0,
+          1784157679.852165
+        ]
+      ],
+      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -753,7 +910,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -779,6 +936,56 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "kamil-one",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fotos auf Anfrage",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Lahmie",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster - Sleeve - Toploader",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Gohan82",
         "country": "Item location: Italy"
       },
@@ -787,7 +994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for Info or pics",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -818,23 +1025,65 @@
       },
       "language": "English",
       "price": 45.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
       "comment": "Front side excellent. back side good. will send pictures on request",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784420927.0081582
+        ],
+        [
+          0,
           1784420927.0081582
         ]
       ],
       "first_date": 1783609848.991645,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Zalogue10",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 45.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784577451.995933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783878243.0333786
+        ],
+        [
+          0,
+          1783878243.0333786
+        ],
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -993,57 +1242,22 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Derek-8",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 45.3,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784157679.852165,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784157679.852165
-        ]
-      ],
-      "first_date": 1783117125.6873133,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "FireAndDice",
+        "name": "1UPrm",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 45.42,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "D8",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          45.97,
-          1784420927.0081582
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784420927.0081582,
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1061,12 +1275,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Urzas-Consulting",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 45.43,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "07202622",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1088,7 +1327,7 @@
       "comment": "05202627",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           45.58,
@@ -1112,7 +1351,41 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "FireAndDice",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 45.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          45.97,
+          1784420927.0081582
+        ],
+        [
+          45.42,
+          1784577451.995933
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784420927.0081582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1129,7 +1402,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1151,6 +1424,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "magicstoreit",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 45.99,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "VET",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784803887.057636,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "fabscards",
         "country": "Item location: Austria"
       },
@@ -1159,7 +1457,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "54098255675731",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1176,28 +1474,23 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "floppyx3",
-        "country": "Item location: Germany"
+        "name": "TipliCards",
+        "country": "Item location: France"
       },
-      "language": "German",
+      "language": "French",
       "price": 46.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "booster -> sleeve -> toploader",
-      "date": 1784420927.0081582,
-      "ended": true,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Photo par message FB/Insta : @TipliCards / -5% par commande via nos réseaux",
+      "date": 1785054328.8029583,
+      "ended": false,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784420927.0081582
-        ]
-      ],
-      "first_date": 1784420927.0081582,
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1276,7 +1569,7 @@
       "comment": "Sleeve--> Toploader",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           50.0,
@@ -1294,6 +1587,36 @@
         ]
       ],
       "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "rexicomix",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 46.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
@@ -1343,7 +1666,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ZAL A-003-032",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1368,7 +1691,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SHOWCASE",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1393,7 +1716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1418,7 +1741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Market C",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1443,7 +1766,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1470,12 +1793,12 @@
       },
       "language": "German",
       "price": 47.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           70.0,
@@ -1490,12 +1813,24 @@
         [
           1,
           1784420927.0081582
+        ],
+        [
+          0,
+          1784420927.0081582
+        ],
+        [
+          1,
+          1784712847.6429439
+        ],
+        [
+          0,
+          1784712847.6429439
         ]
       ],
       "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1512,7 +1847,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1534,11 +1869,11 @@
       },
       "language": "French",
       "price": 47.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784577451.995933,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1549,6 +1884,10 @@
         [
           1,
           1784002258.2099495
+        ],
+        [
+          2,
+          1784577451.995933
         ]
       ],
       "first_date": 1782679118.9981883,
@@ -1571,7 +1910,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1608,7 +1947,7 @@
       "comment": "ask for pics",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1619,7 +1958,7 @@
       "first_date": 1783878243.0333786,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1696,7 +2035,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "~#| Order more. save on shipping",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1756,9 +2095,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -1781,7 +2120,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1806,7 +2145,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "~#| Order more. save on shipping",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1836,7 +2175,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "THE CARDS YOU WANT",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1861,7 +2200,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1886,7 +2225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1925,7 +2264,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1950,7 +2289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sortie de Booster => Sleeve => Classeur",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1977,7 +2316,7 @@
       "comment": "",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1988,7 +2327,7 @@
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2147,6 +2486,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "IronDad",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 49.89,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784803887.057636,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "BACKINGAME",
         "country": "Item location: France"
       },
@@ -2155,7 +2519,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "vit",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2180,7 +2544,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2227,20 +2591,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Fuhrious-TC",
-        "country": "Item location: Germany"
+        "name": "NenaShopTCG",
+        "country": "Item location: Italy"
       },
-      "language": "German",
-      "price": 49.94,
+      "language": "Italian",
+      "price": 49.97,
       "quantity": 1,
-      "condition": "EX",
+      "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783117125.6873133,
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2252,20 +2616,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "NenaShopTCG",
-        "country": "Item location: Italy"
+        "name": "Tommy213",
+        "country": "Item location: Germany"
       },
-      "language": "Italian",
-      "price": 49.97,
+      "language": "German",
+      "price": 49.98,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "Viele 151 Karten",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782679118.9981883,
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2337,6 +2701,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "EuropeTCG",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "SunGamesCollection",
         "country": "Item location: France"
       },
@@ -2345,7 +2734,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi Rapide - Bulle - 2026",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2367,54 +2756,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "PjayInReal",
-        "country": "Item location: Germany"
+        "name": "DnBCardsVillach",
+        "country": "Item location: Austria"
       },
       "language": "German",
       "price": 49.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Double Sleeve / Smartguard ab 10 Euro",
-      "date": 1784577451.995933,
+      "comment": "",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784577451.995933,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "YumeCollectives",
-        "country": "Item location: Luxembourg"
-      },
-      "language": "French",
-      "price": 49.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782776562.0582523
-        ],
-        [
-          0,
-          1782776562.0582523
-        ]
-      ],
-      "first_date": 1782679118.9981883,
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2434,12 +2789,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "check my account for more cards. ask for information !",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784259842.1762838,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "TopCatch",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "French",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2459,12 +2839,80 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "envoie rapide et soigné",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782776562.0582523,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "PjayInReal",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 49.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Double Sleeve / Smartguard ab 10 Euro",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784577451.995933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "YumeCollectives",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "French",
+      "price": 49.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784577451.995933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782776562.0582523
+        ],
+        [
+          0,
+          1782776562.0582523
+        ],
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2601,20 +3049,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "CrowsArena",
-        "country": "Item location: France"
+        "name": "DC-Trading",
+        "country": "Item location: Austria"
       },
-      "language": "French",
+      "language": "German",
       "price": 50.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "Envoi rapide et soigné - Crows Arena",
-      "date": 1784577451.995933,
+      "condition": "EX",
+      "comment": "DEToploader F00200",
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783117125.6873133,
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2626,20 +3074,70 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Lesjeuxdemerlin",
+        "name": "DateACard",
         "country": "Item location: France"
       },
       "language": "French",
       "price": 50.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "VI",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784420927.0081582,
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Eldar-Caen",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "2023-09-22 - MEW-175",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "CrowsArena",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Envoi rapide et soigné - Crows Arena",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2659,7 +3157,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2689,7 +3187,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2711,6 +3209,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "MakTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "SoloKards",
         "country": "Item location: France"
       },
@@ -2718,8 +3241,8 @@
       "price": 50.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784577451.995933,
+      "comment": "",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2736,7 +3259,7 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2745,48 +3268,32 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Mattpoketroc",
+        "name": "Scratchy52",
         "country": "Item location: France"
       },
       "language": "French",
       "price": 50.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Envoi rapide et soigné",
-      "date": 1784577451.995933,
+      "comment": "RELISTED! ! Grand choix de cartes !",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
+      "previous_quantities": [
+        [
+          1,
+          1784259842.1762838
+        ],
+        [
+          0,
+          1784259842.1762838
+        ]
+      ],
+      "first_date": 1782776562.0582523,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Parfetess",
-        "country": "Item location: France"
-      },
-      "language": "English",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "front nm back 1 point in corner",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783485818.7823896,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2803,37 +3310,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Star-and-co",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "NM envoie protégé",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783878243.0333786,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2853,7 +3335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2878,32 +3360,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "thedelight77",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2928,7 +3385,32 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "thedelight77",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2953,7 +3435,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2978,12 +3460,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "d'autre 151 dans mes cartes",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783609848.991645,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "jakubcastek7",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "new seller. sleeve and toploader",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784420927.0081582
+        ],
+        [
+          0,
+          1784420927.0081582
+        ]
+      ],
+      "first_date": 1783350631.5152676,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3003,7 +3519,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3028,7 +3544,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more higher-end cards on my profile",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3053,7 +3569,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster -> sleeve -> toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3078,57 +3594,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "SawRed",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Gern auch Bilder bei Anfrage",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Gugapacheco",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve+ top loader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3153,12 +3619,87 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sortie de booster / Photos sur demande :)",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "SawRed",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Gern auch Bilder bei Anfrage",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Tertre1",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784803887.057636,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Gugapacheco",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeve+ top loader",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3178,7 +3719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3203,37 +3744,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "xSatire",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 50.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Vom Booster in Sleeve und Toploader. Bilder auf Anfrage",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783878243.0333786,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3253,12 +3769,182 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM - Ask for Pictures",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784577451.995933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "xSatire",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Vom Booster in Sleeve und Toploader. Bilder auf Anfrage",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "YoshiLeVert",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sortie de booster. sleeve + top",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784577451.995933,
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Lesjeuxdemerlin",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784420927.0081582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Mattpoketroc",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Envoi rapide et soigné",
+      "date": 1784712847.6429439,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ]
+      ],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Star-and-co",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 50.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "NM envoie protégé",
+      "date": 1784712847.6429439,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ]
+      ],
+      "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Parfetess",
+        "country": "Item location: France"
+      },
+      "language": "English",
+      "price": 50.0,
+      "quantity": 0,
+      "condition": "EX",
+      "comment": "front nm back 1 point in corner",
+      "date": 1784577451.995933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1783485818.7823896,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3280,7 +3966,7 @@
       "comment": "",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3291,37 +3977,7 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "jakubcastek7",
-        "country": "Item location: Czech Republic"
-      },
-      "language": "English",
-      "price": 50.0,
-      "quantity": 0,
-      "condition": "EX",
-      "comment": "new seller. sleeve and toploader",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784420927.0081582
-        ]
-      ],
-      "first_date": 1783350631.5152676,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3340,7 +3996,7 @@
       "comment": "",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3349,36 +4005,6 @@
         ]
       ],
       "first_date": 1784259842.1762838,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Scratchy52",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 50.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "! Grand choix de cartes !",
-      "date": 1784259842.1762838,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784259842.1762838
-        ]
-      ],
-      "first_date": 1782776562.0582523,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3669,6 +4295,41 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "bathtcg",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 50.69,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          50.76,
+          1784712847.6429439
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "VpStore",
         "country": "Item location: Germany"
       },
@@ -3677,9 +4338,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "From Booster to Sleeve & Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -3702,7 +4363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#15",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3757,7 +4418,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "boster ->sleeve",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3782,7 +4443,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3848,6 +4509,31 @@
         ]
       ],
       "first_date": 1783609848.991645,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "MogwellasWorld",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 52.5,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "schneller Versand!/Liebevoll verpackt!!!/A4",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4013,7 +4699,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sleeve - Toploader // inkl 19%",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4025,7 +4711,7 @@
       "previous_quantities": [],
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4175,23 +4861,28 @@
       },
       "language": "German",
       "price": 53.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           54.89,
           1784259842.1762838
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1784157679.852165,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4273,12 +4964,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Table-flip",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 53.96,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4298,37 +5014,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "00049E",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783117125.6873133,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "DC-Trading",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 53.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "DEToploader",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783609848.991645,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4348,7 +5039,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4365,6 +5056,36 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "DC-Trading",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 53.98,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "DEToploader",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1783609848.991645,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Lukman29",
         "country": "Item location: Germany"
       },
@@ -4373,12 +5094,76 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "HomgCards",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 53.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! 5",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          69.99,
+          1784420927.0081582
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784420927.0081582
+        ],
+        [
+          0,
+          1784420927.0081582
+        ]
+      ],
+      "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Pateno",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 53.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Differenzbesteuerung nach §25a UStG",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4428,7 +5213,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sicherer&Schneller Versand. TCG Händler aus Österreich",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4453,7 +5238,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "in Sleeve und Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4478,7 +5263,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4547,6 +5332,73 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "forgeandfinds",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 54.31,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          54.1,
+          1783350631.5152676
+        ],
+        [
+          54.23,
+          1783485818.7823896
+        ],
+        [
+          54.34,
+          1783609848.991645
+        ],
+        [
+          54.4,
+          1783878243.0333786
+        ],
+        [
+          54.34,
+          1784002258.2099495
+        ],
+        [
+          54.33,
+          1784157679.852165
+        ],
+        [
+          54.56,
+          1784259842.1762838
+        ],
+        [
+          54.52,
+          1784577451.995933
+        ],
+        [
+          54.38,
+          1784712847.6429439
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1783350631.5152676,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4657,7 +5509,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4713,60 +5565,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "forgeandfinds",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 54.52,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          54.1,
-          1783350631.5152676
-        ],
-        [
-          54.23,
-          1783485818.7823896
-        ],
-        [
-          54.34,
-          1783609848.991645
-        ],
-        [
-          54.4,
-          1783878243.0333786
-        ],
-        [
-          54.34,
-          1784002258.2099495
-        ],
-        [
-          54.33,
-          1784157679.852165
-        ],
-        [
-          54.56,
-          1784259842.1762838
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783350631.5152676,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "GalarianCards",
         "country": "Item location: Spain"
       },
@@ -4775,11 +5573,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ],
+        [
+          0,
+          1784577451.995933
+        ]
+      ],
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4863,7 +5670,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "From Booster to Sleeve & Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4876,7 +5683,7 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4893,7 +5700,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4918,7 +5725,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DS26-331 // P1",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4943,7 +5750,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bilder auf Anfrage",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4965,18 +5772,23 @@
       },
       "language": "German",
       "price": 54.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "check out my other cards",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4995,7 +5807,7 @@
       "comment": "red binder 1",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5006,7 +5818,7 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5045,6 +5857,40 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "HasardLudiqueMons",
+        "country": "Item location: Belgium"
+      },
+      "language": "French",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NAMUR",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784002258.2099495
+        ],
+        [
+          0,
+          1784002258.2099495
+        ]
+      ],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "ColognePoker1",
         "country": "Item location: Germany"
       },
@@ -5053,9 +5899,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -5078,7 +5924,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5095,16 +5941,80 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "Sltcmaxime",
+        "country": "Item location: Belgium"
+      },
+      "language": "French",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Tout 151 dispo !",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784002258.2099495
+        ],
+        [
+          0,
+          1784002258.2099495
+        ]
+      ],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Dave284242",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          60.0,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "vaticards",
         "country": "Item location: France"
       },
       "language": "English",
       "price": 55.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Perfect condition - Heavy TOP",
       "date": 1784577451.995933,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5123,12 +6033,16 @@
         [
           0,
           1784259842.1762838
+        ],
+        [
+          1,
+          1784577451.995933
         ]
       ],
       "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5152,66 +6066,6 @@
       "previous_quantities": [
         [
           2,
-          1784002258.2099495
-        ]
-      ],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "HasardLudiqueMons",
-        "country": "Item location: Belgium"
-      },
-      "language": "French",
-      "price": 55.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "NAMUR",
-      "date": 1784002258.2099495,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784002258.2099495
-        ]
-      ],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Sltcmaxime",
-        "country": "Item location: Belgium"
-      },
-      "language": "French",
-      "price": 55.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Tout 151 dispo !",
-      "date": 1784002258.2099495,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
           1784002258.2099495
         ]
       ],
@@ -5391,15 +6245,40 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "DocGeorge",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 57.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Inkl. -> Perfect Sleeve -> Normal Sleeve -> Toploader -> Securely Packed",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "adch147",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 57.56,
+      "price": 57.34,
       "quantity": 2,
       "condition": "NM",
       "comment": "have plenty of 151!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5426,6 +6305,14 @@
         [
           57.6,
           1784259842.1762838
+        ],
+        [
+          57.56,
+          1784577451.995933
+        ],
+        [
+          57.42,
+          1784712847.6429439
         ]
       ],
       "previous_quantities": [],
@@ -5441,45 +6328,15 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Outlinq",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 58.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784420927.0081582
-        ]
-      ],
-      "first_date": 1784420927.0081582,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "Lootdrop",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 58.16,
+      "price": 57.94,
       "quantity": 1,
       "condition": "NM",
       "comment": "Independent brick & mortar store in Haverhill. Suffolk",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5502,6 +6359,14 @@
         [
           58.15,
           1784420927.0081582
+        ],
+        [
+          58.16,
+          1784577451.995933
+        ],
+        [
+          58.01,
+          1784712847.6429439
         ]
       ],
       "previous_quantities": [
@@ -5516,7 +6381,7 @@
       ],
       "first_date": 1783609848.991645,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5530,11 +6395,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 58.17,
+      "price": 57.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1784577451.995933,
+      "comment": "",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5557,6 +6422,14 @@
         [
           57.98,
           1783609848.991645
+        ],
+        [
+          58.17,
+          1784577451.995933
+        ],
+        [
+          58.02,
+          1784712847.6429439
         ]
       ],
       "previous_quantities": [
@@ -5571,8 +6444,63 @@
       ],
       "first_date": 1782776562.0582523,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Outlinq",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 58.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784420927.0081582,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784420927.0081582
+        ]
+      ],
+      "first_date": 1784420927.0081582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "NordicCollect",
+        "country": "Item location: Denmark"
+      },
+      "language": "English",
+      "price": 58.03,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "H-0025",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5624,7 +6552,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve->Toploader->bubble wrap envelope",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5746,7 +6674,7 @@
       "comment": "A15 #dif",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -5757,7 +6685,7 @@
       "first_date": 1784259842.1762838,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5774,7 +6702,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5821,20 +6749,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Crossroads-TCG",
-        "country": "Item location: Germany"
+        "name": "CardEmpireSK",
+        "country": "Item location: Slovakia"
       },
-      "language": "German",
-      "price": 59.95,
+      "language": "English",
+      "price": 59.94,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "PKM-1 #no pictures / keine bilder",
-      "date": 1784577451.995933,
+      "condition": "EX",
+      "comment": "Wide selection. B2B possible",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782679118.9981883,
+      "first_date": 1784712847.6429439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5846,20 +6774,20 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "SindyJack",
-        "country": "Item location: Netherlands"
+        "name": "Crossroads-TCG",
+        "country": "Item location: Germany"
       },
-      "language": "English",
+      "language": "German",
       "price": 59.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "PKM-1 #no pictures / keine bilder",
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784577451.995933,
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5879,9 +6807,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -5904,11 +6832,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping - Sleeved - Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ],
+        [
+          0,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1784577451.995933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "SindyJack",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 59.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784712847.6429439,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ]
+      ],
       "first_date": 1784577451.995933,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5929,7 +6896,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more 151 available",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6036,7 +7003,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6061,9 +7028,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "see my store for a great selection!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -6086,7 +7053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6111,7 +7078,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6123,7 +7090,37 @@
       "previous_quantities": [],
       "first_date": 1783350631.5152676,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "MVPTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "More cards check profile",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          70.0,
+          1784577451.995933
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6141,7 +7138,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6166,7 +7163,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "photo sur demande",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6191,7 +7188,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6199,36 +7196,6 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "MazzyD2",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          70.0,
-          1784420927.0081582
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6246,32 +7213,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Dave284242",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 60.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6296,11 +7238,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "MazzyD2",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 60.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1784712847.6429439,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          70.0,
+          1784420927.0081582
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ]
+      ],
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6565,11 +7542,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 60.59,
+      "price": 60.36,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6608,6 +7585,14 @@
         [
           60.64,
           1784259842.1762838
+        ],
+        [
+          60.59,
+          1784577451.995933
+        ],
+        [
+          60.44,
+          1784712847.6429439
         ]
       ],
       "previous_quantities": [],
@@ -6627,11 +7612,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 60.59,
+      "price": 60.36,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6666,6 +7651,14 @@
         [
           60.64,
           1784259842.1762838
+        ],
+        [
+          60.59,
+          1784577451.995933
+        ],
+        [
+          60.44,
+          1784712847.6429439
         ]
       ],
       "previous_quantities": [
@@ -6698,7 +7691,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6728,7 +7721,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6753,7 +7746,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6762,6 +7755,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Kathi0605",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 61.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "!GESAMTEAUFLÖSUNG MEINES 151 BINDERS!*Karten wurden sofort im Binder verstaut*",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784803887.057636,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6778,42 +7801,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "KrakenCardsSK",
-        "country": "Item location: Slovakia"
-      },
-      "language": "English",
-      "price": 61.5,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Large inventory. B2B available",
-      "date": 1783878243.0333786,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783878243.0333786
-        ]
-      ],
-      "first_date": 1783878243.0333786,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6835,7 +7828,7 @@
       "comment": "Pack to sleeve! ask for pics! Send in top",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -6846,7 +7839,7 @@
       "first_date": 1783609848.991645,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6860,10 +7853,10 @@
       },
       "language": "English",
       "price": 61.9,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
       "comment": "sleeve -> Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6875,12 +7868,16 @@
         [
           0,
           1783878243.0333786
+        ],
+        [
+          1,
+          1784803887.057636
         ]
       ],
       "first_date": 1783609848.991645,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6932,7 +7929,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6966,7 +7963,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pics",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6988,14 +7985,19 @@
       },
       "language": "English",
       "price": 62.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "clean! no Whitening. no Scratches! Feel free. to ask for pictures! =)",
       "date": 1784577451.995933,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
       "price_is_new": false,
@@ -7106,7 +8108,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "We buy your single cards. collections and sealed products",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7163,13 +8165,52 @@
       },
       "language": "English",
       "price": 63.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1784577451.995933,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1784420927.0081582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Hidden-Gem-Cards",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 63.38,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          63.62,
+          1784577451.995933
+        ],
+        [
+          63.46,
+          1784712847.6429439
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1784420927.0081582,
       "last_date": 0.0,
@@ -7191,7 +8232,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7208,23 +8249,53 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Hidden-Gem-Cards",
-        "country": "Item location: United Kingdom"
+        "name": "Ricky030",
+        "country": "Item location: Netherlands"
       },
       "language": "English",
-      "price": 63.62,
-      "quantity": 1,
+      "price": 63.69,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "comment": "pack to sleeve ask for pics send in top!",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784420927.0081582,
+      "previous_prices": [
+        [
+          63.69,
+          1784420927.0081582
+        ],
+        [
+          61.69,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1783878243.0333786
+        ],
+        [
+          2,
+          1784002258.2099495
+        ],
+        [
+          3,
+          1784420927.0081582
+        ],
+        [
+          0,
+          1784420927.0081582
+        ],
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1783878243.0333786,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7241,25 +8312,17 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "pack to sleeve ask for pics send in top!",
-      "date": 1784420927.0081582,
+      "date": 1784803887.057636,
       "ended": true,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           3,
-          1783878243.0333786
-        ],
-        [
-          2,
-          1784002258.2099495
-        ],
-        [
-          3,
-          1784420927.0081582
+          1784803887.057636
         ]
       ],
-      "first_date": 1783878243.0333786,
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -3,
@@ -7318,7 +8381,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7326,6 +8389,45 @@
       "first_date": 1782776562.0582523,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "DC-Trading",
+        "country": "Item location: Austria"
+      },
+      "language": "English",
+      "price": 64.94,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Toploader",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          69.94,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784002258.2099495
+        ],
+        [
+          0,
+          1784002258.2099495
+        ]
+      ],
+      "first_date": 1783609848.991645,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7343,12 +8445,71 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "CardEmpireSK",
+        "country": "Item location: Slovakia"
+      },
+      "language": "English",
+      "price": 64.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NM- with small imperfection",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          66.99,
+          1783117125.6873133
+        ],
+        [
+          69.93,
+          1784712847.6429439
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783117125.6873133
+        ],
+        [
+          0,
+          1783117125.6873133
+        ],
+        [
+          1,
+          1784259842.1762838
+        ],
+        [
+          3,
+          1784420927.0081582
+        ],
+        [
+          1,
+          1784577451.995933
+        ],
+        [
+          2,
+          1784712847.6429439
+        ]
+      ],
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7368,12 +8529,42 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve/Toploader   Many Single Cards in Stock :)",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "PureDiamondsTCG",
+        "country": "Item location: Slovakia"
+      },
+      "language": "English",
+      "price": 64.97,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "See more cards (I have a lot of cards)",
+      "date": 1784712847.6429439,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784712847.6429439
+        ]
+      ],
+      "first_date": 1784712847.6429439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7390,15 +8581,45 @@
       },
       "language": "German",
       "price": 64.99,
-      "quantity": 5,
+      "quantity": 6,
       "condition": "NM",
       "comment": "Sleeved",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          5,
+          1784712847.6429439
+        ]
+      ],
       "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "TCGFavours",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 64.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "De #1 dealer in ACE & TAG slabs van de Benelux!",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7415,18 +8636,23 @@
       },
       "language": "German",
       "price": 64.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7470,6 +8696,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "ManaVortex-POOL4YOU",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ManavortexES RE2719 JUN26",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Card-Point",
         "country": "Item location: Germany"
       },
@@ -7478,7 +8729,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfrisch/ Sammlung 2500",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7503,7 +8754,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7511,6 +8762,68 @@
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Karo-Cards",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "AA-01 - M04 -> inkl. Toploader",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1782776562.0582523
+        ],
+        [
+          70.14,
+          1783117125.6873133
+        ],
+        [
+          69.49,
+          1783350631.5152676
+        ],
+        [
+          68.9,
+          1783609848.991645
+        ],
+        [
+          67.6,
+          1783878243.0333786
+        ],
+        [
+          68.76,
+          1784002258.2099495
+        ],
+        [
+          66.29,
+          1784157679.852165
+        ],
+        [
+          65.0,
+          1784420927.0081582
+        ],
+        [
+          66.17,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -7528,7 +8841,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Other cards in trade-Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7562,9 +8875,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster tobSleeved",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -7587,7 +8900,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7612,7 +8925,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7637,37 +8950,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster too sleeve. Envoie rapide et soigné",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "TheVanille",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Booster to toploader fast shipping!",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782776562.0582523,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7687,12 +8975,62 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Daily Shipping 0907",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783609848.991645,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "TheVanille",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to toploader fast shipping!",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782776562.0582523,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Jimsdg",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7712,7 +9050,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7737,7 +9075,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7762,7 +9100,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7997,7 +9335,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8028,64 +9366,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Karo-Cards",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 66.17,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "AA-01 - M04 -> inkl. Toploader",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1782776562.0582523
-        ],
-        [
-          70.14,
-          1783117125.6873133
-        ],
-        [
-          69.49,
-          1783350631.5152676
-        ],
-        [
-          68.9,
-          1783609848.991645
-        ],
-        [
-          67.6,
-          1783878243.0333786
-        ],
-        [
-          68.76,
-          1784002258.2099495
-        ],
-        [
-          66.29,
-          1784157679.852165
-        ],
-        [
-          65.0,
-          1784420927.0081582
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "Blucturn",
         "country": "Item location: Spain"
       },
@@ -8094,7 +9374,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8176,23 +9456,27 @@
       },
       "language": "Spanish",
       "price": 67.5,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photo",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784420927.0081582
+        ],
+        [
+          0,
           1784420927.0081582
         ]
       ],
       "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8231,25 +9515,29 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "peacemaker44",
+        "name": "PiRoGammaTCG",
         "country": "Item location: Germany"
       },
-      "language": "German",
+      "language": "English",
       "price": 68.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784157679.852165,
-      "ended": true,
+      "comment": "Pick-up Store in Viernheim",
+      "date": 1785054328.8029583,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1784157679.852165
+          1783609848.991645
+        ],
+        [
+          0,
+          1783609848.991645
         ]
       ],
-      "first_date": 1783117125.6873133,
+      "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8261,28 +9549,32 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "PiRoGammaTCG",
+        "name": "peacemaker44",
         "country": "Item location: Germany"
       },
-      "language": "English",
+      "language": "German",
       "price": 68.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Pick-up Store in Viernheim",
-      "date": 1783609848.991645,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1785054328.8029583,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1783609848.991645
+          1784157679.852165
+        ],
+        [
+          0,
+          1784157679.852165
         ]
       ],
-      "first_date": 1782679118.9981883,
+      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8299,7 +9591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Versand in Toploader & mit Sendungsverfolgung. Bilder auf Anfrage.",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8324,7 +9616,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ask for photo",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8379,7 +9671,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8406,99 +9698,23 @@
       },
       "language": "English",
       "price": 69.93,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
       "comment": "Wide Selection B2B possible",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          66.99,
-          1783117125.6873133
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
-        [
-          1,
-          1783117125.6873133
-        ],
-        [
-          0,
-          1783117125.6873133
-        ],
-        [
-          1,
-          1784259842.1762838
-        ],
         [
           3,
-          1784420927.0081582
+          1784803887.057636
         ]
       ],
-      "first_date": 1782679118.9981883,
+      "first_date": 1784803887.057636,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "DC-Trading",
-        "country": "Item location: Austria"
-      },
-      "language": "English",
-      "price": 69.94,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Toploader",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784002258.2099495
-        ],
-        [
-          0,
-          1784002258.2099495
-        ]
-      ],
-      "first_date": 1783609848.991645,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "Kibou-Cards",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 69.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Boosterfresh",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8515,7 +9731,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for Pics :)",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8524,6 +9740,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Kibou-Cards",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 69.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Boosterfresh",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8610,10 +9856,10 @@
       },
       "language": "English",
       "price": 69.98,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8626,6 +9872,10 @@
         [
           1,
           1784002258.2099495
+        ],
+        [
+          2,
+          1784712847.6429439
         ]
       ],
       "first_date": 1784002258.2099495,
@@ -8648,7 +9898,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Stock17 Store in Sicilia - Alcamo",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8673,7 +9923,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Packfresh - Ask for pictures",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8698,7 +9948,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Red Binder",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8723,7 +9973,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8740,36 +9990,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "HomgCards",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 69.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "red binder 36",
-      "date": 1784420927.0081582,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784420927.0081582
-        ]
-      ],
-      "first_date": 1783117125.6873133,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "moeflo",
         "country": "Item location: Germany"
       },
@@ -8778,7 +9998,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8812,7 +10032,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8837,7 +10057,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BIG SALE %%",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8862,7 +10082,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8887,37 +10107,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "MVPTCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 70.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "More cards check profile",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8937,7 +10132,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Collect aura 9.5 Mint+",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8949,7 +10144,7 @@
       "previous_quantities": [],
       "first_date": 1784259842.1762838,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8967,7 +10162,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8992,7 +10187,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9014,6 +10209,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "BadrickStar",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Abzou",
         "country": "Item location: France"
       },
@@ -9022,7 +10242,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEAR MINT photo sur demande",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9047,7 +10267,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9072,7 +10292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9099,7 +10319,7 @@
       "comment": "RELISTED! ",
       "date": 1784420927.0081582,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9126,7 +10346,7 @@
       "first_date": 1782776562.0582523,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9298,9 +10518,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved & Toploader. Fast & reliable shipping!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -9323,7 +10543,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9353,7 +10573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast shipping",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9384,23 +10604,27 @@
       },
       "language": "English",
       "price": 72.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1783117125.6873133,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1785054328.8029583,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1783117125.6873133
+        ],
+        [
+          0,
+          1783117125.6873133
         ]
       ],
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9417,12 +10641,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "FireCards",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 74.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Booster to Sleeve+Toploader. Very Safe and fast shipping",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9442,7 +10691,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Differenzbesteuert",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9467,7 +10716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check my profile for more",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9492,7 +10741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9517,7 +10766,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9542,7 +10791,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9567,7 +10816,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved -> Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9592,7 +10841,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9617,7 +10866,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9694,22 +10943,39 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "LakeCards",
+        "name": "Kaiju-Cards",
         "country": "Item location: Germany"
       },
       "language": "English",
-      "price": 77.94,
+      "price": 77.89,
       "quantity": 1,
       "condition": "NM",
-      "comment": "diff",
-      "date": 1784577451.995933,
+      "comment": "",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          74.94,
+          1784002258.2099495
+        ],
+        [
+          149.95,
+          1784157679.852165
+        ],
+        [
+          98.95,
+          1784420927.0081582
+        ],
+        [
+          149.95,
+          1784803887.057636
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1782679118.9981883,
+      "first_date": 1783878243.0333786,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9719,15 +10985,15 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "ApTradingCards",
-        "country": "Item location: France"
+        "name": "LakeCards",
+        "country": "Item location: Germany"
       },
-      "language": "French",
-      "price": 79.0,
+      "language": "English",
+      "price": 77.94,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PCA 9.5",
-      "date": 1784577451.995933,
+      "comment": "diff",
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9752,7 +11018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sous sleeve à la sortie du booster",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9777,7 +11043,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Boosterfresh to Sleeve to Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9854,31 +11120,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "GAMEON",
-        "country": "Item location: Greece"
-      },
-      "language": "English",
-      "price": 80.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "New Collection BB",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784157679.852165,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "GUILLOU92G",
         "country": "Item location: France"
       },
@@ -9887,7 +11128,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "collect aura 9.5",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9912,7 +11153,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9934,6 +11175,31 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "melissa0303",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ccc 9.5",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Rekindodouce",
         "country": "Item location: France"
       },
@@ -9942,7 +11208,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "MINT+ COLLECT AURA 9.5",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9967,7 +11233,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9992,7 +11258,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10017,9 +11283,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -10042,7 +11308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10067,7 +11333,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check more of my Cards!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10092,7 +11358,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.0",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10117,7 +11383,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10126,6 +11392,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "GAMEON",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 80.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "New Collection BB",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1784157679.852165,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -10229,6 +11525,36 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "ApTradingCards",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 81.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PCA 9.5",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          79.0,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Furecks",
         "country": "Item location: Switzerland"
       },
@@ -10237,7 +11563,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10262,7 +11588,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10293,17 +11619,52 @@
       },
       "language": "French",
       "price": 85.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "pca 9.5",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1782679118.9981883,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "amazingtoys",
+        "country": "Item location: Switzerland"
+      },
+      "language": "German",
+      "price": 86.8,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          96.44,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10321,7 +11682,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10346,7 +11707,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Versand im Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10371,7 +11732,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10396,7 +11757,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "1§  We buy your single cards. collections and sealed products",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10421,7 +11782,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10446,7 +11807,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pure grading 9.5",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10471,7 +11832,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 9 - Fast ship",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10496,7 +11857,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10521,32 +11882,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "amazingtoys",
-        "country": "Item location: Switzerland"
-      },
-      "language": "German",
-      "price": 96.44,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10571,7 +11907,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10596,9 +11932,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "POTENTIEL 10",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -10651,7 +11987,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack to sleeve. Ms4 #0010",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10676,7 +12012,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Blade 9.5",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10701,7 +12037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask more photos",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10726,7 +12062,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD-9.5-MT+",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10751,7 +12087,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AiGrading 9.5. A lot of card in stock!",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10776,7 +12112,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10801,7 +12137,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10826,7 +12162,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 9.5",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10851,7 +12187,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "* MINT Front / Fair Pro Grading",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10881,7 +12217,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10928,6 +12264,45 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "KrakenCardsSK",
+        "country": "Item location: Slovakia"
+      },
+      "language": "English",
+      "price": 128.6,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          61.5,
+          1783878243.0333786
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783878243.0333786
+        ],
+        [
+          0,
+          1783878243.0333786
+        ]
+      ],
+      "first_date": 1783878243.0333786,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "melvinsilva8",
         "country": "Item location: Portugal"
       },
@@ -10958,94 +12333,6 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
-        "name": "Kaiju-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 149.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          74.94,
-          1784002258.2099495
-        ],
-        [
-          149.95,
-          1784157679.852165
-        ],
-        [
-          98.95,
-          1784420927.0081582
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783878243.0333786,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "TheTotems",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783350631.5152676,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "magicandcoins",
-        "country": "Item location: Portugal"
-      },
-      "language": "Portuguese",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "P180",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
         "name": "fireblade2301",
         "country": "Item location: Germany"
       },
@@ -11054,7 +12341,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve + toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11079,12 +12366,97 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "Magicandcoins3",
+        "country": "Item location: Portugal"
+      },
+      "language": "Portuguese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785054328.8029583,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "magicandcoins",
+        "country": "Item location: Portugal"
+      },
+      "language": "Portuguese",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "P180",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
+      "first_date": 1782679118.9981883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "TheTotems",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1784577451.995933,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784577451.995933
+        ]
+      ],
+      "first_date": 1783350631.5152676,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11126,6 +12498,66 @@
       "card": "Psyduck  (MEW 175)",
       "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
       "seller": {
+        "name": "Kouchih",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 164.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          1784803887.057636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784712847.6429439,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
+        "name": "TCG-Trainer",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 167.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9 ask for picture",
+      "date": 1785054328.8029583,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          190.0,
+          1784712847.6429439
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783117125.6873133,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Psyduck  (MEW 175)",
+      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
+      "seller": {
         "name": "Denjessi",
         "country": "Item location: Germany"
       },
@@ -11134,7 +12566,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11159,7 +12591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "* MINT Front / Boosterfresh",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11279,9 +12711,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 9",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784577451.995933,
@@ -11304,37 +12736,12 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782679118.9981883,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Psyduck  (MEW 175)",
-      "canonical_name": "Pokemon_Products_Singles_151_Psyduck-V2-MEW175",
-      "seller": {
-        "name": "TCG-Trainer",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9 ask for picture",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11354,7 +12761,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Gradeable quality",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11439,7 +12846,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "* MINT Front / Boosterfresh",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11461,18 +12868,23 @@
       },
       "language": "English",
       "price": 439.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1784803887.057636
+        ]
+      ],
       "first_date": 1783485818.7823896,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -11576,12 +12988,12 @@
       },
       "language": "English",
       "price": 449.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10 [More PSA slabs]",
-      "date": 1784577451.995933,
-      "ended": false,
-      "new": false,
+      "comment": "PSA 10 [More PSA slabs]",
+      "date": 1784803887.057636,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -11591,12 +13003,16 @@
         [
           0,
           1783609848.991645
+        ],
+        [
+          1,
+          1784803887.057636
         ]
       ],
       "first_date": 1783117125.6873133,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -11613,7 +13029,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "in Sleeve und Toploader - Für Bilder bitte Fragen",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11638,7 +13054,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Eng masterset.plus jap ill. rares and eng promos.Ultra rare in jap.Contact me in DM.Price negotiable",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11663,7 +13079,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1784577451.995933,
+      "date": 1785054328.8029583,
       "ended": false,
       "new": false,
       "previous_prices": [],
