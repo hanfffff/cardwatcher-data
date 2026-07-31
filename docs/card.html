@@ -20,6 +20,12 @@ html, body { background-image: none !important; }
 .hidden-condition { display:none !important; }
 .hidden-firsted { display:none !important; }
 .hidden-reverse { display:none !important; }
+.hidden-grade { display:none !important; }
+.hidden-gradeval { display:none !important; }
+
+/* Grading marker on a listing row: text, because there is no sprite sheet for
+   grading companies and "PSA 10" has to read at a glance. */
+.grade-badge { display:inline-block; flex:0 0 auto; padding:0 5px; border-radius:3px; color:#fff; font-size:11px; font-weight:bold; line-height:16px; white-space:nowrap; }
 
 #image { overflow: hidden; }
 #image img { max-width: 100%; max-height: 100%; width: auto; height: auto; min-width: 0; object-fit: contain; }
@@ -199,6 +205,19 @@ html, body { background-image: none !important; }
 				<div class="form-check"><input type="checkbox" id="reverseholo-is" value="reverseholo-is" class="reverse-checkbox form-check-input mb-1 me-2"><label for="reverseholo-is" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-416px -16px;" class="icon align-self-center me-2"></span><span>Reverse Holo</span></label></div>
 				<div class="form-check"><input type="checkbox" id="reverseholo-none" value="reverseholo-none" class="reverse-checkbox form-check-input mb-1 me-2"><label for="reverseholo-none" class="d-inline-flex form-check-label"><span style="display:inline-block;width:16px;height:16px;background-image:url('assets/Blanko/ssMain2.png');background-position:-416px -16px;" class="icon align-self-center me-2"><span style="color:darkred;padding-left:2px;font-size:18px;line-height:16px;font-weight:bold;opacity:0.5;">X</span></span><span>Not Reverse Holo</span></label></div>
 				<button type="button" class="btn deselect-all-property btn-link btn-sm btn-slim">Deselect all</button>
+			</div></div>
+		</div>
+	</div>
+
+	<!-- Grading. Unlike the server-rendered page this markup is static, so the
+	     checkboxes are filled in by card.js from the listings it loaded, and the
+	     whole panel is hidden when the card has no graded copies. -->
+	<div class="accordion-item" id="gradingFilter" style="display:none;">
+		<div class="accordion-header"><div style="padding:10px"><span class="filterName text-nowrap me-1">Grading</span></div></div>
+		<div class="accordion-collapse collapse show">
+			<div class="item-body-wrapper"><div class="filter-box">
+				<div id="gradingSelection"></div>
+				<button type="button" class="btn deselect-all-grading btn-link btn-sm btn-slim">Deselect all</button>
 			</div></div>
 		</div>
 	</div>

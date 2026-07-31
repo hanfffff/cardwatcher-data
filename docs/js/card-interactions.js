@@ -292,6 +292,71 @@
 		generate_Graph();
 		generate_Graph();
 	});
+	// Grading Checkboxes ---------------------------------------------------------------------------
+	// The filter groups above each repeat this same show/hide logic inline. The
+	// two grading groups share one implementation instead of adding two more
+	// copies of it; the existing groups are left as they are. Kept in step with
+	// the same block in the app's templates/blanko.htm.
+	function setupRowFilter(selector, hiddenClass) {
+		var checkboxes = document.querySelectorAll(selector);
+		checkboxes.forEach(function(checkbox) {
+			checkbox.addEventListener('change', function() {
+				var allUnchecked = true;
+				var allWereUnchecked = true;
+				var value = this.value;
+				var checked = this.checked;
+				var self = this;
+				checkboxes.forEach(function(other) {
+					if (other.checked) {
+						allUnchecked = false;
+						if (other.value != value) {
+							allWereUnchecked = false;
+						}
+					}
+				});
+				if (allUnchecked) {
+					// Nothing selected means no filter, so show every row again.
+					document.querySelectorAll('[id^="articleRow"]').forEach(function(element) {
+						element.classList.remove(hiddenClass);
+					});
+				} else {
+					if (allWereUnchecked) {
+						// First box ticked: hide everything, then reveal the match.
+						document.querySelectorAll('[id^="articleRow"]').forEach(function(element) {
+							element.classList.add(hiddenClass);
+						});
+					}
+					document.querySelectorAll('.' + value).forEach(function(element) {
+						if (checked) {
+							element.classList.remove(hiddenClass);
+						} else {
+							element.classList.add(hiddenClass);
+						}
+					});
+				}
+				self.disabled = true;
+				setTimeout(function(){ self.disabled = false; }, 100);
+				generate_Graph();
+			});
+		});
+		return checkboxes;
+	}
+	var grade_checkboxes = setupRowFilter('.grade-checkbox', 'hidden-grade');
+	var gradeval_checkboxes = setupRowFilter('.gradeval-checkbox', 'hidden-gradeval');
+	// The Grading panel is hidden for cards with no graded listings.
+	var deselectGrading = document.querySelector('.deselect-all-grading');
+	if (deselectGrading) {
+		deselectGrading.addEventListener('click', function() {
+			[[grade_checkboxes, 'hidden-grade'], [gradeval_checkboxes, 'hidden-gradeval']]
+				.forEach(function(group) {
+					group[0].forEach(function(checkbox) { checkbox.checked = false; });
+					document.querySelectorAll('[id^="articleRow"]').forEach(function(element) {
+						element.classList.remove(group[1]);
+					});
+				});
+			generate_Graph();
+		});
+	}
 	// Condition Checkboxes -------------------------------------------------------------------------
 	var condition_checkboxes = document.querySelectorAll('.condition-checkbox');
 	condition_checkboxes.forEach(function(checkbox) {

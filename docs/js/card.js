@@ -16,8 +16,40 @@
   const { FLAGS, LANGUAGE_FLAGS, LANGUAGE_TO_ENGLISH, LOCATION_TO_ENGLISH,
           CONDITION_LONG, escapeHtml, imagePath, fetchJSON, fmtDateFromTs } = window.CW;
 
+  // Mirrors app/grading_libraries.py -- the badge colours, the display order of
+  // the filter checkboxes, and the label for the unattributed bucket. Parsing
+  // itself is server-side; the page JSON already carries grade_company/grade.
+  const GRADE_COMPANY_COLORS = {
+    PSA: "#c8102e", BGS: "#1c3f94", CGC: "#00a3e0", AOG: "#6a3d9a",
+    ACE: "#0f8a5f", PGS: "#b8860b", SGC: "#333333", AIG: "#8a6d3b",
+    ARS: "#a4243b", GMA: "#7a7a7a", TAG: "#005f73", UNK: "#6c757d",
+  };
+  const GRADE_COMPANY_ORDER = ["PSA", "BGS", "CGC", "AOG", "ACE", "PGS", "SGC",
+                               "AIG", "ARS", "GMA", "TAG", "UNK"];
+  const GRADE_COMPANY_LABELS = { UNK: "Graded (unknown)" };
+
   function getParam(name) {
     return new URLSearchParams(window.location.search).get(name) || "";
+  }
+
+  // grading_libraries.format_grade_number: 10.0 -> "10", 9.5 -> "9.5".
+  function gradeNumber(grade) {
+    if (grade === null || grade === undefined) return "";
+    return String(Math.round(grade * 10) / 10);
+  }
+
+  // grading_libraries.grade_slug: CSS-safe, 9.5 -> "9-5".
+  function gradeSlug(grade) {
+    if (grade === null || grade === undefined) return "none";
+    return gradeNumber(grade).replace(".", "-");
+  }
+
+  function isGraded(listing) {
+    return !!listing.grade_company;
+  }
+
+  function gradeLabel(listing) {
+    return isGraded(listing) ? listing.grade_company + " " + gradeNumber(listing.grade) : "";
   }
 
   // str(price).replace('.',',') with a trailing zero when there's a single
@@ -120,6 +152,18 @@
       firstEdHider = "is";
       firstEdMarker = '<span style="display: inline-block; width: 16px; height: 16px; background-image:url(\'assets/Blanko/ssMain2.png\'); background-position: -112px -16px;" class="icon st_SpecialIcon mr-1" aria-label="First Edition"></span>';
     }
+    // Badge sits in the comment column, not next to the 16px attribute sprites:
+    // product-attributes is a fixed 6.5rem and already holds four items.
+    let gradeMarker = "", gradeHider = "none", gradeValHider = "none";
+    if (isGraded(listing)) {
+      gradeHider = listing.grade_company.toLowerCase();
+      gradeValHider = gradeSlug(listing.grade);
+      const label = gradeLabel(listing);
+      gradeMarker = '<span class="grade-badge me-1" style="background:' +
+        (GRADE_COMPANY_COLORS[listing.grade_company] || "#6c757d") +
+        ';" title="Graded ' + escapeHtml(label) + '">' + escapeHtml(label) + "</span>";
+    }
+
     let revHoloMarker = "", revHoloHider = "none";
     if (listing.reverse_holo === 1) {
       revHoloHider = "is";
@@ -143,11 +187,15 @@
       " condition-" + cond.toLowerCase() + "-val" +
       " firsted-" + firstEdHider +
       " reverseholo-" + revHoloHider +
+      " grade-" + gradeHider +
+      " gradeval-" + gradeValHider +
       rowExtraStyle +
       " row g-0 article-row";
 
     return (
       '<div id="articleRow' + rowNumber + '" class="' + rowClass + '"' +
+      ' data-grade-company="' + escapeHtml(listing.grade_company || "") + '"' +
+      ' data-grade="' + (isGraded(listing) ? gradeSlug(listing.grade) : "") + '"' +
       ' data-first-date="' + firstDateStr + '"' +
       ' data-is-ended="' + String(ended) + '"' +
       ' data-quantity="' + displayQuantity + '"' +
@@ -176,7 +224,8 @@
               '<span style="display: inline-block; width: 16px; height: 16px; background-image:url(\'assets/Blanko/ssMain2.png\'); background-position: ' + langFlagPos + ';" class="icon me-2" aria-label="' + escapeHtml(lang) + '">' + escapeHtml(langText) + "</span>" +
               firstEdMarker + revHoloMarker +
             "</div>" +
-            '<div class="product-comments me-1 col"><div class="w-100">' +
+            '<div class="product-comments me-1 col"><div class="w-100 d-flex align-items-center">' +
+              gradeMarker +
               '<span class="d-block text-truncate text-muted fst-italic small" title="' + escapeHtml(listing.comment || "") + '">' + escapeHtml(listing.comment || "") + "</span>" +
             "</div></div>" +
           "</div></div>" +
@@ -233,6 +282,49 @@
         "</div>"
       );
     }).join("");
+  }
+
+  // Port of Page.build_grading_selection: one checkbox per grading company on
+  // this card (plus "Not graded"), then one per distinct grade number. Returns
+  // "" when nothing is graded, which is the signal to hide the whole panel.
+  function buildGradingSelection(listings) {
+    const companies = [];
+    const grades = [];
+    let hasRaw = false;
+    listings.forEach((l) => {
+      if (isGraded(l)) {
+        if (companies.indexOf(l.grade_company) === -1) companies.push(l.grade_company);
+        if (l.grade !== null && l.grade !== undefined && grades.indexOf(l.grade) === -1) {
+          grades.push(l.grade);
+        }
+      } else {
+        hasRaw = true;
+      }
+    });
+    if (companies.length === 0) return "";
+
+    const rank = (c) => {
+      const i = GRADE_COMPANY_ORDER.indexOf(c);
+      return i === -1 ? 99 : i;
+    };
+    companies.sort((a, b) => rank(a) - rank(b));
+    grades.sort((a, b) => b - a);
+
+    const check = (value, label, cls) =>
+      '<div class="form-check">' +
+        '<input type="checkbox" id="' + value + '" value="' + value + '" class="' + cls + ' form-check-input mb-1 me-2">' +
+        '<label for="' + value + '" class="d-inline-flex form-check-label"><span>' + escapeHtml(label) + "</span></label>" +
+      "</div>";
+
+    let html = companies.map((c) =>
+      check("grade-" + c.toLowerCase(), GRADE_COMPANY_LABELS[c] || c, "grade-checkbox")
+    ).join("");
+    if (hasRaw) html += check("grade-none", "Not graded", "grade-checkbox");
+    html += '<hr class="my-2">';
+    html += grades.map((g) =>
+      check("gradeval-" + gradeSlug(g), "Grade " + gradeNumber(g), "gradeval-checkbox")
+    ).join("");
+    return html;
   }
 
   function buildPriceSummary(canonical, priceHistory) {
@@ -300,6 +392,12 @@
       '<div class="table-footer"></div>';
     document.getElementById("countrySelection").innerHTML = buildCountrySelection(listings);
     document.getElementById("languageSelection").innerHTML = buildLanguageSelection(listings);
+
+    // The Grading panel is static markup, so it only appears once we know the
+    // card actually has graded copies.
+    const gradingHtml = buildGradingSelection(listings);
+    document.getElementById("gradingSelection").innerHTML = gradingHtml;
+    document.getElementById("gradingFilter").style.display = gradingHtml ? "" : "none";
 
     // Price summary (best-effort; degrades if price_history is unavailable)
     try {
