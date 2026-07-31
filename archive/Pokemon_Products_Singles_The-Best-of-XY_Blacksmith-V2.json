@@ -3,7 +3,7 @@
   "card": "Blacksmith (BXY 182)",
   "set": "The Best of XY - Singles",
   "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Blacksmith-V2",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_The-Best-of-XY_Blacksmith-V2.jpg",
+  "image": "data/images/Pokemon_Products_Singles_The-Best-of-XY_Blacksmith-V2.jpg",
   "languages": [
     "S-Chinese",
     "Japanese",
@@ -11,7 +11,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -27,16 +28,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "in Toploader",
-      "date": "1740082843.5119627",
+      "date": 1740082843.5119627,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1740082843.5119627",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1740082843.5119627,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Blacksmith (BXY 182)",
@@ -50,16 +56,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": "1740082843.5119627",
+      "date": 1740082843.5119627,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1740082843.5119627",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1740082843.5119627,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Blacksmith (BXY 182)",
@@ -73,16 +84,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / Shipped & Handled with care / Discount with multiple purchases / Ask for more pictures.",
-      "date": "1716279604.2471414",
+      "date": 1716279604.2471414,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712679766.53985",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679766.53985,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

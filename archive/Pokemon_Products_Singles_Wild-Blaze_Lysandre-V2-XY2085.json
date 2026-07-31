@@ -3,7 +3,7 @@
   "card": "Lysandre (XY2 085)",
   "set": "Wild Blaze - Singles",
   "canonical_name": "Pokemon_Products_Singles_Wild-Blaze_Lysandre-V2-XY2085",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_Wild-Blaze_Lysandre-V2-XY2085.jpg",
+  "image": "data/images/Pokemon_Products_Singles_Wild-Blaze_Lysandre-V2-XY2085.jpg",
   "languages": [
     "Japanese",
     "Korean",
@@ -11,6 +11,7 @@
   ],
   "only_germany": "False",
   "available": 0,
+  "available_graded": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,16 +27,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "NM front. hairline scratch back",
-      "date": "1713812327.0520725",
+      "date": 1713812327.0520725,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709035335.2875438",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709035335.2875438,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Lysandre (XY2 085)",
@@ -49,21 +55,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1715176321.614237",
+      "date": 1715176321.614237,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "129.99",
-          ""
+          129.99,
+          0.0
         ]
       ],
-      "first_date": "1709035335.2875438",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709035335.2875438,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Lysandre (XY2 085)",
@@ -77,16 +88,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9 / SHIPPED FROM FRANCE",
-      "date": "1715176321.614237",
+      "date": 1715176321.614237,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709035335.2875438",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709035335.2875438,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     }
   ]
 }

@@ -3,13 +3,14 @@
   "card": "Gecko Moria (OP06-080) (V.2)",
   "set": "Wings of the Captain (Japanese) - Singles",
   "canonical_name": "OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Gecko-Moria-OP06-080-V2",
-  "image": "static/Blanko/images/OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Gecko-Moria-OP06-080-V2.jpg",
+  "image": "data/images/OnePiece_Products_Singles_Wings-of-the-Captain-Japanese_Gecko-Moria-OP06-080-V2.jpg",
   "languages": [
     "S-Chinese",
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 39,
+  "available": 36,
+  "available_graded": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -25,16 +26,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved",
-      "date": "1713602218.4537745",
+      "date": 1713602218.4537745,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713505606.5499508",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713505606.5499508,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -48,33 +54,38 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720078836.62718",
+      "date": 1720078836.62718,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "24.9",
-          "64"
+          24.9,
+          64.0
         ],
         [
-          "22.9",
-          "5406.9"
+          22.9,
+          5406.9
         ],
         [
-          "31.0",
-          "97730.61"
+          31.0,
+          97730.61
         ],
         [
-          "24.9",
-          "719418524.240333"
+          24.9,
+          719418524.240333
         ]
       ],
-      "first_date": "1713716593.7450001",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713716593.7450001,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -3,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -88,21 +99,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714138861.4906285",
+      "date": 1714138861.4906285,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "29.99",
-          ""
+          29.99,
+          0.0
         ]
       ],
-      "first_date": "1713198868.190678",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713198868.190678,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -116,25 +132,30 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "24.0",
-          "65406.96"
+          24.0,
+          65406.96
         ],
         [
-          "30.0",
-          "1720078836.62718"
+          30.0,
+          1720078836.62718
         ]
       ],
-      "first_date": "1715175640.15901",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715175640.15901,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -148,16 +169,21 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1719418524.2403333",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1719418524.2403333,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -171,25 +197,30 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "directly into sleeve and toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "22.0",
-          "097504.616"
+          22.0,
+          97504.616
         ],
         [
-          "21.0",
-          "719418524.240333"
+          21.0,
+          719418524.240333
         ]
       ],
-      "first_date": "1717497730.6157444",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497730.6157444,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -203,21 +234,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1719418524.2403333",
+      "date": 1719418524.2403333,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "21.0",
-          "18703364.32020"
+          21.0,
+          18703364.3202
         ]
       ],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -231,21 +267,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "unplayed",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "22.0",
-          "79"
+          22.0,
+          79.0
         ]
       ],
-      "first_date": "1714742703.531545",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714742703.531545,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -259,16 +300,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714320626.0276594",
+      "date": 1714320626.0276594,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714138861.4906285",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714138861.4906285,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -282,16 +328,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> SLeeve -> Toploader",
-      "date": "1713505606.5499508",
+      "date": 1713505606.5499508,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712920920.8222728",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712920920.8222728,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -305,16 +356,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1709449366.2353735",
+      "date": 1709449366.2353735,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709449366.2353735",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709449366.2353735,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -328,16 +384,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "ALL SET LIST",
-      "date": "1709135366.4452267",
+      "date": 1709135366.4452267,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709135366.4452267",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709135366.4452267,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -351,16 +412,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": "1709135366.4452267",
+      "date": 1709135366.4452267,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709126264.5118666",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709126264.5118666,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -374,16 +440,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfrisch/Sleeve/Versand im Toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720782535.3339367",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720782535.3339367,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -397,16 +468,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097504.6164687",
+      "date": 1718097504.6164687,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -420,16 +496,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> SLeeve -> Toploader",
-      "date": "1712755395.0583243",
+      "date": 1712755395.0583243,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712679324.0360558",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679324.0360558,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -443,21 +524,26 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "31.97",
-          "1716365406.9672976"
+          31.97,
+          1716365406.9672976
         ]
       ],
-      "first_date": "1716365406.9672976",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716365406.9672976,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 2,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -471,16 +557,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1710669492.1384506",
+      "date": 1710669492.1384506,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710669492.1384506",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669492.1384506,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -494,21 +585,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "ALWAYS BEST PRICE. CHECK MY PROFILE",
-      "date": "1710312557.1363385",
+      "date": 1710312557.1363385,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "23.0",
-          ""
+          23.0,
+          0.0
         ]
       ],
-      "first_date": "1710014685.2601035",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710014685.2601035,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -522,29 +618,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1710843188.8953109",
+      "date": 1710843188.8953109,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "21.0",
-          ""
+          21.0,
+          0.0
         ],
         [
-          "26.0",
-          ""
+          26.0,
+          0.0
         ],
         [
-          "23.5",
-          ""
+          23.5,
+          0.0
         ]
       ],
-      "first_date": "1709126264.5118666",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709126264.5118666,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -558,21 +659,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097504.6164687",
+      "date": 1718097504.6164687,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "25.0",
-          "97730.61"
+          25.0,
+          97730.61
         ]
       ],
-      "first_date": "1716365406.9672976",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716365406.9672976,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -586,16 +692,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097504.6164687",
+      "date": 1718097504.6164687,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497730.6157444",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497730.6157444,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -609,16 +720,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097504.6164687",
+      "date": 1718097504.6164687,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -632,16 +748,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve & top loader",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714742703.531545",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714742703.531545,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -655,16 +776,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booser - Sleeve - toploader",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715175640.15901",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715175640.15901,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -678,21 +804,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve>Toploader",
-      "date": "1712755395.0583243",
+      "date": 1712755395.0583243,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "25.0",
-          ""
+          25.0,
+          0.0
         ]
       ],
-      "first_date": "1709626813.6084723",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709626813.6084723,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -706,16 +837,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1713198868.190678",
+      "date": 1713198868.190678,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712920920.8222728",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712920920.8222728,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -729,16 +865,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Cardsaver",
-      "date": "1710312557.1363385",
+      "date": 1710312557.1363385,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710312557.1363385",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710312557.1363385,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -752,16 +893,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1718703364.3202093",
+      "date": 1718703364.3202093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -775,25 +921,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "fast shipping in Toploader",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "28.0",
-          "79"
+          28.0,
+          79.0
         ],
         [
-          "25.0",
-          "64"
+          25.0,
+          64.0
         ]
       ],
-      "first_date": "1714478402.9767008",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714478402.9767008,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -807,16 +958,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714032668.4371965",
+      "date": 1714032668.4371965,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714032668.4371965",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714032668.4371965,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -830,16 +986,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "From Booster to Toploader",
-      "date": "1712397075.8015337",
+      "date": 1712397075.8015337,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712397075.8015337",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712397075.8015337,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -853,16 +1014,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster to Sleeve. fast and safe shipping. check my other Card's",
-      "date": "1711782099.7027385",
+      "date": 1711782099.7027385,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711276961.877645",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711276961.877645,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -876,21 +1042,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1710669492.1384506",
+      "date": 1710669492.1384506,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "23.99",
-          ""
+          23.99,
+          0.0
         ]
       ],
-      "first_date": "1709626813.6084723",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709626813.6084723,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -904,21 +1075,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster->Sleev->Toploader",
-      "date": "1711782099.7027385",
+      "date": 1711782099.7027385,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "26.8",
-          ""
+          26.8,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -932,16 +1108,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Shipping in Sleeve and Toploader",
-      "date": "1708806816.3801143",
+      "date": 1708806816.3801143,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636480.3884518",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636480.3884518,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -955,21 +1136,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "24.99",
-          ""
+          24.99,
+          0.0
         ]
       ],
-      "first_date": "1712311088.7670085",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712311088.7670085,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -983,16 +1169,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Cardsaver | Sent in Cardboard Toploader | NM-Mint | Well packaged!",
-      "date": "1708636480.3884518",
+      "date": 1708636480.3884518,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708506370.171453",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708506370.171453,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1006,16 +1197,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve -> Toploader",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712311088.7670085",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712311088.7670085,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1029,29 +1225,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714138861.4906285",
+      "date": 1714138861.4906285,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "25.0",
-          ""
+          25.0,
+          0.0
         ],
         [
-          "24.0",
-          ""
+          24.0,
+          0.0
         ],
         [
-          "26.5",
-          ""
+          26.5,
+          0.0
         ]
       ],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1065,21 +1266,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster->Sleeve->Toploader!",
-      "date": "1708636480.3884518",
+      "date": 1708636480.3884518,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "27.6",
-          ""
+          27.6,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1093,16 +1299,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Message me for pictures. Have many more One piece cards in stock :)",
-      "date": "1712503806.1624718",
+      "date": 1712503806.1624718,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712397075.8015337",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712397075.8015337,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1116,16 +1327,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718290529.64685",
+      "date": 1718290529.64685,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1139,16 +1355,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1711959850.304331",
+      "date": 1711959850.304331,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711959850.304331",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711959850.304331,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1162,29 +1383,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "toploader Check my other cards",
-      "date": "1711276961.877645",
+      "date": 1711276961.877645,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "27.99",
-          ""
+          27.99,
+          0.0
         ],
         [
-          "24.99",
-          ""
+          24.99,
+          0.0
         ],
         [
-          "23.0",
-          ""
+          23.0,
+          0.0
         ]
       ],
-      "first_date": "1709449366.2353735",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709449366.2353735,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1198,25 +1424,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "täglicher Versand im Sleeve / Toploader. Bilder gerne auf Anfrage",
-      "date": "1708636480.3884518",
+      "date": 1708636480.3884518,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "29.99",
-          ""
+          29.99,
+          0.0
         ],
         [
-          "26.99",
-          ""
+          26.99,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1230,16 +1461,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Sleeved + Toploader",
-      "date": "1706886178.3530307",
+      "date": 1706886178.3530307,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1253,16 +1489,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712679324.0360558",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679324.0360558,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1276,16 +1517,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Doppel sleeve >toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1299,16 +1545,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "SLEEVE / TOP LOADER",
-      "date": "1719418524.2403333",
+      "date": 1719418524.2403333,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497730.6157444",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497730.6157444,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1322,16 +1573,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714972779.1549418",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714972779.1549418,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1345,16 +1601,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "fresh pull toploader",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712127238.1924636",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712127238.1924636,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1368,16 +1629,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715175640.15901",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715175640.15901,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1391,16 +1657,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714320626.0276594",
+      "date": 1714320626.0276594,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713602218.4537745",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713602218.4537745,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1414,16 +1685,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1713350734.1446526",
+      "date": 1713350734.1446526,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713350734.1446526",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713350734.1446526,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1437,16 +1713,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "NM",
-      "date": "1706886178.3530307",
+      "date": 1706886178.3530307,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1460,16 +1741,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1706886178.3530307",
+      "date": 1706886178.3530307,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1483,16 +1769,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check out Profile!",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720782535.3339367",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720782535.3339367,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1506,16 +1797,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1712167564.9549668",
+      "date": 1712167564.9549668,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1529,16 +1825,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OP-4C",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097504.6164687",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097504.6164687,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1552,25 +1853,30 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PM for pictures",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "34.99",
-          ""
+          34.99,
+          0.0
         ],
         [
-          "29.99",
-          "79"
+          29.99,
+          79.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1584,16 +1890,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718703364.3202093",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718703364.3202093,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1607,29 +1918,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "sleeve - >toploader",
-      "date": "1712127238.1924636",
+      "date": 1712127238.1924636,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "29.97",
-          ""
+          29.97,
+          0.0
         ],
         [
-          "24.99",
-          ""
+          24.99,
+          0.0
         ],
         [
-          "29.99",
-          ""
+          29.99,
+          0.0
         ]
       ],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1643,16 +1959,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfrisch Schneller Versand",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1666,16 +1987,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1712311088.7670085",
+      "date": 1712311088.7670085,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711091093.1348224",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711091093.1348224,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1689,25 +2015,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Look at my other Cards-OPBinder-Diff",
-      "date": "1720078836.62718",
+      "date": 1720078836.62718,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "89.98",
-          "18703364.32020"
+          89.98,
+          18703364.3202
         ],
         [
-          "43.04",
-          "719418524.240333"
+          43.04,
+          719418524.240333
         ]
       ],
-      "first_date": "1717497730.6157444",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497730.6157444,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1721,25 +2052,30 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "O01-a23",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "1000.0",
-          "64"
+          1000.0,
+          64.0
         ],
         [
-          "91.99",
-          "18703364.32020"
+          91.99,
+          18703364.3202
         ]
       ],
-      "first_date": "1714032668.4371965",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714032668.4371965,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1753,16 +2089,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1709135366.4452267",
+      "date": 1709135366.4452267,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636480.3884518",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636480.3884518,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1776,21 +2117,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1708506370.171453",
+      "date": 1708506370.171453,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "60.0",
-          ""
+          60.0,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1804,21 +2150,26 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "*boosterfresh* fast shipping",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "39.99",
-          "5406.9"
+          39.99,
+          5406.9
         ]
       ],
-      "first_date": "1712679324.0360558",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679324.0360558,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1832,21 +2183,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved and toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "40.0",
-          "719418524.240333"
+          40.0,
+          719418524.240333
         ]
       ],
-      "first_date": "1719418524.2403333",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1719418524.2403333,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1860,16 +2216,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720078836.62718",
+      "date": 1720078836.62718,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1712127238.1924636",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712127238.1924636,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1883,16 +2244,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "DANI Store in Sicilia - Alcamo",
-      "date": "1709449366.2353735",
+      "date": 1709449366.2353735,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1906,16 +2272,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1706886178.3530307",
+      "date": 1706886178.3530307,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1929,16 +2300,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720782535.3339367",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720782535.3339367,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1952,16 +2328,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve. Sent safely. fast shipping.",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497730.6157444",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497730.6157444,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1975,16 +2356,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "sleeved + toploader UPS shipment",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716365406.9672976",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716365406.9672976,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -1998,21 +2384,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1712167564.9549668",
+      "date": 1712167564.9549668,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "34.0",
-          ""
+          34.0,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2026,37 +2417,42 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "79.99",
-          ""
+          79.99,
+          0.0
         ],
         [
-          "78.0",
-          "5406.9"
+          78.0,
+          5406.9
         ],
         [
-          "83.99",
-          "97730.61"
+          83.99,
+          97730.61
         ],
         [
-          "72.99",
-          "18703364.32020"
+          72.99,
+          18703364.3202
         ],
         [
-          "43.99",
-          "1720078836.62718"
+          43.99,
+          1720078836.62718
         ]
       ],
-      "first_date": "1712679324.0360558",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679324.0360558,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2070,16 +2466,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720078836.62718",
+      "date": 1720078836.62718,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1713716593.7450001",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713716593.7450001,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2093,33 +2494,38 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1712920920.8222728",
+      "date": 1712920920.8222728,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "33.0",
-          ""
+          33.0,
+          0.0
         ],
         [
-          "31.0",
-          ""
+          31.0,
+          0.0
         ],
         [
-          "24.9",
-          ""
+          24.9,
+          0.0
         ],
         [
-          "23.4",
-          ""
+          23.4,
+          0.0
         ]
       ],
-      "first_date": "1708636480.3884518",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636480.3884518,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2133,16 +2539,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1710312557.1363385",
+      "date": 1710312557.1363385,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710014685.2601035",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710014685.2601035,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2156,16 +2567,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1712397075.8015337",
+      "date": 1712397075.8015337,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712167564.9549668",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712167564.9549668,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2179,16 +2595,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "BOOSTER FRESH",
-      "date": "1716365406.9672976",
+      "date": 1716365406.9672976,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709126264.5118666",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709126264.5118666,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2202,16 +2623,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "C40",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718290529.64685",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718290529.64685,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2225,16 +2651,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sleeve + Toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710014685.2601035",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710014685.2601035,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2248,21 +2679,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "SHIPPED FROM FRANCE",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "29.9",
-          ""
+          29.9,
+          0.0
         ]
       ],
-      "first_date": "1710669492.1384506",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669492.1384506,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2276,16 +2712,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "new seller :)",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2299,16 +2740,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Boosterfrisch / Sleeve / Toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2322,16 +2768,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": "1715175640.15901",
+      "date": 1715175640.15901,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711959850.304331",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711959850.304331,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2345,21 +2796,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "AOG Grading 10",
-      "date": "1711959850.304331",
+      "date": 1711959850.304331,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "45.0",
-          ""
+          45.0,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2373,21 +2829,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "",
-      "date": "1710312557.1363385",
+      "date": 1710312557.1363385,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "50.0",
-          ""
+          50.0,
+          0.0
         ]
       ],
-      "first_date": "1709449366.2353735",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709449366.2353735,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2401,21 +2862,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1709449366.2353735",
+      "date": 1709449366.2353735,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "75.0",
-          ""
+          75.0,
+          0.0
         ]
       ],
-      "first_date": "1708636480.3884518",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636480.3884518,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2429,16 +2895,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster->Sleeve->Toploader",
-      "date": "1706886178.3530307",
+      "date": 1706886178.3530307,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2452,45 +2923,50 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": "1709449366.2353735",
+      "date": 1709449366.2353735,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "36.25",
-          ""
+          36.25,
+          0.0
         ],
         [
-          "36.23",
-          ""
+          36.23,
+          0.0
         ],
         [
-          "36.16",
-          ""
+          36.16,
+          0.0
         ],
         [
-          "36.09",
-          ""
+          36.09,
+          0.0
         ],
         [
-          "36.07",
-          ""
+          36.07,
+          0.0
         ],
         [
-          "36.19",
-          ""
+          36.19,
+          0.0
         ],
         [
-          "36.14",
-          ""
+          36.14,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2504,16 +2980,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "sleeve + top",
-      "date": "1711447375.2057643",
+      "date": 1711447375.2057643,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710669492.1384506",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669492.1384506,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2527,16 +3008,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713037594.0832627",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713037594.0832627,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2550,21 +3036,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "toploader shipping",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "50.0",
-          "097504.616"
+          50.0,
+          97504.616
         ]
       ],
-      "first_date": "1708806816.3801143",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708806816.3801143,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2578,21 +3069,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "45.0",
-          ""
+          45.0,
+          0.0
         ]
       ],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2606,16 +3102,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714972779.1549418",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714972779.1549418,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2629,16 +3130,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1708806816.3801143",
+      "date": 1708806816.3801143,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2652,21 +3158,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "70.0",
-          ""
+          70.0,
+          0.0
         ]
       ],
-      "first_date": "1710843188.8953109",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710843188.8953109,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2680,16 +3191,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711533803.0602913",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711533803.0602913,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2703,21 +3219,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Booster --> Sleeve---> Toploader",
-      "date": "1719418524.2403333",
+      "date": 1719418524.2403333,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "34.98",
-          ""
+          34.98,
+          0.0
         ]
       ],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2731,16 +3252,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "perfect card. Booster->Sleeve->Toploader",
-      "date": "1720078836.62718",
+      "date": 1720078836.62718,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1714742703.531545",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714742703.531545,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2754,25 +3280,30 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "79.0",
-          ""
+          79.0,
+          0.0
         ],
         [
-          "74.0",
-          ""
+          74.0,
+          0.0
         ]
       ],
-      "first_date": "1708347206.6448784",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708347206.6448784,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2786,16 +3317,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve > Toploader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711782099.7027385",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711782099.7027385,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2809,21 +3345,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condizioni mint",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "75.0",
-          "719418524.240333"
+          75.0,
+          719418524.240333
         ]
       ],
-      "first_date": "1714320626.0276594",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714320626.0276594,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2837,16 +3378,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "pack fresh and sleeve e top loader",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706793313.4521332",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706793313.4521332,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2860,16 +3406,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - SHIPPED FROM FRANCE",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714032668.4371965",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714032668.4371965,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Gecko Moria (OP06-080) (V.2)",
@@ -2883,16 +3434,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1720782535.3339367",
+      "date": 1720782535.3339367,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710232454.4242992",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710232454.4242992,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

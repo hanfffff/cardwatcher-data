@@ -3,7 +3,7 @@
   "card": "Jolteon EX (BXY 173)",
   "set": "The Best of XY - Singles",
   "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Jolteon-EX-V2",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_The-Best-of-XY_Jolteon-EX-V2.jpg",
+  "image": "data/images/Pokemon_Products_Singles_The-Best-of-XY_Jolteon-EX-V2.jpg",
   "languages": [
     "S-Chinese",
     "Japanese",
@@ -11,7 +11,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 4,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -27,16 +28,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Excellent - Near Mint - Very clean front. ask for more pics.",
-      "date": "1715176204.0674245",
+      "date": 1715176204.0674245,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714478940.9911141",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714478940.9911141,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -50,16 +56,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Excellent - Near Mint - Very clean front. ask for more pics.",
-      "date": "1714321270.9594872",
+      "date": 1714321270.9594872,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712679781.7985618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712679781.7985618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -73,16 +84,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Very clean. ask for pics.",
-      "date": "1712504468.2758367",
+      "date": 1712504468.2758367,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711009244.1604896",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711009244.1604896,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -96,33 +112,38 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Daily shipping | Ask for pictures | Safely packed",
-      "date": "1715176204.0674245",
+      "date": 1715176204.0674245,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "249.85",
-          ""
+          249.85,
+          0.0
         ],
         [
-          "229.85",
-          ""
+          229.85,
+          0.0
         ],
         [
-          "214.85",
-          ""
+          214.85,
+          0.0
         ],
         [
-          "194.95",
-          "33298.56"
+          194.95,
+          33298.56
         ]
       ],
-      "first_date": "1711009244.1604896",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711009244.1604896,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -136,16 +157,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "SHIPPED FROM FRANCE",
-      "date": "1715176204.0674245",
+      "date": 1715176204.0674245,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711009244.1604896",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711009244.1604896,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -159,25 +185,30 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Very good condition. and extremly rare version",
-      "date": "1715176204.0674245",
+      "date": 1715176204.0674245,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "700.0",
-          ""
+          700.0,
+          0.0
         ],
         [
-          "650.0",
-          "139419.83"
+          650.0,
+          139419.83
         ]
       ],
-      "first_date": "1711009244.1604896",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711009244.1604896,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Jolteon EX (BXY 173)",
@@ -191,16 +222,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa9 pop3",
-      "date": "1715176204.0674245",
+      "date": 1715176204.0674245,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711009244.1604896",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711009244.1604896,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     }
   ]
 }

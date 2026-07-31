@@ -10,7 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 11,
+  "available": 9,
+  "available_graded": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -46,7 +47,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -71,7 +75,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -96,7 +103,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -135,7 +145,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -174,7 +187,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -208,7 +224,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -250,7 +269,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "AIG",
+      "grade": 7.5,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -293,7 +315,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -327,7 +352,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -352,7 +380,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -377,7 +408,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -402,7 +436,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -432,7 +469,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -554,7 +594,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -579,7 +622,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Brigette (XY8b 064)",
@@ -604,7 +650,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": true
+      "archived": true,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     }
   ]
 }

@@ -8,7 +8,8 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 1,
+  "available": 0,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -35,7 +36,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

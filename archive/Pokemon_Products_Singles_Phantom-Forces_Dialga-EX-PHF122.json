@@ -3,7 +3,7 @@
   "card": "Dialga EX  (PHF 122)",
   "set": "Phantom Forces - Singles",
   "canonical_name": "Pokemon_Products_Singles_Phantom-Forces_Dialga-EX-PHF122",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_Phantom-Forces_Dialga-EX-PHF122.jpg",
+  "image": "data/images/Pokemon_Products_Singles_Phantom-Forces_Dialga-EX-PHF122.jpg",
   "languages": [
     "English",
     "French",
@@ -22,7 +22,8 @@
     "Hungarian"
   ],
   "only_germany": "False",
-  "available": 53,
+  "available": 47,
+  "available_graded": 7,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -38,16 +39,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Photo sur demande",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -61,25 +67,30 @@
       "quantity": 0,
       "condition": "PO",
       "comment": "Ask for scan. #",
-      "date": "1720783475.8877409",
+      "date": 1720783475.8877409,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "49.94",
-          ""
+          49.94,
+          0.0
         ],
         [
-          "44.9",
-          ""
+          44.9,
+          0.0
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -93,16 +104,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1725369622.2432122",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369622.2432122,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -116,16 +132,21 @@
       "quantity": 0,
       "condition": "PO",
       "comment": "",
-      "date": "1724669900.3376942",
+      "date": 1724669900.3376942,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -139,16 +160,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "5-24 See pics. Double sleeved. daily shipping",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714973242.4671428",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714973242.4671428,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -162,16 +188,21 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "Fast & safe shipping",
-      "date": "1720079252.835354",
+      "date": 1720079252.835354,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -185,16 +216,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "RELISTED! Grand choix de cartes !!!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -208,25 +244,30 @@
       "quantity": 0,
       "condition": "PO",
       "comment": "",
-      "date": "1712168047.3574083",
+      "date": 1712168047.3574083,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "65.0",
-          ""
+          65.0,
+          0.0
         ],
         [
-          "60.0",
-          ""
+          60.0,
+          0.0
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -240,16 +281,21 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "Grand choix de cartes !!!",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -263,16 +309,21 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "C2P3",
-      "date": "1710312717.7980375",
+      "date": 1710312717.7980375,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -286,16 +337,21 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "PCA AUTHENTIQUE",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -309,16 +365,21 @@
       "quantity": 0,
       "condition": "PO",
       "comment": "",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -332,16 +393,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "quelque point blanc et microrayure au back.lavant est parfait sauf micro pliure milieu gauche",
-      "date": "1713199397.828655",
+      "date": 1713199397.828655,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712311475.3163068",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712311475.3163068,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -355,16 +421,21 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "*New seller* sent in toploader. fast shipping!",
-      "date": "1714321134.3678913",
+      "date": 1714321134.3678913,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -378,21 +449,26 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "___ ___ ___ ___ ARCANA ___ ___ ___ ___ huge selection_strict grading_we buy cards",
-      "date": "1724669900.3376942",
+      "date": 1724669900.3376942,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "249.99",
-          ""
+          249.99,
+          0.0
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -406,16 +482,21 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "no serious damage. only bruised back",
-      "date": "1715176085.2805116",
+      "date": 1715176085.2805116,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713505952.2131052",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713505952.2131052,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -429,16 +510,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -452,16 +538,21 @@
       "quantity": 0,
       "condition": "PO",
       "comment": "Professional and strict grading! 1638222",
-      "date": "1718290991.8764274",
+      "date": 1718290991.8764274,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -475,21 +566,26 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "crease in front",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "109.99",
-          "1725369622.2432122"
+          109.99,
+          1725369622.2432122
         ]
       ],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -503,16 +599,21 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716881291.3745778",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716881291.3745778,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -526,16 +627,21 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "",
-      "date": "1713351097.240603",
+      "date": 1713351097.240603,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -549,16 +655,21 @@
       "quantity": 0,
       "condition": "LP",
       "comment": "Front Good Back light played.",
-      "date": "1710014834.2969747",
+      "date": 1710014834.2969747,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709883675.512515",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709883675.512515,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -572,16 +683,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Fast and secured shipping!",
-      "date": "1718098048.8488395",
+      "date": 1718098048.8488395,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498443.8061492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498443.8061492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -595,16 +711,21 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "(Map3-20) Sleeved + Toploader / Fast Shipping !!!!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -618,16 +739,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Front is NM - sleeve -> Toploader - Ask for pics",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -641,21 +767,26 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "+ toploader",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "149.9",
-          "783475.887"
+          149.9,
+          783475.887
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -669,16 +800,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "pre graded par collectaura",
-      "date": "1721370256.2275426",
+      "date": 1721370256.2275426,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -692,16 +828,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -715,16 +856,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Good+ non holo envoi rapide sous sleeve",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -738,16 +884,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Sous sleeve",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -761,21 +912,26 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "RELISTED! Back PL Front LP - Lot of completed sets . check other cards -",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "84.98",
-          "720783475.887740"
+          84.98,
+          720783475.88774
         ]
       ],
-      "first_date": "1713812066.5023482",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713812066.5023482,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -789,21 +945,26 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "98.89",
-          "724669900.337694"
+          98.89,
+          724669900.337694
         ]
       ],
-      "first_date": "1715176085.2805116",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715176085.2805116,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -817,16 +978,21 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498443.8061492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498443.8061492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -840,16 +1006,21 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Professional and strict grading! 1657111",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716881291.3745778",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716881291.3745778,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -863,21 +1034,26 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "Back Good / Front Exc - Ask for Pics",
-      "date": "1718290991.8764274",
+      "date": 1718290991.8764274,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "149.99",
-          ""
+          149.99,
+          0.0
         ]
       ],
-      "first_date": "1711534127.7224805",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711534127.7224805,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -891,16 +1067,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Ask for pics",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714033153.921985",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714033153.921985,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -914,16 +1095,21 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "LP-GD/Chiedere per foto",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -937,16 +1123,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -960,21 +1151,26 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Le prix et négociable photo en dm",
-      "date": "1711960217.6912613",
+      "date": 1711960217.6912613,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "150.0",
-          ""
+          150.0,
+          0.0
         ]
       ],
-      "first_date": "1711091778.313297",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711091778.313297,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -988,16 +1184,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "Back top corners biggest problem.",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369622.2432122",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369622.2432122,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1011,16 +1212,21 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1034,16 +1240,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Front Nm Back Gd",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1057,16 +1268,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "NM",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1080,16 +1296,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "Front EX",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498443.8061492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498443.8061492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1103,16 +1324,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "PSA 4 - Lot of psa slabs for sale!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 4.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1126,25 +1352,30 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Exc- back 4-23 (3) See pics. Double sleeved. daily shipping",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "159.95",
-          ""
+          159.95,
+          0.0
         ],
         [
-          "179.95",
-          ""
+          179.95,
+          0.0
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1158,16 +1389,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "exc+",
-      "date": "1710014834.2969747",
+      "date": 1710014834.2969747,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709883675.512515",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709883675.512515,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1181,16 +1417,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1204,25 +1445,30 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "140.0",
-          "783475.887"
+          140.0,
+          783475.887
         ],
         [
-          "145.0",
-          "21724728.78095"
+          145.0,
+          21724728.78095
         ]
       ],
-      "first_date": "1720783475.8877409",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720783475.8877409,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1236,16 +1482,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "MTG Grade 6.5 Picture on our website #961515",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "UNK",
+      "grade": 6.5,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1259,29 +1510,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "front nm. back ex. ask 4 pics. open 4 offers",
-      "date": "1720079252.835354",
+      "date": 1720079252.835354,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "199.99",
-          ""
+          199.99,
+          0.0
         ],
         [
-          "179.99",
-          ""
+          179.99,
+          0.0
         ],
         [
-          "175.99",
-          "1151.2"
+          175.99,
+          1151.2
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1295,16 +1551,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ASK FOR PICS!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1318,16 +1579,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "4-23 See pics. Double sleeved. daily shipping",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1341,16 +1607,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "some surface scratches on back - 440",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1364,16 +1635,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1387,25 +1663,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pictures",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "200.0",
-          "1151.2"
+          200.0,
+          1151.2
         ],
         [
-          "199.9",
-          "783475.887"
+          199.9,
+          783475.887
         ]
       ],
-      "first_date": "1718098048.8488395",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718098048.8488395,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1419,205 +1700,210 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Pokémon Dialga EX Full Art Holo Secret Rare",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "180.34",
-          ""
+          180.34,
+          0.0
         ],
         [
-          "180.66",
-          ""
+          180.66,
+          0.0
         ],
         [
-          "180.69",
-          ""
+          180.69,
+          0.0
         ],
         [
-          "180.75",
-          ""
+          180.75,
+          0.0
         ],
         [
-          "181.62",
-          ""
+          181.62,
+          0.0
         ],
         [
-          "181.19",
-          ""
+          181.19,
+          0.0
         ],
         [
-          "180.94",
-          ""
+          180.94,
+          0.0
         ],
         [
-          "180.73",
-          ""
+          180.73,
+          0.0
         ],
         [
-          "180.78",
-          ""
+          180.78,
+          0.0
         ],
         [
-          "180.82",
-          ""
+          180.82,
+          0.0
         ],
         [
-          "180.2",
-          ""
+          180.2,
+          0.0
         ],
         [
-          "180.13",
-          ""
+          180.13,
+          0.0
         ],
         [
-          "180.16",
-          ""
+          180.16,
+          0.0
         ],
         [
-          "180.08",
-          ""
+          180.08,
+          0.0
         ],
         [
-          "180.32",
-          ""
+          180.32,
+          0.0
         ],
         [
-          "180.7",
-          ""
+          180.7,
+          0.0
         ],
         [
-          "180.9",
-          ""
+          180.9,
+          0.0
         ],
         [
-          "180.4",
-          ""
+          180.4,
+          0.0
         ],
         [
-          "180.2",
-          ""
+          180.2,
+          0.0
         ],
         [
-          "180.19",
-          ""
+          180.19,
+          0.0
         ],
         [
-          "180.04",
-          ""
+          180.04,
+          0.0
         ],
         [
-          "180.39",
-          ""
+          180.39,
+          0.0
         ],
         [
-          "180.84",
-          ""
+          180.84,
+          0.0
         ],
         [
-          "180.77",
-          ""
+          180.77,
+          0.0
         ],
         [
-          "180.75",
-          ""
+          180.75,
+          0.0
         ],
         [
-          "180.77",
-          ""
+          180.77,
+          0.0
         ],
         [
-          "180.54",
-          ""
+          180.54,
+          0.0
         ],
         [
-          "179.35",
-          ""
+          179.35,
+          0.0
         ],
         [
-          "179.44",
-          ""
+          179.44,
+          0.0
         ],
         [
-          "179.92",
-          ""
+          179.92,
+          0.0
         ],
         [
-          "180.12",
-          ""
+          180.12,
+          0.0
         ],
         [
-          "180.52",
-          ""
+          180.52,
+          0.0
         ],
         [
-          "181.07",
-          ""
+          181.07,
+          0.0
         ],
         [
-          "180.54",
-          ""
+          180.54,
+          0.0
         ],
         [
-          "180.12",
-          ""
+          180.12,
+          0.0
         ],
         [
-          "179.62",
-          ""
+          179.62,
+          0.0
         ],
         [
-          "181.66",
-          ""
+          181.66,
+          0.0
         ],
         [
-          "181.41",
-          ""
+          181.41,
+          0.0
         ],
         [
-          "182.71",
-          "48"
+          182.71,
+          48.0
         ],
         [
-          "182.82",
-          "991."
+          182.82,
+          991.0
         ],
         [
-          "183.47",
-          "1151.2"
+          183.47,
+          1151.2
         ],
         [
-          "182.52",
-          "79252.8"
+          182.52,
+          79252.8
         ],
         [
-          "183.59",
-          "783475.887"
+          183.59,
+          783475.887
         ],
         [
-          "183.58",
-          "1370256.2275"
+          183.58,
+          1370256.2275
         ],
         [
-          "183.44",
-          "21724728.78095"
+          183.44,
+          21724728.78095
         ],
         [
-          "182.36",
-          "724669900.337694"
+          182.36,
+          724669900.337694
         ],
         [
-          "183.47",
-          "1725369622.2432122"
+          183.47,
+          1725369622.2432122
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1631,16 +1917,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Ask for pics",
-      "date": "1710312717.7980375",
+      "date": 1710312717.7980375,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1654,16 +1945,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "RELISTED! ",
-      "date": "1721370256.2275426",
+      "date": 1721370256.2275426,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715599300.480681",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715599300.480681,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1677,16 +1973,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Envió fotos",
-      "date": "1714139296.8624072",
+      "date": 1714139296.8624072,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714033153.921985",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714033153.921985,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1700,16 +2001,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Lots of cards for sale! Ask me for extra cards/copies!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1723,16 +2029,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710232607.9796376",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710232607.9796376,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (122) - Phantom Forces",
@@ -1746,16 +2057,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "Front looks nm/ex. back lp",
-      "date": "1709135483.9258573",
+      "date": 1709135483.9258573,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -1769,16 +2085,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1725369622.2432122",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369622.2432122,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1792,16 +2113,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1715599300.480681",
+      "date": 1715599300.480681,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -1815,193 +2141,198 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Minor back corner wear",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "204.39",
-          ""
+          204.39,
+          0.0
         ],
         [
-          "204.75",
-          ""
+          204.75,
+          0.0
         ],
         [
-          "204.78",
-          ""
+          204.78,
+          0.0
         ],
         [
-          "204.85",
-          ""
+          204.85,
+          0.0
         ],
         [
-          "205.84",
-          ""
+          205.84,
+          0.0
         ],
         [
-          "205.35",
-          ""
+          205.35,
+          0.0
         ],
         [
-          "205.06",
-          ""
+          205.06,
+          0.0
         ],
         [
-          "204.83",
-          ""
+          204.83,
+          0.0
         ],
         [
-          "204.89",
-          ""
+          204.89,
+          0.0
         ],
         [
-          "204.93",
-          ""
+          204.93,
+          0.0
         ],
         [
-          "204.23",
-          ""
+          204.23,
+          0.0
         ],
         [
-          "204.14",
-          ""
+          204.14,
+          0.0
         ],
         [
-          "204.18",
-          ""
+          204.18,
+          0.0
         ],
         [
-          "204.09",
-          ""
+          204.09,
+          0.0
         ],
         [
-          "204.36",
-          ""
+          204.36,
+          0.0
         ],
         [
-          "204.79",
-          ""
+          204.79,
+          0.0
         ],
         [
-          "205.02",
-          ""
+          205.02,
+          0.0
         ],
         [
-          "204.45",
-          ""
+          204.45,
+          0.0
         ],
         [
-          "204.23",
-          ""
+          204.23,
+          0.0
         ],
         [
-          "204.21",
-          ""
+          204.21,
+          0.0
         ],
         [
-          "204.05",
-          ""
+          204.05,
+          0.0
         ],
         [
-          "204.44",
-          ""
+          204.44,
+          0.0
         ],
         [
-          "204.96",
-          ""
+          204.96,
+          0.0
         ],
         [
-          "204.87",
-          ""
+          204.87,
+          0.0
         ],
         [
-          "204.84",
-          ""
+          204.84,
+          0.0
         ],
         [
-          "204.87",
-          ""
+          204.87,
+          0.0
         ],
         [
-          "204.61",
-          ""
+          204.61,
+          0.0
         ],
         [
-          "203.26",
-          ""
+          203.26,
+          0.0
         ],
         [
-          "203.37",
-          ""
+          203.37,
+          0.0
         ],
         [
-          "203.91",
-          ""
+          203.91,
+          0.0
         ],
         [
-          "204.13",
-          ""
+          204.13,
+          0.0
         ],
         [
-          "204.59",
-          ""
+          204.59,
+          0.0
         ],
         [
-          "205.21",
-          ""
+          205.21,
+          0.0
         ],
         [
-          "204.61",
-          ""
+          204.61,
+          0.0
         ],
         [
-          "204.13",
-          ""
+          204.13,
+          0.0
         ],
         [
-          "203.57",
-          ""
+          203.57,
+          0.0
         ],
         [
-          "205.88",
-          ""
+          205.88,
+          0.0
         ],
         [
-          "205.6",
-          ""
+          205.6,
+          0.0
         ],
         [
-          "207.07",
-          "48"
+          207.07,
+          48.0
         ],
         [
-          "207.2",
-          "991."
+          207.2,
+          991.0
         ],
         [
-          "207.93",
-          "1151.2"
+          207.93,
+          1151.2
         ],
         [
-          "206.86",
-          "79252.8"
+          206.86,
+          79252.8
         ],
         [
-          "208.07",
-          "783475.887"
+          208.07,
+          783475.887
         ],
         [
-          "208.05",
-          "1370256.2275"
+          208.05,
+          1370256.2275
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2015,16 +2346,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2038,16 +2374,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "ex/nm",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1721724728.7809534",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1721724728.7809534,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2061,21 +2402,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Nuevo vendedor. Envió rápido. Pedir fotos",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "190.0",
-          ""
+          190.0,
+          0.0
         ]
       ],
-      "first_date": "1713602622.4663725",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713602622.4663725,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2089,16 +2435,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "GOOD +",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2112,16 +2463,21 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Daily shipping",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709626931.0870116",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709626931.0870116,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2135,16 +2491,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Lots of cards for sale! Ask me for extra cards/copies!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2158,16 +2519,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "### 7008",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2181,16 +2547,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2204,16 +2575,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Shipping in Toploader + Teambag",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2227,16 +2603,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "From Booster to Sleeve",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2250,16 +2631,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2273,16 +2659,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2296,16 +2687,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "AOG graiding 6.5",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2319,16 +2715,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Check my account for more cards. ask for information !",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2342,16 +2743,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369622.2432122",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369622.2432122,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2365,16 +2771,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714478819.8570528",
+      "date": 1714478819.8570528,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1707221153.2295716",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1707221153.2295716,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2388,16 +2799,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Trusted Seller - See Our Other Cards!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713351097.240603",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713351097.240603,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2411,16 +2827,21 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Lots of cards. fast shipping. low prices!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2434,16 +2855,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "inkl. Mwst.",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2457,16 +2883,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Exc/near mint. quelques microrayures à l'arrière",
-      "date": "1710312717.7980375",
+      "date": 1710312717.7980375,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2480,16 +2911,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photos :)",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2503,16 +2939,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Cheap Shipping :)",
-      "date": "1718371151.2862701",
+      "date": 1718371151.2862701,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498443.8061492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498443.8061492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2526,16 +2967,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ask if you need more information",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1725369622.2432122",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369622.2432122,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2549,16 +2995,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "RELISTED! Front nm! / back gd",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2572,16 +3023,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2595,16 +3051,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2618,16 +3079,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2641,16 +3107,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "",
-      "date": "1721724728.7809534",
+      "date": 1721724728.7809534,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2664,16 +3135,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "vetrina - s",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2687,16 +3163,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 Price negotiable",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2710,16 +3191,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1724669900.3376942",
+      "date": 1724669900.3376942,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2733,21 +3219,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA-8",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "400.0",
-          "1151.2"
+          400.0,
+          1151.2
         ]
       ],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2761,16 +3252,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1724669900.3376942",
+      "date": 1724669900.3376942,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2784,21 +3280,26 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "300.0",
-          ""
+          300.0,
+          0.0
         ]
       ],
-      "first_date": "1714478819.8570528",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714478819.8570528,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2812,16 +3313,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720079252.835354",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079252.835354,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2835,16 +3341,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2858,16 +3369,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "VB - Shipping double sleeved in Toploader",
-      "date": "1716881291.3745778",
+      "date": 1716881291.3745778,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716881291.3745778",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716881291.3745778,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (122) - Phantom Forces",
@@ -2881,16 +3397,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Front NM Back GD - Im Local Store abholung möglich",
-      "date": "1708636518.0073066",
+      "date": 1708636518.0073066,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2904,16 +3425,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Ask for Pics",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1721370256.2275426",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1721370256.2275426,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2927,16 +3453,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "! Grand choix de cartes !",
-      "date": "1714743131.882852",
+      "date": 1714743131.882852,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2950,16 +3481,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM. weitere Bilder aud Anfrage",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498443.8061492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498443.8061492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -2973,16 +3509,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8!",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -2996,16 +3537,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "BGS 8 Very strong",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1709883675.512515",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709883675.512515,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3019,16 +3565,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AC",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708636518.0073066",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636518.0073066,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3042,16 +3593,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709135483.9258573",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709135483.9258573,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3065,16 +3621,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "RELISTED! ",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710669652.6031032",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669652.6031032,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3088,16 +3649,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CHECK MY OTHER CARDS! Ask me more cards by pm",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -3111,16 +3677,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "CHECK MY OTHER CARDS! Ask me more cards by pm",
-      "date": "1725369622.2432122",
+      "date": 1725369622.2432122,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1710669652.6031032",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669652.6031032,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -3134,16 +3705,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "CHECK MY OTHER CARDS! Ask me more cards by pm",
-      "date": "1715599300.480681",
+      "date": 1715599300.480681,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710669652.6031032",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669652.6031032,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3157,16 +3733,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792122.0239017",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792122.0239017,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3180,21 +3761,26 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 GRADED JAPANESE - OPEN TO OFFERS",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "1149.95",
-          "1725369622.2432122"
+          1149.95,
+          1725369622.2432122
         ]
       ],
-      "first_date": "1724669900.3376942",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1724669900.3376942,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -3208,16 +3794,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1710853273.4154923",
+      "date": 1710853273.4154923,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706689401.6978922",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706689401.6978922,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX  (PHF 122)",
@@ -3231,16 +3822,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "-1§  PSA 10",
-      "date": "1730792122.0239017",
+      "date": 1730792122.0239017,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715599300.480681",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715599300.480681,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -3254,16 +3850,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / Raum 693",
-      "date": "1714973242.4671428",
+      "date": 1714973242.4671428,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706689401.6978922",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706689401.6978922,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Dialga EX (PHF 122)",
@@ -3277,21 +3878,26 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Grading 9.5 (BECKETT). Price pending. ask für pics",
-      "date": "1713038134.9447746",
+      "date": 1713038134.9447746,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "9500.0",
-          ""
+          9500.0,
+          0.0
         ]
       ],
-      "first_date": "1710669652.6031032",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669652.6031032,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "UNK",
+      "grade": 9.5,
+      "grade_source": "auto"
     }
   ]
 }

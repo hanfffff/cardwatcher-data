@@ -3,7 +3,7 @@
   "card": "Hex Maniac (AOR 75a)",
   "set": "Ancient Origins - Singles",
   "canonical_name": "Pokemon_Products_Singles_Ancient-Origins_Hex-Maniac-V2-AOR75a",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_Ancient-Origins_Hex-Maniac-V2-AOR75a.jpg",
+  "image": "data/images/Pokemon_Products_Singles_Ancient-Origins_Hex-Maniac-V2-AOR75a.jpg",
   "languages": [
     "English",
     "French",
@@ -22,7 +22,8 @@
     "Hungarian"
   ],
   "only_germany": "False",
-  "available": 27,
+  "available": 22,
+  "available_graded": 5,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -38,16 +39,21 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "RELISTED! Ask for pics.",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -61,16 +67,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1716449953.0767646",
+      "date": 1716449953.0767646,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -84,16 +95,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "Lots of Japanse cards for sale",
-      "date": "1715175752.5756502",
+      "date": 1715175752.5756502,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714320730.7163844",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714320730.7163844,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -107,21 +123,26 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "PKM1 - 2 - 8",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "99.99",
-          "1720783071.6648624"
+          99.99,
+          1720783071.6648624
         ]
       ],
-      "first_date": "1709449381.8970573",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709449381.8970573,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -135,21 +156,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097528.0822864",
+      "date": 1718097528.0822864,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "85.0",
-          ""
+          85.0,
+          0.0
         ]
       ],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -163,21 +189,26 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1717497861.7420626",
+      "date": 1717497861.7420626,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "75.0",
-          ""
+          75.0,
+          0.0
         ]
       ],
-      "first_date": "1712921014.9608264",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712921014.9608264,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -191,16 +222,21 @@
       "quantity": 0,
       "condition": "PL",
       "comment": "Whitening & Bended",
-      "date": "1710014703.329513",
+      "date": 1710014703.329513,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1709126289.4782193",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709126289.4782193,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -214,21 +250,26 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "RE110",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "81.99",
-          ""
+          81.99,
+          0.0
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -242,16 +283,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718097528.0822864",
+      "date": 1718097528.0822864,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714742812.1052744",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714742812.1052744,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -265,33 +311,38 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Buy from the biggest TCG-Onlineshop in Europe! // BOX - 999 DKQ",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "121.7",
-          ""
+          121.7,
+          0.0
         ],
         [
-          "109.53",
-          ""
+          109.53,
+          0.0
         ],
         [
-          "98.58",
-          ""
+          98.58,
+          0.0
         ],
         [
-          "88.72",
-          "18703410.19698"
+          88.72,
+          18703410.19698
         ]
       ],
-      "first_date": "1710669515.75493",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669515.75493,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -305,16 +356,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "More available",
-      "date": "1710014703.329513",
+      "date": 1710014703.329513,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -328,21 +384,26 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Can't use mondial relay",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "120.0",
-          ""
+          120.0,
+          0.0
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -356,16 +417,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Lots of Japanese cards in stock! *",
-      "date": "1711651580.3365526",
+      "date": 1711651580.3365526,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711533870.7827928",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711533870.7827928,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -379,45 +445,50 @@
       "quantity": 2,
       "condition": "EX",
       "comment": "Holo Huge selection. no shipping on holidays and weekends.",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "78.54",
-          ""
+          78.54,
+          0.0
         ],
         [
-          "74.43",
-          ""
+          74.43,
+          0.0
         ],
         [
-          "66.56",
-          ""
+          66.56,
+          0.0
         ],
         [
-          "82.16",
-          ""
+          82.16,
+          0.0
         ],
         [
-          "72.28",
-          "61"
+          72.28,
+          61.0
         ],
         [
-          "78.45",
-          "8371037.8654"
+          78.45,
+          8371037.8654
         ],
         [
-          "83.08",
-          "1720783071.6648624"
+          83.08,
+          1720783071.6648624
         ]
       ],
-      "first_date": "1714032767.5219197",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714032767.5219197,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -431,16 +502,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "ship in Top loader",
-      "date": "1717497861.7420626",
+      "date": 1717497861.7420626,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714138950.489523",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714138950.489523,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -454,16 +530,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1710312580.79633",
+      "date": 1710312580.79633,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -477,21 +558,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Front: Near Mint - Back: EX - SEE PICTURES",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "99.99",
-          "720078915.01261"
+          99.99,
+          720078915.01261
         ]
       ],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -505,16 +591,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720783071.6648624",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720783071.6648624,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -528,16 +619,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1712755525.8079894",
+      "date": 1712755525.8079894,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1712755525.8079894",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712755525.8079894,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -551,16 +647,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "NM",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1720078915.012619",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720078915.012619,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -574,29 +675,34 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1714742812.1052744",
+      "date": 1714742812.1052744,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "95.0",
-          ""
+          95.0,
+          0.0
         ],
         [
-          "85.0",
-          ""
+          85.0,
+          0.0
         ],
         [
-          "100.0",
-          ""
+          100.0,
+          0.0
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -610,16 +716,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "carta in ottime condizioni front NM back qualche puntino bianco ask per informazioni",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1718097528.0822864",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097528.0822864,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -633,16 +744,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 8 Nm-M",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369448.7635348",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369448.7635348,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -656,16 +772,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -679,57 +800,62 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Holo Huge selection. no shipping on holidays and weekends.",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "104.99",
-          ""
+          104.99,
+          0.0
         ],
         [
-          "81.96",
-          ""
+          81.96,
+          0.0
         ],
         [
-          "79.47",
-          ""
+          79.47,
+          0.0
         ],
         [
-          "87.27",
-          ""
+          87.27,
+          0.0
         ],
         [
-          "82.71",
-          ""
+          82.71,
+          0.0
         ],
         [
-          "73.96",
-          ""
+          73.96,
+          0.0
         ],
         [
-          "91.28",
-          ""
+          91.28,
+          0.0
         ],
         [
-          "80.32",
-          "61"
+          80.32,
+          61.0
         ],
         [
-          "87.17",
-          "8371037.8654"
+          87.17,
+          8371037.8654
         ],
         [
-          "92.33",
-          "1720783071.6648624"
+          92.33,
+          1720783071.6648624
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -743,16 +869,21 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720078915.012619",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720078915.012619,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -766,16 +897,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small whitening",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708809543.6362116",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708809543.6362116,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -789,25 +925,30 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "RELISTED! RE842 AGO24",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "84.99",
-          ""
+          84.99,
+          0.0
         ],
         [
-          "76.49",
-          "1718703410.1969852"
+          76.49,
+          1718703410.1969852
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -821,16 +962,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369448.7635348",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369448.7635348,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -844,16 +990,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ASK for pics",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713505687.9905958",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713505687.9905958,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -867,16 +1018,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1713811698.5847154",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713811698.5847154,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -890,16 +1046,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1711959925.4658468",
+      "date": 1711959925.4658468,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710843212.4972672",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710843212.4972672,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -913,16 +1074,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PM for pictures",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -936,16 +1102,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Album R/B S",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369448.7635348",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369448.7635348,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -959,16 +1130,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1714320730.7163844",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714320730.7163844,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -982,16 +1158,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Nm-",
-      "date": "1720078915.012619",
+      "date": 1720078915.012619,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1710014703.329513",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710014703.329513,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1005,16 +1186,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "EXC+",
-      "date": "1716449953.0767646",
+      "date": 1716449953.0767646,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1028,21 +1214,26 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "from box to sleeve ask for picture",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "110.0",
-          "528."
+          110.0,
+          528.0
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1056,25 +1247,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": "1711535432.6007311",
+      "date": 1711535432.6007311,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "110.0",
-          ""
+          110.0,
+          0.0
         ],
         [
-          "100.0",
-          ""
+          100.0,
+          0.0
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (75a) - Ancient Origins",
@@ -1088,16 +1284,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "NM- (Ask for photos)",
-      "date": "1709449381.8970573",
+      "date": 1709449381.8970573,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (75a) - Ancient Origins",
@@ -1111,16 +1312,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1709135382.0777009",
+      "date": 1709135382.0777009,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1134,109 +1340,114 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1718703410.1969852",
+      "date": 1718703410.1969852,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "96.11",
-          ""
+          96.11,
+          0.0
         ],
         [
-          "96.07",
-          ""
+          96.07,
+          0.0
         ],
         [
-          "96.09",
-          ""
+          96.09,
+          0.0
         ],
         [
-          "96.05",
-          ""
+          96.05,
+          0.0
         ],
         [
-          "96.17",
-          ""
+          96.17,
+          0.0
         ],
         [
-          "96.38",
-          ""
+          96.38,
+          0.0
         ],
         [
-          "96.48",
-          ""
+          96.48,
+          0.0
         ],
         [
-          "96.4",
-          ""
+          96.4,
+          0.0
         ],
         [
-          "96.41",
-          ""
+          96.41,
+          0.0
         ],
         [
-          "96.29",
-          ""
+          96.29,
+          0.0
         ],
         [
-          "95.65",
-          ""
+          95.65,
+          0.0
         ],
         [
-          "95.71",
-          ""
+          95.71,
+          0.0
         ],
         [
-          "95.96",
-          ""
+          95.96,
+          0.0
         ],
         [
-          "96.07",
-          ""
+          96.07,
+          0.0
         ],
         [
-          "96.28",
-          ""
+          96.28,
+          0.0
         ],
         [
-          "96.57",
-          ""
+          96.57,
+          0.0
         ],
         [
-          "96.29",
-          ""
+          96.29,
+          0.0
         ],
         [
-          "96.07",
-          ""
+          96.07,
+          0.0
         ],
         [
-          "95.8",
-          ""
+          95.8,
+          0.0
         ],
         [
-          "96.75",
-          "61"
+          96.75,
+          61.0
         ],
         [
-          "97.45",
-          "528."
+          97.45,
+          528.0
         ],
         [
-          "97.51",
-          "0565.8"
+          97.51,
+          565.8
         ],
         [
-          "97.85",
-          "8371037.8654"
+          97.85,
+          8371037.8654
         ]
       ],
-      "first_date": "1711091233.0935237",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711091233.0935237,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1250,16 +1461,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 8.5. almost perfect",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1718097528.0822864",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1718097528.0822864,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AIG",
+      "grade": 8.5,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1273,16 +1489,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717497861.7420626",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717497861.7420626,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1296,16 +1517,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Gradet \"PSA 7\"",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369448.7635348",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369448.7635348,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 7.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1319,16 +1545,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ndk",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714972895.060441",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714972895.060441,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1342,16 +1573,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720783071.6648624",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720783071.6648624,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1365,16 +1601,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check also my Yugioh and Digimon cards!",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714320730.7163844",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714320730.7163844,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1388,16 +1629,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1714742812.1052744",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714742812.1052744,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1411,16 +1657,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Del sobre a la funda",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1713198993.4547923",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1713198993.4547923,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1434,16 +1685,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": "1713716685.386194",
+      "date": 1713716685.386194,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1457,16 +1713,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1725369448.7635348",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1725369448.7635348,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1480,21 +1741,26 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          "169.9",
-          "1720783071.6648624"
+          169.9,
+          1720783071.6648624
         ]
       ],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1508,21 +1774,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - pictures on request :)",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "159.0",
-          "720078915.01261"
+          159.0,
+          720078915.01261
         ]
       ],
-      "first_date": "1710669515.75493",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1710669515.75493,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1536,16 +1807,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "MINT Front / NM- Back because of 8 tiny white dots... not much though / Fair Pro Grading",
-      "date": "1725369448.7635348",
+      "date": 1725369448.7635348,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1559,16 +1835,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "MINT Front / EX+ Back / Fair Pro Grading",
-      "date": "1715175752.5756502",
+      "date": 1715175752.5756502,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708703361.1464684",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708703361.1464684,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Hex Maniac (AOR 75a)",
@@ -1582,16 +1863,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - POP 80",
-      "date": "1720783071.6648624",
+      "date": 1720783071.6648624,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1716449953.0767646",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716449953.0767646,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

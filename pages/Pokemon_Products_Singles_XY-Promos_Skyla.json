@@ -10,7 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 3,
+  "available": 0,
+  "available_graded": 3,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -47,7 +48,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -81,7 +85,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -111,7 +118,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -141,7 +151,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -166,7 +179,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -191,7 +207,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -221,7 +240,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -259,7 +281,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -284,7 +309,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -309,7 +337,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 8.5,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -334,7 +365,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -372,7 +406,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -402,7 +439,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Skyla (XY-P 164)",
@@ -436,7 +476,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

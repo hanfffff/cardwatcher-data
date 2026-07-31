@@ -3,14 +3,15 @@
   "card": "Pikachu  (XY-P 175)",
   "set": "XY Promos - Singles",
   "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V12",
-  "image": "static/Blanko/images/Pokemon_Products_Singles_XY-Promos_Pikachu-V12.jpg",
+  "image": "data/images/Pokemon_Products_Singles_XY-Promos_Pikachu-V12.jpg",
   "languages": [
     "Japanese",
     "Korean",
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 12,
+  "available": 3,
+  "available_graded": 9,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -26,16 +27,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1715599315.4856443",
+      "date": 1715599315.4856443,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715176368.6819115",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715176368.6819115,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -49,16 +55,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "Discounts for bigger orders || Ask for pictures",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -72,16 +83,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "PSA5",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1730792162.2602093",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792162.2602093,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 5.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -95,25 +111,30 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "RELISTED! Vorne Druckstellen sonst clean.sehe foto",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "190.0",
-          ""
+          190.0,
+          0.0
         ],
         [
-          "160.0",
-          "710014920.054658"
+          160.0,
+          710014920.054658
         ]
       ],
-      "first_date": "1708636545.169825",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708636545.169825,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -127,37 +148,42 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "255.0",
-          "485."
+          255.0,
+          485.0
         ],
         [
-          "238.0",
-          "3945.2"
+          238.0,
+          3945.2
         ],
         [
-          "218.0",
-          "70336.74"
+          218.0,
+          70336.74
         ],
         [
-          "225.0",
-          "22945425.81543"
+          225.0,
+          22945425.81543
         ],
         [
-          "270.0",
-          "730792162.260209"
+          270.0,
+          730792162.260209
         ]
       ],
-      "first_date": "1720079485.2441165",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720079485.2441165,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -171,16 +197,21 @@
       "quantity": 0,
       "condition": "GD",
       "comment": "",
-      "date": "1722945425.8154378",
+      "date": 1722945425.8154378,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1717498706.8506403",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1717498706.8506403,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -194,16 +225,21 @@
       "quantity": 0,
       "condition": "EX",
       "comment": "bit of whitening topside on the back. ask picture",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -217,16 +253,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8. dm for more info",
-      "date": "1712921817.688492",
+      "date": 1712921817.688492,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711092310.8652802",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711092310.8652802,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -240,16 +281,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": "1725370040.7413824",
+      "date": 1725370040.7413824,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1722945425.8154378",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1722945425.8154378,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -263,21 +309,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "AOG 8.5 NearMint-Mint - Pm for pictures",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "399.0",
-          "485."
+          399.0,
+          485.0
         ]
       ],
-      "first_date": "1708246443.3910155",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708246443.3910155,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 8.5,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -291,16 +342,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "GG 9 mint - ask for more pictures",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -314,16 +370,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "bit of whitening topside on the back. ask picture",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -337,16 +398,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Promo! Ungraded! Sent in sleeve + top loader!",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -360,16 +426,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": "1711534408.1163344",
+      "date": 1711534408.1163344,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1708246443.3910155",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1708246443.3910155,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -383,25 +454,30 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "message for pictures",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "550.0",
-          ""
+          550.0,
+          0.0
         ],
         [
-          "500.0",
-          "730792162.260209"
+          500.0,
+          730792162.260209
         ]
       ],
-      "first_date": "1712921817.688492",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1712921817.688492,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -415,16 +491,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": "1725370040.7413824",
+      "date": 1725370040.7413824,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720783945.2528894",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720783945.2528894,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (175) - XY Promos",
@@ -438,21 +519,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": "1708327601.252259",
+      "date": 1708327601.252259,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "599.95",
-          ""
+          599.95,
+          0.0
         ]
       ],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 2,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -466,16 +552,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "AE",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -489,21 +580,26 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Cgc 9 old",
-      "date": "1711092310.8652802",
+      "date": 1711092310.8652802,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "600.0",
-          ""
+          600.0,
+          0.0
         ]
       ],
-      "first_date": "1707220974.9369051",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1707220974.9369051,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -517,61 +613,66 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - DM for questions/offers",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "899.0",
-          ""
+          899.0,
+          0.0
         ],
         [
-          "825.0",
-          ""
+          825.0,
+          0.0
         ],
         [
-          "819.99",
-          ""
+          819.99,
+          0.0
         ],
         [
-          "789.99",
-          ""
+          789.99,
+          0.0
         ],
         [
-          "774.99",
-          ""
+          774.99,
+          0.0
         ],
         [
-          "725.0",
-          ""
+          725.0,
+          0.0
         ],
         [
-          "695.0",
-          ""
+          695.0,
+          0.0
         ],
         [
-          "725.0",
-          ""
+          725.0,
+          0.0
         ],
         [
-          "625.0",
-          "830"
+          625.0,
+          830.0
         ],
         [
-          "650.0",
-          "2945425.8154"
+          650.0,
+          2945425.8154
         ],
         [
-          "799.0",
-          "25370040.74138"
+          799.0,
+          25370040.74138
         ]
       ],
-      "first_date": "1707815926.3558643",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1707815926.3558643,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -585,21 +686,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "RELISTED! PSA 10",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "750.0",
-          "16395175.24768"
+          750.0,
+          16395175.24768
         ]
       ],
-      "first_date": "1716292823.753476",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716292823.753476,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -613,16 +719,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 GRADED JAPANESE",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1730792162.2602093",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792162.2602093,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -636,33 +747,38 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Ask for pics",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "950.0",
-          ""
+          950.0,
+          0.0
         ],
         [
-          "850.0",
-          ""
+          850.0,
+          0.0
         ],
         [
-          "800.0",
-          ""
+          800.0,
+          0.0
         ],
         [
-          "700.0",
-          "25370040.74138"
+          700.0,
+          25370040.74138
         ]
       ],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -676,16 +792,21 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": "1730792162.2602093",
+      "date": 1730792162.2602093,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1715599315.4856443",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1715599315.4856443,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -699,29 +820,34 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1718703830.015807",
+      "date": 1718703830.015807,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "755.0",
-          ""
+          755.0,
+          0.0
         ],
         [
-          "699.0",
-          ""
+          699.0,
+          0.0
         ],
         [
-          "675.0",
-          ""
+          675.0,
+          0.0
         ]
       ],
-      "first_date": "1716880718.0865707",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1716880718.0865707,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -735,16 +861,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Psa -10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -758,16 +889,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10. See shop for more!",
-      "date": "1720783945.2528894",
+      "date": 1720783945.2528894,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1720783945.2528894",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1720783945.2528894,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -781,16 +917,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -804,16 +945,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -827,16 +973,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Psa 10 fresh from psa",
-      "date": "1718703830.015807",
+      "date": 1718703830.015807,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714743407.2994602",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714743407.2994602,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -850,16 +1001,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1730792162.2602093",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1730792162.2602093,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -873,25 +1029,30 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 graded",
-      "date": "1711004623.7576282",
+      "date": 1711004623.7576282,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "1400.0",
-          ""
+          1400.0,
+          0.0
         ],
         [
-          "999.0",
-          ""
+          999.0,
+          0.0
         ]
       ],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -905,16 +1066,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 FAST SHIPPING!",
-      "date": "1714973532.2213836",
+      "date": 1714973532.2213836,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1714139592.761389",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1714139592.761389,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -928,25 +1094,30 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "Psa10",
-      "date": "1712921817.688492",
+      "date": 1712921817.688492,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "1300.0",
-          ""
+          1300.0,
+          0.0
         ],
         [
-          "1100.0",
-          ""
+          1100.0,
+          0.0
         ]
       ],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -960,16 +1131,21 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -983,16 +1159,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1736842315.9031618",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1736842315.9031618,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1006,16 +1187,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA8",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1029,16 +1215,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 8.5",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 8.5,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1052,16 +1243,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pm for more pics",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1075,21 +1271,26 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 Gem Mint. ask for pictures",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [
         [
-          "1250.0",
-          "2945425.8154"
+          1250.0,
+          2945425.8154
         ]
       ],
-      "first_date": "1722945425.8154378",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1722945425.8154378,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -1103,45 +1304,50 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1713506250.257013",
+      "date": 1713506250.257013,
       "ended": true,
       "new": false,
       "previous_prices": [
         [
-          "1000.0",
-          ""
+          1000.0,
+          0.0
         ],
         [
-          "800.0",
-          ""
+          800.0,
+          0.0
         ],
         [
-          "700.0",
-          ""
+          700.0,
+          0.0
         ],
         [
-          "800.0",
-          ""
+          800.0,
+          0.0
         ],
         [
-          "850.0",
-          ""
+          850.0,
+          0.0
         ],
         [
-          "820.0",
-          ""
+          820.0,
+          0.0
         ],
         [
-          "800.0",
-          ""
+          800.0,
+          0.0
         ]
       ],
-      "first_date": "1709024010.7031298",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1709024010.7031298,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -1155,16 +1361,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "psa 10 ask for pictures",
-      "date": "1711782805.3715591",
+      "date": 1711782805.3715591,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1711004473.9400911",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1711004473.9400911,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1178,16 +1389,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (175) - XY Promos",
@@ -1201,16 +1417,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1709627001.5701637",
+      "date": 1709627001.5701637,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 2
+      "reverse_holo": 2,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1224,16 +1445,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa8",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1247,16 +1473,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1736842315.9031618",
+      "date": 1736842315.9031618,
       "ended": true,
       "new": true,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1270,16 +1501,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1293,16 +1529,21 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Beautiful",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1316,16 +1557,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1339,16 +1585,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1362,16 +1613,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu  (XY-P 175)",
@@ -1385,16 +1641,21 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC GRADE 8 NEAR MINT",
-      "date": "1761774394.9143276",
+      "date": 1761774394.9143276,
       "ended": false,
       "new": true,
       "previous_prices": [],
-      "first_date": "1761774394.9143276",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1761774394.9143276,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 8.0,
+      "grade_source": "auto"
     },
     {
       "card": "Pikachu (XY-P 175)",
@@ -1408,16 +1669,21 @@
       "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": "1716395175.2476866",
+      "date": 1716395175.2476866,
       "ended": true,
       "new": false,
       "previous_prices": [],
-      "first_date": "1706791278.9038823",
-      "last_date": "",
+      "previous_quantities": [],
+      "first_date": 1706791278.9038823,
+      "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
-      "reverse_holo": 0
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }

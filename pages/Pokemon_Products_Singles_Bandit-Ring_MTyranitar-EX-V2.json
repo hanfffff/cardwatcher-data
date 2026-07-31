@@ -10,8 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 3,
-  "sold": 1,
+  "available": 1,
+  "available_graded": 2,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -47,7 +48,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "MTyranitar EX  (XY7 090)",
@@ -81,7 +85,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
     },
     {
       "card": "MTyranitar EX  (XY7 090)",
@@ -111,7 +118,10 @@
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     },
     {
       "card": "MTyranitar EX  (XY7 090)",
@@ -165,7 +175,10 @@
       "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "MTyranitar EX  (XY7 090)",
@@ -190,7 +203,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
     },
     {
       "card": "MTyranitar EX  (XY7 090)",
@@ -220,7 +236,10 @@
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
-      "archived": false
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
     }
   ]
 }
