@@ -12,8 +12,8 @@
   ],
   "only_germany": "False",
   "available": 5,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Yveltal EX (BXY 187)",
@@ -74,12 +74,12 @@
       },
       "language": "Korean",
       "price": 219.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "",
-      "date": 1785036999.4278655,
-      "ended": false,
-      "new": false,
+      "date": 1785212613.05311,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -105,12 +105,16 @@
         [
           0,
           1781643008.4746337
+        ],
+        [
+          1,
+          1785212613.05311
         ]
       ],
       "first_date": 1779193096.2886863,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -384,14 +388,19 @@
       },
       "language": "Korean",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1785036999.4278655,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785036999.4278655
+        ]
+      ],
       "first_date": 1784786700.642812,
       "last_date": 0.0,
       "price_is_new": false,
@@ -433,12 +442,12 @@
         "country": "Item location: Spain"
       },
       "language": "Japanese",
-      "price": 625.0,
-      "quantity": 0,
+      "price": 630.0,
+      "quantity": 1,
       "condition": "EX",
-      "comment": "One white dot - Ask for anyhting!",
-      "date": 1779942404.4999297,
-      "ended": true,
+      "comment": "One white dot - Ask for anyhting! - open to offers",
+      "date": 1785385932.6211915,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -448,6 +457,10 @@
         [
           649.0,
           1778850842.2499826
+        ],
+        [
+          625.0,
+          1779942404.4999297
         ]
       ],
       "previous_quantities": [
@@ -457,6 +470,10 @@
         ],
         [
           1,
+          1779942404.4999297
+        ],
+        [
+          0,
           1779942404.4999297
         ]
       ],
@@ -480,7 +497,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785036999.4278655,
+      "date": 1785385932.6211915,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -511,11 +528,11 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "One white dot - Ask for anyhting! - open to offers",
       "date": 1785036999.4278655,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -535,6 +552,10 @@
         [
           0,
           1778075761.7499917
+        ],
+        [
+          1,
+          1785036999.4278655
         ]
       ],
       "first_date": 1777405656.452545,
@@ -780,36 +801,6 @@
       "card": "Yveltal EX  (BXY 187)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Yveltal-EX-V2",
       "seller": {
-        "name": "Marcos200200",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 950.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Psa 9",
-      "date": 1780320794.5502906,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780320794.5502906
-        ]
-      ],
-      "first_date": 1774606287.2574403,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Yveltal EX  (BXY 187)",
-      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Yveltal-EX-V2",
-      "seller": {
         "name": "KheZuD2",
         "country": "Item location: Germany"
       },
@@ -860,6 +851,45 @@
       "card": "Yveltal EX  (BXY 187)",
       "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Yveltal-EX-V2",
       "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "RELISTED! Psa9",
+      "date": 1785385932.6211915,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          950.0,
+          1780320794.5502906
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780320794.5502906
+        ],
+        [
+          0,
+          1780320794.5502906
+        ]
+      ],
+      "first_date": 1774606287.2574403,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Yveltal EX  (BXY 187)",
+      "canonical_name": "Pokemon_Products_Singles_The-Best-of-XY_Yveltal-EX-V2",
+      "seller": {
         "name": "Melobou",
         "country": "Item location: France"
       },
@@ -868,7 +898,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Booster to sleeve",
-      "date": 1785036999.4278655,
+      "date": 1785385932.6211915,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -892,7 +922,7 @@
       "previous_quantities": [],
       "first_date": 1761774378.3703823,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,

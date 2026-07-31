@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
-  "sold": 1,
-  "inserted": 0,
+  "available": 7,
+  "sold": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Kyogre EX  (XY5t 072)",
@@ -23,11 +23,11 @@
       },
       "language": "Korean",
       "price": 49.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "",
       "date": 1785070853.6542163,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -38,6 +38,10 @@
         [
           0,
           1781652815.7631817
+        ],
+        [
+          1,
+          1785070853.6542163
         ]
       ],
       "first_date": 1779280133.5703065,
@@ -112,14 +116,19 @@
       },
       "language": "Korean",
       "price": 60.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PL",
       "comment": "",
       "date": 1785070853.6542163,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785070853.6542163
+        ]
+      ],
       "first_date": 1778254744.2658663,
       "last_date": 0.0,
       "price_is_new": false,
@@ -137,12 +146,12 @@
       },
       "language": "Korean",
       "price": 86.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1784819656.9769068,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
+      "date": 1785418769.319391,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           104.99,
@@ -169,12 +178,16 @@
         [
           1,
           1784819656.9769068
+        ],
+        [
+          0,
+          1784819656.9769068
         ]
       ],
       "first_date": 1772952601.377061,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -385,7 +398,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best in town - 01-1E2",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -569,7 +582,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7 GRADED cheap shipping",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -654,7 +667,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #715",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -675,7 +688,7 @@
       ],
       "first_date": 1778254744.2658663,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -727,7 +740,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B7",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -782,7 +795,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many other cards in store!",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -832,7 +845,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
-      "date": 1785070853.6542163,
+      "date": 1785418769.319391,
       "ended": false,
       "new": false,
       "previous_prices": [],

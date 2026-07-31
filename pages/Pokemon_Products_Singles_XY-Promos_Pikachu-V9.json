@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 4,
-  "sold": 1,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -645,7 +645,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "contact me fro videos and pictures",
-      "date": 1785041988.7823634,
+      "date": 1785390718.3026302,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1048,7 +1048,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9 mint!",
-      "date": 1785041988.7823634,
+      "date": 1785390718.3026302,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1917,11 +1917,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 8450.05,
+      "price": 8403.26,
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GRADE PRISTINE 10",
-      "date": 1785041988.7823634,
+      "date": 1785390718.3026302,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1964,59 +1964,20 @@
         [
           8460.94,
           1784700600.1249764
+        ],
+        [
+          8450.05,
+          1785041988.7823634
+        ],
+        [
+          8427.34,
+          1785217146.3193717
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783106132.240399,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Pikachu  (XY-P 090)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
-      "seller": {
-        "name": "PokeQueen96",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 8500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1785041988.7823634,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3500.0,
-          1774994158.1898925
-        ],
-        [
-          3150.0,
-          1775166226.5244
-        ],
-        [
-          3500.0,
-          1775724710.8980722
-        ],
-        [
-          7900.0,
-          1783989541.696152
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775724710.8980722
-        ]
-      ],
-      "first_date": 1765402395.378645,
-      "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2056,6 +2017,57 @@
       "first_date": 1764588834.604241,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Pikachu  (XY-P 090)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Pikachu-V9",
+      "seller": {
+        "name": "PokeQueen96",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 9000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1785390718.3026302,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3500.0,
+          1774994158.1898925
+        ],
+        [
+          3150.0,
+          1775166226.5244
+        ],
+        [
+          3500.0,
+          1775724710.8980722
+        ],
+        [
+          7900.0,
+          1783989541.696152
+        ],
+        [
+          8500.0,
+          1785217146.3193717
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775724710.8980722
+        ]
+      ],
+      "first_date": 1765402395.378645,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2113,7 +2125,7 @@
       "comment": "PSA10 + acryl case",
       "date": 1784791437.531918,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           9500.0,
@@ -2181,7 +2193,7 @@
       "first_date": 1755774006.9515474,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 11,
-  "sold": 1,
-  "inserted": 0,
+  "available": 10,
+  "sold": 2,
+  "inserted": 1,
   "listings": [
     {
       "card": "Primal Groudon EX  (XY5g 074)",
@@ -85,7 +85,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -107,23 +107,27 @@
       },
       "language": "Japanese",
       "price": 200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "### 12388",
-      "date": 1784795367.6615002,
-      "ended": true,
-      "new": true,
+      "date": 1785394436.416938,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784795367.6615002
+        ],
+        [
+          0,
           1784795367.6615002
         ]
       ],
       "first_date": 1777464246.7618878,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -140,7 +144,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -183,7 +187,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -234,7 +238,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXCELLENT",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -276,7 +280,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Kyogre available Excellent ! Unlimited !!",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -315,11 +319,11 @@
       },
       "language": "Japanese",
       "price": 280.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Kyogre dispo",
       "date": 1785046204.9763944,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -330,6 +334,10 @@
         [
           0,
           1778882205.237834
+        ],
+        [
+          1,
+          1785046204.9763944
         ]
       ],
       "first_date": 1772056465.9113202,
@@ -391,12 +399,12 @@
       },
       "language": "Japanese",
       "price": 289.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Near mint and first ed. Text me for more pics",
-      "date": 1785046204.9763944,
-      "ended": false,
-      "new": false,
+      "date": 1785221533.9793136,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -422,12 +430,16 @@
         [
           0,
           1784412743.0280356
+        ],
+        [
+          1,
+          1785221533.9793136
         ]
       ],
       "first_date": 1772056465.9113202,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
@@ -453,6 +465,45 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Primal Groudon EX  (XY5g 074)",
+      "canonical_name": "Pokemon_Products_Singles_Gaia-Volcano_Primal-Groudon-EX-V2",
+      "seller": {
+        "name": "Marcos200200",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785394436.416938,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1780356782.751255
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780356782.751255
+        ],
+        [
+          0,
+          1780356782.751255
+        ]
+      ],
+      "first_date": 1774550566.223997,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -546,48 +597,23 @@
       },
       "language": "Japanese",
       "price": 450.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785046204.9763944,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1775661828.3099954,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Primal Groudon EX  (XY5g 074)",
-      "canonical_name": "Pokemon_Products_Singles_Gaia-Volcano_Primal-Groudon-EX-V2",
-      "seller": {
-        "name": "Marcos200200",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 450.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "More japanese vintage :)",
-      "date": 1780356782.751255,
+      "comment": "",
+      "date": 1785221533.9793136,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1780356782.751255
+          1785221533.9793136
         ]
       ],
-      "first_date": 1774550566.223997,
+      "first_date": 1775661828.3099954,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -643,7 +669,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selling all my cards! Got old and new!",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -732,7 +758,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 9",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -872,7 +898,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / EU shipping possible / Also have Kyogre",
-      "date": 1785046204.9763944,
+      "date": 1785394436.416938,
       "ended": false,
       "new": false,
       "previous_prices": [

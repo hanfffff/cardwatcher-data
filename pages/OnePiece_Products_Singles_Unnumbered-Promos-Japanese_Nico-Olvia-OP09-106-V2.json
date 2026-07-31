@@ -9,8 +9,8 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 7,
-  "sold": 1,
+  "available": 6,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -105,7 +105,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -143,7 +143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster frisch / fast shipping",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -175,7 +175,7 @@
       "comment": "Booster sleeve + topleader envoie rapide et soigné",
       "date": 1784801605.1998198,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -194,7 +194,7 @@
       "first_date": 1783576318.7841132,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -309,7 +309,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Double Sleeved & Fast Shipping + Toploader",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -394,7 +394,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -428,7 +428,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CHINESE CHAMPIONSHIP STAMP FOILD CARD",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -462,7 +462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785051789.1586437,
+      "date": 1785399915.576384,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -539,11 +539,11 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Other cards in trade-pack fresh!",
       "date": 1785051789.1586437,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -567,6 +567,10 @@
         [
           0,
           1783141080.6448598
+        ],
+        [
+          1,
+          1785051789.1586437
         ]
       ],
       "first_date": 1771786860.174893,

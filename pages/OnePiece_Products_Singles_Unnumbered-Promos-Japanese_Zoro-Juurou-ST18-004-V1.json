@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 41,
-  "sold": 2,
-  "inserted": 1,
+  "available": 40,
+  "sold": 1,
+  "inserted": 2,
   "listings": [
     {
       "card": "Zoro-Juurou (ST18-004) (V.1)",
@@ -142,11 +142,11 @@
       },
       "language": "Japanese",
       "price": 115.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Possibile scambio a mano su Roma",
       "date": 1785064078.2057168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -158,7 +158,12 @@
           1784722117.6928174
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785064078.2057168
+        ]
+      ],
       "first_date": 1784431042.1252048,
       "last_date": 0.0,
       "price_is_new": false,
@@ -179,7 +184,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Stamp Asia - Japanese - Toploader",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -209,7 +214,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -245,7 +250,7 @@
       "previous_quantities": [],
       "first_date": 1783178709.4644506,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -263,7 +268,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -283,7 +288,7 @@
       "previous_quantities": [],
       "first_date": 1783178709.4644506,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -298,14 +303,19 @@
       },
       "language": "Japanese",
       "price": 135.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785064078.2057168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785064078.2057168
+        ]
+      ],
       "first_date": 1784269594.2360198,
       "last_date": 0.0,
       "price_is_new": false,
@@ -326,7 +336,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Stamp Asia One Piece Card Game.  #1117541",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -367,7 +377,7 @@
       "comment": "",
       "date": 1784813197.031964,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           120.0,
@@ -383,7 +393,7 @@
       "first_date": 1782647467.0540257,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -400,7 +410,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -431,6 +441,128 @@
       "card": "Zoro-Juurou (ST18-004) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
       "seller": {
+        "name": "M1sterkay",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.92,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Schneller Versand",
+      "date": 1785412600.9770353,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1784586715.123217
+        ],
+        [
+          200.0,
+          1785239634.5219395
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784586715.123217,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (ST18-004) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.93,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
+      "date": 1785412600.9770353,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          157.94,
+          1785239634.5219395
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783887823.7123168,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (ST18-004) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
+      "seller": {
+        "name": "rxz21",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Clean. Sleeve + TL",
+      "date": 1785412600.9770353,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.95,
+          1782741149.60036
+        ],
+        [
+          159.95,
+          1782836230.352218
+        ],
+        [
+          149.95,
+          1783178709.4644506
+        ],
+        [
+          147.95,
+          1783361123.0112023
+        ],
+        [
+          157.95,
+          1783887823.7123168
+        ],
+        [
+          159.95,
+          1784269594.2360198
+        ],
+        [
+          154.95,
+          1784722117.6928174
+        ],
+        [
+          159.95,
+          1785064078.2057168
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782647467.0540257,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (ST18-004) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
+      "seller": {
         "name": "Andreza",
         "country": "Item location: France"
       },
@@ -439,7 +571,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PROMO Neuve -- Sleeve + Tp",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -465,20 +597,20 @@
       "card": "Zoro-Juurou (ST18-004) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
       "seller": {
-        "name": "KaiDo98",
-        "country": "Item location: Germany"
+        "name": "HasardLudiqueTournai",
+        "country": "Item location: Belgium"
       },
       "language": "Japanese",
       "price": 150.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784011559.9109936,
+      "first_date": 1783495750.1964414,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -490,20 +622,20 @@
       "card": "Zoro-Juurou (ST18-004) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
       "seller": {
-        "name": "HasardLudiqueTournai",
-        "country": "Item location: Belgium"
+        "name": "KaiDo98",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 150.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783495750.1964414,
+      "first_date": 1784011559.9109936,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -523,7 +655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "clan",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -574,11 +706,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 150.9,
+      "price": 150.06,
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -601,12 +733,20 @@
         [
           151.09,
           1784722117.6928174
+        ],
+        [
+          150.9,
+          1785064078.2057168
+        ],
+        [
+          150.49,
+          1785239634.5219395
         ]
       ],
       "previous_quantities": [],
       "first_date": 1784166947.1837068,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -620,73 +760,29 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 157.94,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1785064078.2057168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783887823.7123168,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (ST18-004) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
-      "seller": {
-        "name": "rxz21",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 159.95,
+      "price": 159.98,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Clean. Sleeve + TL",
-      "date": 1785064078.2057168,
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          149.95,
-          1782741149.60036
-        ],
-        [
-          159.95,
-          1782836230.352218
-        ],
-        [
-          149.95,
-          1783178709.4644506
-        ],
-        [
-          147.95,
-          1783361123.0112023
-        ],
-        [
-          157.95,
-          1783887823.7123168
-        ],
-        [
-          159.95,
-          1784269594.2360198
-        ],
-        [
-          154.95,
-          1784722117.6928174
+          249.48,
+          1785239634.5219395
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1782647467.0540257,
+      "previous_quantities": [
+        [
+          3,
+          1785239634.5219395
+        ]
+      ],
+      "first_date": 1783887823.7123168,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -703,7 +799,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping + Bonus",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -728,7 +824,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -753,12 +849,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "B12",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782647467.0540257,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (ST18-004) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 169.89,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
+      "date": 1785412600.9770353,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785412600.9770353,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -778,7 +899,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve. Cardsaver",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -812,42 +933,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782647467.0540257,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Zoro-Juurou (ST18-004) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
-      "seller": {
-        "name": "M1sterkay",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Schneller Versand",
-      "date": 1785064078.2057168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          150.0,
-          1784586715.123217
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784586715.123217,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -867,9 +958,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785064078.2057168,
@@ -889,15 +980,15 @@
       },
       "language": "Japanese",
       "price": 249.48,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783887823.7123168,
+      "first_date": 1785412600.9770353,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -917,7 +1008,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed possible - Fast & Safe Shipment",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -939,23 +1030,28 @@
       },
       "language": "Japanese",
       "price": 300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "bgs 10",
-      "date": 1785064078.2057168,
-      "ended": false,
-      "new": false,
+      "date": 1785239634.5219395,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           250.0,
           1784011559.9109936
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785239634.5219395
+        ]
+      ],
       "first_date": 1783361123.0112023,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -974,7 +1070,7 @@
       "comment": "Artset",
       "date": 1784813197.031964,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           450.0,
@@ -990,7 +1086,7 @@
       "first_date": 1783361123.0112023,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1007,12 +1103,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10 Pristine",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784431042.1252048,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Zoro-Juurou (ST18-004) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Zoro-Juurou-ST18-004-V1",
+      "seller": {
+        "name": "Feytcg",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Zoro",
+      "date": 1785412600.9770353,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785239634.5219395,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1032,7 +1153,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed Pack with all 3 Stamped Promos - Fast & Safe Shipment",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1067,7 +1188,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG PRISTINE 10!!",
-      "date": 1785064078.2057168,
+      "date": 1785412600.9770353,
       "ended": false,
       "new": false,
       "previous_prices": [],

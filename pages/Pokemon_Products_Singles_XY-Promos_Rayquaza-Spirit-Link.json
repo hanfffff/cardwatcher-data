@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 1,
-  "sold": 1,
+  "available": 2,
+  "sold": 0,
   "inserted": 0,
   "listings": [
     {
@@ -470,6 +470,31 @@
       "card": "Rayquaza Spirit Link (XY-P 126)",
       "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
       "seller": {
+        "name": "Kartensammler9999",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 470.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1785436704.8109744,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785265053.4799132,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza Spirit Link (XY-P 126)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Promos_Rayquaza-Spirit-Link",
+      "seller": {
         "name": "Zeromaru-Shop",
         "country": "Item location: Italy"
       },
@@ -478,7 +503,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "[EXC+] [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1785088065.6269271,
+      "date": 1785436704.8109744,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -505,7 +530,7 @@
       "comment": "Psa 10",
       "date": 1784838254.7645123,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -516,7 +541,7 @@
       "first_date": 1783142547.3782535,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false

@@ -10,8 +10,8 @@
   ],
   "only_germany": false,
   "available": 20,
-  "sold": 1,
-  "inserted": 3,
+  "sold": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Monkey.D.Luffy (OP09-061)",
@@ -659,11 +659,11 @@
       },
       "language": "S-Chinese",
       "price": 184.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ship in 24h",
       "date": 1785032478.0632572,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -679,6 +679,10 @@
         [
           0,
           1784395919.9405854
+        ],
+        [
+          1,
+          1785032478.0632572
         ]
       ],
       "first_date": 1784237504.6995416,
@@ -950,7 +954,7 @@
       "comment": "Rmp Possible à Paris",
       "date": 1784782838.7196908,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           200.0,
@@ -974,7 +978,7 @@
       "first_date": 1783183870.696707,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1861,7 +1865,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ship 24h tracked / PSA 10 contender",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2026,7 +2030,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2065,9 +2069,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785032478.0632572,
@@ -2090,7 +2094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2122,7 +2126,7 @@
       "previous_quantities": [],
       "first_date": 1780838105.5070858,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2140,7 +2144,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "full set 4 emperors ch available",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2168,6 +2172,61 @@
         ]
       ],
       "first_date": 1779838599.2731655,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "GetKaited",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 535.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "clean",
+      "date": 1785381053.1582637,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          599.0,
+          1785207945.5417924
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785032478.0632572,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "BELLO-CARDS",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
+      "date": 1785381053.1582637,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785381053.1582637,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2217,7 +2276,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2250,7 +2309,7 @@
       ],
       "first_date": 1783979354.2239544,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2268,7 +2327,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2303,31 +2362,6 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "GetKaited",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 599.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "clean",
-      "date": 1785032478.0632572,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785032478.0632572,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (OP09-061)",
-      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
-      "seller": {
         "name": "LA-collectibles",
         "country": "Item location: Germany"
       },
@@ -2336,7 +2370,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "0 damage!  | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2415,12 +2449,46 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ORIGINAL BILD - TOPLOADER",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785032478.0632572,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "Tonio16LoL",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 699.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ship in 10 days",
+      "date": 1785381053.1582637,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          890.0,
+          1782178537.1694667
+        ],
+        [
+          799.0,
+          1785032478.0632572
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782086957.7746959,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2475,7 +2543,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "all 4 Leader of the set are available top condicion. pls ask for pic's",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2500,12 +2568,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed until bought. then prepared carefully for delivery.",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784395919.9405854,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Monkey.D.Luffy (OP09-061)",
+      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
+      "seller": {
+        "name": "tokashiki0169",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Envoi rapide et protégé",
+      "date": 1785381053.1582637,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785381053.1582637,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2585,36 +2678,6 @@
       "card": "Monkey.D.Luffy (OP09-061)",
       "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
       "seller": {
-        "name": "Tonio16LoL",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 799.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Ship in 10 days",
-      "date": 1785032478.0632572,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          890.0,
-          1782178537.1694667
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782086957.7746959,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Monkey.D.Luffy (OP09-061)",
-      "canonical_name": "OnePiece_Products_Singles_Premium-Bandai-Products-Asia-Region-Legal_MonkeyDLuffy-OP09-061",
-      "seller": {
         "name": "ManaTrust",
         "country": "Item location: Italy"
       },
@@ -2623,7 +2686,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2758,11 +2821,11 @@
       },
       "language": "Japanese",
       "price": 850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Double Sleeved",
       "date": 1785032478.0632572,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2770,7 +2833,12 @@
           1783624391.8144717
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785032478.0632572
+        ]
+      ],
       "first_date": 1783183870.696707,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2822,18 +2890,23 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 999.0,
+      "price": 949.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          999.0,
+          1785207945.5417924
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1783623649.0181856,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2851,7 +2924,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2885,7 +2958,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785032478.0632572,
+      "date": 1785381053.1582637,
       "ended": false,
       "new": false,
       "previous_prices": [

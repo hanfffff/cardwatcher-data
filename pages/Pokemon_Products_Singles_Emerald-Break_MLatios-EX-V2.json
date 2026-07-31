@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 1,
+  "available": 2,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -22,12 +22,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 72.34,
-      "quantity": 0,
+      "price": 72.21,
+      "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1783430567.5111392,
-      "ended": true,
+      "date": 1785500975.3234265,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -249,6 +249,18 @@
         [
           72.15,
           1783332542.798164
+        ],
+        [
+          72.34,
+          1783430567.5111392
+        ],
+        [
+          72.24,
+          1785202339.2334375
+        ],
+        [
+          72.03,
+          1785375498.5667117
         ]
       ],
       "previous_quantities": [
@@ -271,11 +283,15 @@
         [
           1,
           1783430567.5111392
+        ],
+        [
+          0,
+          1783430567.5111392
         ]
       ],
       "first_date": 1771629003.357879,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -348,7 +364,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785026672.913993,
+      "date": 1785500975.3234265,
       "ended": false,
       "new": false,
       "previous_prices": [],

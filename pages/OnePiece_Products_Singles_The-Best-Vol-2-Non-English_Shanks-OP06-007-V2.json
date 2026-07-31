@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 25,
-  "sold": 5,
-  "inserted": 2,
+  "available": 21,
+  "sold": 0,
+  "inserted": 3,
   "listings": [
     {
       "card": "Shanks (OP06-007) (V.2)",
@@ -3438,11 +3438,11 @@
       },
       "language": "Japanese",
       "price": 57.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1785019970.39415,
-      "ended": false,
+      "date": 1785195518.5421815,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3450,10 +3450,15 @@
           1784770584.611344
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785195518.5421815
+        ]
+      ],
       "first_date": 1783156422.4028473,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4347,7 +4352,7 @@
       "comment": "Perfect",
       "date": 1784770584.611344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4366,7 +4371,7 @@
       "first_date": 1783424265.0167153,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4385,7 +4390,7 @@
       "comment": "",
       "date": 1784770584.611344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4396,7 +4401,7 @@
       "first_date": 1784770584.611344,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4435,49 +4440,6 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "MightyCardsCH",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 68.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          65.0,
-          1784059446.5204723
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776980960.5700216
-        ],
-        [
-          1,
-          1777584268.3926237
-        ],
-        [
-          0,
-          1777584268.3926237
-        ]
-      ],
-      "first_date": 1772017745.3569393,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
         "name": "Jatea",
         "country": "Item location: France"
       },
@@ -4488,7 +4450,7 @@
       "comment": "Fast Shipping",
       "date": 1784770584.611344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           69.99,
@@ -4508,7 +4470,7 @@
       "first_date": 1771464309.2761571,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4527,7 +4489,7 @@
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
       "date": 1784770584.611344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4538,7 +4500,7 @@
       "first_date": 1781933264.4720278,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4587,7 +4549,7 @@
       "comment": "Gerne PN für Fotos",
       "date": 1784770584.611344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4598,7 +4560,7 @@
       "first_date": 1784315600.4754958,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -4626,6 +4588,57 @@
         ]
       ],
       "first_date": 1782634729.9372604,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "MightyCardsCH",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 73.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785195518.5421815,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          65.0,
+          1784059446.5204723
+        ],
+        [
+          68.0,
+          1785019970.39415
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776980960.5700216
+        ],
+        [
+          1,
+          1777584268.3926237
+        ],
+        [
+          0,
+          1777584268.3926237
+        ],
+        [
+          1,
+          1785195518.5421815
+        ]
+      ],
+      "first_date": 1772017745.3569393,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4696,7 +4709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "white micro dot",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4835,6 +4848,36 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "LuxCardsoff",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "Japanese",
+      "price": 84.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785195518.5421815,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785195518.5421815
+        ]
+      ],
+      "first_date": 1785195518.5421815,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "Funkey90",
         "country": "Item location: Spain"
       },
@@ -4843,7 +4886,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4865,74 +4908,6 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "Isammostus",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 85.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Pack fresh",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          75.0,
-          1781527006.7387707
-        ],
-        [
-          80.0,
-          1781933264.4720278
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781933264.4720278
-        ],
-        [
-          0,
-          1781933264.4720278
-        ]
-      ],
-      "first_date": 1781527006.7387707,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
-        "name": "Monk3yTCG",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 85.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Near Mint or better",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781434950.4382877,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
         "name": "ResetHD",
         "country": "Item location: Switzerland"
       },
@@ -4941,7 +4916,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster>Sleeve>Toploader",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4971,6 +4946,53 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "Isammostus",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 85.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Pack fresh",
+      "date": 1785195518.5421815,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          75.0,
+          1781527006.7387707
+        ],
+        [
+          80.0,
+          1781933264.4720278
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781933264.4720278
+        ],
+        [
+          0,
+          1781933264.4720278
+        ],
+        [
+          1,
+          1785195518.5421815
+        ]
+      ],
+      "first_date": 1781527006.7387707,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "rolando-thing",
         "country": "Item location: Italy"
       },
@@ -4979,7 +5001,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5071,7 +5093,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Showase",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5105,36 +5127,6 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "11GN11",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 90.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved & Toploader",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          70.0,
-          1784770584.611344
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784212723.7394998,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
         "name": "rekla707",
         "country": "Item location: Italy"
       },
@@ -5143,7 +5135,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5154,6 +5146,41 @@
       ],
       "previous_quantities": [],
       "first_date": 1769179681.9998214,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "11GN11",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 90.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeved & Toploader",
+      "date": 1785019970.39415,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          70.0,
+          1784770584.611344
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785019970.39415
+        ]
+      ],
+      "first_date": 1784212723.7394998,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5294,31 +5321,6 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "Jadenhd92",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 99.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Pulled clean and handled with care. this card is pack-fresh and immediately sleeved and protected.",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779805921.2286446,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
         "name": "Janseby",
         "country": "Item location: Italy"
       },
@@ -5354,11 +5356,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! ",
       "date": 1785019970.39415,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5382,12 +5384,16 @@
         [
           0,
           1784678550.1992602
+        ],
+        [
+          1,
+          1785019970.39415
         ]
       ],
       "first_date": 1779929260.098974,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5463,6 +5469,81 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "trade-itDE",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 103.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Differenzbesteuerung box1",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785494215.626457,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "EveeRose",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785494215.626457,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "InstantJay",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785368972.306621,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "Pierrebrab",
         "country": "Item location: France"
       },
@@ -5497,31 +5578,6 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "Tomek17",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785019970.39415,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
         "name": "Andreathai1986",
         "country": "Item location: Italy"
       },
@@ -5530,7 +5586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5550,6 +5606,66 @@
         ]
       ],
       "first_date": 1769179681.9998214,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "Monk3yTCG",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Near Mint or better",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          85.0,
+          1785019970.39415
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781434950.4382877,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "Tomek17",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785019970.39415,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785019970.39415
+        ]
+      ],
+      "first_date": 1785019970.39415,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5586,78 +5702,25 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "deadpool2000",
-        "country": "Item location: Germany"
+        "name": "Jadenhd92",
+        "country": "Item location: Switzerland"
       },
       "language": "Japanese",
-      "price": 120.0,
+      "price": 115.0,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "CGS 10",
-      "date": 1785019970.39415,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784478466.7319598,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "Shanks (OP06-007) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
-      "seller": {
-        "name": "Collectium",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 121.72,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "Small dent on the back",
-      "date": 1785019970.39415,
+      "condition": "NM",
+      "comment": "Pulled clean and handled with care. this card is pack-fresh and immediately sleeved and protected.",
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          62.93,
-          1781860473.777536
-        ],
-        [
-          71.54,
-          1781933264.4720278
-        ],
-        [
-          64.56,
-          1782130346.656893
-        ],
-        [
-          64.39,
-          1782221919.5023763
-        ],
-        [
-          72.44,
-          1783561065.4480264
-        ],
-        [
-          74.75,
-          1783860057.5551498
-        ],
-        [
-          149.44,
-          1784678550.1992602
-        ],
-        [
-          141.97,
-          1784770584.611344
+          99.0,
+          1785368972.306621
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1781860473.777536,
+      "first_date": 1779805921.2286446,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
@@ -5669,41 +5732,32 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
-        "name": "Hansecollectibles",
+        "name": "deadpool2000",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 129.95,
+      "price": 120.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1785019970.39415,
+      "condition": "MT",
+      "comment": "RELISTED! CGS 10",
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          64.95,
-          1769861555.1023946
-        ],
-        [
-          79.95,
-          1782816089.3769436
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1782816089.3769436
+          1785195518.5421815
         ],
         [
           0,
-          1782816089.3769436
+          1785195518.5421815
         ]
       ],
-      "first_date": 1769179681.9998214,
+      "first_date": 1784478466.7319598,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -5785,7 +5839,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster Fresh!!! Never Played! Delievered in Toploader:) Please PM me for Photos and Info:)",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5815,16 +5869,63 @@
       "card": "Shanks (OP06-007) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
       "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          64.95,
+          1769861555.1023946
+        ],
+        [
+          79.95,
+          1782816089.3769436
+        ],
+        [
+          129.95,
+          1785195518.5421815
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782816089.3769436
+        ],
+        [
+          0,
+          1782816089.3769436
+        ]
+      ],
+      "first_date": 1769179681.9998214,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
         "name": "Dorann32",
         "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Nouveau vendeur - envoi enveloppe bulle + sleeve + toploader",
-      "date": 1785019970.39415,
-      "ended": false,
+      "date": 1785195518.5421815,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -5840,6 +5941,10 @@
         [
           0,
           1782816089.3769436
+        ],
+        [
+          1,
+          1785195518.5421815
         ]
       ],
       "first_date": 1775768119.8268573,
@@ -5862,7 +5967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Graad 9.5",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5870,6 +5975,72 @@
       "first_date": 1784678550.1992602,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Shanks (OP06-007) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Vol-2-Non-English_Shanks-OP06-007-V2",
+      "seller": {
+        "name": "Collectium",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 160.94,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Small dent on the back",
+      "date": 1785494215.626457,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          62.93,
+          1781860473.777536
+        ],
+        [
+          71.54,
+          1781933264.4720278
+        ],
+        [
+          64.56,
+          1782130346.656893
+        ],
+        [
+          64.39,
+          1782221919.5023763
+        ],
+        [
+          72.44,
+          1783561065.4480264
+        ],
+        [
+          74.75,
+          1783860057.5551498
+        ],
+        [
+          149.44,
+          1784678550.1992602
+        ],
+        [
+          141.97,
+          1784770584.611344
+        ],
+        [
+          121.72,
+          1785019970.39415
+        ],
+        [
+          114.99,
+          1785368972.306621
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781860473.777536,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5887,7 +6058,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Cgc 10",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5907,7 +6078,7 @@
       "previous_quantities": [],
       "first_date": 1783860057.5551498,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5975,7 +6146,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "9.5 PGS",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6065,7 +6236,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GSG 9.5",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6115,7 +6286,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Grading BECKETT (9.5)",
-      "date": 1785019970.39415,
+      "date": 1785494215.626457,
       "ended": false,
       "new": false,
       "previous_prices": [

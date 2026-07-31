@@ -11,7 +11,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 6,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785040420.9152074,
+      "date": 1785389415.1115398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -109,16 +109,20 @@
       },
       "language": "Japanese",
       "price": 300.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1783987936.2176125,
-      "ended": true,
+      "date": 1785389415.1115398,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1783987936.2176125
+        ],
+        [
+          0,
           1783987936.2176125
         ]
       ],
@@ -142,7 +146,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "[GRAAD 6.5] THE CARDS YOU WANT",
-      "date": 1785040420.9152074,
+      "date": 1785389415.1115398,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -167,7 +171,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785040420.9152074,
+      "date": 1785389415.1115398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -193,11 +197,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 603.58,
+      "price": 600.24,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785040420.9152074,
+      "date": 1785389415.1115398,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -244,12 +248,20 @@
         [
           604.36,
           1784699059.0112123
+        ],
+        [
+          603.58,
+          1785040420.9152074
+        ],
+        [
+          601.96,
+          1785215619.5711863
         ]
       ],
       "previous_quantities": [],
       "first_date": 1782579579.2162826,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -332,7 +344,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA \"10\"",
-      "date": 1785040420.9152074,
+      "date": 1785389415.1115398,
       "ended": false,
       "new": false,
       "previous_prices": [],

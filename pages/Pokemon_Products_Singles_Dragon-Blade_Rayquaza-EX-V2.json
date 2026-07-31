@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
-  "sold": 1,
-  "inserted": 1,
+  "available": 4,
+  "sold": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Rayquaza EX (BW5e 053)",
@@ -594,9 +594,9 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #390",
-      "date": 1785069347.2462606,
+      "date": 1785417499.5817528,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785069347.2462606,
@@ -642,6 +642,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza EX  (BW5e 053)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
+      "seller": {
+        "name": "GengyGallery",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 189.9,
+      "quantity": 1,
+      "condition": "PL",
+      "comment": "",
+      "date": 1785417499.5817528,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785417499.5817528,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
     },
@@ -921,7 +946,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785069347.2462606,
+      "date": 1785417499.5817528,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1038,7 +1063,7 @@
       "comment": "PSA 9 MINT // Questions? Feel free to ask! :)",
       "date": 1784818079.1591444,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1057,7 +1082,7 @@
       "first_date": 1784018067.8897457,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1089,6 +1114,31 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Rayquaza EX  (BW5e 053)",
+      "canonical_name": "Pokemon_Products_Singles_Dragon-Blade_Rayquaza-EX-V2",
+      "seller": {
+        "name": "Umutg24",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 12000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 negotiable",
+      "date": 1785417499.5817528,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785417499.5817528,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
       "reverse_holo": 0,
       "archived": false
     }

@@ -10,8 +10,8 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 9,
-  "sold": 0,
+  "available": 8,
+  "sold": 2,
   "inserted": 1,
   "listings": [
     {
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Flawless!",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -38,7 +38,7 @@
       "previous_quantities": [],
       "first_date": 1784433411.5802343,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -53,18 +53,23 @@
       },
       "language": "S-Chinese",
       "price": 370.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785066479.26623,
-      "ended": false,
-      "new": false,
+      "date": 1785241864.0871322,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785241864.0871322
+        ]
+      ],
       "first_date": 1782460927.7988453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -146,7 +151,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -202,19 +207,29 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 450.0,
-      "quantity": 1,
+      "price": 449.0,
+      "quantity": 0,
       "condition": "NM",
       "comment": "tiny white dot bottom left corner",
-      "date": 1785066479.26623,
-      "ended": false,
+      "date": 1785241864.0871322,
+      "ended": true,
       "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
+      "previous_prices": [
+        [
+          450.0,
+          1785066479.26623
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785241864.0871322
+        ]
+      ],
       "first_date": 1785066479.26623,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -231,7 +246,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -262,11 +277,11 @@
       },
       "language": "Japanese",
       "price": 499.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "perfect conditions",
-      "date": 1784169271.2371686,
-      "ended": true,
+      "comment": "RELISTED! perfect conditions",
+      "date": 1785415027.1511567,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -278,12 +293,16 @@
         [
           1,
           1784169271.2371686
+        ],
+        [
+          0,
+          1784169271.2371686
         ]
       ],
       "first_date": 1782460927.7988453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -300,7 +319,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -325,7 +344,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Conditions More High End Cards Available",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -346,11 +365,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 663.94,
+      "price": 600.24,
       "quantity": 1,
       "condition": "MT",
       "comment": "Msg for pics/ offers :)",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -397,12 +416,20 @@
         [
           664.79,
           1784724575.35276
+        ],
+        [
+          663.94,
+          1785066479.26623
+        ],
+        [
+          662.15,
+          1785241864.0871322
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783181140.0271964,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -455,7 +482,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->top loader",
-      "date": 1785066479.26623,
+      "date": 1785415027.1511567,
       "ended": false,
       "new": false,
       "previous_prices": [],

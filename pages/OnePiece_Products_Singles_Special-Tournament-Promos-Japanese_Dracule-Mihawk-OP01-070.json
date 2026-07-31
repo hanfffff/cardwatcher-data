@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 16,
-  "sold": 2,
-  "inserted": 1,
+  "available": 17,
+  "sold": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Dracule Mihawk (OP01-070)",
@@ -548,7 +548,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "rarer than japanese. SEALED",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -712,8 +712,8 @@
       "price": 370.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "SEALED",
-      "date": 1785081995.8783953,
+      "comment": "RELISTED! SEALED",
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -725,12 +725,20 @@
         [
           0,
           1783531245.8093498
+        ],
+        [
+          1,
+          1785081995.8783953
+        ],
+        [
+          0,
+          1785081995.8783953
         ]
       ],
       "first_date": 1781323781.1068025,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1559,7 +1567,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Flahship WINNER. rarer than jap. CCIC PERFECT",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1734,9 +1742,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "very small white dots",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785081995.8783953,
@@ -1811,11 +1819,11 @@
       },
       "language": "Japanese",
       "price": 680.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "FOR ASIA sleeve + Top",
       "date": 1785081995.8783953,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1831,6 +1839,10 @@
         [
           0,
           1783907633.273546
+        ],
+        [
+          1,
+          1785081995.8783953
         ]
       ],
       "first_date": 1781898729.5486002,
@@ -1956,7 +1968,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "For Asia - R.P. - 77",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2012,6 +2024,31 @@
         ]
       ],
       "first_date": 1755774075.415593,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Dracule Mihawk (OP01-070)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Dracule-Mihawk-OP01-070",
+      "seller": {
+        "name": "Koala93",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed. for Japan",
+      "date": 1785429581.0513542,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785429581.0513542,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2302,7 +2339,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 - G7",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2466,7 +2503,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAAD 10 For Asia",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2849,7 +2886,7 @@
       "comment": "JP PSA 10",
       "date": 1784830924.9710083,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2860,7 +2897,7 @@
       "first_date": 1784186075.5717084,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3059,12 +3096,12 @@
       },
       "language": "Japanese",
       "price": 1200.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10 PRISTINE -No \"for asia\" stamp",
-      "date": 1784830924.9710083,
-      "ended": true,
-      "new": true,
+      "date": 1785429581.0513542,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           850.0,
@@ -3083,12 +3120,16 @@
         [
           1,
           1784830924.9710083
+        ],
+        [
+          0,
+          1784830924.9710083
         ]
       ],
       "first_date": 1779518784.8023407,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -3135,7 +3176,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 GEM Mint For Asia  /92*",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3172,7 +3213,7 @@
       ],
       "first_date": 1782285217.6339562,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3190,7 +3231,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10! For Asia",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3206,7 +3247,7 @@
       "previous_quantities": [],
       "first_date": 1781898729.5486002,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3303,7 +3344,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3328,7 +3369,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3362,7 +3403,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3412,7 +3453,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 japanese!",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3505,7 +3546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3658,7 +3699,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785081995.8783953,
+      "date": 1785429581.0513542,
       "ended": false,
       "new": false,
       "previous_prices": [],

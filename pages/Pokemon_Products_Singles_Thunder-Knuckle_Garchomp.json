@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 3,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Garchomp  (BW8t 057)",
@@ -26,7 +26,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fotos auf Anfrage!",
-      "date": 1784847109.7032118,
+      "date": 1785446357.0884821,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -145,7 +145,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fotos auf Anfrage!",
-      "date": 1784847109.7032118,
+      "date": 1785446357.0884821,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -166,11 +166,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 439.99,
+      "price": 419.99,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! Vint_Bros SALE",
-      "date": 1784847109.7032118,
+      "comment": "Vint_Bros SALE",
+      "date": 1785446357.0884821,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -181,6 +181,10 @@
         [
           489.99,
           1784466780.304804
+        ],
+        [
+          439.99,
+          1785274761.0071986
         ]
       ],
       "previous_quantities": [
@@ -195,8 +199,8 @@
       ],
       "first_date": 1781587466.4510567,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false

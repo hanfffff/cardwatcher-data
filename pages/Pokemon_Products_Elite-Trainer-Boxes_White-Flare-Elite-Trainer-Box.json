@@ -13,9 +13,9 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 570,
-  "sold": 25,
-  "inserted": 17,
+  "available": 521,
+  "sold": 23,
+  "inserted": 8,
   "listings": [
     {
       "card": "White Flare Elite Trainer Box",
@@ -435,7 +435,7 @@
       "comment": "sealed. spedizione in 24h",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           53.99,
@@ -455,7 +455,7 @@
       "first_date": 1783316059.3989997,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -469,18 +469,23 @@
       },
       "language": "Italian",
       "price": 54.49,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -526,8 +531,8 @@
       "price": 54.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
+      "comment": "RELISTED! ",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -536,11 +541,20 @@
           1783316059.3989997
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785091825.3886082
+        ],
+        [
+          0,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1782220260.2192688,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -622,10 +636,10 @@
       },
       "language": "Italian",
       "price": 54.99,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! sealed perfetto spedi 5 euro",
-      "date": 1785091825.3886082,
+      "comment": "sealed perfetto spedi 5 euro",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -650,12 +664,16 @@
         [
           0,
           1784749806.034224
+        ],
+        [
+          3,
+          1785268718.0567648
         ]
       ],
       "first_date": 1783145996.2041788,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 3,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -672,7 +690,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -698,17 +716,42 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Astrit555",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 55.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Ne ho uno in più oltre a quelli indicati danneggiato ma ancora sigillato",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "luffyblack",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 55.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! Piccoli forellini nella plastica disposti regolarmente",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "comment": "Piccoli forellini nella plastica disposti regolarmente",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -718,37 +761,16 @@
         [
           0,
           1784749806.034224
+        ],
+        [
+          3,
+          1785268718.0567648
         ]
       ],
       "first_date": 1780529489.192405,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 3,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Astrit555",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 55.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Ne ho uno in più oltre a quelli indicati danneggiato ma ancora sigillato",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778027101.7052002,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -939,7 +961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -989,7 +1011,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "piccoli fori nella plastica. come tutti i box di questa espansione",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1124,7 +1146,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1158,7 +1180,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Articolo italiano nuovo sigillato",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1192,7 +1214,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1279,10 +1301,10 @@
       },
       "language": "Italian",
       "price": 59.9,
-      "quantity": 3,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1294,12 +1316,16 @@
         [
           2,
           1784841691.2679627
+        ],
+        [
+          3,
+          1785091825.3886082
         ]
       ],
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1316,7 +1342,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Pellicola perfetta/ Molti feed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1342,6 +1368,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Cartopoli",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 59.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "gigievena98",
         "country": "Item location: Italy"
       },
@@ -1350,7 +1401,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1375,7 +1426,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - spedizione veloce",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1400,7 +1451,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1434,7 +1485,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1456,6 +1507,36 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Giovannifisio",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Persente Luce nera",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Matti444",
         "country": "Item location: Italy"
       },
@@ -1464,7 +1545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1477,7 +1558,7 @@
       "first_date": 1783918007.9987502,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -1494,7 +1575,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1519,7 +1600,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1544,7 +1625,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1569,7 +1650,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Piccolo foro sulla pellicola- vinted nicomoli07",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1822,7 +1903,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED | FAST SHIP",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1877,7 +1958,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Fast Ship",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1982,7 +2063,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Foto disponibili su richiesta. piccolo taglio pellicola",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2004,18 +2085,23 @@
       },
       "language": "Italian",
       "price": 64.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1778027101.7052002,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2062,7 +2148,132 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed - fast delivery",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "IERA29",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed perfetto",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780306560.1555479,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "antodido",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed. pellicola piegata Scrivetemi per foto aggiuntive",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Vitellin0",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Casanova94",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "sealed perfect sped rapida",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778906740.1090753,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "MatchaLatte",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 65.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "cellophane con due buchi ai lati",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2084,12 +2295,12 @@
       },
       "language": "Italian",
       "price": 65.0,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "DE VAT. Sealed",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2115,137 +2326,20 @@
         [
           7,
           1783918007.9987502
+        ],
+        [
+          4,
+          1785091825.3886082
+        ],
+        [
+          3,
+          1785268718.0567648
         ]
       ],
       "first_date": 1782128696.6901865,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "IERA29",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed perfetto",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780306560.1555479,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "antodido",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed. pellicola piegata Scrivetemi per foto aggiuntive",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778027101.7052002,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Vitellin0",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778027101.7052002,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Casanova94",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "sealed perfect sped rapida",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778906740.1090753,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "MatchaLatte",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 65.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "cellophane con due buchi ai lati",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778027101.7052002,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2629,7 +2723,7 @@
       "comment": "Sealed spedito in 24/48h",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2640,7 +2734,7 @@
       "first_date": 1778027101.7052002,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -2657,7 +2751,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2728,7 +2822,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2783,7 +2877,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed perfetto",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2808,7 +2902,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2847,7 +2941,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SELLADO DE FABRICA",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2948,7 +3042,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed perfetto",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3035,7 +3129,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3060,7 +3154,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3085,7 +3179,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - New seller - Fast shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3178,7 +3272,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "NEW SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3263,20 +3357,29 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Ironcollection",
+        "name": "Ermoviola",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 69.9,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "comment": "nuovo sealed",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782386853.2503605,
+      "previous_quantities": [
+        [
+          1,
+          1784460455.8761258
+        ],
+        [
+          0,
+          1784460455.8761258
+        ]
+      ],
+      "first_date": 1778027101.7052002,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3288,25 +3391,20 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Ermoviola",
+        "name": "Ironcollection",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 69.9,
-      "quantity": 0,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "nuovo sealed",
-      "date": 1784460455.8761258,
-      "ended": true,
+      "comment": "Sealed",
+      "date": 1785440745.1182337,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784460455.8761258
-        ]
-      ],
-      "first_date": 1778027101.7052002,
+      "previous_quantities": [],
+      "first_date": 1782386853.2503605,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3356,7 +3454,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED ALTRI PRODOTTI DISPONIBILI",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3381,7 +3479,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3406,7 +3504,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. altri etb disponibili contattare in privato",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3431,7 +3529,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. perfect condition",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3456,7 +3554,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PEscara PERFECT",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3481,7 +3579,32 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sigillato- piccolo forellino",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "DarkandAngel",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 70.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Presente piccolo foro su lato x foto scrivici.",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3506,37 +3629,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780879262.5640652,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "DarkandAngel",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 70.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Presente piccolo foro su lato x foto scrivici.",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778027101.7052002,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3556,7 +3654,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3581,7 +3679,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "new seller. sealed. ask for pics",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3606,7 +3704,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3636,7 +3734,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3661,7 +3759,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3686,7 +3784,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sigillato nuovo. spedizione in 12h lavorative",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3891,7 +3989,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4270,7 +4368,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - DM for pictures!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4385,7 +4483,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Spedizione in 24 ore! Perfettamente conservato nella pellicola!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4470,7 +4568,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4495,7 +4593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4520,7 +4618,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed con pellicola. spedizione immediata",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4545,7 +4643,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Perfette condizioni - Solo spedizioni tracciate",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4570,7 +4668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photo",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4600,7 +4698,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - ask for more pics",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4630,7 +4728,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sigillato perfettamente. se preso in coppia con fuoco bianco 140 euro totale",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4655,7 +4753,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4680,7 +4778,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed - piccoli buchi pellicola",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4705,7 +4803,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5375,7 +5473,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5475,7 +5573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed con Teca magnetica in Plexiglass",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5500,7 +5598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5593,7 +5691,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "saeled",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5618,7 +5716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New Seller. 200+ refs on Ebay. Sealed. perfect conditions. SHIP IN 24/48h",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5792,7 +5890,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5819,7 +5917,7 @@
       "comment": "RELISTED! Kleiner Knick in der Folie",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           84.99,
@@ -5851,7 +5949,7 @@
       "first_date": 1784299089.405553,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -6138,7 +6236,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6163,12 +6261,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "ichem77",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 80.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784749806.034224
+        ],
+        [
+          0,
+          1784749806.034224
+        ]
+      ],
+      "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6188,7 +6320,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "seled perfetto - 1 disponibili",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6213,7 +6345,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6238,7 +6370,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED / +1 pcs AVAILABLE",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6263,42 +6395,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED Vinted rickyoo7clash",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778027101.7052002,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "ichem77",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 80.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784749806.034224,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784749806.034224
-        ]
-      ],
-      "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7022,6 +7124,36 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "byZOMBY",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 84.5,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP - kleiner Riss",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "NenaShopTCG",
         "country": "Item location: Italy"
       },
@@ -7030,7 +7162,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7051,7 +7183,7 @@
       "first_date": 1778027101.7052002,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -7488,7 +7620,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "- S e a l e d -",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7518,7 +7650,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7543,7 +7675,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7582,7 +7714,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "new seller. physical store",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7607,7 +7739,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7616,6 +7748,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "MercatusUniversal",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 85.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Riss in der Folie auf der Vorderseite",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8203,7 +8365,7 @@
       "comment": "",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8214,7 +8376,7 @@
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8574,16 +8736,46 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "byZOMBY",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 88.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP - keine Risse",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Reshi92",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 88.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP . schneller Versand",
       "date": 1785091825.3886082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8603,6 +8795,10 @@
         [
           0,
           1784616020.8325338
+        ],
+        [
+          1,
+          1785091825.3886082
         ]
       ],
       "first_date": 1784460455.8761258,
@@ -8652,11 +8848,11 @@
       },
       "language": "German",
       "price": 88.88,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "RELISTED! Sealed",
       "date": 1785091825.3886082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8684,12 +8880,16 @@
         [
           0,
           1784616020.8325338
+        ],
+        [
+          1,
+          1785091825.3886082
         ]
       ],
       "first_date": 1778614511.1534371,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -8706,7 +8906,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8778,7 +8978,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8825,7 +9025,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8847,14 +9047,19 @@
       },
       "language": "German",
       "price": 89.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785091825.3886082,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1785091825.3886082,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8872,76 +9077,22 @@
       },
       "language": "German",
       "price": 89.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP & Sealed",
       "date": 1785091825.3886082,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1785091825.3886082,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Kid2000",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 89.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "Neu OVP Sealed top Zustand Top Folie Schneller Versand",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          97.0,
-          1783918007.9987502
-        ],
-        [
-          89.0,
-          1784299089.405553
-        ],
-        [
-          94.0,
-          1784841691.2679627
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1783918007.9987502
-        ],
-        [
-          3,
-          1784041995.3766365
-        ],
-        [
-          0,
-          1784041995.3766365
-        ],
-        [
-          3,
-          1784299089.405553
-        ],
-        [
-          0,
-          1784299089.405553
-        ]
-      ],
-      "first_date": 1783918007.9987502,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8956,11 +9107,11 @@
       },
       "language": "French",
       "price": 89.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ask for pics",
       "date": 1785091825.3886082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -8971,6 +9122,10 @@
         [
           0,
           1784299089.405553
+        ],
+        [
+          1,
+          1785091825.3886082
         ]
       ],
       "first_date": 1781356408.9413235,
@@ -9285,12 +9440,12 @@
       },
       "language": "German",
       "price": 89.5,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Folie Top Zustand / jedoch mit Warensicherheitsetikett",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           85.0,
@@ -9309,12 +9464,16 @@
         [
           2,
           1784041995.3766365
+        ],
+        [
+          3,
+          1785268718.0567648
         ]
       ],
       "first_date": 1784041995.3766365,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9331,7 +9490,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9356,7 +9515,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New - Sealed - Perfect",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9535,7 +9694,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9573,9 +9732,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et Scellé (foudre noir dispo)",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -9726,65 +9885,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "PumaDtak",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 90.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          100.0,
-          1783670150.9092655
-        ],
-        [
-          105.0,
-          1783918007.9987502
-        ],
-        [
-          100.0,
-          1784195721.6408944
-        ],
-        [
-          95.0,
-          1784616020.8325338
-        ],
-        [
-          88.0,
-          1784841691.2679627
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1784299089.405553
-        ],
-        [
-          0,
-          1784299089.405553
-        ],
-        [
-          3,
-          1784841691.2679627
-        ]
-      ],
-      "first_date": 1783670150.9092655,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "TheStore83",
         "country": "Item location: Italy"
       },
@@ -9793,7 +9893,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9818,7 +9918,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf scellé FR",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9843,7 +9943,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9869,6 +9969,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Honyl",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 90.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Envoi rapide et soigné | scellé",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785091825.3886082,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "PatStoll72",
         "country": "Item location: Switzerland"
       },
@@ -9877,7 +10002,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9903,31 +10028,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Honyl",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 90.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Envoi rapide et soigné | scellé",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785091825.3886082,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "RedrockRude10",
         "country": "Item location: Germany"
       },
@@ -9938,7 +10038,7 @@
       "comment": "Neu",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9949,7 +10049,7 @@
       "first_date": 1784841691.2679627,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -9968,7 +10068,7 @@
       "comment": "RELISTED! ",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9987,7 +10087,7 @@
       "first_date": 1783145996.2041788,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -10933,7 +11033,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Leicht eingedrückte Ecken",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11281,9 +11381,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellage parfait. photo sur demande",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -11387,7 +11487,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / Unweigthed / New Seller Please Trust / 4 Days to You",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11521,7 +11621,7 @@
       "comment": "OVP | Differenzbesteuerung",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -11532,7 +11632,7 @@
       "first_date": 1784841691.2679627,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -11688,6 +11788,73 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Kid2000",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 94.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "sealed. OVP. Top Zustand. schneller Versand",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          97.0,
+          1783918007.9987502
+        ],
+        [
+          89.0,
+          1784299089.405553
+        ],
+        [
+          94.0,
+          1784841691.2679627
+        ],
+        [
+          89.0,
+          1785091825.3886082
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1783918007.9987502
+        ],
+        [
+          3,
+          1784041995.3766365
+        ],
+        [
+          0,
+          1784041995.3766365
+        ],
+        [
+          3,
+          1784299089.405553
+        ],
+        [
+          0,
+          1784299089.405553
+        ],
+        [
+          3,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1783918007.9987502,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -12016,36 +12183,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Bremer94",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 94.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Risse in Folie",
-      "date": 1782386853.2503605,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1782386853.2503605
-        ]
-      ],
-      "first_date": 1778614511.1534371,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "NR-Collectibles",
         "country": "Item location: Germany"
       },
@@ -12230,7 +12367,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12264,7 +12401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "coffret neuf sous blister en francais",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12311,7 +12448,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Parfaitement scellé. photos sur demande",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12320,6 +12457,132 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Sleiker8",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 95.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Clean sealed",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "PumaDtak",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 95.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          100.0,
+          1783670150.9092655
+        ],
+        [
+          105.0,
+          1783918007.9987502
+        ],
+        [
+          100.0,
+          1784195721.6408944
+        ],
+        [
+          95.0,
+          1784616020.8325338
+        ],
+        [
+          88.0,
+          1784841691.2679627
+        ],
+        [
+          90.0,
+          1785091825.3886082
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1784299089.405553
+        ],
+        [
+          0,
+          1784299089.405553
+        ],
+        [
+          3,
+          1784841691.2679627
+        ],
+        [
+          2,
+          1785091825.3886082
+        ],
+        [
+          3,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1783670150.9092655,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "LucMcCoy",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 95.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP. Sealed . Lagerung in Acryl Case ( Versand ohne Case ) Folie TOP Zustand !!!",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -12929,6 +13192,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "La-Card-House-By-Ben",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 95.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "LakeSideTCG",
         "country": "Item location: Germany"
       },
@@ -12969,7 +13257,7 @@
       "comment": "Sealed. Abholung in Dortmund möglich. Excl Mwst. da Kleinunternehmerregelung",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           96.69,
@@ -13001,7 +13289,62 @@
       "first_date": 1784195721.6408944,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -4,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "KungFuMandarine",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 96.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Wird OVP&Sealed wie abgebildet im Case versendet.",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "KungFuMandarine",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 96.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Wird OVP&Sealed wie abgebildet im Case versendet.",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -13231,7 +13574,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Zustand ist ziemlich gut. Gerne nach Bildern fragen",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13265,7 +13608,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu & OVP Folie unbeschädigt!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13450,6 +13793,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "dragoniteshesh",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 98.89,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neuf sous Blister Envoi rapide",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Sanadar",
         "country": "Item location: Switzerland"
       },
@@ -13488,7 +13856,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed. safe shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13698,7 +14066,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13741,7 +14109,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13766,7 +14134,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13805,7 +14173,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14444,7 +14812,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14629,7 +14997,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14658,8 +15026,8 @@
       "price": 99.95,
       "quantity": 0,
       "condition": "NM",
-      "comment": "Neu & OVP - inkl. 19% MwSt",
-      "date": 1784841691.2679627,
+      "comment": "RELISTED! Neu & OVP - inkl. 19% MwSt",
+      "date": 1785268718.0567648,
       "ended": true,
       "new": true,
       "previous_prices": [],
@@ -14675,6 +15043,14 @@
         [
           1,
           1784841691.2679627
+        ],
+        [
+          0,
+          1784841691.2679627
+        ],
+        [
+          1,
+          1785268718.0567648
         ]
       ],
       "first_date": 1784195721.6408944,
@@ -14817,7 +15193,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14843,44 +15219,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "EldoradoTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 99.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "#DIFF Lagerplart KS5",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1780986781.2578995
-        ],
-        [
-          0,
-          1780986781.2578995
-        ],
-        [
-          2,
-          1783415544.6899993
-        ]
-      ],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "Aitarak",
         "country": "Item location: Switzerland"
       },
@@ -14889,7 +15227,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14928,7 +15266,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14971,7 +15309,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé / Ship Colissimo sous 24/48h",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15014,7 +15352,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed | disponibile luce nera",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15039,12 +15377,54 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfecto estado",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "EldoradoTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 99.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "#DIFF Lagerplart KS5",
+      "date": 1785091825.3886082,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1780986781.2578995
+        ],
+        [
+          0,
+          1780986781.2578995
+        ],
+        [
+          2,
+          1783415544.6899993
+        ],
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
+      "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -15826,6 +16206,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "vegam",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Brinki2992",
         "country": "Item location: Germany"
       },
@@ -15834,7 +16239,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Der Rechnungsbetrag enthält laut § 19 Abs. 1 UStG keine Umsatzsteuer",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15885,7 +16290,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP&Sealed! New Seller! Safe and fast Shipping!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15919,7 +16324,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15958,7 +16363,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condition parfaite",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16005,7 +16410,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ist in lupo top Zustand",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16031,20 +16436,20 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Lord-lugia",
+        "name": "AndeXIX",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 100.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
+      "comment": "OVP Sealed",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1781718068.642596,
+      "first_date": 1779928157.2848647,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16056,20 +16461,20 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "AndeXIX",
+        "name": "Lord-lugia",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 100.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "comment": "",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1779928157.2848647,
+      "first_date": 1781718068.642596,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16089,7 +16494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16123,7 +16528,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16157,7 +16562,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16182,7 +16587,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16212,7 +16617,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16237,7 +16642,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16271,12 +16676,37 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784041995.3766365,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Fonziezgz",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Con protector. envío muy protegido",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16296,7 +16726,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "petit défaut sur un coins",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16321,7 +16751,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16346,7 +16776,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/Sellado",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16380,7 +16810,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16405,7 +16835,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "parfait état scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16435,7 +16865,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16452,23 +16882,53 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "KStcggg",
+        "country": "Item location: Belgium"
+      },
+      "language": "French",
+      "price": 100.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "perfect sealed. fast sending",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "alexxmaxx2026",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -17451,7 +17911,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf. Scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17474,6 +17934,45 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Bremer94",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 104.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          94.99,
+          1782386853.2503605
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1782386853.2503605
+        ],
+        [
+          0,
+          1782386853.2503605
+        ]
+      ],
+      "first_date": 1778614511.1534371,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -17512,61 +18011,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "collectorstore",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 104.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784299089.405553,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          84.99,
-          1778614511.1534371
-        ],
-        [
-          89.99,
-          1780529489.192405
-        ],
-        [
-          99.99,
-          1782709790.0709147
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1778614511.1534371
-        ],
-        [
-          1,
-          1783145996.2041788
-        ],
-        [
-          0,
-          1783145996.2041788
-        ],
-        [
-          1,
-          1784299089.405553
-        ]
-      ],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "Flowlight",
         "country": "Item location: Spain"
       },
@@ -17575,7 +18019,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Canarias",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17600,7 +18044,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17639,7 +18083,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Folie leicht beschädigt. ansonsten top Zustand",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17656,19 +18100,49 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "MazynhoTrading",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Acryl-Case & sealed",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "SDStyLeZ",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 105.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785091825.3886082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
@@ -18124,7 +18598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed / Außenverpackung leicht beschädigt / schneller und sicherer Versand",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18242,7 +18716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp - hab auch schwarz",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18289,6 +18763,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "GW-Lion",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 108.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neu - OVP - Sealed - Bilder auf Anfrage",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785440745.1182337,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "GoDKronos",
         "country": "Item location: Germany"
       },
@@ -18297,7 +18796,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Sofort versandbereit / Bilder per PM",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18470,18 +18969,27 @@
       },
       "language": "German",
       "price": 109.99,
-      "quantity": 4,
+      "quantity": 2,
       "condition": "NM",
       "comment": "NEU / SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          4,
+          1785091825.3886082
+        ],
+        [
+          3,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -18573,10 +19081,10 @@
       },
       "language": "English",
       "price": 110.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed but Little damage / ask for pictures",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18605,12 +19113,16 @@
         [
           1,
           1783415544.6899993
+        ],
+        [
+          2,
+          1785268718.0567648
         ]
       ],
       "first_date": 1778614511.1534371,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -18627,7 +19139,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18661,7 +19173,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed!!! aber kleine Löcher...Bilder gerne auf anfrage",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18691,7 +19203,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé parfait",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18725,7 +19237,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18750,7 +19262,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18789,7 +19301,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp/sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18819,7 +19331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "neuf sceller",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18846,10 +19358,10 @@
       },
       "language": "German",
       "price": 110.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed mit PET Schutz",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18866,7 +19378,12 @@
           1784460455.8761258
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
@@ -18887,7 +19404,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf Scellé - (ETB BLK Dispo également)",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18913,6 +19430,36 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "MNCAA",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed and good condition",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          120.0,
+          1785268718.0567648
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784460455.8761258,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Tapzet",
         "country": "Item location: Germany"
       },
@@ -18921,7 +19468,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18933,7 +19480,7 @@
       "previous_quantities": [],
       "first_date": 1784841691.2679627,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -18951,7 +19498,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ETB Scellée. Envoi Rapide et Soigné Sous 3 Jours Max",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18978,7 +19525,7 @@
       "comment": "",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -18989,7 +19536,7 @@
       "first_date": 1778123398.2126029,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -19008,7 +19555,7 @@
       "comment": "Sealed",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -19019,7 +19566,7 @@
       "first_date": 1782386853.2503605,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -19751,7 +20298,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19780,10 +20327,10 @@
       "price": 112.5,
       "quantity": 0,
       "condition": "NM",
-      "comment": "SEALED",
-      "date": 1783552376.8335238,
+      "comment": "RELISTED! SEALED",
+      "date": 1785268718.0567648,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [
         [
           94.95,
@@ -19830,12 +20377,20 @@
         [
           1,
           1783552376.8335238
+        ],
+        [
+          0,
+          1783552376.8335238
+        ],
+        [
+          1,
+          1785268718.0567648
         ]
       ],
       "first_date": 1779403941.319071,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20085,7 +20640,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi rapide et sécurisé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20124,7 +20679,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20218,7 +20773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "envoie rapide/ avec protection souple",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20243,7 +20798,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Produits et cartes One Piece et Pokémon en vente :) bonne journée",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20268,12 +20823,50 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect. Con protector de plástico.",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784195721.6408944,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Khilone",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 115.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784749806.034224
+        ],
+        [
+          3,
+          1784841691.2679627
+        ],
+        [
+          0,
+          1784841691.2679627
+        ]
+      ],
+      "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -20293,12 +20886,46 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "BenignoTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "English",
+      "price": 115.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784841691.2679627
+        ],
+        [
+          0,
+          1784841691.2679627
+        ]
+      ],
+      "first_date": 1783670150.9092655,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -20320,7 +20947,7 @@
       "comment": "sealed boxnow for greece",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           110.0,
@@ -20336,71 +20963,7 @@
       "first_date": 1782623314.453418,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Khilone",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 115.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784841691.2679627,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1784749806.034224
-        ],
-        [
-          3,
-          1784841691.2679627
-        ]
-      ],
-      "first_date": 1784749806.034224,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -3,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "BenignoTCG",
-        "country": "Item location: Italy"
-      },
-      "language": "English",
-      "price": 115.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784841691.2679627,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784841691.2679627
-        ]
-      ],
-      "first_date": 1783670150.9092655,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20697,7 +21260,7 @@
       "comment": "",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -20708,7 +21271,7 @@
       "first_date": 1784841691.2679627,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20722,18 +21285,23 @@
       },
       "language": "English",
       "price": 116.34,
-      "quantity": 3,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20789,44 +21357,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "CosmosCollectionsTCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 116.95,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! Sealed OVP",
-      "date": 1784841691.2679627,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782806062.603037
-        ],
-        [
-          0,
-          1782806062.603037
-        ],
-        [
-          2,
-          1784841691.2679627
-        ]
-      ],
-      "first_date": 1782128696.6901865,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -20954,6 +21484,116 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "CosmosCollectionsTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 118.75,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Sealed OVP",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          116.95,
+          1785268718.0567648
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782806062.603037
+        ],
+        [
+          0,
+          1782806062.603037
+        ],
+        [
+          2,
+          1784841691.2679627
+        ],
+        [
+          0,
+          1784841691.2679627
+        ],
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1782128696.6901865,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "mudeki",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 118.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed (Deutschland info: Versand 1x pro Woche aus Deutschland möglich)",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          104.95,
+          1782806062.603037
+        ],
+        [
+          119.95,
+          1785268718.0567648
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777970550.0898843,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "PokeLukasSwiss",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 118.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "CatcherClaude",
         "country": "Item location: Belgium"
       },
@@ -20962,7 +21602,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21039,7 +21679,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21372,7 +22012,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21397,7 +22037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21419,6 +22059,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "KubaCapa",
+        "country": "Item location: Poland"
+      },
+      "language": "English",
+      "price": 119.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "I have Black Bolt too - Perfect Condition - Safe and Fast Shipping",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "hubmax",
         "country": "Item location: Germany"
       },
@@ -21427,7 +22092,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / Top condition / No dents / Safe packaging",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21457,7 +22122,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21520,7 +22185,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21537,53 +22202,28 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "mudeki",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 119.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed (Deutschland info: Versand 1x pro Woche aus Deutschland möglich)",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          104.95,
-          1782806062.603037
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "Kopriva597",
         "country": "Item location: Czech Republic"
       },
       "language": "English",
       "price": 119.98,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
       "first_date": 1783918007.9987502,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -21600,7 +22240,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "EXCLUSIVE CARDMARKET OFFER",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21643,7 +22283,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21668,9 +22308,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -21693,7 +22333,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21719,6 +22359,69 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "collectorstore",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 119.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          84.99,
+          1778614511.1534371
+        ],
+        [
+          89.99,
+          1780529489.192405
+        ],
+        [
+          99.99,
+          1782709790.0709147
+        ],
+        [
+          104.99,
+          1784299089.405553
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1778614511.1534371
+        ],
+        [
+          1,
+          1783145996.2041788
+        ],
+        [
+          0,
+          1783145996.2041788
+        ],
+        [
+          1,
+          1784299089.405553
+        ],
+        [
+          0,
+          1784299089.405553
+        ]
+      ],
+      "first_date": 1777970550.0898843,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "houseofcardstrade",
         "country": "Item location: Austria"
       },
@@ -21727,7 +22430,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast & safe shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21757,7 +22460,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed. ask for pictures",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21796,7 +22499,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition  |  Aus Sammlungskauf",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21826,7 +22529,7 @@
       "quantity": 15,
       "condition": "NM",
       "comment": "Objet officiel sous licence. Photos non contractuelles  l'objet peut présenter de légers défauts d'",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21856,7 +22559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21883,7 +22586,7 @@
       "comment": "",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -21894,7 +22597,7 @@
       "first_date": 1784749806.034224,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22035,7 +22738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22074,7 +22777,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "In 10er Case. Sealing ist aber teilweise geöffnet.",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22108,7 +22811,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22133,7 +22836,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22157,8 +22860,8 @@
       "price": 120.0,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785091825.3886082,
+      "comment": "",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22187,8 +22890,8 @@
       ],
       "first_date": 1781613879.067888,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22204,8 +22907,8 @@
       "price": 120.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785091825.3886082,
+      "comment": "",
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22226,8 +22929,8 @@
       ],
       "first_date": 1779044804.8811283,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22244,7 +22947,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22269,37 +22972,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ETB / Scellage parfait / sous papier bulle / envoie rapide / photo sur demande",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779403941.319071,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "MNCAA",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 120.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed and good condition",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784460455.8761258,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22319,7 +22997,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22344,7 +23022,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22353,6 +23031,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Srasoul",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 120.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Ask for pics",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22371,7 +23079,7 @@
       "comment": "Perfect condition - more deals available",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -22382,7 +23090,7 @@
       "first_date": 1784841691.2679627,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -22900,7 +23608,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22949,7 +23657,7 @@
       ],
       "first_date": 1782386853.2503605,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -22964,12 +23672,12 @@
       },
       "language": "English",
       "price": 121.45,
-      "quantity": 38,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           99.95,
@@ -23152,12 +23860,20 @@
         [
           13,
           1784841691.2679627
+        ],
+        [
+          38,
+          1785091825.3886082
+        ],
+        [
+          43,
+          1785268718.0567648
         ]
       ],
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 25,
+      "quantity_change": -43,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -23226,6 +23942,36 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "TCG-PALACE",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 123.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP Sealed | Ask for pics",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          126.99,
+          1785268718.0567648
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784299089.405553,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Lankair",
         "country": "Item location: Netherlands"
       },
@@ -23234,9 +23980,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -23256,11 +24002,11 @@
       },
       "language": "English",
       "price": 124.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785091825.3886082,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -23271,6 +24017,10 @@
         [
           0,
           1783415544.6899993
+        ],
+        [
+          1,
+          1785091825.3886082
         ]
       ],
       "first_date": 1783145996.2041788,
@@ -23293,7 +24043,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23413,6 +24163,65 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Variety-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 124.98,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed - may have imperfections - inkl 19 % MwSt",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          129.94,
+          1781718068.642596
+        ],
+        [
+          124.98,
+          1782386853.2503605
+        ],
+        [
+          129.98,
+          1782806062.603037
+        ],
+        [
+          124.98,
+          1783670150.9092655
+        ],
+        [
+          129.98,
+          1785091825.3886082
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1782386853.2503605
+        ],
+        [
+          2,
+          1783552376.8335238
+        ],
+        [
+          1,
+          1783670150.9092655
+        ]
+      ],
+      "first_date": 1781525331.4276323,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "Sapphire-Cards",
         "country": "Item location: Germany"
       },
@@ -23421,7 +24230,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "DAILY SHIPPING (MO-FR)",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23458,7 +24267,7 @@
       "comment": "OVP/Sealed. Wird in PET Case geliefert. Lagerspuren möglich .",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23469,7 +24278,7 @@
       "first_date": 1784616020.8325338,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -23488,7 +24297,7 @@
       "comment": "sealed / 19% MwSt",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -23499,7 +24308,7 @@
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -23673,7 +24482,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23711,7 +24520,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23750,7 +24559,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed direkt vom Händler",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23789,7 +24598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition. fast shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23814,7 +24623,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Neu / New Sealed - sofort lieferbar - schnelle Lieferzeit - MwSt. Rechnung",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23836,31 +24645,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "FavioMayer",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 125.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Neu sealed. mehr Produkte im Angebot",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784460455.8761258,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "WeiMar96",
         "country": "Item location: Germany"
       },
@@ -23869,7 +24653,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. OVP. ask for Pics",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23907,7 +24691,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Perfect condition / Next day shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23920,7 +24704,7 @@
       "first_date": 1783918007.9987502,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -23937,7 +24721,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23962,7 +24746,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Seald",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23987,9 +24771,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -24012,7 +24796,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24042,7 +24826,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24059,17 +24843,47 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "FavioMayer",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 125.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Neu sealed. mehr Produkte im Angebot",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1784460455.8761258,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "gabstcg",
         "country": "Item location: Spain"
       },
       "language": "English",
       "price": 125.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "new seller :) perfect sealed. 4 available",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           115.0,
@@ -24084,12 +24898,16 @@
         [
           0,
           1783670150.9092655
+        ],
+        [
+          3,
+          1785268718.0567648
         ]
       ],
       "first_date": 1783145996.2041788,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -24103,14 +24921,19 @@
       },
       "language": "English",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "100% Sealed. Sell with acryl.",
       "date": 1785091825.3886082,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
       "first_date": 1785091825.3886082,
       "last_date": 0.0,
       "price_is_new": false,
@@ -24452,37 +25275,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784195721.6408944,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "TCG-PALACE",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 126.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP Sealed | Ask for pics",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784299089.405553,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -24502,7 +25300,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. leichte Beschädigung der Folie möglich",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24656,7 +25454,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Ovp Sealed more Etb in stock",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24678,10 +25476,10 @@
       },
       "language": "English",
       "price": 129.89,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "NM",
       "comment": "OVP-SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24722,6 +25520,10 @@
         [
           0,
           1782806062.603037
+        ],
+        [
+          3,
+          1785091825.3886082
         ]
       ],
       "first_date": 1777970550.0898843,
@@ -24744,7 +25546,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "Safe Delivery!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24769,7 +25571,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24799,7 +25601,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24824,7 +25626,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed - Inkl. 19% MwSt.",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24979,7 +25781,7 @@
       "comment": "",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           119.94,
@@ -25003,171 +25805,6 @@
       "first_date": 1780019646.837359,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "CrazyCardsEU",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 129.95,
-      "quantity": 9,
-      "condition": "NM",
-      "comment": "Sicherer Versand bei einem der größten TCG Shops in Deutschland :)",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          109.95,
-          1780879262.5640652
-        ],
-        [
-          119.95,
-          1780986781.2578995
-        ]
-      ],
-      "previous_quantities": [
-        [
-          8,
-          1780230032.6078534
-        ],
-        [
-          6,
-          1780529489.192405
-        ],
-        [
-          4,
-          1780879262.5640652
-        ],
-        [
-          10,
-          1784195721.6408944
-        ],
-        [
-          9,
-          1784616020.8325338
-        ],
-        [
-          8,
-          1784749806.034224
-        ]
-      ],
-      "first_date": 1780019646.837359,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "flipego",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 129.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "2",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          109.95,
-          1779403941.319071
-        ],
-        [
-          119.95,
-          1781859327.645072
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778828721.1221683
-        ],
-        [
-          0,
-          1778828721.1221683
-        ],
-        [
-          1,
-          1780306560.1555479
-        ],
-        [
-          0,
-          1780306560.1555479
-        ],
-        [
-          1,
-          1783670150.9092655
-        ],
-        [
-          0,
-          1783670150.9092655
-        ]
-      ],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Cardgamia",
-        "country": "Item location: Belgium"
-      },
-      "language": "English",
-      "price": 129.95,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "OVP SEALED!",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          106.95,
-          1782128696.6901865
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1780411788.762731
-        ],
-        [
-          0,
-          1780411788.762731
-        ],
-        [
-          2,
-          1782128696.6901865
-        ],
-        [
-          0,
-          1782128696.6901865
-        ]
-      ],
-      "first_date": 1780019646.837359,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -25182,12 +25819,12 @@
       },
       "language": "English",
       "price": 129.95,
-      "quantity": 0,
+      "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1784841691.2679627,
-      "ended": true,
-      "new": true,
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           99.99,
@@ -25258,12 +25895,181 @@
         [
           6,
           1784841691.2679627
+        ],
+        [
+          0,
+          1784841691.2679627
         ]
       ],
       "first_date": 1777970550.0898843,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -6,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "CrazyCardsEU",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 129.95,
+      "quantity": 9,
+      "condition": "NM",
+      "comment": "Sicherer Versand bei einem der größten TCG Shops in Deutschland :)",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          109.95,
+          1780879262.5640652
+        ],
+        [
+          119.95,
+          1780986781.2578995
+        ]
+      ],
+      "previous_quantities": [
+        [
+          8,
+          1780230032.6078534
+        ],
+        [
+          6,
+          1780529489.192405
+        ],
+        [
+          4,
+          1780879262.5640652
+        ],
+        [
+          10,
+          1784195721.6408944
+        ],
+        [
+          9,
+          1784616020.8325338
+        ],
+        [
+          8,
+          1784749806.034224
+        ]
+      ],
+      "first_date": 1780019646.837359,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "flipego",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 129.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "2",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          109.95,
+          1779403941.319071
+        ],
+        [
+          119.95,
+          1781859327.645072
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778828721.1221683
+        ],
+        [
+          0,
+          1778828721.1221683
+        ],
+        [
+          1,
+          1780306560.1555479
+        ],
+        [
+          0,
+          1780306560.1555479
+        ],
+        [
+          1,
+          1783670150.9092655
+        ],
+        [
+          0,
+          1783670150.9092655
+        ]
+      ],
+      "first_date": 1777970550.0898843,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Cardgamia",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 129.95,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP SEALED!",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          106.95,
+          1782128696.6901865
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1780411788.762731
+        ],
+        [
+          0,
+          1780411788.762731
+        ],
+        [
+          2,
+          1782128696.6901865
+        ],
+        [
+          0,
+          1782128696.6901865
+        ]
+      ],
+      "first_date": 1780019646.837359,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25470,61 +26276,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "Variety-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 129.98,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Sealed - may have imperfections - inkl 19 % MwSt",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          129.94,
-          1781718068.642596
-        ],
-        [
-          124.98,
-          1782386853.2503605
-        ],
-        [
-          129.98,
-          1782806062.603037
-        ],
-        [
-          124.98,
-          1783670150.9092655
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1782386853.2503605
-        ],
-        [
-          2,
-          1783552376.8335238
-        ],
-        [
-          1,
-          1783670150.9092655
-        ]
-      ],
-      "first_date": 1781525331.4276323,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "CARAB",
         "country": "Item location: Switzerland"
       },
@@ -25533,7 +26284,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25596,7 +26347,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "New and sealed. Fast shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25695,7 +26446,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25720,7 +26471,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed (10 available) | Fresh from case!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25745,7 +26496,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Factory sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25788,31 +26539,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "TjallingV",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 129.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784299089.405553,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "sinfony98",
         "country": "Item location: Italy"
       },
@@ -25821,7 +26547,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25846,7 +26572,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "More in stock",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25855,6 +26581,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "TjallingV",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 129.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1784299089.405553,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25873,7 +26629,7 @@
       "comment": "Mit Acrylcase",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -25884,7 +26640,7 @@
       "first_date": 1782128696.6901865,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -25991,7 +26747,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26034,9 +26790,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785091825.3886082,
@@ -26059,7 +26815,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. ask for pics",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26084,7 +26840,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26114,7 +26870,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26161,7 +26917,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for Pick. Top!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26186,7 +26942,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26212,31 +26968,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "timdassen22",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 130.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Clean box",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784195721.6408944,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "Ghazzar",
         "country": "Item location: Netherlands"
       },
@@ -26245,7 +26976,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26257,7 +26988,7 @@
       "previous_quantities": [],
       "first_date": 1784616020.8325338,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -26275,7 +27006,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26284,6 +27015,36 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "timdassen22",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 130.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Clean box",
+      "date": 1785268718.0567648,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785268718.0567648
+        ]
+      ],
+      "first_date": 1784195721.6408944,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -26302,7 +27063,7 @@
       "comment": "SEALED/OVP",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -26313,7 +27074,7 @@
       "first_date": 1784195721.6408944,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -26522,7 +27283,7 @@
       "comment": "Sealed",
       "date": 1784841691.2679627,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           132.66,
@@ -26542,7 +27303,7 @@
       "first_date": 1784616020.8325338,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -26585,6 +27346,31 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
+        "name": "Undercutmaster69",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 134.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Great condition. no damage",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785268718.0567648,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
         "name": "DarkPainzz",
         "country": "Item location: Netherlands"
       },
@@ -26593,7 +27379,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Look at my profile for more!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26618,7 +27404,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26661,7 +27447,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26704,7 +27490,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New and Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26729,7 +27515,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26754,7 +27540,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP SEALED Big pokemon stock - LuckyPullsTCG",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26801,7 +27587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26826,7 +27612,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "New and sealed. Fast shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26885,7 +27671,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Cheaper shipping (DHL). gift with every order. plastic case for ETB and booster bundle :)",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26936,7 +27722,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "sealed. fast ship. B2B possible",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27030,7 +27816,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp-sealed!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27154,7 +27940,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27234,7 +28020,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27273,7 +28059,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27298,7 +28084,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27323,7 +28109,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fresh. sealed",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27348,7 +28134,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27490,45 +28276,6 @@
       "card": "White Flare Elite Trainer Box",
       "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
       "seller": {
-        "name": "EldoradoTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 149.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "#MWST Lagerplatz S4",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          99.99,
-          1779171872.5851214
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1779171872.5851214
-        ],
-        [
-          0,
-          1779171872.5851214
-        ]
-      ],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
         "name": "Jokerslair",
         "country": "Item location: Italy"
       },
@@ -27537,7 +28284,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27584,7 +28331,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "OVP/SEALED!",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27618,7 +28365,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27643,7 +28390,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "New and sealed. Fast shipping",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27706,7 +28453,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "6 verfügbar",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27736,7 +28483,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27775,54 +28522,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "ngsmy1",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 149.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP Sealed - 2 available",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1781718068.642596
-        ],
-        [
-          0,
-          1781718068.642596
-        ],
-        [
-          1,
-          1783145996.2041788
-        ],
-        [
-          0,
-          1783145996.2041788
-        ]
-      ],
-      "first_date": 1780879262.5640652,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -27842,7 +28547,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27867,7 +28572,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27892,7 +28597,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Ask more photos",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27917,7 +28622,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "In PET case. More inventory available",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27942,7 +28647,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New / sealed / OVP",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27951,6 +28656,95 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "EldoradoTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 149.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "#MWST Lagerplatz S4",
+      "date": 1785091825.3886082,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          99.99,
+          1779171872.5851214
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1779171872.5851214
+        ],
+        [
+          0,
+          1779171872.5851214
+        ],
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
+      "first_date": 1777970550.0898843,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "ngsmy1",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 149.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP Sealed - 2 available",
+      "date": 1785091825.3886082,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781718068.642596
+        ],
+        [
+          0,
+          1781718068.642596
+        ],
+        [
+          1,
+          1783145996.2041788
+        ],
+        [
+          0,
+          1783145996.2041788
+        ],
+        [
+          1,
+          1785091825.3886082
+        ]
+      ],
+      "first_date": 1780879262.5640652,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -28039,7 +28833,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed (Fast shipping)",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28069,7 +28863,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28094,7 +28888,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28119,7 +28913,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785091825.3886082,
+      "date": 1785440745.1182337,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28139,6 +28933,136 @@
         ]
       ],
       "first_date": 1778027101.7052002,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Vinmus",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          130.0,
+          1781433275.2123263
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1777970550.0898843,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Fornice",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780879262.5640652,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Ballzdeepx",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Clean Box with PET Case",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780879262.5640652,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Alligatorbite",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ligero rasguño del sellado",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780879262.5640652,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "White Flare Elite Trainer Box",
+      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
+      "seller": {
+        "name": "Diogolaires",
+        "country": "Item location: Switzerland"
+      },
+      "language": "French",
+      "price": 150.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785440745.1182337,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1780879262.5640652,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -28173,136 +29097,6 @@
         ]
       ],
       "first_date": 1783145996.2041788,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Vinmus",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          130.0,
-          1781433275.2123263
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1777970550.0898843,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Fornice",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785091825.3886082,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780879262.5640652,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Ballzdeepx",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Clean Box with PET Case",
-      "date": 1784460455.8761258,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780879262.5640652,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Alligatorbite",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "ligero rasguño del sellado",
-      "date": 1784041995.3766365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780879262.5640652,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false
-    },
-    {
-      "card": "White Flare Elite Trainer Box",
-      "canonical_name": "Pokemon_Products_Elite-Trainer-Boxes_White-Flare-Elite-Trainer-Box",
-      "seller": {
-        "name": "Diogolaires",
-        "country": "Item location: Switzerland"
-      },
-      "language": "French",
-      "price": 150.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784041995.3766365,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780879262.5640652,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

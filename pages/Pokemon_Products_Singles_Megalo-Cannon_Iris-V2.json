@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
-  "sold": 1,
-  "inserted": 1,
+  "available": 4,
+  "sold": 0,
+  "inserted": 0,
   "listings": [
     {
       "card": "Iris (BW9 082)",
@@ -51,9 +51,9 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #267",
-      "date": 1785083884.1138792,
+      "date": 1785431612.400077,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785083884.1138792,
@@ -106,7 +106,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #700",
-      "date": 1785083884.1138792,
+      "date": 1785431612.400077,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -135,7 +135,7 @@
       ],
       "first_date": 1780499478.7583861,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -153,7 +153,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1785083884.1138792,
+      "date": 1785431612.400077,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -175,11 +175,11 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Sleeve and top loader",
       "date": 1785083884.1138792,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -187,7 +187,12 @@
           1780955872.4575374
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785083884.1138792
+        ]
+      ],
       "first_date": 1780499478.7583861,
       "last_date": 0.0,
       "price_is_new": false,
@@ -320,7 +325,7 @@
       "comment": "PSA 4",
       "date": 1784832870.3274076,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -331,7 +336,7 @@
       "first_date": 1761774802.682154,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -348,7 +353,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "1x GIFT PROMO PAR COMMANDE ! 07-26",
-      "date": 1785083884.1138792,
+      "date": 1785431612.400077,
       "ended": false,
       "new": false,
       "previous_prices": [],

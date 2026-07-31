@@ -11,7 +11,7 @@
   ],
   "only_germany": "False",
   "available": 13,
-  "sold": 1,
+  "sold": 0,
   "inserted": 1,
   "listings": [
     {
@@ -379,7 +379,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Check our other singles!",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -413,9 +413,9 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #22",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785017281.783331,
@@ -438,7 +438,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sous sleeve + toploader sortie de booster",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -486,7 +486,7 @@
       "comment": "",
       "date": 1784768117.7045326,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           300.0,
@@ -534,7 +534,7 @@
       "first_date": 1773700616.1553981,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false
@@ -706,7 +706,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -765,7 +765,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "B7",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -777,6 +777,14 @@
         [
           0,
           1784056933.2758286
+        ],
+        [
+          1,
+          1785017281.783331
+        ],
+        [
+          0,
+          1785017281.783331
         ]
       ],
       "first_date": 1780877573.3054094,
@@ -799,7 +807,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Minor Imperfections. card looks nice overall",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -846,11 +854,11 @@
       },
       "language": "Japanese",
       "price": 275.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "ask for more pics",
       "date": 1785017281.783331,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -861,6 +869,10 @@
         [
           0,
           1778827101.9137506
+        ],
+        [
+          1,
+          1785017281.783331
         ]
       ],
       "first_date": 1775464286.6827521,
@@ -906,10 +918,35 @@
       "language": "Japanese",
       "price": 300.0,
       "quantity": 1,
+      "condition": "GD",
+      "comment": "little damage on bottom corners",
+      "date": 1785492235.533813,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785366535.9304137,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
+      "card": "Gyarados EX  (XY9 089)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V3",
+      "seller": {
+        "name": "RasorRaikoun",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 0,
       "condition": "EX",
       "comment": "little damage on bottom left corner",
       "date": 1785017281.783331,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -928,6 +965,10 @@
         [
           0,
           1784056933.2758286
+        ],
+        [
+          1,
+          1785017281.783331
         ]
       ],
       "first_date": 1771764894.9554415,
@@ -1109,6 +1150,31 @@
       "archived": false
     },
     {
+      "card": "Gyarados EX  (XY9 089)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V3",
+      "seller": {
+        "name": "MagicVortex",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 540.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1785492235.533813,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785492235.533813,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false
+    },
+    {
       "card": "Gyarados EX (XY9 089)",
       "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V3",
       "seller": {
@@ -1245,7 +1311,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 9 - inkl. 19% MwSt.",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1292,7 +1358,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PGS 9 with strong subgrades",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1339,7 +1405,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1523,16 +1589,20 @@
       },
       "language": "Japanese",
       "price": 1999.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - cert: 132771332",
-      "date": 1784476025.0388906,
-      "ended": true,
+      "date": 1785492235.533813,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784476025.0388906
+        ],
+        [
+          0,
           1784476025.0388906
         ]
       ],
@@ -1600,14 +1670,19 @@
       },
       "language": "Japanese",
       "price": 3200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
       "date": 1785017281.783331,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785017281.783331
+        ]
+      ],
       "first_date": 1784676079.7252004,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1628,7 +1703,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 unlimited version pop 60",
-      "date": 1785017281.783331,
+      "date": 1785492235.533813,
       "ended": false,
       "new": false,
       "previous_prices": [],
