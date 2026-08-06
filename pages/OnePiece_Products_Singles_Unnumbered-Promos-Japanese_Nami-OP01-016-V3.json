@@ -8,7 +8,7 @@
     "S-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
+  "available": 6,
   "available_graded": 9,
   "sold": 0,
   "inserted": 0,
@@ -2738,7 +2738,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Front NM - Back Exc - Ask pictures",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2907,6 +2907,34 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
+      "seller": {
+        "name": "Cards-Hunter",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 3199.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "One white dot in the corner - see picture (Number 1553)",
+      "date": 1785831399.9183328,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785562240.7618816,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -3553,6 +3581,80 @@
       "card": "Nami (OP01-016) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
       "seller": {
+        "name": "Drossrex",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 3750.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PGS 9 / 1939",
+      "date": 1785831399.9183328,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          2500.0,
+          1770297107.8399339
+        ],
+        [
+          2400.0,
+          1770930000.7840667
+        ],
+        [
+          1900.0,
+          1774633979.1651697
+        ],
+        [
+          1800.0,
+          1775811161.5500188
+        ],
+        [
+          1900.0,
+          1776962767.1859272
+        ],
+        [
+          3000.0,
+          1782541722.376019
+        ],
+        [
+          3300.0,
+          1784007599.0617502
+        ],
+        [
+          4300.0,
+          1785562240.7618816
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776962767.1859272
+        ],
+        [
+          1,
+          1782541722.376019
+        ],
+        [
+          0,
+          1782541722.376019
+        ]
+      ],
+      "first_date": 1770202229.1719217,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PGS",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
+      "seller": {
         "name": "youzii",
         "country": "Item location: Germany"
       },
@@ -3561,7 +3663,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3659,7 +3761,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3673,76 +3775,6 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP01-016-V3",
-      "seller": {
-        "name": "Drossrex",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 4300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PGS 9",
-      "date": 1785408359.3561988,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          2500.0,
-          1770297107.8399339
-        ],
-        [
-          2400.0,
-          1770930000.7840667
-        ],
-        [
-          1900.0,
-          1774633979.1651697
-        ],
-        [
-          1800.0,
-          1775811161.5500188
-        ],
-        [
-          1900.0,
-          1776962767.1859272
-        ],
-        [
-          3000.0,
-          1782541722.376019
-        ],
-        [
-          3300.0,
-          1784007599.0617502
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776962767.1859272
-        ],
-        [
-          1,
-          1782541722.376019
-        ],
-        [
-          0,
-          1782541722.376019
-        ]
-      ],
-      "first_date": 1770202229.1719217,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PGS",
-      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -4091,7 +4123,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Differnezbesteuert - PSA9 - Fast Secured Shipping",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4133,7 +4165,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa10",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4157,18 +4189,23 @@
         "country": "Item location: Germany"
       },
       "language": "S-Chinese",
-      "price": 6499.99,
+      "price": 6399.99,
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          6499.99,
+          1785731444.9708977
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1785060098.4775658,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4314,7 +4351,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4388,11 +4425,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "S-Chinese",
-      "price": 7202.79,
+      "price": 7209.1,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - DM for photos",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4447,6 +4484,18 @@
         [
           7223.44,
           1785235848.1029265
+        ],
+        [
+          7202.79,
+          1785408359.3561988
+        ],
+        [
+          7226.4,
+          1785562240.7618816
+        ],
+        [
+          7222.14,
+          1785731444.9708977
         ]
       ],
       "previous_quantities": [
@@ -4486,7 +4535,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Differenzbesteuert - PSA10 - Fast Secured Shipping",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4561,7 +4610,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Serial card ~0500",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4604,7 +4653,7 @@
       "comment": "RELISTED! BGS 9.5 = Beautifull rounded nr #3000",
       "date": 1785235848.1029265,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           750.0,
@@ -4628,7 +4677,7 @@
       "first_date": 1765402312.0205793,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4689,7 +4738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10 serial 3330 local pickup possible",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4747,7 +4796,7 @@
       "comment": "PSA 10",
       "date": 1785235848.1029265,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           2000.0,
@@ -4775,7 +4824,7 @@
       "first_date": 1755774107.2081158,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4865,7 +4914,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sequential PSA 10 Set. Full Set including Box. Extras and brown Box (no blue nami)",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4915,7 +4964,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#1096",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4961,7 +5010,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 Nr. 2294",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5027,7 +5076,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Insta tyzeftcg in Paris All others 1 st anniversary  in stock psa10 Shop on Vinted also : tyzeftcg",
-      "date": 1785408359.3561988,
+      "date": 1785831399.9183328,
       "ended": false,
       "new": false,
       "previous_prices": [

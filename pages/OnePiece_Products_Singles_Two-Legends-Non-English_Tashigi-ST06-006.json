@@ -13,7 +13,7 @@
   "available": 28,
   "available_graded": 6,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 4,
   "listings": [
     {
       "card": "Tashigi (ST06-006)",
@@ -1325,16 +1325,25 @@
       "price": 35.49,
       "quantity": 1,
       "condition": "EX",
-      "comment": "Front NM | Keep cardgazing!^^",
-      "date": 1785430504.1068103,
+      "comment": "RELISTED! Front NM | Keep cardgazing!^^",
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785558689.3881881
+        ],
+        [
+          0,
+          1785558689.3881881
+        ]
+      ],
       "first_date": 1775443880.2237182,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1876,7 +1885,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for more photo or shipment details",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1966,11 +1975,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 38.42,
+      "price": 38.45,
       "quantity": 1,
       "condition": "NM",
       "comment": "Nudge back of cars where cut but pristine otherwise",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2145,6 +2154,18 @@
         [
           38.53,
           1785259556.859302
+        ],
+        [
+          38.42,
+          1785430504.1068103
+        ],
+        [
+          38.55,
+          1785558689.3881881
+        ],
+        [
+          38.52,
+          1785728045.769147
         ]
       ],
       "previous_quantities": [],
@@ -2221,37 +2242,20 @@
       "card": "Tashigi (ST06-006)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Tashigi-ST06-006",
       "seller": {
-        "name": "Zgeige",
+        "name": "SarahlovesTrasla",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 39.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Toploader/fast shipping",
-      "date": 1785430504.1068103,
+      "comment": "<- MORE SICK OP CARDS",
+      "date": 1785828346.2679372,
       "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          40.0,
-          1783532352.349095
-        ],
-        [
-          53.0,
-          1783654231.6173384
-        ],
-        [
-          45.0,
-          1784289723.1207788
-        ],
-        [
-          40.0,
-          1784831980.8675022
-        ]
-      ],
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782188226.2318008,
+      "first_date": 1785828346.2679372,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2415,12 +2419,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 39.62,
-      "quantity": 1,
+      "price": 39.75,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
-      "ended": false,
+      "date": 1785558689.3881881,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2530,12 +2534,21 @@
         [
           39.73,
           1785259556.859302
+        ],
+        [
+          39.62,
+          1785430504.1068103
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785558689.3881881
+        ]
+      ],
       "first_date": 1780848168.1237817,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2841,12 +2854,61 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784451377.123886,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tashigi (ST06-006)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Tashigi-ST06-006",
+      "seller": {
+        "name": "Zgeige",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 40.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Toploader/fast shipping",
+      "date": 1785828346.2679372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1783532352.349095
+        ],
+        [
+          53.0,
+          1783654231.6173384
+        ],
+        [
+          45.0,
+          1784289723.1207788
+        ],
+        [
+          40.0,
+          1784831980.8675022
+        ],
+        [
+          39.0,
+          1785558689.3881881
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782188226.2318008,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2869,7 +2931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "If you need. just ask for pictures :)",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2921,7 +2983,7 @@
       "comment": "RELISTED! ",
       "date": 1785259556.859302,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           50.0,
@@ -2961,7 +3023,7 @@
       "first_date": 1771359231.701012,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3199,7 +3261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Schneller Versand & sichere Verpackung",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3293,7 +3355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve + Toploader",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3701,7 +3763,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3729,9 +3791,9 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Little white point on back",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785430504.1068103,
@@ -3936,7 +3998,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Japanese & Chinese seller!! Check my store!",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3957,12 +4019,20 @@
         [
           0,
           1776661316.409086
+        ],
+        [
+          4,
+          1785558689.3881881
+        ],
+        [
+          3,
+          1785728045.769147
         ]
       ],
       "first_date": 1769180020.7864614,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3982,7 +4052,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4007,14 +4077,19 @@
       },
       "language": "Japanese",
       "price": 45.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
-      "ended": false,
+      "date": 1785558689.3881881,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785558689.3881881
+        ]
+      ],
       "first_date": 1779142675.3354604,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4802,9 +4877,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many more cards available",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785430504.1068103,
@@ -4830,7 +4905,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4858,7 +4933,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4886,7 +4961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster-Sleve",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4941,8 +5016,8 @@
       "price": 51.96,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785430504.1068103,
+      "comment": "",
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4963,8 +5038,8 @@
       ],
       "first_date": 1783532352.349095,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4984,7 +5059,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5326,7 +5401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Daily Shipping | Sleeved in toploader",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5443,7 +5518,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5529,7 +5604,7 @@
       "card": "Tashigi (ST06-006)",
       "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Tashigi-ST06-006",
       "seller": {
-        "name": "MulliFirst",
+        "name": "Geriko08",
         "country": "Item location: France"
       },
       "language": "Japanese",
@@ -5537,15 +5612,52 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782603290.952837,
+      "first_date": 1785828346.2679372,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tashigi (ST06-006)",
+      "canonical_name": "OnePiece_Products_Singles_Two-Legends-Non-English_Tashigi-ST06-006",
+      "seller": {
+        "name": "MulliFirst",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 60.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785828346.2679372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785558689.3881881
+        ],
+        [
+          0,
+          1785558689.3881881
+        ]
+      ],
+      "first_date": 1782603290.952837,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5626,7 +5738,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5719,9 +5831,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more JP Cards",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785430504.1068103,
@@ -6087,7 +6199,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6115,7 +6227,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10   NEW SELLER",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6186,7 +6298,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6214,7 +6326,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 JAP FAST SHIPPING GOOD PACKAGE",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6242,7 +6354,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 Pics in DM.",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6288,7 +6400,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785430504.1068103,
+      "date": 1785828346.2679372,
       "ended": false,
       "new": false,
       "previous_prices": [

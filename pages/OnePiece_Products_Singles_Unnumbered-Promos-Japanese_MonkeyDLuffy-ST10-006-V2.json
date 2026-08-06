@@ -10,9 +10,9 @@
   ],
   "only_germany": false,
   "available": 56,
-  "available_graded": 30,
-  "sold": 0,
-  "inserted": 0,
+  "available_graded": 27,
+  "sold": 5,
+  "inserted": 6,
   "listings": [
     {
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
@@ -190,7 +190,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -253,7 +253,7 @@
       "comment": "",
       "date": 1785227933.2734966,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -272,7 +272,7 @@
       "first_date": 1782672922.640817,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -292,7 +292,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "S-Chinese",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -317,11 +317,11 @@
       },
       "language": "S-Chinese",
       "price": 190.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "sleeve -> toploader",
-      "date": 1784257965.1299567,
-      "ended": true,
+      "date": 1785831050.002607,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -333,8 +333,45 @@
         [
           1,
           1784257965.1299567
+        ],
+        [
+          0,
+          1784257965.1299567
         ]
       ],
+      "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "isekaialcorcon",
+        "country": "Item location: Spain"
+      },
+      "language": "S-Chinese",
+      "price": 194.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.99,
+          1785400472.4882574
+        ]
+      ],
+      "previous_quantities": [],
       "first_date": 1782672922.640817,
       "last_date": 0.0,
       "price_is_new": false,
@@ -358,7 +395,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "F00",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -395,7 +432,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Local Store Zuris-Shop Wuppertal",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -423,7 +460,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -493,39 +530,6 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "Baboboris",
-        "country": "Item location: Germany"
-      },
-      "language": "S-Chinese",
-      "price": 200.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          399.0,
-          1782770628.5088758
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782672922.640817,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "Gillariel",
         "country": "Item location: Belgium"
       },
@@ -534,7 +538,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -562,7 +566,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "small restorable crease ok the back",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -604,6 +608,44 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "Baboboris",
+        "country": "Item location: Germany"
+      },
+      "language": "S-Chinese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785730937.1229262,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          399.0,
+          1782770628.5088758
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1785730937.1229262
+        ]
+      ],
+      "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "Batomando",
         "country": "Item location: Germany"
       },
@@ -612,7 +654,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve - Toploader",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -637,11 +679,11 @@
       },
       "language": "Japanese",
       "price": 229.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Small white dot / fast ship / sleeve + top loader",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -649,10 +691,15 @@
           1785227933.2734966
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785400472.4882574
+        ]
+      ],
       "first_date": 1785052184.8422637,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -670,22 +717,184 @@
       },
       "language": "Japanese",
       "price": 244.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve toploader",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
+      "date": 1785730937.1229262,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           342.99,
           1785052184.8422637
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785730937.1229262
+        ]
+      ],
       "first_date": 1783580380.5176487,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "bencho333",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 260.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved & Toploader",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.0,
+          1783111617.120463
+        ],
+        [
+          348.99,
+          1783580380.5176487
+        ],
+        [
+          333.0,
+          1784802110.936062
+        ],
+        [
+          299.0,
+          1785052184.8422637
+        ],
+        [
+          289.0,
+          1785561826.867233
+        ],
+        [
+          276.0,
+          1785730937.1229262
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783876306.169106
+        ],
+        [
+          0,
+          1783876306.169106
+        ]
+      ],
+      "first_date": 1783111617.120463,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "mattiape",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 265.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          390.0,
+          1782672922.640817
+        ],
+        [
+          360.0,
+          1783380540.9274137
+        ],
+        [
+          330.0,
+          1784000389.8888662
+        ],
+        [
+          315.0,
+          1784155942.7139275
+        ],
+        [
+          305.0,
+          1785400472.4882574
+        ],
+        [
+          275.0,
+          1785561826.867233
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "Misterbale",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 269.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "O1",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          289.9,
+          1785730937.1229262
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784710718.8193896
+        ],
+        [
+          0,
+          1784710718.8193896
+        ]
+      ],
+      "first_date": 1784419143.4471636,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -703,10 +912,10 @@
       },
       "language": "Japanese",
       "price": 270.0,
-      "quantity": 2,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "sleeved - toploader - fast ship",
-      "date": 1785400472.4882574,
+      "comment": "RELISTED! sleeved - toploader - fast ship",
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -731,11 +940,60 @@
         [
           0,
           1783580380.5176487
+        ],
+        [
+          2,
+          1785400472.4882574
+        ],
+        [
+          3,
+          1785561826.867233
+        ],
+        [
+          0,
+          1785561826.867233
         ]
       ],
       "first_date": 1782672922.640817,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "Mounssss",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 270.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          344.0,
+          1784257965.1299567
+        ],
+        [
+          299.99,
+          1785561826.867233
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782770628.5088758,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -789,7 +1047,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -823,17 +1081,78 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "GliStarters",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 284.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "60K+ CARDS IN STOCK",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785831050.002607,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "AkibaCollectors",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 285.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "direct to sleeve",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          349.99,
+          1785561826.867233
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "TheBazaarTCG",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 285.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "CGC 8.5",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
+      "date": 1785730937.1229262,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           370.0,
@@ -852,11 +1171,16 @@
           1785052184.8422637
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785730937.1229262
+        ]
+      ],
       "first_date": 1783580380.5176487,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -868,70 +1192,16 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "bencho333",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 289.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved & Toploader",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          349.0,
-          1783111617.120463
-        ],
-        [
-          348.99,
-          1783580380.5176487
-        ],
-        [
-          333.0,
-          1784802110.936062
-        ],
-        [
-          299.0,
-          1785052184.8422637
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783876306.169106
-        ],
-        [
-          0,
-          1783876306.169106
-        ]
-      ],
-      "first_date": 1783111617.120463,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "BanzaiTimes",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 289.89,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Shipping Every 2 Business Days || B2B || F-1-9",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -947,46 +1217,13 @@
         [
           0,
           1784710718.8193896
+        ],
+        [
+          1,
+          1785400472.4882574
         ]
       ],
       "first_date": 1783876306.169106,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
-        "name": "Misterbale",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 289.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "O1",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784710718.8193896
-        ],
-        [
-          0,
-          1784710718.8193896
-        ]
-      ],
-      "first_date": 1784419143.4471636,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1006,14 +1243,19 @@
       },
       "language": "Japanese",
       "price": 289.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 cert number 140817776",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785400472.4882574
+        ]
+      ],
       "first_date": 1785227933.2734966,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1037,7 +1279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm. pm for pictures. paris possible",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1084,11 +1326,11 @@
       },
       "language": "Japanese",
       "price": 298.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "ship with toploader",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1120,6 +1362,10 @@
         [
           0,
           1784710718.8193896
+        ],
+        [
+          1,
+          1785400472.4882574
         ]
       ],
       "first_date": 1782672922.640817,
@@ -1142,11 +1388,11 @@
       },
       "language": "Japanese",
       "price": 299.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "psa9 #148552247",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1158,7 +1404,12 @@
           1784802110.936062
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785400472.4882574
+        ]
+      ],
       "first_date": 1782672922.640817,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1181,8 +1432,8 @@
       "price": 299.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Little white point on back",
-      "date": 1785400472.4882574,
+      "comment": "Little white point on back",
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1202,76 +1453,6 @@
         ]
       ],
       "first_date": 1783380540.9274137,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
-        "name": "Mounssss",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 299.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          344.0,
-          1784257965.1299567
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782770628.5088758,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
-        "name": "Card-D-Ace",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "white micro dot",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          380.0,
-          1783876306.169106
-        ],
-        [
-          340.0,
-          1784419143.4471636
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782770628.5088758,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1294,12 +1475,49 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784155942.7139275,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "Card-D-Ace",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "white micro dot",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          380.0,
+          1783876306.169106
+        ],
+        [
+          340.0,
+          1784419143.4471636
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782770628.5088758,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1394,51 +1612,6 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "mattiape",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 305.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          390.0,
-          1782672922.640817
-        ],
-        [
-          360.0,
-          1783380540.9274137
-        ],
-        [
-          330.0,
-          1784000389.8888662
-        ],
-        [
-          315.0,
-          1784155942.7139275
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782672922.640817,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "Vlonex",
         "country": "Item location: Germany"
       },
@@ -1467,6 +1640,34 @@
         ]
       ],
       "first_date": 1783876306.169106,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 320.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "From Pack to Sleeve / + cards in stock",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785730937.1229262,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1626,7 +1827,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1651,28 +1852,28 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "AkibaCollectors",
-        "country": "Item location: France"
+        "name": "PandaHUBTCG",
+        "country": "Item location: Italy"
       },
-      "language": "Japanese",
-      "price": 349.99,
+      "language": "S-Chinese",
+      "price": 350.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "direct to sleeve",
-      "date": 1785400472.4882574,
+      "comment": "CGC 10 Gold",
+      "date": 1785831050.002607,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782672922.640817,
+      "first_date": 1785831050.002607,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "",
-      "grade": null,
+      "grade_company": "CGC",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -1687,7 +1888,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved. toploader",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1715,7 +1916,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "small white dot on corner",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1743,7 +1944,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1833,17 +2034,29 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 360.14,
+      "price": 360.46,
       "quantity": 1,
       "condition": "EX",
       "comment": "White dot on the border",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           361.18,
           1785227933.2734966
+        ],
+        [
+          360.14,
+          1785400472.4882574
+        ],
+        [
+          361.32,
+          1785561826.867233
+        ],
+        [
+          361.11,
+          1785730937.1229262
         ]
       ],
       "previous_quantities": [],
@@ -1870,7 +2083,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1964,7 +2177,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "x",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1992,7 +2205,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2059,14 +2272,19 @@
       },
       "language": "Japanese",
       "price": 396.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for picture",
-      "date": 1785400472.4882574,
-      "ended": false,
+      "date": 1785561826.867233,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785561826.867233
+        ]
+      ],
       "first_date": 1782672922.640817,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2082,28 +2300,28 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "isekaialcorcon",
-        "country": "Item location: Spain"
+        "name": "CardScape",
+        "country": "Item location: Sweden"
       },
-      "language": "S-Chinese",
-      "price": 399.99,
+      "language": "Japanese",
+      "price": 399.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785400472.4882574,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1785831050.002607,
       "ended": false,
-      "new": false,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782672922.640817,
+      "first_date": 1785831050.002607,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "",
-      "grade": null,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -2115,23 +2333,35 @@
       },
       "language": "Japanese",
       "price": 399.99,
-      "quantity": 0,
+      "quantity": 3,
       "condition": "NM",
       "comment": "B10.1 SEALED",
-      "date": 1785227933.2734966,
-      "ended": true,
-      "new": true,
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           3,
           1785227933.2734966
+        ],
+        [
+          0,
+          1785227933.2734966
+        ],
+        [
+          3,
+          1785561826.867233
+        ],
+        [
+          2,
+          1785730937.1229262
         ]
       ],
       "first_date": 1783580380.5176487,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2184,7 +2414,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9 / § 25a Dif­fe­renz­be­steue­rung",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2286,9 +2516,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785400472.4882574,
@@ -2310,11 +2540,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 420.17,
+      "price": 420.54,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2357,6 +2587,18 @@
         [
           421.37,
           1785227933.2734966
+        ],
+        [
+          420.17,
+          1785400472.4882574
+        ],
+        [
+          421.54,
+          1785561826.867233
+        ],
+        [
+          421.3,
+          1785730937.1229262
         ]
       ],
       "previous_quantities": [],
@@ -2416,7 +2658,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sealed / Perfect Front & Back / Ask for Picture / Fast Shipping",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2444,7 +2686,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM & Clean / Double Sleeved & Fast Shipping :)",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2472,7 +2714,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Differenzbesteuert - Toploader - Fast Secured Shipping",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2500,11 +2742,20 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "9.5 BGS STRONG! FAST SHIPPING! More cards on profile!",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785400472.4882574
+        ],
+        [
+          0,
+          1785400472.4882574
+        ]
+      ],
       "first_date": 1783876306.169106,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2594,7 +2845,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed JP-Version | Fast & Safe Shipment",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2627,7 +2878,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2655,7 +2906,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New. Never Played // Fast Shipping",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2692,7 +2943,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2725,7 +2976,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 9.0]",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2753,7 +3004,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping + Bonus",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2781,7 +3032,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2809,7 +3060,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2837,7 +3088,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2865,7 +3116,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED ! Fast Shipping + Bonus",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2893,12 +3144,73 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "OY8161",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785831050.002607,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
+        "name": "Alessandro9565",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Graad 10",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          660.0,
+          1785561826.867233
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785561826.867233,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2921,7 +3233,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2941,6 +3253,59 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "Ammenentz",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "BGS 9.5 [ 9.5 - 9 - 10 - 10 ]",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          1783111617.120463
+        ],
+        [
+          900.0,
+          1783278260.9047568
+        ],
+        [
+          799.0,
+          1783580380.5176487
+        ],
+        [
+          849.0,
+          1784575543.945468
+        ],
+        [
+          715.0,
+          1785400472.4882574
+        ],
+        [
+          700.0,
+          1785730937.1229262
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783111617.120463,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "DarumaStudio",
         "country": "Item location: Italy"
       },
@@ -2949,7 +3314,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA9",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2969,6 +3334,34 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "Feytcg",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785561826.867233,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "Egres",
         "country": "Item location: Netherlands"
       },
@@ -2977,7 +3370,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graad 10. scratch on the slab. card is clean ask for pics",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2997,19 +3390,70 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "matzekowski",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 659.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "RELISTED! PSA 10",
+      "date": 1785730937.1229262,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          690.0,
+          1785400472.4882574
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785400472.4882574
+        ],
+        [
+          0,
+          1785400472.4882574
+        ],
+        [
+          1,
+          1785730937.1229262
+        ]
+      ],
+      "first_date": 1785400472.4882574,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "Leonidaaa-",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 675.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Graad 10",
-      "date": 1785400472.4882574,
-      "ended": false,
+      "date": 1785561826.867233,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785561826.867233
+        ]
+      ],
       "first_date": 1784155942.7139275,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3025,34 +3469,6 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "matzekowski",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 690.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785400472.4882574,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "CaetanoOP",
         "country": "Item location: Portugal"
       },
@@ -3061,7 +3477,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3103,16 +3519,53 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "JaVy2407",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "RELISTED! PSA10 - JAPANESE - Differenzbesteuerung",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785561826.867233
+        ],
+        [
+          0,
+          1785561826.867233
+        ]
+      ],
+      "first_date": 1785561826.867233,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "CechTheWizard",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
-      "ended": false,
+      "date": 1785561826.867233,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3136,6 +3589,10 @@
         [
           0,
           1783580380.5176487
+        ],
+        [
+          1,
+          1785561826.867233
         ]
       ],
       "first_date": 1783380540.9274137,
@@ -3191,61 +3648,16 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "Ammenentz",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 715.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "BGS 9.5 [ 9.5 - 9 - 10 - 10 ]",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1000.0,
-          1783111617.120463
-        ],
-        [
-          900.0,
-          1783278260.9047568
-        ],
-        [
-          799.0,
-          1783580380.5176487
-        ],
-        [
-          849.0,
-          1784575543.945468
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783111617.120463,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "Yonko23",
         "country": "Item location: Portugal"
       },
       "language": "Japanese",
       "price": 730.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "RELISTED! PSA 10 - more cards",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3269,12 +3681,16 @@
         [
           0,
           1784575543.945468
+        ],
+        [
+          1,
+          1785400472.4882574
         ]
       ],
       "first_date": 1782672922.640817,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3294,7 +3710,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3322,7 +3738,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 READY TO SHIP",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3394,18 +3810,23 @@
       },
       "language": "Japanese",
       "price": 749.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
+      "date": 1785730937.1229262,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785730937.1229262
+        ]
+      ],
       "first_date": 1784419143.4471636,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3458,7 +3879,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3486,7 +3907,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3532,7 +3953,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3552,16 +3973,44 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
+        "name": "Huglee",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 799.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785831050.002607,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782672922.640817,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
+      "seller": {
         "name": "Pokemonfelix",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 799.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10  #98596966",
       "date": 1785400472.4882574,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3585,6 +4034,10 @@
         [
           0,
           1783380540.9274137
+        ],
+        [
+          1,
+          1785400472.4882574
         ]
       ],
       "first_date": 1782672922.640817,
@@ -3602,34 +4055,6 @@
       "card": "Monkey.D.Luffy (ST10-006) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
       "seller": {
-        "name": "Huglee",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 799.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785400472.4882574,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782672922.640817,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (ST10-006) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_MonkeyDLuffy-ST10-006-V2",
-      "seller": {
         "name": "Bro2storeSRL",
         "country": "Item location: Italy"
       },
@@ -3640,7 +4065,7 @@
       "comment": "psa 10",
       "date": 1785227933.2734966,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3651,7 +4076,7 @@
       "first_date": 1784575543.945468,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3712,7 +4137,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3749,7 +4174,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3777,7 +4202,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3856,7 +4281,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 10.0] photo in pvt",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3884,7 +4309,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10. ask for photos",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4044,7 +4469,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4072,7 +4497,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10!",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4100,7 +4525,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Bgs 10 pristine",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4161,7 +4586,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bgs 10 Prinistine",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4222,7 +4647,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS10 PRISTINE JAP",
-      "date": 1785400472.4882574,
+      "date": 1785831050.002607,
       "ended": false,
       "new": false,
       "previous_prices": [],

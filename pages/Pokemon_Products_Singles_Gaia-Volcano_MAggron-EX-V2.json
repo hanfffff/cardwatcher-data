@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 7,
-  "available_graded": 1,
+  "available": 5,
+  "available_graded": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -24,14 +24,19 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "EXC Little scratch on the back",
       "date": 1785393647.3159823,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785393647.3159823
+        ]
+      ],
       "first_date": 1783869838.00241,
       "last_date": 0.0,
       "price_is_new": false,
@@ -55,7 +60,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "NM/EX",
-      "date": 1785393647.3159823,
+      "date": 1785857042.7445598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -83,7 +88,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller",
-      "date": 1785393647.3159823,
+      "date": 1785857042.7445598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -151,14 +156,19 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
       "date": 1785393647.3159823,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785393647.3159823
+        ]
+      ],
       "first_date": 1784703842.4152236,
       "last_date": 0.0,
       "price_is_new": false,
@@ -179,11 +189,11 @@
       },
       "language": "Japanese",
       "price": 130.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Insta : @vt.collectors",
       "date": 1785393647.3159823,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -202,6 +212,10 @@
         [
           0,
           1784504239.493604
+        ],
+        [
+          1,
+          1785393647.3159823
         ]
       ],
       "first_date": 1781668894.8060627,
@@ -227,7 +241,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "very clean",
-      "date": 1785393647.3159823,
+      "date": 1785857042.7445598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -311,7 +325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Discounts for bigger orders | Ask for pics",
-      "date": 1785393647.3159823,
+      "date": 1785857042.7445598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -339,7 +353,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM+ | Discounts for bigger orders || Ask for pictures",
-      "date": 1785393647.3159823,
+      "date": 1785857042.7445598,
       "ended": false,
       "new": false,
       "previous_prices": [],

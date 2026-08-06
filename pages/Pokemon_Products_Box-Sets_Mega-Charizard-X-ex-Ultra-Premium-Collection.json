@@ -13,10 +13,10 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 837,
+  "available": 840,
   "available_graded": 0,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 15,
+  "inserted": 8,
   "listings": [
     {
       "card": "Mega Charizard X ex Ultra-Premium Collection",
@@ -29,16 +29,25 @@
       "price": 10.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "READ BEFORE BUY--No-boosters-no-promos-no-playmat-no-coin.",
-      "date": 1785497680.8103154,
+      "comment": "RELISTED! READ BEFORE BUY--No-boosters-no-promos-no-playmat-no-coin.",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ],
+        [
+          0,
+          1785571867.4588935
+        ]
+      ],
       "first_date": 1785023529.1890194,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -344,9 +353,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ohne Booster und promo rest unbenutzt und dabei",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785497680.8103154,
@@ -1040,7 +1049,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED.READY TO SHIP NOW WITH BUBBLE WRAP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1726,9 +1735,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785497680.8103154,
@@ -1746,36 +1755,23 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "KaibaCorpStore",
+        "name": "arkxera",
         "country": "Item location: Italy"
       },
       "language": "Italian",
-      "price": 139.99,
-      "quantity": 2,
+      "price": 139.98,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
+      "comment": "Sealed - Altri Prodotti Disponibili",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          3,
-          1784773790.5810778
-        ],
-        [
-          2,
-          1785198769.4615757
-        ],
-        [
-          1,
-          1785371929.9421754
-        ]
-      ],
-      "first_date": 1784773790.5810778,
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1795,7 +1791,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2 Available - Twint 140-. +9 shipping - SEALED PERFECT",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1820,23 +1816,44 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "BondiKing96",
+        "name": "KaibaCorpStore",
         "country": "Item location: Italy"
       },
       "language": "Italian",
-      "price": 140.0,
-      "quantity": 3,
+      "price": 139.99,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "solo vendita a mano zona novara/milano. ultimi 2 pz disponibili. 270 per entrambi.",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772440441.337737,
+      "previous_quantities": [
+        [
+          3,
+          1784773790.5810778
+        ],
+        [
+          2,
+          1785198769.4615757
+        ],
+        [
+          1,
+          1785371929.9421754
+        ],
+        [
+          2,
+          1785497680.8103154
+        ],
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1784773790.5810778,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1848,20 +1865,20 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "BaroneRosso92",
+        "name": "BondiKing96",
         "country": "Item location: Italy"
       },
       "language": "Italian",
       "price": 140.0,
-      "quantity": 1,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "Sigillato con pellicola. ulteriori foto su richiesta",
-      "date": 1785497680.8103154,
+      "comment": "solo vendita a mano zona novara/milano. ultimi 2 pz disponibili. 270 per entrambi.",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785371929.9421754,
+      "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1884,7 +1901,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Piccolo danno sulla pellicola. resto perfetto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1921,7 +1938,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1939,6 +1956,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "BaroneRosso92",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 140.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sigillato con pellicola. ulteriori foto su richiesta",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785371929.9421754,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2328,7 +2378,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2564,7 +2614,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - Ottimo imballaggio +220 5s on Vinted",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2757,7 +2807,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2855,7 +2905,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2883,7 +2933,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "4x = case sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2911,7 +2961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2939,7 +2989,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2967,7 +3017,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2995,7 +3045,7 @@
       "quantity": 7,
       "condition": "NM",
       "comment": "Nuovo store a Roma",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3023,7 +3073,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3800,7 +3850,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED con piccolo strappo pellicola",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3944,7 +3994,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New Seller - Ship 48h - Scrivimi per le foto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3974,7 +4024,7 @@
       "comment": "",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           167.49,
@@ -4030,7 +4080,7 @@
       "first_date": 1776098271.7116976,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4156,7 +4206,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4870,7 +4920,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4900,7 +4950,7 @@
       "comment": "Perfect Sealed. Closed Case Available",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4919,7 +4969,7 @@
       "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -5,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5455,7 +5505,7 @@
       "quantity": 16,
       "condition": "NM",
       "comment": "sigillato x 4 case sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5505,7 +5555,7 @@
       "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5525,7 +5575,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5553,7 +5603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5708,7 +5758,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5889,7 +5939,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed box + magnetic case",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5922,7 +5972,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed. spedizione in 24h/48h",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5959,7 +6009,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5992,7 +6042,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sigillato. spedizione rapida e sicura + piccolo omaggio",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7634,7 +7684,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7662,7 +7712,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8138,11 +8188,11 @@
       },
       "language": "Italian",
       "price": 165.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "New & Sealed",
-      "date": 1785497680.8103154,
-      "ended": false,
+      "date": 1785571867.4588935,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -8253,6 +8303,10 @@
         [
           0,
           1785023529.1890194
+        ],
+        [
+          1,
+          1785571867.4588935
         ]
       ],
       "first_date": 1772645209.513084,
@@ -8593,34 +8647,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1776098271.7116976,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Suchtgurke",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 165.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1776288314.6979468,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1775457052.1386952,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9695,7 +9721,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9749,7 +9775,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed perfetto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9777,7 +9803,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Box nuovo.sigillato",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9826,7 +9852,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sigillato",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10302,7 +10328,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10339,7 +10365,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "NEW SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10522,8 +10548,8 @@
       "price": 169.98,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! Store in Sicilia - Alcamo",
-      "date": 1785497680.8103154,
+      "comment": "Store in Sicilia - Alcamo",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10552,7 +10578,7 @@
       "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10605,7 +10631,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed perfetto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11203,7 +11229,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11256,7 +11282,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11283,8 +11309,8 @@
       "price": 170.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "scellé",
-      "date": 1785497680.8103154,
+      "comment": "RELISTED! scellé",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11305,9 +11331,45 @@
         [
           0,
           1779930777.6418314
+        ],
+        [
+          1,
+          1785571867.4588935
+        ],
+        [
+          0,
+          1785571867.4588935
         ]
       ],
       "first_date": 1772537265.7490933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Totosacco",
+        "country": "Item location: Belgium"
+      },
+      "language": "French",
+      "price": 170.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785571867.4588935,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11330,62 +11392,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed box + magnetic case",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779407120.766717,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "ichem77",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 170.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          172.0,
-          1784682178.5898755
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784682178.5898755
-        ],
-        [
-          0,
-          1784682178.5898755
-        ],
-        [
-          1,
-          1785023529.1890194
-        ],
-        [
-          0,
-          1785023529.1890194
-        ]
-      ],
-      "first_date": 1784682178.5898755,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11408,7 +11420,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi rapide et soigné | scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11436,7 +11448,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FAST SHIP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11464,7 +11476,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed. senza difetti. fast ship. recensioni su di me disponibili",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11492,7 +11504,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ancora sigillato",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11520,12 +11532,66 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Box sigillato in perfette condizioni nessun difetto.",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772440441.337737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "ichem77",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 170.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          172.0,
+          1784682178.5898755
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784682178.5898755
+        ],
+        [
+          0,
+          1784682178.5898755
+        ],
+        [
+          1,
+          1785023529.1890194
+        ],
+        [
+          0,
+          1785023529.1890194
+        ],
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1784682178.5898755,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12186,39 +12252,6 @@
         ]
       ],
       "first_date": 1777275337.4645143,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Mxrrcel",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 170.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Zustand Top",
-      "date": 1777797488.7463286,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1777797488.7463286
-        ]
-      ],
-      "first_date": 1776098271.7116976,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12923,7 +12956,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for a pic - seeled",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12951,7 +12984,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13102,34 +13135,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "Malfroid2a",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 173.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Produit scellé -> Envoi rapide et soigné",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785371929.9421754,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "Badtutsh",
         "country": "Item location: France"
       },
@@ -13138,7 +13143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "scellage parfait / photos disponibles",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13161,6 +13166,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Malfroid2a",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 173.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Produit scellé -> Envoi rapide et soigné",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785371929.9421754,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13472,7 +13510,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf sous blister",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13492,12 +13530,20 @@
         [
           0,
           1785023529.1890194
+        ],
+        [
+          2,
+          1785571867.4588935
+        ],
+        [
+          1,
+          1785739901.6186397
         ]
       ],
       "first_date": 1784482211.0212312,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13588,7 +13634,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13616,7 +13662,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pellicola con un piccolo foro",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14096,12 +14142,12 @@
       },
       "language": "French",
       "price": 174.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Neuf et Scellé",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -14111,12 +14157,16 @@
         [
           0,
           1785023529.1890194
+        ],
+        [
+          1,
+          1785739901.6186397
         ]
       ],
       "first_date": 1785023529.1890194,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14365,7 +14415,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14393,7 +14443,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14479,59 +14529,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "Didiwa2a",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 175.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782723758.2863884
-        ],
-        [
-          0,
-          1782723758.2863884
-        ],
-        [
-          1,
-          1783427303.417774
-        ],
-        [
-          0,
-          1783427303.417774
-        ],
-        [
-          1,
-          1785023529.1890194
-        ],
-        [
-          0,
-          1785023529.1890194
-        ]
-      ],
-      "first_date": 1782549787.972828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "minosis",
         "country": "Item location: France"
       },
@@ -14540,7 +14537,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PARFAIT ETAT",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14568,7 +14565,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14605,7 +14602,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14671,7 +14668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14699,7 +14696,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14727,12 +14724,69 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Prezzo trattabile",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1774125213.077163,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Didiwa2a",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 175.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782723758.2863884
+        ],
+        [
+          0,
+          1782723758.2863884
+        ],
+        [
+          1,
+          1783427303.417774
+        ],
+        [
+          0,
+          1783427303.417774
+        ],
+        [
+          1,
+          1785023529.1890194
+        ],
+        [
+          0,
+          1785023529.1890194
+        ],
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1782549787.972828,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14757,7 +14811,7 @@
       "comment": "Scellé + de photos sur demande",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           189.0,
@@ -14773,7 +14827,7 @@
       "first_date": 1785198769.4615757,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16346,7 +16400,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sigillato - Perfette condizioni - Spedizione in 24H",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17156,7 +17210,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Nuovo/Sigillato/sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17184,7 +17238,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed perfette. più pezzi disponibili",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17824,7 +17878,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17886,7 +17940,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed spedizione 24/48h bartolini",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18676,7 +18730,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "OVP. Sealed spanish",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18692,6 +18746,14 @@
         [
           5,
           1785371929.9421754
+        ],
+        [
+          6,
+          1785497680.8103154
+        ],
+        [
+          5,
+          1785739901.6186397
         ]
       ],
       "first_date": 1784062959.0948803,
@@ -18717,7 +18779,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18754,35 +18816,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Extended Time Offer! - THE CARDS YOU WISH!",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "mercatinodellecarte",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed! Altre disponibili",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18810,50 +18844,12 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Scrivimi per le foto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Ale-iw",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Scellé photo mp",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          190.0,
-          1775886868.3718193
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775886868.3718193
-        ]
-      ],
-      "first_date": 1774125213.077163,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -18876,7 +18872,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Product Sealed With Shrink. Request photo for verification!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18909,39 +18905,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "PinkBunnyDJ",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed. perfect condition",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          170.0,
-          1775886868.3718193
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "marioLi8vo9",
         "country": "Item location: Italy"
       },
@@ -18950,7 +18913,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "new seller. sealed. ask for pics",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18978,7 +18941,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuve SCELLÉ PARFAIT Français",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19023,16 +18986,115 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Lalloul",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sigillato-nuovo-tenuto in modo maniacale",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1772699775.6475737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "mercatinodellecarte",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed! Altre disponibili",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1772440441.337737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "PinkBunnyDJ",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed. perfect condition",
+      "date": 1785497680.8103154,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          1775886868.3718193
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785497680.8103154
+        ]
+      ],
+      "first_date": 1772440441.337737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Torereau",
         "country": "Item location: France"
       },
       "language": "French",
       "price": 180.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "neuf parfait état",
       "date": 1785497680.8103154,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -19051,37 +19113,13 @@
         [
           0,
           1785023529.1890194
+        ],
+        [
+          1,
+          1785497680.8103154
         ]
       ],
       "first_date": 1777546397.965448,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Lalloul",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sigillato-nuovo-tenuto in modo maniacale",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772699775.6475737,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -21534,7 +21572,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et Scellé - FR / Envoi très rapide",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21863,7 +21901,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21900,6 +21938,34 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "TCG-Marv97",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 185.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP & Sealed",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785840608.5335233,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "pokedust",
         "country": "Item location: Italy"
       },
@@ -21908,7 +21974,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21936,7 +22002,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21964,7 +22030,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Scellage parfait - RMP Possible sur Lille",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21993,34 +22059,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "Mthiel7",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 185.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785198769.4615757,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "CartoGia23",
         "country": "Item location: Italy"
       },
@@ -22029,7 +22067,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22057,7 +22095,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22085,7 +22123,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22131,7 +22169,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "14 case sealed. per info scrivetemi!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22159,7 +22197,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sigillato e in perfette condizioni. spedizione entro 24h",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22187,7 +22225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé. photo possible.",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22213,6 +22251,72 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Mthiel7",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 185.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785198769.4615757,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "xSkylandx",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 185.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Befindet sich in einer Plastik Case und ist somit besser geschützt",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785571867.4588935,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23382,8 +23486,8 @@
       "price": 187.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785497680.8103154,
+      "comment": "",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23400,7 +23504,7 @@
       "first_date": 1785023529.1890194,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23565,14 +23669,19 @@
       },
       "language": "French",
       "price": 188.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785497680.8103154,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785497680.8103154
+        ]
+      ],
       "first_date": 1785198769.4615757,
       "last_date": 0.0,
       "price_is_new": false,
@@ -23852,7 +23961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23907,8 +24016,8 @@
       "price": 189.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed / Scellé - Légers défauts d usinage sur le scellage",
-      "date": 1785497680.8103154,
+      "comment": "Sealed / Scellé - Légers défauts d usinage sur le scellage",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23954,7 +24063,7 @@
       "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -23974,7 +24083,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24002,12 +24111,92 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf et sans défaut de scellage",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1776098271.7116976,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Suchtgurke",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 189.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Keine Risse. Keine Schäden",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          165.0,
+          1776288314.6979468
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776288314.6979468
+        ]
+      ],
+      "first_date": 1775457052.1386952,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Shvan96",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 189.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Top Zustand",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          179.0,
+          1775201193.4127495
+        ],
+        [
+          190.9,
+          1785571867.4588935
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775201193.4127495
+        ]
+      ],
+      "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -24030,7 +24219,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24063,7 +24252,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NUOVO SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24523,7 +24712,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed OVP - Spedizione in 24/48h",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24568,7 +24757,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More items in stock / OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24790,8 +24979,8 @@
       "price": 189.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785497680.8103154,
+      "comment": "",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24829,7 +25018,7 @@
       "first_date": 1772440441.337737,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -24849,7 +25038,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf scellé en français",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -24907,7 +25096,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25297,40 +25486,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Free shipping for order above 99 euro (only tracked)",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1773695349.6626632,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Lhurian",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 189.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1772537265.7490933,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -25353,7 +25514,7 @@
       "quantity": 14,
       "condition": "NM",
       "comment": "PRO - Scelle - Neuf - Case Scelee dispo sur demande!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25381,7 +25542,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25414,7 +25575,7 @@
       "quantity": 0,
       "condition": "NM",
       "comment": "Neu + verschweißt",
-      "date": 1785371929.9421754,
+      "date": 1785739901.6186397,
       "ended": true,
       "new": true,
       "previous_prices": [],
@@ -25422,12 +25583,53 @@
         [
           1,
           1785371929.9421754
+        ],
+        [
+          0,
+          1785371929.9421754
+        ],
+        [
+          1,
+          1785739901.6186397
         ]
       ],
       "first_date": 1785371929.9421754,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Lhurian",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 189.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785497680.8103154,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785497680.8103154
+        ]
+      ],
+      "first_date": 1772537265.7490933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -26000,7 +26202,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "FR / NEW / SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26078,7 +26280,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "store in Ponte di legno (BS)",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26106,7 +26308,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26143,7 +26345,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26170,8 +26372,8 @@
       "price": 190.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "SEALED! Secure Shipping",
-      "date": 1785497680.8103154,
+      "comment": "RELISTED! SEALED! Secure Shipping",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26179,12 +26381,20 @@
         [
           2,
           1785371929.9421754
+        ],
+        [
+          1,
+          1785571867.4588935
+        ],
+        [
+          0,
+          1785571867.4588935
         ]
       ],
       "first_date": 1785371929.9421754,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -26204,7 +26414,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26243,10 +26453,10 @@
       },
       "language": "German",
       "price": 190.0,
-      "quantity": 4,
+      "quantity": 3,
       "condition": "NM",
       "comment": "Folie in für Produkt typischen Zustand (kleine Produktionslöcher. teilweise locker)",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26271,12 +26481,16 @@
         [
           0,
           1780099522.9524462
+        ],
+        [
+          4,
+          1785739901.6186397
         ]
       ],
       "first_date": 1772748077.6348743,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -26296,7 +26510,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26324,53 +26538,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778483547.0132551,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Kamilosanto1991",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP * Sealed",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          200.0,
-          1783564364.517234
-        ],
-        [
-          199.95,
-          1784215848.2974536
-        ],
-        [
-          195.0,
-          1784482211.0212312
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783564364.517234,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -26393,7 +26566,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26430,7 +26603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf/Scellage parfait / Envoi rapide",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26458,7 +26631,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi rapide et soigné",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -26486,7 +26659,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf sous blister",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -26528,57 +26701,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Imperfektionen möglich. Bilder auf Anfrage",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784319325.7632246,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "pljara",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 190.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1779635157.3160863
-        ],
-        [
-          0,
-          1779635157.3160863
-        ],
-        [
-          1,
-          1782225845.9495018
-        ],
-        [
-          0,
-          1782225845.9495018
-        ]
-      ],
-      "first_date": 1779325342.040226,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -26601,12 +26729,107 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778397383.367241,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Kamilosanto1991",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 190.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP * Sealed",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          200.0,
+          1783564364.517234
+        ],
+        [
+          199.95,
+          1784215848.2974536
+        ],
+        [
+          195.0,
+          1784482211.0212312
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1783564364.517234,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "pljara",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 190.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1779635157.3160863
+        ],
+        [
+          0,
+          1779635157.3160863
+        ],
+        [
+          1,
+          1782225845.9495018
+        ],
+        [
+          0,
+          1782225845.9495018
+        ],
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1779325342.040226,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -27876,56 +28099,23 @@
       },
       "language": "German",
       "price": 190.88,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
+      "date": 1785571867.4588935,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
       "first_date": 1785371929.9421754,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Shvan96",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 190.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! Top Zustand",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          179.0,
-          1775201193.4127495
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775201193.4127495
-        ]
-      ],
-      "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -27945,7 +28135,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé neuf",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28072,7 +28262,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28180,6 +28370,48 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Mxrrcel",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 194.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP - Top Zustand",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          170.0,
+          1777797488.7463286
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777797488.7463286
+        ],
+        [
+          0,
+          1777797488.7463286
+        ]
+      ],
+      "first_date": 1776098271.7116976,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "mYiScooTer",
         "country": "Item location: Switzerland"
       },
@@ -28188,7 +28420,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28516,7 +28748,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEU OVP (Folie nicht Glatt)",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28566,12 +28798,49 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775201193.4127495,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Koenni1902",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 194.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "OVP mit leichten Lagerspuren möglich",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784773790.5810778
+        ],
+        [
+          0,
+          1784773790.5810778
+        ]
+      ],
+      "first_date": 1784482211.0212312,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -28594,7 +28863,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Frais de livraison offert sur le site directement => TCG-Shop76 / petit troue dans le Scéllage",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28666,39 +28935,6 @@
         ]
       ],
       "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Koenni1902",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 194.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784773790.5810778,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1784773790.5810778
-        ]
-      ],
-      "first_date": 1784482211.0212312,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -28893,7 +29129,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28921,7 +29157,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28949,7 +29185,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28982,7 +29218,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/ sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29015,7 +29251,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED. small cuts on foil / DM for more pictures",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29043,7 +29279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29071,7 +29307,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed perfetto",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29101,7 +29337,7 @@
       "comment": "",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           170.0,
@@ -29133,7 +29369,7 @@
       "first_date": 1781362081.3226404,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -29762,8 +29998,8 @@
       "price": 195.49,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! OVP Sealed",
-      "date": 1785497680.8103154,
+      "comment": "OVP Sealed",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -29784,7 +30020,7 @@
       "first_date": 1775115397.0415633,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30025,7 +30261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Straight Sealed & Safe Transport",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30104,7 +30340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Wellige Folie auf Rückseite",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30237,7 +30473,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30404,7 +30640,7 @@
       "comment": "",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           215.0,
@@ -30428,7 +30664,7 @@
       "first_date": 1783427303.417774,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30506,23 +30742,27 @@
       },
       "language": "German",
       "price": 198.49,
-      "quantity": 0,
+      "quantity": 5,
       "condition": "NM",
       "comment": "OVP sealed - BESTELLUNG = GRATIS BOOSTER UND MEHR",
-      "date": 1785371929.9421754,
-      "ended": true,
-      "new": true,
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           5,
+          1785371929.9421754
+        ],
+        [
+          0,
           1785371929.9421754
         ]
       ],
       "first_date": 1775201193.4127495,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -5,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30542,7 +30782,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Limite ORDINE di 1 articolo (acquistare singolarmente",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30603,6 +30843,34 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Tauroscards",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 198.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785840608.5335233,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Pure-TCG-Bern",
         "country": "Item location: Switzerland"
       },
@@ -30639,7 +30907,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30664,6 +30932,43 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Not-So-Stupid",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 199.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Sealed carefully packaged / Scellé & emballage soigné",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784773790.5810778
+        ],
+        [
+          0,
+          1784773790.5810778
+        ]
+      ],
+      "first_date": 1782637969.3322341,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Pokemonversand",
         "country": "Item location: Austria"
       },
@@ -30672,7 +30977,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed / schneller und sicherer Versand",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30770,7 +31075,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30816,7 +31121,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30853,7 +31158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30890,7 +31195,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30918,7 +31223,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30956,7 +31261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellage parfait + protection souple",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30984,7 +31289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31026,7 +31331,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31063,45 +31368,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785371929.9421754,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Not-So-Stupid",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 199.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed carefully packaged / Scellé & emballage soigné",
-      "date": 1784773790.5810778,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1784773790.5810778
-        ]
-      ],
-      "first_date": 1782637969.3322341,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -31532,7 +31804,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31594,10 +31866,10 @@
       },
       "language": "French",
       "price": 199.9,
-      "quantity": 4,
+      "quantity": 3,
       "condition": "NM",
       "comment": "Envoi rapide et sécurisé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31609,36 +31881,12 @@
         [
           2,
           1784773790.5810778
+        ],
+        [
+          4,
+          1785497680.8103154
         ]
       ],
-      "first_date": 1775457052.1386952,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Kartendealer",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 199.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed. leichte Beschädigung der Folie möglich",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
       "first_date": 1775457052.1386952,
       "last_date": 0.0,
       "price_is_new": false,
@@ -31662,7 +31910,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31699,9 +31947,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785497680.8103154,
@@ -31727,7 +31975,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31755,7 +32003,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31783,12 +32031,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1775674513.8360887,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Kartendealer",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 199.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed. leichte Beschädigung der Folie möglich",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1775457052.1386952,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -31976,7 +32257,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP / Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32004,7 +32285,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Daily Shipping / SEALD / NEW",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32032,7 +32313,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP | Sealed | Bilder auf Anfrage",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32071,7 +32352,7 @@
       "comment": "Son Productos Originales y Precintados me Preocupo desde el Embalaja Hasta el Ultimo Detalle",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -32090,7 +32371,7 @@
       "first_date": 1775674513.8360887,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -32319,7 +32600,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP! Sealed! Ready to ship!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32352,7 +32633,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32380,7 +32661,7 @@
       "quantity": 13,
       "condition": "NM",
       "comment": "NEU / SEALED @mwst dg",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32457,12 +32738,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Lagerplatz SD0 #MWST",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1781721982.2092679,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Sensei-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -32485,7 +32794,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "inkl. 19% MwSt. | sealed NEU & OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32514,6 +32823,43 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Mikis-card-shop",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neu&Ovp Sealed Verpackung kann leichte Lager- oder Gebrauchsspuren aufweisen",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784062959.0948803
+        ],
+        [
+          0,
+          1784062959.0948803
+        ]
+      ],
+      "first_date": 1775674513.8360887,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "PaulNiete",
         "country": "Item location: Germany"
       },
@@ -32522,7 +32868,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32550,7 +32896,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32591,7 +32937,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Die Folie sitzt nicht mehr ganz straff. perfekt zum offnen!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32619,7 +32965,7 @@
       "quantity": 26,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32661,7 +33007,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu & Sealed | Box in perfektem Zustand | sofort lieferbar",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32729,39 +33075,6 @@
         [
           2,
           1784319325.7632246
-        ]
-      ],
-      "first_date": 1775674513.8360887,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Mikis-card-shop",
-        "country": "Item location: Austria"
-      },
-      "language": "German",
-      "price": 199.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Neu&Ovp Sealed Verpackung kann leichte Lager- oder Gebrauchsspuren aufweisen",
-      "date": 1784062959.0948803,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784062959.0948803
         ]
       ],
       "first_date": 1775674513.8360887,
@@ -33163,7 +33476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33205,7 +33518,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP (Herstellungsschäden möglich) ! inkl. Mehrwertsteuer",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33238,7 +33551,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New. Sealed. Spanish",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33288,72 +33601,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "K-Master89",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          176.02,
-          1773695349.6626632
-        ],
-        [
-          179.33,
-          1777388015.843124
-        ],
-        [
-          187.58,
-          1779807439.165799
-        ],
-        [
-          189.98,
-          1780992455.8545885
-        ],
-        [
-          203.09,
-          1781438937.5150015
-        ],
-        [
-          191.66,
-          1783564364.517234
-        ],
-        [
-          194.0,
-          1783863613.6210134
-        ],
-        [
-          193.98,
-          1784319325.7632246
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1780992455.8545885
-        ]
-      ],
-      "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "Justdim",
         "country": "Item location: France"
       },
@@ -33362,7 +33609,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33391,34 +33638,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "Nuramon95",
-        "country": "Item location: Switzerland"
-      },
-      "language": "German",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "OVP",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1777275337.4645143,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "GinvadeTradingCards",
         "country": "Item location: Germany"
       },
@@ -33427,7 +33646,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "19% VAT incl.",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33484,7 +33703,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33512,7 +33731,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed / Daily Shipping",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33540,7 +33759,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEW / OVP / SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33568,12 +33787,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777388015.843124,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "JoeLazarus",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785571867.4588935,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -33596,7 +33843,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Vienna based",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33624,7 +33871,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33652,7 +33899,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33697,7 +33944,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33734,7 +33981,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed fast secure shipping  check for more",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33762,7 +34009,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf scellé envoi rapide et soigné film distendu",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33790,7 +34037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33810,20 +34057,20 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "ReStRa6",
-        "country": "Item location: Italy"
+        "name": "Einfachberry",
+        "country": "Item location: Germany"
       },
-      "language": "Italian",
+      "language": "German",
       "price": 200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
+      "comment": "OVP",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1777477367.7155788,
+      "first_date": 1785571867.4588935,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -33846,7 +34093,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33874,7 +34121,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33882,6 +34129,48 @@
       "first_date": 1777388015.843124,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Ale-iw",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Scellé photo mp",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          190.0,
+          1775886868.3718193
+        ],
+        [
+          180.0,
+          1785739901.6186397
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775886868.3718193
+        ]
+      ],
+      "first_date": 1774125213.077163,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -33902,7 +34191,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33930,7 +34219,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Disponibile su Milano / Lodi",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33967,7 +34256,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP-ask for photos",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33995,7 +34284,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellé. produit officiel acheté chez King Jouet",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34023,7 +34312,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34051,7 +34340,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34088,7 +34377,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34125,7 +34414,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED + schneller Versand oder Abholung Wien",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34153,7 +34442,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Parfaitement scellé. photos sur demande",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34181,7 +34470,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34218,7 +34507,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34246,7 +34535,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34279,7 +34568,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nuovo è perfettamente sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34307,7 +34596,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34335,7 +34624,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34363,7 +34652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu/OVP/Sealed/Versand am bestellten Tag/Bilder auf Anfrage 13.99",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34391,7 +34680,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34419,12 +34708,148 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Parfaitement scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777797488.7463286,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "ReStRa6",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1777477367.7155788,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "K-Master89",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          176.02,
+          1773695349.6626632
+        ],
+        [
+          179.33,
+          1777388015.843124
+        ],
+        [
+          187.58,
+          1779807439.165799
+        ],
+        [
+          189.98,
+          1780992455.8545885
+        ],
+        [
+          203.09,
+          1781438937.5150015
+        ],
+        [
+          191.66,
+          1783564364.517234
+        ],
+        [
+          194.0,
+          1783863613.6210134
+        ],
+        [
+          193.98,
+          1784319325.7632246
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1780992455.8545885
+        ],
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1772440441.337737,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Nuramon95",
+        "country": "Item location: Switzerland"
+      },
+      "language": "German",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1777275337.4645143,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -34449,7 +34874,7 @@
       "comment": "200",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -34460,7 +34885,7 @@
       "first_date": 1783159807.8751824,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -35243,7 +35668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "neuf sous blister",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35429,6 +35854,34 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "BonusEdition",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 205.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785571867.4588935,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Elclapto",
         "country": "Item location: Germany"
       },
@@ -35437,7 +35890,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/ Bilder auf anfrage",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35805,7 +36258,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé + Envoi rapide + Bonus",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35833,7 +36286,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Perfettamente sealed. ritiro a mano su Torino possibile. scrivimi al 3299887055 per info",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35861,7 +36314,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pro. Fast shipping. Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35894,7 +36347,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35956,48 +36409,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "PokeLukasSwiss",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 209.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1778618417.0271757,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          197.99,
-          1776904191.555332
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776904191.555332
-        ],
-        [
-          1,
-          1778618417.0271757
-        ]
-      ],
-      "first_date": 1776713957.121917,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "Vinticards",
         "country": "Item location: Belgium"
       },
@@ -36006,7 +36417,7 @@
       "quantity": 19,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36067,7 +36478,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP! Sealed! Ready to ship!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36095,7 +36506,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "shop online",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36115,6 +36526,56 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "PokeLukasSwiss",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 209.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          197.99,
+          1776904191.555332
+        ],
+        [
+          209.9,
+          1778618417.0271757
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776904191.555332
+        ],
+        [
+          1,
+          1778618417.0271757
+        ],
+        [
+          0,
+          1778618417.0271757
+        ]
+      ],
+      "first_date": 1776713957.121917,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "collectorstore",
         "country": "Item location: Austria"
       },
@@ -36123,7 +36584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36160,6 +36621,39 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Eldede",
+        "country": "Item location: Portugal"
+      },
+      "language": "English",
+      "price": 209.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "DAMAGED - Check photo before buying / Fast Shipping",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          219.99,
+          1785571867.4588935
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785571867.4588935,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "NerdOase",
         "country": "Item location: Germany"
       },
@@ -36168,7 +36662,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36316,11 +36810,48 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1777933397.8770857,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Cards4U",
+        "country": "Item location: Switzerland"
+      },
+      "language": "German",
+      "price": 210.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1784482211.0212312
+        ],
+        [
+          0,
+          1784482211.0212312
+        ]
+      ],
       "first_date": 1777933397.8770857,
       "last_date": 0.0,
       "price_is_new": false,
@@ -36344,40 +36875,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NUOVO SIGILLATO PERFETTO! / NEW OVP FACTORY SEALED!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1778618417.0271757,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Mcentral-14",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 210.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785371929.9421754,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -36400,7 +36903,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. fast & safe shipping. can meet in Paris",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36428,7 +36931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "scellage nickel. envoi tres bien protégé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36456,7 +36959,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36493,7 +36996,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf scellé envoi rapide",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36521,12 +37024,40 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777970943.3012772,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Tokkie91",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 210.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Little damage on box and seal",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -36549,7 +37080,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed + Acryl Case + keine Beschädigungen",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36577,7 +37108,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36605,7 +37136,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf scéllé envoie le lendemain matin",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36633,7 +37164,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf. parfaitement scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36661,7 +37192,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New and sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36689,12 +37220,129 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Brand new mint condition no tears or scratches",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782549787.972828,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Mcentral-14",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 210.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785371929.9421754,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Blessingacek",
+        "country": "Item location: Czech Republic"
+      },
+      "language": "English",
+      "price": 210.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          220.0,
+          1785571867.4588935
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785571867.4588935,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Phantombreaker",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 210.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Little cut in seal",
+      "date": 1785571867.4588935,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          230.0,
+          1785023529.1890194
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785023529.1890194
+        ],
+        [
+          0,
+          1785023529.1890194
+        ],
+        [
+          1,
+          1785571867.4588935
+        ]
+      ],
+      "first_date": 1784682178.5898755,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -36719,7 +37367,7 @@
       "comment": "Sealed",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -36728,39 +37376,6 @@
         ]
       ],
       "first_date": 1785198769.4615757,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Cards4U",
-        "country": "Item location: Switzerland"
-      },
-      "language": "German",
-      "price": 210.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784482211.0212312,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1784482211.0212312
-        ]
-      ],
-      "first_date": 1777933397.8770857,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -37578,7 +38193,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp Schneller Versand",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -37985,56 +38600,6 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "Sapphire-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 214.98,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "OVP - SEALED",
-      "date": 1784482211.0212312,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          194.98,
-          1778910539.2983146
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1778910539.2983146
-        ],
-        [
-          0,
-          1778910539.2983146
-        ],
-        [
-          2,
-          1783329197.484178
-        ],
-        [
-          1,
-          1784482211.0212312
-        ]
-      ],
-      "first_date": 1777477367.7155788,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
         "name": "pokedistrib",
         "country": "Item location: France"
       },
@@ -38043,7 +38608,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi 24h",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -38071,7 +38636,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -38099,7 +38664,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -38125,6 +38690,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "SEEKNBUY",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 215.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785739901.6186397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -38425,12 +39023,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 216.61,
-      "quantity": 1,
+      "price": 216.8,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed.",
-      "date": 1785497680.8103154,
-      "ended": false,
+      "date": 1785571867.4588935,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -38588,17 +39186,25 @@
         [
           216.38,
           1785371929.9421754
+        ],
+        [
+          216.61,
+          1785497680.8103154
         ]
       ],
       "previous_quantities": [
         [
           2,
           1783938876.6962724
+        ],
+        [
+          1,
+          1785571867.4588935
         ]
       ],
       "first_date": 1777970943.3012772,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -38879,7 +39485,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP sealed - Ask for pictures",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39055,7 +39661,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39067,7 +39673,65 @@
       "previous_quantities": [],
       "first_date": 1783938876.6962724,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "that-sells",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 219.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NEU - OVP - SEALED - VERFÜGBAR",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          189.0,
+          1774563275.0156846
+        ],
+        [
+          199.0,
+          1780992455.8545885
+        ],
+        [
+          209.0,
+          1785371929.9421754
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776971528.3367546
+        ],
+        [
+          2,
+          1780992455.8545885
+        ],
+        [
+          0,
+          1780992455.8545885
+        ],
+        [
+          2,
+          1785371929.9421754
+        ]
+      ],
+      "first_date": 1772440441.337737,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -39085,11 +39749,11 @@
       },
       "language": "French",
       "price": 219.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! OVP - Sealed",
-      "date": 1785497680.8103154,
-      "ended": false,
+      "comment": "OVP - Sealed",
+      "date": 1785571867.4588935,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -39177,70 +39841,16 @@
         [
           0,
           1784773790.5810778
+        ],
+        [
+          2,
+          1785571867.4588935
         ]
       ],
       "first_date": 1775201193.4127495,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "that-sells",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 219.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "NEU - OVP - SEALED - VERFÜGBAR",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          189.0,
-          1774563275.0156846
-        ],
-        [
-          199.0,
-          1780992455.8545885
-        ],
-        [
-          209.0,
-          1785371929.9421754
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776971528.3367546
-        ],
-        [
-          2,
-          1780992455.8545885
-        ],
-        [
-          0,
-          1780992455.8545885
-        ],
-        [
-          2,
-          1785371929.9421754
-        ]
-      ],
-      "first_date": 1772440441.337737,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -39443,7 +40053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -39471,8 +40081,66 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          194.98,
+          1778910539.2983146
+        ],
+        [
+          214.98,
+          1784482211.0212312
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1778910539.2983146
+        ],
+        [
+          0,
+          1778910539.2983146
+        ],
+        [
+          2,
+          1783329197.484178
+        ],
+        [
+          1,
+          1784482211.0212312
+        ],
+        [
+          0,
+          1784482211.0212312
+        ]
+      ],
+      "first_date": 1777477367.7155788,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Sapphire-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 219.77,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "OVP - SEALED",
+      "date": 1785497680.8103154,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -39528,12 +40196,16 @@
         [
           1,
           1785371929.9421754
+        ],
+        [
+          2,
+          1785497680.8103154
         ]
       ],
       "first_date": 1772440441.337737,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -39553,7 +40225,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -39581,7 +40253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu/OVP Sealed / inkl. 19% USt",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39623,7 +40295,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39731,7 +40403,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed. safe shipping",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -39792,7 +40464,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -39930,6 +40602,56 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "K0lakss",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 219.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Neuf scellé. envoi rapide soigné !",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          215.0,
+          1781619543.1810765
+        ],
+        [
+          219.99,
+          1784773790.5810778
+        ],
+        [
+          229.99,
+          1785497680.8103154
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781619543.1810765
+        ],
+        [
+          0,
+          1781619543.1810765
+        ]
+      ],
+      "first_date": 1780992455.8545885,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "rvdzivlv",
         "country": "Item location: Poland"
       },
@@ -39937,16 +40659,25 @@
       "price": 219.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785497680.8103154,
+      "comment": "RELISTED! ",
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785571867.4588935
+        ],
+        [
+          0,
+          1785571867.4588935
+        ]
+      ],
       "first_date": 1785497680.8103154,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -40237,7 +40968,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NUOVO SIGILLATO PERFETTO! / NEW OVP FACTORY SEALED!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40265,7 +40996,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -40307,7 +41038,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -40357,6 +41088,34 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "Mandylein88",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 220.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP sealed",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Onyx77",
         "country": "Item location: Switzerland"
       },
@@ -40365,7 +41124,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40402,7 +41161,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed - keine Risse in der Folie",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -40440,6 +41199,52 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "machrelem85",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 220.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          190.0,
+          1776388423.0222445
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776388423.0222445
+        ],
+        [
+          1,
+          1784773790.5810778
+        ],
+        [
+          0,
+          1784773790.5810778
+        ]
+      ],
+      "first_date": 1773309953.323806,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "Darklord2026",
         "country": "Item location: Germany"
       },
@@ -40448,7 +41253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Mit Acryl case",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40476,7 +41281,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40504,7 +41309,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "perfettamente sigillata",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40532,7 +41337,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Versand mit DHL",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40569,7 +41374,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40606,7 +41411,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Español Latino!!! REMBOLSO DIFERENCIA DE ENVIO | Perfect. Sealed. Fast Shipping",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40634,7 +41439,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "UPC / Scellage parfait / sous papier bulle / envoie rapide / photo sur demande",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40662,9 +41467,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785497680.8103154,
@@ -40690,7 +41495,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "New / Sealed / OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -40723,7 +41528,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neu OVP sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -40743,37 +41548,61 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
-        "name": "machrelem85",
-        "country": "Item location: Austria"
+        "name": "CardsGamesAndMore",
+        "country": "Item location: Germany"
       },
-      "language": "German",
+      "language": "English",
       "price": 220.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1784773790.5810778,
+      "comment": "Neu. OVP. little hole in seal",
+      "date": 1785739901.6186397,
       "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          190.0,
-          1776388423.0222445
-        ]
-      ],
+      "new": true,
+      "previous_prices": [],
       "previous_quantities": [
         [
-          0,
-          1776388423.0222445
-        ],
-        [
           1,
-          1784773790.5810778
+          1785739901.6186397
         ]
       ],
-      "first_date": 1773309953.323806,
+      "first_date": 1785739901.6186397,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "Jason333",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 220.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "other collection boxes available",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785739901.6186397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -41639,6 +42468,39 @@
       "card": "Mega Charizard X ex Ultra-Premium Collection",
       "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
       "seller": {
+        "name": "asterisguy",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 224.98,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785739901.6186397,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739901.6186397
+        ]
+      ],
+      "first_date": 1785739901.6186397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
         "name": "DiPipero",
         "country": "Item location: Poland"
       },
@@ -41713,7 +42575,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP/SEALED - Abholung möglich!",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -41767,7 +42629,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Small cut. Costco sticker on the back",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -41779,7 +42641,7 @@
       "previous_quantities": [],
       "first_date": 1785023529.1890194,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -41800,7 +42662,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -41927,7 +42789,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -41954,8 +42816,8 @@
       "price": 225.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed",
-      "date": 1785497680.8103154,
+      "comment": "Sealed",
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -41985,7 +42847,35 @@
       "first_date": 1778618417.0271757,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "KeningWillem",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 225.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -42005,12 +42895,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1777970943.3012772,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "SaitamaPunch87",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 225.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Great seal",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785739901.6186397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -42033,12 +42951,49 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783159807.8751824,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex Ultra-Premium Collection",
+      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
+      "seller": {
+        "name": "chrisitol93",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 225.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785840608.5335233,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785198769.4615757
+        ],
+        [
+          0,
+          1785198769.4615757
+        ]
+      ],
+      "first_date": 1785198769.4615757,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -42061,7 +43016,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Litte damage around ask for pics",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -42117,7 +43072,7 @@
       "comment": "",
       "date": 1785371929.9421754,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -42126,39 +43081,6 @@
         ]
       ],
       "first_date": 1785371929.9421754,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "chrisitol93",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 225.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785198769.4615757,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785198769.4615757
-        ]
-      ],
-      "first_date": 1785198769.4615757,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -42652,18 +43574,31 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 225.63,
+      "price": 225.29,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
+      "new": false,
+      "previous_prices": [
+        [
+          225.63,
+          1785497680.8103154
+        ],
+        [
+          225.83,
+          1785571867.4588935
+        ],
+        [
+          225.7,
+          1785739901.6186397
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1785497680.8103154,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -42684,7 +43619,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed OVP",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -42746,7 +43681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -42845,11 +43780,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 228.64,
+      "price": 228.29,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -42876,6 +43811,18 @@
         [
           228.4,
           1785371929.9421754
+        ],
+        [
+          228.64,
+          1785497680.8103154
+        ],
+        [
+          228.84,
+          1785571867.4588935
+        ],
+        [
+          228.71,
+          1785739901.6186397
         ]
       ],
       "previous_quantities": [
@@ -43163,7 +44110,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Neuf sous blister envoi rapide",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -43191,7 +44138,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -43219,7 +44166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed.",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -43335,7 +44282,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "New | sealed | fast shipping",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -43498,58 +44445,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782324518.3317811,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "K0lakss",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 229.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Neuf scellé. envoi rapide soigné !",
-      "date": 1785497680.8103154,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          215.0,
-          1781619543.1810765
-        ],
-        [
-          219.99,
-          1784773790.5810778
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781619543.1810765
-        ],
-        [
-          0,
-          1781619543.1810765
-        ]
-      ],
-      "first_date": 1780992455.8545885,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -43572,7 +44473,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed | Täglicher Versand",
-      "date": 1785497680.8103154,
+      "date": 1785840608.5335233,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -44295,39 +45196,6 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785198769.4615757,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex Ultra-Premium Collection",
-      "canonical_name": "Pokemon_Products_Box-Sets_Mega-Charizard-X-ex-Ultra-Premium-Collection",
-      "seller": {
-        "name": "Phantombreaker",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 230.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785023529.1890194,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785023529.1890194
-        ]
-      ],
-      "first_date": 1784682178.5898755,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,

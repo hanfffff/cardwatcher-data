@@ -10,10 +10,10 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 69,
-  "available_graded": 10,
-  "sold": 0,
-  "inserted": 0,
+  "available": 68,
+  "available_graded": 13,
+  "sold": 3,
+  "inserted": 5,
   "listings": [
     {
       "card": "Yamato (OP01-121) (V.2)",
@@ -2297,9 +2297,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sleeve Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785428477.3176785,
@@ -2479,7 +2479,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "from booster to sleeve to Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2859,11 +2859,20 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "couple small dots on the back",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785428477.3176785
+        ],
+        [
+          0,
+          1785428477.3176785
+        ]
+      ],
       "first_date": 1784738957.7160761,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2963,6 +2972,34 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1770289656.174461,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
+        "name": "Lucabarac26",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 29.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785816328.8281372,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3260,7 +3297,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3288,7 +3325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3330,7 +3367,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3367,7 +3404,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Sleeve e Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3404,7 +3441,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4217,7 +4254,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ex +",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4631,7 +4668,7 @@
       "quantity": 6,
       "condition": "EX",
       "comment": "Streng Gegradet EX oder NM! | BOX: JP-1",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4736,11 +4773,11 @@
       },
       "language": "Japanese",
       "price": 34.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pic / fast ship / sleeve + top loader",
-      "date": 1785428477.3176785,
-      "ended": false,
+      "date": 1785547486.219454,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4748,7 +4785,12 @@
           1785080963.511408
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785547486.219454
+        ]
+      ],
       "first_date": 1784829891.0886781,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5104,18 +5146,23 @@
       },
       "language": "Japanese",
       "price": 34.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
-      "ended": false,
+      "date": 1785716176.0422697,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785716176.0422697
+        ]
+      ],
       "first_date": 1785428477.3176785,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5259,23 +5306,28 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
-        "name": "FFeenaCards",
-        "country": "Item location: Germany"
+        "name": "Grabuge",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 35.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Sleeve + Toploader",
-      "date": 1785428477.3176785,
-      "ended": false,
-      "new": false,
+      "comment": "",
+      "date": 1785716176.0422697,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785257643.6843178,
+      "previous_quantities": [
+        [
+          1,
+          1785716176.0422697
+        ]
+      ],
+      "first_date": 1785428477.3176785,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5287,20 +5339,25 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
-        "name": "Grabuge",
-        "country": "Item location: France"
+        "name": "FFeenaCards",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 35.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
+      "comment": "Sleeve + Toploader",
       "date": 1785428477.3176785,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785428477.3176785,
+      "previous_quantities": [
+        [
+          1,
+          1785428477.3176785
+        ]
+      ],
+      "first_date": 1785257643.6843178,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5797,6 +5854,34 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "TacticsTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 35.65,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "small scratch on front / Strict Grading / Fast Shipping / DM me for anything",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785816328.8281372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "TCGRealm",
         "country": "Item location: United Kingdom"
       },
@@ -5964,11 +6049,11 @@
       },
       "language": "Japanese",
       "price": 35.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "[Binder] More Cards on Stock!",
-      "date": 1785428477.3176785,
-      "ended": false,
+      "date": 1785547486.219454,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5979,6 +6064,10 @@
         [
           0,
           1784603983.402232
+        ],
+        [
+          1,
+          1785547486.219454
         ]
       ],
       "first_date": 1784449240.4322617,
@@ -6024,6 +6113,34 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "SarahlovesTrasla",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 37.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "<- MORE SICK OP CARDS",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785816328.8281372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "Jackie92",
         "country": "Item location: Austria"
       },
@@ -6032,7 +6149,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6131,7 +6248,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "2 white dots",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6185,6 +6302,62 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "TacticsTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 37.85,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "micro scratches on front / Strict Grading / Fast Shipping / DM me for anything",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785816328.8281372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
+        "name": "TacticsTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 37.85,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Strict Grading / Fast Shipping / DM me for anything",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785816328.8281372,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "PokemaniaSwiss",
         "country": "Item location: Switzerland"
       },
@@ -6213,6 +6386,34 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "artofthecards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 38.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785716176.0422697,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "elporoMTG",
         "country": "Item location: Spain"
       },
@@ -6221,7 +6422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect conditions and protected",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6249,7 +6450,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6286,7 +6487,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6328,7 +6529,7 @@
       "first_date": 1780846424.7408612,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6378,12 +6579,12 @@
       },
       "language": "Japanese",
       "price": 39.9,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Booster to sleeve",
-      "date": 1785428477.3176785,
-      "ended": false,
-      "new": false,
+      "date": 1785716176.0422697,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           32.9,
@@ -6426,12 +6627,20 @@
         [
           2,
           1785080963.511408
+        ],
+        [
+          3,
+          1785547486.219454
+        ],
+        [
+          2,
+          1785716176.0422697
         ]
       ],
       "first_date": 1779518337.4333048,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6451,7 +6660,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6472,7 +6681,7 @@
       ],
       "first_date": 1782284378.8377378,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6493,7 +6702,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sleeve and Toploader//More Cards in Stock",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6531,7 +6740,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-9",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6605,7 +6814,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More Singles. Local Store Wuppertal",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6790,54 +6999,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster fresh - NM/ MINT",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783530176.2254386,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP01-121) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
-      "seller": {
-        "name": "SerCardsDE",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 40.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785428477.3176785,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          30.0,
-          1780496856.3923316
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780496856.3923316
-        ],
-        [
-          0,
-          1780496856.3923316
-        ]
-      ],
-      "first_date": 1779290985.6107397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6860,7 +7027,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graded 10",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6906,12 +7073,58 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve e Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782094961.4809144,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
+        "name": "SerCardsDE",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 40.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785428477.3176785,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          30.0,
+          1780496856.3923316
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780496856.3923316
+        ],
+        [
+          0,
+          1780496856.3923316
+        ],
+        [
+          1,
+          1785428477.3176785
+        ]
+      ],
+      "first_date": 1779290985.6107397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7102,7 +7315,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7183,34 +7396,6 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
-        "name": "onecardtcgstore",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 43.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785428477.3176785,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785080963.511408,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP01-121) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
-      "seller": {
         "name": "Kuldotha-Bazaar",
         "country": "Item location: Italy"
       },
@@ -7221,7 +7406,7 @@
       "comment": "",
       "date": 1785257643.6843178,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           27.0,
@@ -7253,7 +7438,7 @@
       "first_date": 1773063579.5605576,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7473,7 +7658,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7819,11 +8004,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 45.62,
+      "price": 45.66,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved & Top Loader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8150,6 +8335,14 @@
         [
           45.75,
           1785257643.6843178
+        ],
+        [
+          45.62,
+          1785428477.3176785
+        ],
+        [
+          45.77,
+          1785716176.0422697
         ]
       ],
       "previous_quantities": [
@@ -8440,7 +8633,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8465,7 +8658,7 @@
       ],
       "first_date": 1782284378.8377378,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8516,7 +8709,7 @@
       "comment": "O1",
       "date": 1785257643.6843178,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8535,7 +8728,7 @@
       "first_date": 1736841899.2730734,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8848,7 +9041,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-9",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8914,7 +9107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8976,7 +9169,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9009,7 +9202,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->Sleeve->Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9173,7 +9366,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Toploader - Fast Secured Shipping",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9280,11 +9473,11 @@
       },
       "language": "S-Chinese",
       "price": 60.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785080963.511408,
-      "ended": true,
+      "date": 1785816328.8281372,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -9306,6 +9499,10 @@
         ],
         [
           1,
+          1785080963.511408
+        ],
+        [
+          0,
           1785080963.511408
         ]
       ],
@@ -9517,7 +9714,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9606,7 +9803,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9946,7 +10143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "boosterfresh",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10278,7 +10475,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10965,6 +11162,39 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "onecardtcgstore",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 99.94,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          43.99,
+          1785428477.3176785
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785080963.511408,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "TolarianAcademy",
         "country": "Item location: Italy"
       },
@@ -10973,7 +11203,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[GRAAD 9.5]",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11093,11 +11323,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 Gem Mint",
-      "date": 1784738957.7160761,
-      "ended": true,
+      "date": 1785816328.8281372,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -11107,6 +11337,10 @@
         ],
         [
           1,
+          1784738957.7160761
+        ],
+        [
+          0,
           1784738957.7160761
         ]
       ],
@@ -11149,6 +11383,34 @@
         ]
       ],
       "first_date": 1727683306.6595557,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
+        "name": "MisiTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785547486.219454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11269,7 +11531,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11428,7 +11690,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Beckett 9.5 - 9.5/10/10/9.5",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11558,7 +11820,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Collect Aura (9.5)  Safe and fast delivery",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11939,7 +12201,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to plastic box",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12059,7 +12321,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nur versicherter Versand Booster --> Sleeve---> Toploader",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12104,7 +12366,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 Gem Mint ask for photo",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12322,7 +12584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12438,6 +12700,39 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "LawGartrafal",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          320.0,
+          1785547486.219454
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785428477.3176785,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "sinneDDennis",
         "country": "Item location: Germany"
       },
@@ -12471,6 +12766,34 @@
       "card": "Yamato (OP01-121) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
       "seller": {
+        "name": "NiZe-Juste",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 250.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 10 PRISTINE",
+      "date": 1785816328.8281372,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785716176.0422697,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP01-121) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
+      "seller": {
         "name": "DerALIL93",
         "country": "Item location: Germany"
       },
@@ -12479,7 +12802,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS Becket 10 Pristine",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12512,7 +12835,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12544,34 +12867,6 @@
         ]
       ],
       "first_date": 1736841899.2730734,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP01-121) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Romance-Dawn-Japanese_Yamato-OP01-121-V2",
-      "seller": {
-        "name": "LawGartrafal",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 320.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785428477.3176785,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785428477.3176785,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12627,7 +12922,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 / Lokal Store in Esslingen",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12673,7 +12968,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785428477.3176785,
+      "date": 1785816328.8281372,
       "ended": false,
       "new": false,
       "previous_prices": [],

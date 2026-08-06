@@ -13,10 +13,10 @@
     "Portuguese"
   ],
   "only_germany": false,
-  "available": 177,
-  "available_graded": 93,
-  "sold": 0,
-  "inserted": 0,
+  "available": 167,
+  "available_graded": 87,
+  "sold": 14,
+  "inserted": 5,
   "listings": [
     {
       "card": "Lugia V  (SIT 186)",
@@ -32,7 +32,7 @@
       "comment": "piega in alto a destra sul front",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           170.0,
@@ -52,7 +52,7 @@
       "first_date": 1781340064.600873,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -143,14 +143,19 @@
       },
       "language": "Italian",
       "price": 160.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "tanti articoli caricati",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611356.6672945
+        ]
+      ],
       "first_date": 1784746823.5005672,
       "last_date": 0.0,
       "price_is_new": false,
@@ -207,7 +212,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -301,7 +306,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -461,6 +466,68 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Yey069",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 195.0,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "Ask for pictures",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          240.0,
+          1783312206.3703582
+        ],
+        [
+          235.0,
+          1783411974.6612604
+        ],
+        [
+          228.0,
+          1783664054.755288
+        ],
+        [
+          220.0,
+          1784192499.4009876
+        ],
+        [
+          215.0,
+          1784295827.006635
+        ],
+        [
+          200.0,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784295827.006635
+        ],
+        [
+          0,
+          1784295827.006635
+        ]
+      ],
+      "first_date": 1783312206.3703582,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "giacomo-vintage",
         "country": "Item location: Italy"
       },
@@ -469,7 +536,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Poor/Creased | Ask for pics. many cards and reviews available on different platforms",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -506,7 +573,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "ALBUM",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -564,73 +631,20 @@
       },
       "language": "German",
       "price": 200.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "card will be delivered in sleeve and toploader",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783914386.5025814,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Yey069",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "LP",
-      "comment": "Ask for pictures",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          240.0,
-          1783312206.3703582
-        ],
-        [
-          235.0,
-          1783411974.6612604
-        ],
-        [
-          228.0,
-          1783664054.755288
-        ],
-        [
-          220.0,
-          1784192499.4009876
-        ],
-        [
-          215.0,
-          1784295827.006635
-        ]
-      ],
       "previous_quantities": [
         [
           1,
-          1784295827.006635
-        ],
-        [
-          0,
-          1784295827.006635
+          1785611356.6672945
         ]
       ],
-      "first_date": 1783312206.3703582,
+      "first_date": 1783914386.5025814,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -851,7 +865,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Piega nel Back | Ask for pics. many cards and reviews available on different platforms",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -896,7 +910,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "buy cards - store in Ponte di legno (BS)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -926,7 +940,7 @@
       "comment": "All cards shipped fast!",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -961,7 +975,7 @@
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -981,7 +995,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1124,7 +1138,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "good",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1145,7 +1159,7 @@
       ],
       "first_date": 1781340064.600873,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1166,7 +1180,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Nice for binder",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1199,7 +1213,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "DS26-142 // P4",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1234,7 +1248,7 @@
       "comment": "Wide Selection B2B possible",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1253,7 +1267,7 @@
       "first_date": 1782620085.489795,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1273,7 +1287,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1305,8 +1319,8 @@
       "price": 270.0,
       "quantity": 1,
       "condition": "PO",
-      "comment": "2 damaged spots on front. rest is fully NM",
-      "date": 1785437156.7736118,
+      "comment": "2 damaged spots on front",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1389,7 +1403,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1414,14 +1428,19 @@
       },
       "language": "German",
       "price": 279.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Front very Clean - Sicherer&Schneller Versand. TCG Händler aus Österreich",
       "date": 1785437156.7736118,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1785437156.7736118,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1442,14 +1461,19 @@
       },
       "language": "Italian",
       "price": 280.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "GOOD/LP grinza restaurata ma ben visibile",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611356.6672945
+        ]
+      ],
       "first_date": 1784746823.5005672,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1815,7 +1839,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A3-043. send in toploader",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1917,8 +1941,8 @@
       "price": 299.99,
       "quantity": 1,
       "condition": "PO",
-      "comment": "",
-      "date": 1785437156.7736118,
+      "comment": "RELISTED! ",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1930,12 +1954,20 @@
         [
           0,
           1784612183.7463727
+        ],
+        [
+          1,
+          1785611356.6672945
+        ],
+        [
+          0,
+          1785611356.6672945
         ]
       ],
       "first_date": 1784612183.7463727,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2054,9 +2086,9 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "59",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785437156.7736118,
@@ -2082,7 +2114,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2110,7 +2142,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2145,7 +2177,7 @@
       "comment": "Ask for pictures - Between good and light play. front on picture and back very clean overall",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -2156,7 +2188,7 @@
       "first_date": 1784612183.7463727,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2453,7 +2485,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "UG Blu",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2623,14 +2655,19 @@
       },
       "language": "German",
       "price": 320.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785437156.7736118,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1785437156.7736118,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2711,6 +2748,39 @@
       "archived": false,
       "grade_company": "AOG",
       "grade": 8.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Kartenlabyrinth",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 329.95,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Back exc (Kratzer) Front NM",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -2899,7 +2969,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A4-006. offcenter",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3139,19 +3209,66 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Cardsharks",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 349.94,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "POK DE1",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          429.5,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784746823.5005672
+        ],
+        [
+          0,
+          1784746823.5005672
+        ]
+      ],
+      "first_date": 1784746823.5005672,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "ibinho7",
         "country": "Item location: Germany"
       },
       "language": "German",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1785265573.7954705,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3496,11 +3613,11 @@
       },
       "language": "German",
       "price": 355.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "NM",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3528,11 +3645,15 @@
         [
           0,
           1784838677.6614287
+        ],
+        [
+          1,
+          1785611356.6672945
         ]
       ],
       "first_date": 1783142980.198721,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3553,7 +3674,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3590,11 +3711,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Condizioni perfette",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1783914386.5025814,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3614,13 +3744,13 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Spanish",
-      "price": 360.14,
-      "quantity": 1,
+      "price": 361.11,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Message for more photos",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           358.14,
@@ -3705,6 +3835,14 @@
         [
           361.18,
           1785265573.7954705
+        ],
+        [
+          360.14,
+          1785437156.7736118
+        ],
+        [
+          361.32,
+          1785611356.6672945
         ]
       ],
       "previous_quantities": [
@@ -3731,12 +3869,16 @@
         [
           0,
           1783548577.1675406
+        ],
+        [
+          1,
+          1785772449.1581345
         ]
       ],
       "first_date": 1781340064.600873,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3829,6 +3971,44 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Kittydekat",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 365.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "pack to sleeve",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          400.0,
+          1785611356.6672945
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4026,9 +4206,9 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "back good",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785437156.7736118,
@@ -4054,7 +4234,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ex+",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4082,7 +4262,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4094,6 +4274,14 @@
         [
           0,
           1784838677.6614287
+        ],
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
         ]
       ],
       "first_date": 1783914386.5025814,
@@ -4417,7 +4605,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4453,16 +4641,25 @@
       "price": 379.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785437156.7736118,
+      "comment": "RELISTED! ",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1783664054.755288,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4515,7 +4712,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Please ask for more pictures",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4552,7 +4749,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4717,6 +4914,39 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Gubi123",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 385.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Schneller Versand / Top Zustand",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.99,
+          1785772449.1581345
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Zangdrummer",
         "country": "Item location: France"
       },
@@ -4725,7 +4955,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Mp photos",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4737,6 +4967,14 @@
         [
           0,
           1783914386.5025814
+        ],
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
         ]
       ],
       "first_date": 1781597516.4399264,
@@ -4875,6 +5113,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "JR-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 389.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Leicht off-center",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "NerdNest",
         "country": "Item location: Sweden"
       },
@@ -4921,14 +5187,19 @@
       },
       "language": "German",
       "price": 389.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Beckett 8.5",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611356.6672945
+        ]
+      ],
       "first_date": 1785265573.7954705,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5018,43 +5289,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "GamingKingdom",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 390.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "AP 9.0. Photos on Request",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784838677.6614287
-        ],
-        [
-          0,
-          1784838677.6614287
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Majinz",
         "country": "Item location: Italy"
       },
@@ -5126,14 +5360,19 @@
       },
       "language": "German",
       "price": 399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1784457506.581022,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5154,14 +5393,19 @@
       },
       "language": "Italian",
       "price": 399.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "un po di silvering in un angolo. chiedere foto",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1784192499.4009876,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5289,7 +5533,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "EU shipping possible. contact me. ask for photos.",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5322,7 +5566,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5350,7 +5594,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "50% of shipping cost refound",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5575,7 +5819,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "RL Parte frontal perfecta. parte trasera con pequeña ondidura",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5620,11 +5864,20 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "little whitening",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1782531994.9250288,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5648,7 +5901,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cm-Grading 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5676,7 +5929,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect: unpacked and placed in a super binder",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5701,6 +5954,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Ferreirz",
+        "country": "Item location: Portugal"
+      },
+      "language": "English",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "totodero97",
         "country": "Item location: Italy"
       },
@@ -5709,7 +5990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Foto in dm",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5738,6 +6019,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "tzukomo",
+        "country": "Item location: Germany"
+      },
+      "language": "Italian",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "a beautiful card",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Guvend",
         "country": "Item location: France"
       },
@@ -5746,7 +6055,7 @@
       "quantity": 2,
       "condition": "GD",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5764,7 +6073,7 @@
       "first_date": 1784612183.7463727,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6287,14 +6596,19 @@
       },
       "language": "Spanish",
       "price": 419.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask for pictures",
       "date": 1785437156.7736118,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1785437156.7736118,
       "last_date": 0.0,
       "price_is_new": false,
@@ -6450,7 +6764,7 @@
       "quantity": 3,
       "condition": "PO",
       "comment": "Strict grading_Fair price_Supreme service",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6527,7 +6841,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "INKED-",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6643,7 +6957,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OC. A lot of cards available. fast shipping",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6680,7 +6994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6708,7 +7022,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6736,7 +7050,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6774,6 +7088,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "CardshopCRO",
+        "country": "Item location: Croatia"
+      },
+      "language": "English",
+      "price": 420.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Ask for shipping cost",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Kereboat",
         "country": "Item location: Spain"
       },
@@ -6782,7 +7124,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pide fotos",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6810,7 +7152,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 8.5. Bilder folgen noch. Karte 1.0",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6838,7 +7180,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 8.5. Bilder folgen noch. Karte 2.0",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6875,7 +7217,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6912,7 +7254,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for photos. Trato en mano en Madrid",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7149,15 +7491,48 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "AhCrooksy",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 420.54,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          421.3,
+          1785772449.1581345
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Wcwc0616",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 420.17,
+      "price": 420.54,
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 8. Quick shipping!!",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7176,6 +7551,18 @@
         [
           421.37,
           1785265573.7954705
+        ],
+        [
+          420.17,
+          1785437156.7736118
+        ],
+        [
+          421.54,
+          1785611356.6672945
+        ],
+        [
+          421.3,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [],
@@ -7202,7 +7589,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7268,12 +7655,54 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784612183.7463727,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "GamingKingdom",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 425.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AP 9.0. Photos on Request",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          390.0,
+          1785611356.6672945
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784838677.6614287
+        ],
+        [
+          0,
+          1784838677.6614287
+        ]
+      ],
+      "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7296,7 +7725,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Del sobre a top loader",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7519,27 +7948,23 @@
       },
       "language": "German",
       "price": 429.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "POK DE2",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1784746823.5005672
-        ],
-        [
-          0,
-          1784746823.5005672
+          1785772449.1581345
         ]
       ],
-      "first_date": 1784746823.5005672,
+      "first_date": 1785611356.6672945,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7558,8 +7983,8 @@
       "price": 429.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! KARDEX DM For Pictures",
-      "date": 1785437156.7736118,
+      "comment": "KARDEX DM For Pictures",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7579,12 +8004,20 @@
         [
           0,
           1784457506.581022
+        ],
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
         ]
       ],
       "first_date": 1783664054.755288,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7637,7 +8070,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 // DIff",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7816,124 +8249,16 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Str0nt3r",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 437.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Ask for pictures #1",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          420.0,
-          1782382209.1321857
-        ],
-        [
-          424.99,
-          1783142980.198721
-        ],
-        [
-          437.99,
-          1783666351.0097363
-        ],
-        [
-          431.99,
-          1783914386.5025814
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1782382209.1321857
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Str0nt3r",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 437.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! Ask for pictures #2",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          424.99,
-          1783142980.198721
-        ],
-        [
-          437.99,
-          1783666351.0097363
-        ],
-        [
-          431.99,
-          1783914386.5025814
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784457506.581022
-        ],
-        [
-          0,
-          1784457506.581022
-        ],
-        [
-          1,
-          1785088501.982087
-        ],
-        [
-          0,
-          1785088501.982087
-        ]
-      ],
-      "first_date": 1782531994.9250288,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "EmeraldTCGLTD",
         "country": "Item location: Ireland"
       },
       "language": "English",
       "price": 437.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Lots of cards available. Fast Dispatch. Sleeve + Toploader",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7957,6 +8282,10 @@
         [
           0,
           1784838677.6614287
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1784295827.006635,
@@ -8084,7 +8413,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Stock a (ex ++",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8117,7 +8446,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "SHOWCASE",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8175,20 +8504,160 @@
       },
       "language": "Italian",
       "price": 439.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "Store in Sicilia - Alcamo",
-      "date": 1785265573.7954705,
-      "ended": true,
-      "new": true,
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1785265573.7954705
+        ],
+        [
+          0,
+          1785265573.7954705
         ]
       ],
       "first_date": 1783142980.198721,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Str0nt3r",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 439.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Ask for pictures #1",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          424.99,
+          1783142980.198721
+        ],
+        [
+          437.99,
+          1783666351.0097363
+        ],
+        [
+          431.99,
+          1783914386.5025814
+        ],
+        [
+          437.99,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784457506.581022
+        ],
+        [
+          0,
+          1784457506.581022
+        ],
+        [
+          1,
+          1785088501.982087
+        ],
+        [
+          0,
+          1785088501.982087
+        ],
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1782531994.9250288,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Str0nt3r",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 439.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Ask for pictures #1",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          420.0,
+          1782382209.1321857
+        ],
+        [
+          424.99,
+          1783142980.198721
+        ],
+        [
+          437.99,
+          1783666351.0097363
+        ],
+        [
+          431.99,
+          1783914386.5025814
+        ],
+        [
+          437.99,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1782382209.1321857
+        ],
+        [
+          1,
+          1785437156.7736118
+        ],
+        [
+          0,
+          1785437156.7736118
+        ],
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
@@ -8257,7 +8726,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8268,6 +8737,60 @@
       ],
       "previous_quantities": [],
       "first_date": 1780970414.492055,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Atlas12345",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 440.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Feel free to ask for more pictures!",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1783914386.5025814
+        ],
+        [
+          470.0,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783411974.6612604
+        ],
+        [
+          0,
+          1783411974.6612604
+        ],
+        [
+          1,
+          1784295827.006635
+        ],
+        [
+          0,
+          1784295827.006635
+        ]
+      ],
+      "first_date": 1783312206.3703582,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8563,11 +9086,11 @@
       },
       "language": "English",
       "price": 444.18,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8575,10 +9098,15 @@
           1785265573.7954705
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1785265573.7954705,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8591,15 +9119,53 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Portz131",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 444.44,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Beckett 8.5",
+      "date": 1780514131.9178746,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          459.99,
+          1779790145.0052645
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780514131.9178746
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 8.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "RavenspireGames",
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 444.18,
+      "price": 444.57,
       "quantity": 1,
       "condition": "NM",
       "comment": "Independent LGS - Quick and secure shipping",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8694,6 +9260,18 @@
         [
           445.45,
           1785265573.7954705
+        ],
+        [
+          444.18,
+          1785437156.7736118
+        ],
+        [
+          445.63,
+          1785611356.6672945
+        ],
+        [
+          445.37,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [],
@@ -8716,11 +9294,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 444.18,
+      "price": 444.57,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8815,6 +9393,18 @@
         [
           445.45,
           1785265573.7954705
+        ],
+        [
+          444.18,
+          1785437156.7736118
+        ],
+        [
+          445.63,
+          1785611356.6672945
+        ],
+        [
+          445.37,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [
@@ -8858,38 +9448,28 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Portz131",
-        "country": "Item location: Germany"
+        "name": "Tcgir",
+        "country": "Item location: Ireland"
       },
-      "language": "German",
-      "price": 444.44,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Beckett 8.5",
-      "date": 1780514131.9178746,
-      "ended": true,
+      "language": "English",
+      "price": 444.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "More Great Prices!",
+      "date": 1785870400.7004793,
+      "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          459.99,
-          1779790145.0052645
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780514131.9178746
-        ]
-      ],
-      "first_date": 1779705870.4986453,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "BGS",
-      "grade": 8.5,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -8904,7 +9484,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "I sell more rare cards <3",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9042,7 +9622,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9183,6 +9763,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "usagithegoat",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 449.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "New seller",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Christmas-shop",
         "country": "Item location: France"
       },
@@ -9290,7 +9898,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "101",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9335,7 +9943,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "POK E3",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9430,6 +10038,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Teru1992",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Fast Shipping - Big Variety of Cards",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785870400.7004793,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "FelixMo92",
         "country": "Item location: Germany"
       },
@@ -9438,7 +10074,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 8.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9466,7 +10102,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader. See more cards in our profile!",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9495,20 +10131,20 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Ajstirn95",
-        "country": "Item location: Switzerland"
+        "name": "Piannino",
+        "country": "Item location: Greece"
       },
       "language": "English",
       "price": 450.0,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "",
-      "date": 1785437156.7736118,
+      "comment": "You can chose which one you like :)",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785265573.7954705,
+      "first_date": 1785772449.1581345,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9531,7 +10167,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9559,7 +10195,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved+toploadered",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9587,7 +10223,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Solid NM - M",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9615,12 +10251,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "CollectorZ",
+        "country": "Item location: Austria"
+      },
+      "language": "German",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9643,12 +10307,45 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Está en perfecto estado. envíos en España",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783914386.5025814,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Ajstirn95",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 450.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785611356.6672945,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611356.6672945
+        ]
+      ],
+      "first_date": 1785265573.7954705,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9955,7 +10652,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "****19.04.2026**** Graded CM 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10100,7 +10797,7 @@
       ],
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10184,11 +10881,11 @@
       },
       "language": "English",
       "price": 459.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8 CLEAN | 160238700",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -10204,6 +10901,10 @@
         [
           0,
           1780970414.492055
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1780514131.9178746,
@@ -10374,11 +11075,11 @@
       },
       "language": "English",
       "price": 469.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Scambio a mano su Milano trattabile",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -10402,6 +11103,10 @@
         [
           0,
           1784838677.6614287
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1779705870.4986453,
@@ -10460,7 +11165,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10488,62 +11193,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "TCG Shop in Finland - Ask for more cards",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785088501.982087,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Atlas12345",
-        "country": "Item location: Belgium"
-      },
-      "language": "English",
-      "price": 470.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Feel free to ask for more pictures!",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          500.0,
-          1783914386.5025814
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783411974.6612604
-        ],
-        [
-          0,
-          1783411974.6612604
-        ],
-        [
-          1,
-          1784295827.006635
-        ],
-        [
-          0,
-          1784295827.006635
-        ]
-      ],
-      "first_date": 1783312206.3703582,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10599,7 +11254,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "boosterfrisch.sleeve.toploader #1216",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10674,7 +11329,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10702,9 +11357,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - clean Case",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785437156.7736118,
@@ -11071,7 +11726,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11099,7 +11754,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GamitoCards on instagram! Pics available for items +50",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11123,11 +11778,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 480.19,
+      "price": 480.61,
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping!",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11166,6 +11821,18 @@
         [
           481.57,
           1785265573.7954705
+        ],
+        [
+          480.19,
+          1785437156.7736118
+        ],
+        [
+          481.76,
+          1785611356.6672945
+        ],
+        [
+          481.48,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [],
@@ -11189,18 +11856,23 @@
       },
       "language": "English",
       "price": 485.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
       "first_date": 1783312206.3703582,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11329,11 +12001,11 @@
       },
       "language": "English",
       "price": 490.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 // 163646942",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -11349,6 +12021,10 @@
         [
           0,
           1779705870.4986453
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1779705870.4986453,
@@ -11512,6 +12188,203 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Forbiddenplanet",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "English",
+      "price": 497.79,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          642.04,
+          1779705870.4986453
+        ],
+        [
+          574.68,
+          1779790145.0052645
+        ],
+        [
+          572.77,
+          1779869686.0281267
+        ],
+        [
+          580.58,
+          1780007153.1872659
+        ],
+        [
+          581.19,
+          1780084823.7436938
+        ],
+        [
+          572.33,
+          1780201994.8106825
+        ],
+        [
+          543.14,
+          1780295395.2678142
+        ],
+        [
+          554.81,
+          1780371963.9076211
+        ],
+        [
+          504.29,
+          1780514131.9178746
+        ],
+        [
+          492.62,
+          1780863712.8328896
+        ],
+        [
+          487.61,
+          1780970414.492055
+        ],
+        [
+          481.87,
+          1781340064.600873
+        ],
+        [
+          490.25,
+          1781416945.236846
+        ],
+        [
+          458.61,
+          1781509002.1186206
+        ],
+        [
+          454.36,
+          1781597516.4399264
+        ],
+        [
+          450.69,
+          1781707145.4971538
+        ],
+        [
+          448.06,
+          1781848432.2348342
+        ],
+        [
+          444.54,
+          1781915551.5635657
+        ],
+        [
+          449.18,
+          1782112619.8714013
+        ],
+        [
+          450.49,
+          1782204215.8413415
+        ],
+        [
+          450.8,
+          1782304581.9327168
+        ],
+        [
+          450.62,
+          1782382209.1321857
+        ],
+        [
+          450.38,
+          1782706169.7572649
+        ],
+        [
+          450.99,
+          1782802748.5462468
+        ],
+        [
+          453.62,
+          1783142980.198721
+        ],
+        [
+          453.64,
+          1783312206.3703582
+        ],
+        [
+          454.89,
+          1783411974.6612604
+        ],
+        [
+          454.76,
+          1783548577.1675406
+        ],
+        [
+          596.12,
+          1783666351.0097363
+        ],
+        [
+          590.05,
+          1783914386.5025814
+        ],
+        [
+          524.76,
+          1784038305.2053888
+        ],
+        [
+          524.13,
+          1784192499.4009876
+        ],
+        [
+          523.02,
+          1784295827.006635
+        ],
+        [
+          525.57,
+          1784457506.581022
+        ],
+        [
+          495.18,
+          1784612183.7463727
+        ],
+        [
+          493.37,
+          1784746823.5005672
+        ],
+        [
+          494.13,
+          1784838677.6614287
+        ],
+        [
+          531.66,
+          1785088501.982087
+        ],
+        [
+          530.06,
+          1785265573.7954705
+        ],
+        [
+          514.03,
+          1785437156.7736118
+        ],
+        [
+          447.61,
+          1785611356.6672945
+        ],
+        [
+          447.27,
+          1785772449.1581345
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "PureDiamondsTCG",
         "country": "Item location: Slovakia"
       },
@@ -11520,7 +12393,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See more cards (I have a lot of cards)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11589,7 +12462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11631,7 +12504,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11664,7 +12537,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Boosterfresh Ask for Pics",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11692,7 +12565,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "auf Anfrage mehr Bilder",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11899,14 +12772,19 @@
       },
       "language": "Italian",
       "price": 499.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "[AiGrad 7.0]",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
@@ -12070,7 +12948,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12115,7 +12993,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ign",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12160,6 +13038,56 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Urzas-Consulting",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 500.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "07202631 toploader",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          8044.8,
+          1783411974.6612604
+        ],
+        [
+          6435.84,
+          1783548577.1675406
+        ],
+        [
+          500.62,
+          1785437156.7736118
+        ],
+        [
+          10060.0,
+          1785611356.6672945
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1783411974.6612604,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Momoyja",
         "country": "Item location: Austria"
       },
@@ -12168,7 +13096,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Black grading Mint 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12221,62 +13149,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and toploader. Only ships on Mondays",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "KURAI-",
-        "country": "Item location: Spain"
-      },
-      "language": "Spanish",
-      "price": 500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "KW @kurai_esp",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          490.0,
-          1783142980.198721
-        ],
-        [
-          500.0,
-          1783914386.5025814
-        ],
-        [
-          490.0,
-          1784457506.581022
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783142980.198721
-        ],
-        [
-          0,
-          1783142980.198721
-        ]
-      ],
-      "first_date": 1782802748.5462468,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12299,7 +13177,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DEL SOBRE A TOP LOADER",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12319,34 +13197,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "LukeScott",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 500.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785265573.7954705,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Schneimax",
         "country": "Item location: Germany"
       },
@@ -12355,7 +13205,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA9 Grading",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12397,7 +13247,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 8.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12425,7 +13275,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12453,7 +13303,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "perfetto. foto su richiesta vinted: tomdelsa",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12481,7 +13331,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12500,6 +13350,93 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 8.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "KURAI-",
+        "country": "Item location: Spain"
+      },
+      "language": "Spanish",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "KW @kurai_esp",
+      "date": 1785437156.7736118,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          490.0,
+          1783142980.198721
+        ],
+        [
+          500.0,
+          1783914386.5025814
+        ],
+        [
+          490.0,
+          1784457506.581022
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783142980.198721
+        ],
+        [
+          0,
+          1783142980.198721
+        ],
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1782802748.5462468,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "LukeScott",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 500.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1785437156.7736118,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1785265573.7954705,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -12796,43 +13733,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Urzas-Consulting",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 500.62,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "07202603 toploader",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          8044.8,
-          1783411974.6612604
-        ],
-        [
-          6435.84,
-          1783548577.1675406
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783411974.6612604,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Galactus-Roma",
         "country": "Item location: Italy"
       },
@@ -12841,7 +13741,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12878,7 +13778,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12940,201 +13840,16 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Forbiddenplanet",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "English",
-      "price": 514.03,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          642.04,
-          1779705870.4986453
-        ],
-        [
-          574.68,
-          1779790145.0052645
-        ],
-        [
-          572.77,
-          1779869686.0281267
-        ],
-        [
-          580.58,
-          1780007153.1872659
-        ],
-        [
-          581.19,
-          1780084823.7436938
-        ],
-        [
-          572.33,
-          1780201994.8106825
-        ],
-        [
-          543.14,
-          1780295395.2678142
-        ],
-        [
-          554.81,
-          1780371963.9076211
-        ],
-        [
-          504.29,
-          1780514131.9178746
-        ],
-        [
-          492.62,
-          1780863712.8328896
-        ],
-        [
-          487.61,
-          1780970414.492055
-        ],
-        [
-          481.87,
-          1781340064.600873
-        ],
-        [
-          490.25,
-          1781416945.236846
-        ],
-        [
-          458.61,
-          1781509002.1186206
-        ],
-        [
-          454.36,
-          1781597516.4399264
-        ],
-        [
-          450.69,
-          1781707145.4971538
-        ],
-        [
-          448.06,
-          1781848432.2348342
-        ],
-        [
-          444.54,
-          1781915551.5635657
-        ],
-        [
-          449.18,
-          1782112619.8714013
-        ],
-        [
-          450.49,
-          1782204215.8413415
-        ],
-        [
-          450.8,
-          1782304581.9327168
-        ],
-        [
-          450.62,
-          1782382209.1321857
-        ],
-        [
-          450.38,
-          1782706169.7572649
-        ],
-        [
-          450.99,
-          1782802748.5462468
-        ],
-        [
-          453.62,
-          1783142980.198721
-        ],
-        [
-          453.64,
-          1783312206.3703582
-        ],
-        [
-          454.89,
-          1783411974.6612604
-        ],
-        [
-          454.76,
-          1783548577.1675406
-        ],
-        [
-          596.12,
-          1783666351.0097363
-        ],
-        [
-          590.05,
-          1783914386.5025814
-        ],
-        [
-          524.76,
-          1784038305.2053888
-        ],
-        [
-          524.13,
-          1784192499.4009876
-        ],
-        [
-          523.02,
-          1784295827.006635
-        ],
-        [
-          525.57,
-          1784457506.581022
-        ],
-        [
-          495.18,
-          1784612183.7463727
-        ],
-        [
-          493.37,
-          1784746823.5005672
-        ],
-        [
-          494.13,
-          1784838677.6614287
-        ],
-        [
-          531.66,
-          1785088501.982087
-        ],
-        [
-          530.06,
-          1785265573.7954705
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "that-marc",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 515.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -13150,6 +13865,10 @@
         [
           0,
           1780084823.7436938
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1780007153.1872659,
@@ -13249,7 +13968,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13282,7 +14001,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13310,7 +14029,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 9 (?)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13371,7 +14090,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13399,7 +14118,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 9.5 with Subgrades",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13460,7 +14179,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13497,7 +14216,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Compra con seguridad",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13660,7 +14379,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 8.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13688,7 +14407,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13716,7 +14435,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13744,7 +14463,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADATO blade grading 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13781,7 +14500,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13801,34 +14520,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Pocket-Legends",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 550.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Bello senza puntini bianchi",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780970414.492055,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "krxppx",
         "country": "Item location: Spain"
       },
@@ -13837,7 +14528,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13865,12 +14556,45 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785437156.7736118,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Pocket-Legends",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 550.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Bello senza puntini bianchi",
+      "date": 1785611356.6672945,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611356.6672945
+        ]
+      ],
+      "first_date": 1780970414.492055,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14008,6 +14732,34 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Timpackt",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 569.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA9",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "ivan-0811",
         "country": "Item location: Italy"
       },
@@ -14016,7 +14768,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 9 - surface 10!! visita il profilo e lascia un feedback",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14049,7 +14801,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Holo SCU-468 see scan",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14077,7 +14829,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Holo SCU-479 see scan",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14105,7 +14857,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Holo SCU-491 see scan",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14130,18 +14882,23 @@
       },
       "language": "English",
       "price": 575.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 9 -  We have Other Cards and PSAs :D",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
       "first_date": 1784192499.4009876,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14194,7 +14951,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Near Mint. own card. shipped in toploader. real photo added",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14276,7 +15033,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14291,47 +15048,6 @@
         ]
       ],
       "first_date": 1780371963.9076211,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "nathanesi",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 590.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Psa 9 clean slab",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          490.0,
-          1782112619.8714013
-        ],
-        [
-          549.0,
-          1782706169.7572649
-        ],
-        [
-          560.0,
-          1783666351.0097363
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781707145.4971538,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14387,7 +15103,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14420,43 +15136,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "LastWillTeam",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 599.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1781597516.4399264
-        ],
-        [
-          0,
-          1781597516.4399264
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "PlanetMaster",
         "country": "Item location: Italy"
       },
@@ -14465,7 +15144,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14493,7 +15172,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14521,7 +15200,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Micro left bottom edge bend",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14541,6 +15220,47 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "LastWillTeam",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 599.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781597516.4399264
+        ],
+        [
+          0,
+          1781597516.4399264
+        ],
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "LevelUp-Wehavefun",
         "country": "Item location: Italy"
       },
@@ -14549,7 +15269,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14652,7 +15372,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14726,7 +15446,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ai Grading 5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14753,8 +15473,8 @@
       "price": 599.99,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! AOG 9.5",
-      "date": 1785437156.7736118,
+      "comment": "AOG 9.5",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14771,7 +15491,7 @@
       "first_date": 1784838677.6614287,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14791,7 +15511,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Cadrage complètement décalé. Envoi rapide et sécurisé. Gardez sous sleeve dans un classeur.",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14836,7 +15556,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14873,7 +15593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14934,7 +15654,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cheap & Fast Shipping - Binder TP",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14968,6 +15688,80 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "card-universe",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa 8",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785265573.7954705
+        ],
+        [
+          0,
+          1785265573.7954705
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "card-universe",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Graad 9",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785265573.7954705
+        ],
+        [
+          0,
+          1785265573.7954705
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "lucadallago35",
         "country": "Item location: Italy"
       },
@@ -14976,7 +15770,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 8",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15003,54 +15797,21 @@
       "price": 600.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "Psa 8",
-      "date": 1785265573.7954705,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785265573.7954705
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 8.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "card-universe",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 600.0,
-      "quantity": 0,
-      "condition": "NM",
       "comment": "Graad 9",
-      "date": 1785265573.7954705,
+      "date": 1785611356.6672945,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1785265573.7954705
+          1785611356.6672945
         ]
       ],
-      "first_date": 1779705870.4986453,
+      "first_date": 1785611356.6672945,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -15103,7 +15864,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15140,7 +15901,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BECKETT 9 MINT",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15314,7 +16075,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADED 9.5 NEXT GRADING",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15342,7 +16103,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "STORE IN OMBRIANO(CR) aigrading 9.5 potenziale psa10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15384,12 +16145,12 @@
       },
       "language": "German",
       "price": 649.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! AOG 10",
-      "date": 1785265573.7954705,
-      "ended": true,
-      "new": true,
+      "comment": "AOG 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -15403,12 +16164,16 @@
         [
           1,
           1785265573.7954705
+        ],
+        [
+          0,
+          1785265573.7954705
         ]
       ],
       "first_date": 1782204215.8413415,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -15428,7 +16193,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15456,7 +16221,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15484,7 +16249,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15546,7 +16311,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15574,7 +16339,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15790,7 +16555,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 9.5 +MINT",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15872,7 +16637,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "raw NM",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15900,7 +16665,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15933,7 +16698,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15994,7 +16759,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[PSA 9]",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16022,7 +16787,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5. Contact me for EU shipping or photos.",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16050,7 +16815,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack to sleeve.",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16187,43 +16952,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "LastWillTeam",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 700.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "GRAAD 9",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1781597516.4399264
-        ],
-        [
-          0,
-          1781597516.4399264
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "wolf2842",
         "country": "Item location: Germany"
       },
@@ -16232,7 +16960,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 Chrome",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16261,69 +16989,45 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "PokeCartes",
-        "country": "Item location: France"
+        "name": "nathanesi",
+        "country": "Item location: Netherlands"
       },
-      "language": "French",
+      "language": "English",
       "price": 700.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sortie de booster - Marque d'impression en haut à gauche",
-      "date": 1785437156.7736118,
+      "comment": "Psa 9 clean slab",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
+      "previous_prices": [
         [
-          1,
-          1780863712.8328896
+          490.0,
+          1782112619.8714013
         ],
         [
-          0,
-          1780863712.8328896
+          549.0,
+          1782706169.7572649
         ],
         [
-          1,
-          1781509002.1186206
+          560.0,
+          1783666351.0097363
         ],
         [
-          0,
-          1781509002.1186206
-        ],
-        [
-          1,
-          1781848432.2348342
-        ],
-        [
-          0,
-          1781848432.2348342
-        ],
-        [
-          1,
-          1784192499.4009876
-        ],
-        [
-          0,
-          1784192499.4009876
-        ],
-        [
-          1,
-          1785088501.982087
-        ],
-        [
-          0,
-          1785088501.982087
+          590.0,
+          1785772449.1581345
         ]
       ],
-      "first_date": 1780863712.8328896,
+      "previous_quantities": [],
+      "first_date": 1781707145.4971538,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
+      "price_is_new": true,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "",
-      "grade": null,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -16338,7 +17042,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16366,7 +17070,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16391,6 +17095,120 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "LastWillTeam",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 700.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "GRAAD 9",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1781597516.4399264
+        ],
+        [
+          0,
+          1781597516.4399264
+        ],
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "PokeCartes",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 700.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Sortie de booster - Marque d'impression en haut à gauche",
+      "date": 1785437156.7736118,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780863712.8328896
+        ],
+        [
+          0,
+          1780863712.8328896
+        ],
+        [
+          1,
+          1781509002.1186206
+        ],
+        [
+          0,
+          1781509002.1186206
+        ],
+        [
+          1,
+          1781848432.2348342
+        ],
+        [
+          0,
+          1781848432.2348342
+        ],
+        [
+          1,
+          1784192499.4009876
+        ],
+        [
+          0,
+          1784192499.4009876
+        ],
+        [
+          1,
+          1785088501.982087
+        ],
+        [
+          0,
+          1785088501.982087
+        ],
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1780863712.8328896,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "Scarnix89",
         "country": "Item location: Italy"
       },
@@ -16401,7 +17219,7 @@
       "comment": "psa9...for pic and feedback check my instag page NIGHTSPEAR89",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -16412,7 +17230,7 @@
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16590,7 +17408,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and toploader",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16618,7 +17436,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 Chrome",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16668,11 +17486,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 720.28,
+      "price": 720.91,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16819,6 +17637,18 @@
         [
           722.35,
           1785265573.7954705
+        ],
+        [
+          720.28,
+          1785437156.7736118
+        ],
+        [
+          722.64,
+          1785611356.6672945
+        ],
+        [
+          722.22,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [],
@@ -16831,6 +17661,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Joerg1995",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 749.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -16877,8 +17735,8 @@
       "price": 750.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Carte Neuve et sortie de Booster",
-      "date": 1785437156.7736118,
+      "comment": "Carte Neuve et sortie de Booster",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16927,44 +17785,7 @@
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "LeTemple",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 750.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! SLEEVE + TOP",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780295395.2678142
-        ],
-        [
-          0,
-          1780295395.2678142
-        ]
-      ],
-      "first_date": 1780201994.8106825,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16984,7 +17805,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADATA (PSA) 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16999,6 +17820,47 @@
         ]
       ],
       "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "LeTemple",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 750.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! SLEEVE + TOP",
+      "date": 1785437156.7736118,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780295395.2678142
+        ],
+        [
+          0,
+          1780295395.2678142
+        ],
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1780201994.8106825,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -17236,7 +18098,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10/  Subgrades on Back / More Gradings in Sale",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17264,7 +18126,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17301,7 +18163,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Was never in a pack. Ask for pics",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17334,7 +18196,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ccc 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17369,7 +18231,7 @@
       "comment": "MTG GRADE 9",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -17404,7 +18266,7 @@
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -17659,7 +18521,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC9 + Grade report - MP avant achat",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -17866,7 +18728,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "+ Album Giallo",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17894,7 +18756,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Gute chance für eine 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17955,7 +18817,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "LUGIA V GRADATA(PSA)9 POP 271",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17978,6 +18840,44 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Visser94",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 900.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Beckett 9.5 - Safe & quick shipping - Ask for pictures",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          950.0,
+          1785611356.6672945
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -18025,7 +18925,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCC 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18053,7 +18953,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "PCA 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18095,7 +18995,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 subgrading da psa 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18123,7 +19023,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve+toploader",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18147,11 +19047,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 960.38,
+      "price": 961.22,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18298,6 +19198,18 @@
         [
           963.13,
           1785265573.7954705
+        ],
+        [
+          960.38,
+          1785437156.7736118
+        ],
+        [
+          963.52,
+          1785611356.6672945
+        ],
+        [
+          962.96,
+          1785772449.1581345
         ]
       ],
       "previous_quantities": [],
@@ -18321,23 +19233,28 @@
       },
       "language": "English",
       "price": 970.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 9.5 omgeving Amsterdam",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           975.0,
           1784746823.5005672
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
       "first_date": 1784612183.7463727,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18357,7 +19274,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AiGrading 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18390,7 +19307,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18472,7 +19389,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18546,7 +19463,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PCA 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18573,8 +19490,8 @@
       "price": 999.99,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 9",
-      "date": 1785437156.7736118,
+      "comment": "PSA 9",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18591,7 +19508,7 @@
       "first_date": 1782382209.1321857,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18644,7 +19561,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18681,7 +19598,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18718,7 +19635,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "9.5 BGS",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18738,71 +19655,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "kingcoral93",
-        "country": "Item location: Italy"
-      },
-      "language": "Italian",
-      "price": 1000.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "lugia  gradata (GEM) 10",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780295395.2678142
-        ],
-        [
-          0,
-          1780295395.2678142
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "EmptyfleeTCG",
-        "country": "Item location: France"
-      },
-      "language": "French",
-      "price": 1000.0,
-      "quantity": 2,
-      "condition": "MT",
-      "comment": "PCA 9.5 - boîtier neuf - envoi soigné",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784192499.4009876,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Sdor08",
         "country": "Item location: France"
       },
@@ -18811,7 +19663,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "RMP possible . plus de photo sur demande",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18839,7 +19691,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ai Grading 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18853,6 +19705,39 @@
       "archived": false,
       "grade_company": "UNK",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "EmptyfleeTCG",
+        "country": "Item location: France"
+      },
+      "language": "French",
+      "price": 1000.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PCA 9.5 - boîtier neuf - envoi soigné",
+      "date": 1785611356.6672945,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          2,
+          1785611356.6672945
+        ]
+      ],
+      "first_date": 1784192499.4009876,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -18929,17 +19814,21 @@
         "country": "Item location: France"
       },
       "language": "French",
-      "price": 1090.0,
+      "price": 1099.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           999.0,
           1783548577.1675406
+        ],
+        [
+          1090.0,
+          1785611356.6672945
         ]
       ],
       "previous_quantities": [],
@@ -18966,7 +19855,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ai grading 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18994,7 +19883,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ace 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19022,7 +19911,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "bekett psa 9.5 ask picks for certificate etc",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19088,7 +19977,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19116,7 +20005,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19149,7 +20038,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Masterset completo",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19182,7 +20071,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 10 - 1767047",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -19228,7 +20117,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19256,7 +20145,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graad 9! + masterset (solo ritiro a mano piacenza)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19276,6 +20165,122 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "kingcoral93",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "lugia  gradata (GEM) 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1000.0,
+          1785437156.7736118
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780295395.2678142
+        ],
+        [
+          0,
+          1780295395.2678142
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 1225.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - GEM MT - fast shipping",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1495.0,
+          1782802748.5462468
+        ],
+        [
+          1395.0,
+          1785772449.1581345
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781915551.5635657
+        ],
+        [
+          0,
+          1781915551.5635657
+        ]
+      ],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "EndofMain",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 1234.56,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785772449.1581345,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "DanielM196",
         "country": "Item location: Germany"
       },
@@ -19284,7 +20289,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GSG 9.5.  PM me your offer :)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19313,6 +20318,44 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Palle43",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 1250.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          1400.0,
+          1785611356.6672945
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
+      "first_date": 1785437156.7736118,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "janastz",
         "country": "Item location: Germany"
       },
@@ -19321,7 +20364,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19382,7 +20425,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19407,56 +20450,20 @@
       },
       "language": "German",
       "price": 1300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
       "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784746823.5005672,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Xamijo",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 1300.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1784192499.4009876,
       "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
-          1783548577.1675406
-        ],
-        [
-          0,
-          1783548577.1675406
-        ],
-        [
-          1,
-          1784192499.4009876
+          1785437156.7736118
         ]
       ],
-      "first_date": 1783548577.1675406,
+      "first_date": 1784746823.5005672,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -19630,11 +20637,11 @@
       },
       "language": "English",
       "price": 1350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785437156.7736118,
-      "ended": false,
+      "comment": "PSA 10",
+      "date": 1785611356.6672945,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -19654,12 +20661,16 @@
         [
           0,
           1785088501.982087
+        ],
+        [
+          1,
+          1785611356.6672945
         ]
       ],
       "first_date": 1784838677.6614287,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19804,48 +20815,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Poke-Gallery",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 1395.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 - GEM MT - fast shipping",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1495.0,
-          1782802748.5462468
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1781915551.5635657
-        ],
-        [
-          0,
-          1781915551.5635657
-        ]
-      ],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "KOWEDMAN",
         "country": "Item location: Netherlands"
       },
@@ -19912,62 +20881,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Roy13",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 1400.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Cert No. 91488097",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785088501.982087,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Palle43",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 1400.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785437156.7736118,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "PISTOCCC",
         "country": "Item location: Italy"
       },
@@ -19976,7 +20889,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -19999,6 +20912,39 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Roy13",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 1400.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Cert No. 91488097",
+      "date": 1785437156.7736118,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785437156.7736118
+        ]
+      ],
+      "first_date": 1785088501.982087,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -20358,7 +21304,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20366,6 +21312,56 @@
       "first_date": 1782620085.489795,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Xamijo",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 1450.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1300.0,
+          1785772449.1581345
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783548577.1675406
+        ],
+        [
+          0,
+          1783548577.1675406
+        ],
+        [
+          1,
+          1784192499.4009876
+        ],
+        [
+          0,
+          1784192499.4009876
+        ]
+      ],
+      "first_date": 1783548577.1675406,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -20918,7 +21914,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20938,72 +21934,16 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "NScollectibles",
-        "country": "Item location: Sweden"
-      },
-      "language": "English",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779705870.4986453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
-        "name": "Cardanon97",
-        "country": "Item location: Belgium"
-      },
-      "language": "English",
-      "price": 1500.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783142980.198721,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Polakmatt21",
         "country": "Item location: Poland"
       },
       "language": "English",
       "price": 1500.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784838677.6614287,
-      "ended": true,
+      "date": 1785870400.7004793,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -21034,9 +21974,125 @@
         [
           1,
           1784838677.6614287
+        ],
+        [
+          0,
+          1784838677.6614287
         ]
       ],
       "first_date": 1781340064.600873,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "cesco96",
+        "country": "Item location: Italy"
+      },
+      "language": "Italian",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Graad9.5 prezzo per masterset ita completo con album vaultx",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785870400.7004793,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "NScollectibles",
+        "country": "Item location: Sweden"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1779705870.4986453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Piannino",
+        "country": "Item location: Greece"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611356.6672945,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
+        "name": "Cardanon97",
+        "country": "Item location: Belgium"
+      },
+      "language": "English",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783142980.198721,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -21315,7 +22371,7 @@
       "comment": "PSA 10",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           2000.0,
@@ -21355,7 +22411,7 @@
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -21375,7 +22431,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "LUGIA V gradata (PSA) 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21488,18 +22544,23 @@
       },
       "language": "Italian",
       "price": 1650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "[PSA 10.0] PSA10 - 115100474 #PK0000012789",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -21544,16 +22605,53 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
+        "name": "Cocun",
+        "country": "Item location: Germany"
+      },
+      "language": "German",
+      "price": 1700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "AOG Pristine 10",
+      "date": 1785870400.7004793,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783411974.6612604
+        ],
+        [
+          0,
+          1783411974.6612604
+        ]
+      ],
+      "first_date": 1780863712.8328896,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Lugia V  (SIT 186)",
+      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
+      "seller": {
         "name": "MADAKIBA",
         "country": "Item location: Spain"
       },
       "language": "English",
       "price": 1700.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - TIENDA FISICA Y ONLINE - VARIOS TCG",
       "date": 1785437156.7736118,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -21569,6 +22667,10 @@
         [
           0,
           1783666351.0097363
+        ],
+        [
+          1,
+          1785437156.7736118
         ]
       ],
       "first_date": 1779705870.4986453,
@@ -21586,43 +22688,6 @@
       "card": "Lugia V  (SIT 186)",
       "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
       "seller": {
-        "name": "Cocun",
-        "country": "Item location: Germany"
-      },
-      "language": "German",
-      "price": 1700.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "RELISTED! AOG Pristine 10",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783411974.6612604
-        ],
-        [
-          0,
-          1783411974.6612604
-        ]
-      ],
-      "first_date": 1780863712.8328896,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "AOG",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Lugia V  (SIT 186)",
-      "canonical_name": "Pokemon_Products_Singles_Silver-Tempest_Lugia-V-V3-SIT186",
-      "seller": {
         "name": "Thefuture866",
         "country": "Item location: Austria"
       },
@@ -21631,7 +22696,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21664,7 +22729,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 :)- open to trade 4 Victini EX IN/KO/CT/TH/CS 078/053/052/058/114 PSA10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21692,7 +22757,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21746,7 +22811,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21774,7 +22839,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21840,7 +22905,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Noch mehr PSA 10 Karten verfügbar",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21934,7 +22999,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 pristine - (9.5 corners) -",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21992,7 +23057,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 + MASTER SET",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22061,8 +23126,8 @@
       "price": 2500.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "psa10",
-      "date": 1785437156.7736118,
+      "comment": "psa10 pop 20 (madrid)",
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22090,7 +23155,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22118,7 +23183,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA9",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22148,7 +23213,7 @@
       "comment": "psa 10",
       "date": 1785265573.7954705,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -22159,7 +23224,7 @@
       "first_date": 1781340064.600873,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22209,18 +23274,23 @@
       },
       "language": "French",
       "price": 3100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10 - MP avant achat",
-      "date": 1785437156.7736118,
-      "ended": false,
-      "new": false,
+      "date": 1785772449.1581345,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785772449.1581345
+        ]
+      ],
       "first_date": 1784192499.4009876,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -22240,7 +23310,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. Trade possible. RMP NORD",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22306,7 +23376,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / NEW CERT NUMBER !",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22339,7 +23409,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10 (beckett)",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22367,7 +23437,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Perfetta.",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -22395,7 +23465,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "* Super Centering / 0 white dot Front + Back / ITS OVER 9000 !",
-      "date": 1785437156.7736118,
+      "date": 1785870400.7004793,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22425,14 +23495,19 @@
       },
       "language": "English",
       "price": 9999.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10 NEW CERT - Make me an offer - Pickup possible in area Groningen",
       "date": 1782802748.5462468,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1782802748.5462468
+        ]
+      ],
       "first_date": 1779705870.4986453,
       "last_date": 0.0,
       "price_is_new": false,

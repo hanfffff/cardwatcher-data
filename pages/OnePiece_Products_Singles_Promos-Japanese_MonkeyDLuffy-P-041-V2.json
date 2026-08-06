@@ -9,10 +9,10 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 140,
-  "available_graded": 2,
-  "sold": 0,
-  "inserted": 0,
+  "available": 153,
+  "available_graded": 6,
+  "sold": 1,
+  "inserted": 3,
   "listings": [
     {
       "card": "Monkey.D.Luffy (P-041) (V.2)",
@@ -23,10 +23,10 @@
       },
       "language": "S-Chinese",
       "price": 14.99,
-      "quantity": 38,
+      "quantity": 41,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -59,9 +59,51 @@
         [
           30,
           1784928275.3249772
+        ],
+        [
+          38,
+          1785545809.0408752
         ]
       ],
       "first_date": 1782648042.348275,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "miorxu",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 14.99,
+      "quantity": 12,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          18.0,
+          1785545809.0408752
+        ]
+      ],
+      "previous_quantities": [
+        [
+          9,
+          1785545809.0408752
+        ]
+      ],
+      "first_date": 1784009598.856351,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -109,34 +151,6 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
-        "name": "miorxu",
-        "country": "Item location: Italy"
-      },
-      "language": "S-Chinese",
-      "price": 18.0,
-      "quantity": 9,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785449767.820675,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784009598.856351,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (P-041) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
-      "seller": {
         "name": "Lafunator",
         "country": "Item location: Spain"
       },
@@ -145,7 +159,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Do",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -206,7 +220,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pics",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -231,7 +245,7 @@
       ],
       "first_date": 1782648042.348275,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -252,7 +266,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -339,7 +353,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -381,7 +395,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -409,7 +423,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -434,18 +448,23 @@
       },
       "language": "Japanese",
       "price": 30.01,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
-      "ended": false,
+      "date": 1785714197.5239892,
+      "ended": true,
       "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785714197.5239892
+        ]
+      ],
       "first_date": 1785449767.820675,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -465,7 +484,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Quick shipping! / DM for questions! / Check my other stuff!",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -493,7 +512,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "good-exc / Quick shipping! / DM for questions! / Check my other stuff!",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -699,6 +718,67 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
+        "name": "RoomTCG",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 36.05,
+      "quantity": 7,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          36.14,
+          1785714197.5239892
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785714197.5239892,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "MakavelivQ",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 36.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NM ask for more Pictures",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785814323.8154905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
         "name": "Sapphire-Cards",
         "country": "Item location: Germany"
       },
@@ -707,7 +787,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-10",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -735,12 +815,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check other listings",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784928275.3249772,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "AkibaCollectors",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 38.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          49.99,
+          1785545809.0408752
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783177044.511411,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -763,7 +876,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster -> Sleeve -> Toploader",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -848,7 +961,7 @@
       "comment": "Sleeved & Toploader",
       "date": 1785278104.4736,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           73.0,
@@ -892,7 +1005,7 @@
       "first_date": 1782648042.348275,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -945,7 +1058,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -973,7 +1086,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1109,34 +1222,6 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
-        "name": "Wolle220",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 42.0,
-      "quantity": 4,
-      "condition": "NM",
-      "comment": "Sleeved toploader foil",
-      "date": 1785449767.820675,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785278104.4736,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (P-041) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
-      "seller": {
         "name": "Owlcapone",
         "country": "Item location: Germany"
       },
@@ -1211,7 +1296,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1264,6 +1349,39 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
+        "name": "Wolle220",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 43.5,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "Sleeved toploader foil",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          42.0,
+          1785449767.820675
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785278104.4736,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
         "name": "Sapphire-Cards",
         "country": "Item location: Germany"
       },
@@ -1272,7 +1390,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-10",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1300,7 +1418,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Value",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1540,7 +1658,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Front Mint+ / Back NM+",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1573,7 +1691,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-10",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1601,7 +1719,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A354",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1629,7 +1747,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sous toploader - envoi soigné",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1657,7 +1775,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1685,7 +1803,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1727,7 +1845,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1755,7 +1873,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "A.9.4 A",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1792,8 +1910,8 @@
       "price": 49.99,
       "quantity": 4,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785449767.820675,
+      "comment": "",
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1814,8 +1932,8 @@
       ],
       "first_date": 1783359303.0930798,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 4,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1834,8 +1952,8 @@
       "price": 49.99,
       "quantity": 2,
       "condition": "EX",
-      "comment": "RELISTED! ",
-      "date": 1785449767.820675,
+      "comment": "",
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1855,34 +1973,6 @@
         ]
       ],
       "first_date": 1783359303.0930798,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Monkey.D.Luffy (P-041) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
-      "seller": {
-        "name": "AkibaCollectors",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 49.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785449767.820675,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783177044.511411,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1905,7 +1995,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1942,7 +2032,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Only playset",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1984,7 +2074,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2117,11 +2207,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 51.61,
+      "price": 51.66,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2148,6 +2238,14 @@
         [
           54.17,
           1785278104.4736
+        ],
+        [
+          51.61,
+          1785449767.820675
+        ],
+        [
+          51.78,
+          1785714197.5239892
         ]
       ],
       "previous_quantities": [],
@@ -2170,11 +2268,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 51.62,
+      "price": 51.67,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2217,6 +2315,14 @@
         [
           51.77,
           1785278104.4736
+        ],
+        [
+          51.62,
+          1785449767.820675
+        ],
+        [
+          51.79,
+          1785714197.5239892
         ]
       ],
       "previous_quantities": [],
@@ -2276,7 +2382,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Slevee + Toploader",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2388,7 +2494,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PreGrade Mint+ CCC",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2421,7 +2527,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2479,7 +2585,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2521,7 +2627,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2549,7 +2655,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2582,7 +2688,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "grade 10",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2610,7 +2716,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve and Toploader!",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2638,7 +2744,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for picture",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2649,6 +2755,34 @@
       ],
       "previous_quantities": [],
       "first_date": 1783177044.511411,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "TheoM995",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 69.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "perfect condition",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785714197.5239892,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2700,12 +2834,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 72.03,
-      "quantity": 1,
+      "price": 72.27,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
-      "ended": false,
+      "date": 1785545809.0408752,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2731,6 +2865,10 @@
         [
           72.24,
           1785278104.4736
+        ],
+        [
+          72.03,
+          1785449767.820675
         ]
       ],
       "previous_quantities": [
@@ -2741,11 +2879,15 @@
         [
           0,
           1782649957.4346821
+        ],
+        [
+          1,
+          1785545809.0408752
         ]
       ],
       "first_date": 1782648042.348275,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2766,7 +2908,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2794,7 +2936,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2822,7 +2964,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2850,7 +2992,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2982,7 +3124,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3010,7 +3152,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "tenemos tienda fisica en Madrid @kurai_esp KPP",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3030,6 +3172,34 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
+        "name": "themis77777",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 98.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "CGC 8.5",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785814323.8154905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 8.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
         "name": "Boqui69",
         "country": "Item location: Italy"
       },
@@ -3038,7 +3208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3066,7 +3236,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese. Factory Sealed.",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3094,7 +3264,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Japanese version",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3147,27 +3317,22 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
-        "name": "Mugugno",
-        "country": "Item location: Italy"
+        "name": "Jakjakjak",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
-      "price": 115.0,
+      "price": 125.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "sealed with magazine and kaido",
-      "date": 1785449767.820675,
+      "comment": "great condition",
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          129.0,
-          1785278104.4736
-        ]
-      ],
+      "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783885898.0787275,
+      "first_date": 1782648042.348275,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -3180,20 +3345,29 @@
       "card": "Monkey.D.Luffy (P-041) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
       "seller": {
-        "name": "Jakjakjak",
-        "country": "Item location: Austria"
+        "name": "Mugugno",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 125.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "great condition",
-      "date": 1785449767.820675,
+      "comment": "sealed with magazine and kaido",
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          129.0,
+          1785278104.4736
+        ],
+        [
+          115.0,
+          1785449767.820675
+        ]
+      ],
       "previous_quantities": [],
-      "first_date": 1782648042.348275,
+      "first_date": 1783885898.0787275,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3282,7 +3456,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3319,7 +3493,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Perfect Condition",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3338,6 +3512,62 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "PandaHUBTCG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 179.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "PSA10 Ask for photo",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785814323.8154905,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Monkey.D.Luffy (P-041) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Promos-Japanese_MonkeyDLuffy-P-041-V2",
+      "seller": {
+        "name": "MisiTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785814323.8154905,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785714197.5239892,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -3420,7 +3650,7 @@
       "comment": "",
       "date": 1785278104.4736,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3431,7 +3661,7 @@
       "first_date": 1785278104.4736,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3451,7 +3681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CHINAJOY 2024 STAMP - SEALED",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3479,7 +3709,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC 10",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3507,7 +3737,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10 Japan 1st Anv. Complete Guide",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3573,7 +3803,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3634,7 +3864,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785449767.820675,
+      "date": 1785814323.8154905,
       "ended": false,
       "new": false,
       "previous_prices": [],

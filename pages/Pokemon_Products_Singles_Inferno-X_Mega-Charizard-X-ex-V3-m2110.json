@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 87,
-  "available_graded": 82,
-  "sold": 0,
-  "inserted": 0,
+  "available": 84,
+  "available_graded": 97,
+  "sold": 11,
+  "inserted": 7,
   "listings": [
     {
       "card": "Mega Charizard X ex  (m2 110)",
@@ -4087,12 +4087,12 @@
       },
       "language": "Korean",
       "price": 340.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
+      "comment": "",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           400.0,
@@ -4111,12 +4111,16 @@
         [
           0,
           1784843943.7838166
+        ],
+        [
+          1,
+          1785761179.8858023
         ]
       ],
       "first_date": 1780520835.7602243,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4171,14 +4175,19 @@
       },
       "language": "Korean",
       "price": 345.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "boosterfrisch + card saver",
       "date": 1785443337.4976454,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785443337.4976454
+        ]
+      ],
       "first_date": 1785443337.4976454,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4887,52 +4896,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "DominicColonizador",
-        "country": "Item location: Spain"
-      },
-      "language": "Korean",
-      "price": 360.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784843943.7838166,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          399.98,
-          1782389494.5693965
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782389494.5693965
-        ],
-        [
-          0,
-          1782389494.5693965
-        ],
-        [
-          1,
-          1784843943.7838166
-        ]
-      ],
-      "first_date": 1780978112.4518032,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Davy95",
         "country": "Item location: Italy"
       },
@@ -4970,11 +4933,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Korean",
-      "price": 360.14,
+      "price": 360.46,
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5081,6 +5044,18 @@
         [
           361.18,
           1785271349.6853032
+        ],
+        [
+          360.14,
+          1785443337.4976454
+        ],
+        [
+          361.32,
+          1785600263.0801861
+        ],
+        [
+          361.11,
+          1785761179.8858023
         ]
       ],
       "previous_quantities": [
@@ -5236,6 +5211,206 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Omegarage",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 368.98,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          520.0,
+          1779470103.317039
+        ],
+        [
+          699.0,
+          1779541501.5859916
+        ],
+        [
+          549.0,
+          1780300978.1701746
+        ],
+        [
+          499.0,
+          1780520835.7602243
+        ],
+        [
+          489.0,
+          1780978112.4518032
+        ],
+        [
+          395.0,
+          1785600263.0801861
+        ],
+        [
+          379.0,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780978112.4518032
+        ],
+        [
+          0,
+          1780978112.4518032
+        ]
+      ],
+      "first_date": 1779470103.317039,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Ironhunter91",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 368.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sleeve+Magnetcase wird auch so an den Käufer verschickt",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          445.99,
+          1770726095.0929096
+        ],
+        [
+          400.0,
+          1770847733.9998786
+        ],
+        [
+          445.0,
+          1771009910.1084251
+        ],
+        [
+          350.0,
+          1771657948.432394
+        ],
+        [
+          325.0,
+          1772043997.1411378
+        ],
+        [
+          350.0,
+          1772138163.9296873
+        ],
+        [
+          330.0,
+          1777802869.859656
+        ],
+        [
+          450.0,
+          1779621661.3642867
+        ],
+        [
+          480.0,
+          1780520835.7602243
+        ],
+        [
+          500.0,
+          1781347753.6464026
+        ],
+        [
+          425.0,
+          1781424626.74872
+        ],
+        [
+          500.0,
+          1782120184.7487
+        ],
+        [
+          425.0,
+          1782211761.3566773
+        ],
+        [
+          480.0,
+          1782808936.1558802
+        ],
+        [
+          410.0,
+          1783418766.8153493
+        ],
+        [
+          380.0,
+          1783673047.5595012
+        ],
+        [
+          450.0,
+          1783920362.3282876
+        ],
+        [
+          495.0,
+          1784843943.7838166
+        ],
+        [
+          444.0,
+          1785443337.4976454
+        ],
+        [
+          400.0,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1777802869.859656
+        ],
+        [
+          0,
+          1777802869.859656
+        ],
+        [
+          1,
+          1779621661.3642867
+        ],
+        [
+          0,
+          1779621661.3642867
+        ],
+        [
+          1,
+          1783920362.3282876
+        ],
+        [
+          0,
+          1783920362.3282876
+        ]
+      ],
+      "first_date": 1770726095.0929096,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "SoyunJapanCards",
         "country": "Item location: Spain"
       },
@@ -5259,6 +5434,60 @@
       ],
       "previous_quantities": [],
       "first_date": 1766529419.4306803,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "DominicColonizador",
+        "country": "Item location: Spain"
+      },
+      "language": "Korean",
+      "price": 369.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Posible 10",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          399.98,
+          1782389494.5693965
+        ],
+        [
+          360.0,
+          1784843943.7838166
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782389494.5693965
+        ],
+        [
+          0,
+          1782389494.5693965
+        ],
+        [
+          1,
+          1784843943.7838166
+        ],
+        [
+          0,
+          1784843943.7838166
+        ]
+      ],
+      "first_date": 1780978112.4518032,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5402,7 +5631,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Since 1996 - TOP SERVICE",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6184,7 +6413,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6212,7 +6441,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A lot of cards available. fast shipping",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6243,64 +6472,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "Omegarage",
-        "country": "Item location: Germany"
-      },
-      "language": "Korean",
-      "price": 395.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          520.0,
-          1779470103.317039
-        ],
-        [
-          699.0,
-          1779541501.5859916
-        ],
-        [
-          549.0,
-          1780300978.1701746
-        ],
-        [
-          499.0,
-          1780520835.7602243
-        ],
-        [
-          489.0,
-          1780978112.4518032
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780978112.4518032
-        ],
-        [
-          0,
-          1780978112.4518032
-        ]
-      ],
-      "first_date": 1779470103.317039,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6377,6 +6548,39 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Ghosthunter157",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 398.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Magnet Hülle inbegriffen",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785443337.4976454,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Gokeno",
         "country": "Item location: Germany"
       },
@@ -6439,9 +6643,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785443337.4976454,
@@ -6467,7 +6671,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Mint Super Clean",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6586,6 +6790,146 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Questcornershop",
+        "country": "Item location: France"
+      },
+      "language": "T-Chinese",
+      "price": 399.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          325.0,
+          1766529419.4306803
+        ],
+        [
+          400.0,
+          1779470103.317039
+        ],
+        [
+          410.0,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1766529419.4306803
+        ],
+        [
+          1,
+          1779470103.317039
+        ],
+        [
+          0,
+          1779470103.317039
+        ],
+        [
+          1,
+          1784044533.2341154
+        ],
+        [
+          0,
+          1784044533.2341154
+        ]
+      ],
+      "first_date": 1766529419.4306803,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "PokeJust",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Korean",
+      "price": 399.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! [Near Mint] - [Daily Shipping]",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          449.95,
+          1782211761.3566773
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782211761.3566773
+        ],
+        [
+          0,
+          1782211761.3566773
+        ],
+        [
+          1,
+          1784301381.6599684
+        ],
+        [
+          0,
+          1784301381.6599684
+        ]
+      ],
+      "first_date": 1780870607.235888,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "PokeJust",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Korean",
+      "price": 399.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "[Near Mint] - [Daily Shipping]",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785859007.4428086,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Nosarios",
         "country": "Item location: Netherlands"
       },
@@ -6638,52 +6982,6 @@
         ]
       ],
       "first_date": 1777938769.28101,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "PokeJust",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Korean",
-      "price": 399.95,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "[Near Mint] - [Daily Shipping]",
-      "date": 1784301381.6599684,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          449.95,
-          1782211761.3566773
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782211761.3566773
-        ],
-        [
-          0,
-          1782211761.3566773
-        ],
-        [
-          1,
-          1784301381.6599684
-        ]
-      ],
-      "first_date": 1780870607.235888,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6870,7 +7168,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6903,7 +7201,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Traditional Chinese - Top Loader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6931,7 +7229,7 @@
       "previous_quantities": [],
       "first_date": 1780978112.4518032,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -6952,7 +7250,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Loader - Traditional Chinese",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6979,39 +7277,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1780978112.4518032,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "Heizung95",
-        "country": "Item location: Germany"
-      },
-      "language": "Korean",
-      "price": 400.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          449.0,
-          1784618968.8107848
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782211761.3566773,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7034,7 +7299,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7063,20 +7328,34 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Ghosthunter157",
-        "country": "Item location: Germany"
+        "name": "ngonjuan",
+        "country": "Item location: Spain"
       },
       "language": "Korean",
       "price": 400.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Magnet Hülle inbegriffen",
-      "date": 1785443337.4976454,
+      "comment": "",
+      "date": 1785859007.4428086,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785443337.4976454,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1781424626.74872
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785271349.6853032
+        ],
+        [
+          0,
+          1785271349.6853032
+        ]
+      ],
+      "first_date": 1780406227.7677827,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7099,7 +7378,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fresh from pack. sleeve and toploader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7119,33 +7398,33 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "ngonjuan",
-        "country": "Item location: Spain"
+        "name": "Heizung95",
+        "country": "Item location: Germany"
       },
       "language": "Korean",
       "price": 400.0,
       "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785271349.6853032,
+      "date": 1785600263.0801861,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
-          600.0,
-          1781424626.74872
+          449.0,
+          1784618968.8107848
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1785271349.6853032
+          1785600263.0801861
         ]
       ],
-      "first_date": 1780406227.7677827,
+      "first_date": 1782211761.3566773,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7167,7 +7446,7 @@
       "comment": "Magnet Hülle inbegriffen",
       "date": 1785271349.6853032,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7178,7 +7457,7 @@
       "first_date": 1785271349.6853032,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -7742,50 +8021,20 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Questcornershop",
-        "country": "Item location: France"
+        "name": "Yannick123125",
+        "country": "Item location: Germany"
       },
-      "language": "T-Chinese",
+      "language": "Korean",
       "price": 410.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785443337.4976454,
+      "comment": "Clean Card",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          325.0,
-          1766529419.4306803
-        ],
-        [
-          400.0,
-          1779470103.317039
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1766529419.4306803
-        ],
-        [
-          1,
-          1779470103.317039
-        ],
-        [
-          0,
-          1779470103.317039
-        ],
-        [
-          1,
-          1784044533.2341154
-        ],
-        [
-          0,
-          1784044533.2341154
-        ]
-      ],
-      "first_date": 1766529419.4306803,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785761179.8858023,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8273,7 +8522,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Wide selection. B2B possible",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9774,132 +10023,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Ironhunter91",
-        "country": "Item location: Germany"
-      },
-      "language": "Korean",
-      "price": 444.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sleeve+Magnetcase wird auch so an den Käufer verschickt",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          445.99,
-          1770726095.0929096
-        ],
-        [
-          400.0,
-          1770847733.9998786
-        ],
-        [
-          445.0,
-          1771009910.1084251
-        ],
-        [
-          350.0,
-          1771657948.432394
-        ],
-        [
-          325.0,
-          1772043997.1411378
-        ],
-        [
-          350.0,
-          1772138163.9296873
-        ],
-        [
-          330.0,
-          1777802869.859656
-        ],
-        [
-          450.0,
-          1779621661.3642867
-        ],
-        [
-          480.0,
-          1780520835.7602243
-        ],
-        [
-          500.0,
-          1781347753.6464026
-        ],
-        [
-          425.0,
-          1781424626.74872
-        ],
-        [
-          500.0,
-          1782120184.7487
-        ],
-        [
-          425.0,
-          1782211761.3566773
-        ],
-        [
-          480.0,
-          1782808936.1558802
-        ],
-        [
-          410.0,
-          1783418766.8153493
-        ],
-        [
-          380.0,
-          1783673047.5595012
-        ],
-        [
-          450.0,
-          1783920362.3282876
-        ],
-        [
-          495.0,
-          1784843943.7838166
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1777802869.859656
-        ],
-        [
-          0,
-          1777802869.859656
-        ],
-        [
-          1,
-          1779621661.3642867
-        ],
-        [
-          0,
-          1779621661.3642867
-        ],
-        [
-          1,
-          1783920362.3282876
-        ],
-        [
-          0,
-          1783920362.3282876
-        ]
-      ],
-      "first_date": 1770726095.0929096,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "MeSmash",
         "country": "Item location: Germany"
       },
@@ -9908,7 +10031,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Pictures on demand",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10341,7 +10464,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11175,14 +11298,19 @@
       },
       "language": "Korean",
       "price": 460.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "gradé BRG 9",
       "date": 1785443337.4976454,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785443337.4976454
+        ]
+      ],
       "first_date": 1785094188.490735,
       "last_date": 0.0,
       "price_is_new": false,
@@ -11645,7 +11773,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "fast shipping",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11824,6 +11952,34 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1772309662.6757033,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Carlimatronix",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 475.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "front nm. back ex. some white points and scratches in the back",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785761179.8858023,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -13268,6 +13424,43 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "DKLegacy",
+        "country": "Item location: Germany"
+      },
+      "language": "Korean",
+      "price": 499.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "TOP COND",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785271349.6853032
+        ],
+        [
+          0,
+          1785271349.6853032
+        ]
+      ],
+      "first_date": 1781853487.4685278,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "TCGNinoNL",
         "country": "Item location: Netherlands"
       },
@@ -13276,7 +13469,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13292,41 +13485,8 @@
       "previous_quantities": [],
       "first_date": 1781923104.237664,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "DKLegacy",
-        "country": "Item location: Germany"
-      },
-      "language": "Korean",
-      "price": 499.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "TOP COND",
-      "date": 1785271349.6853032,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1785271349.6853032
-        ]
-      ],
-      "first_date": 1781853487.4685278,
-      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13412,11 +13572,11 @@
       },
       "language": "Japanese",
       "price": 500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! front nm. back ex",
-      "date": 1785443337.4976454,
-      "ended": false,
+      "comment": "front nm. back ex",
+      "date": 1785600263.0801861,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -13432,12 +13592,16 @@
         [
           0,
           1784843943.7838166
+        ],
+        [
+          1,
+          1785600263.0801861
         ]
       ],
       "first_date": 1784618968.8107848,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14670,8 +14834,8 @@
       "price": 539.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! a few light surface scratches on back // SAME DAY SHIPPING // TOPLOADED",
-      "date": 1785443337.4976454,
+      "comment": "a few light surface scratches on back // SAME DAY SHIPPING // TOPLOADED",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14768,8 +14932,8 @@
       ],
       "first_date": 1779162986.6426034,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -15826,7 +15990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16009,8 +16173,8 @@
       "price": 569.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Printline / Missprint",
-      "date": 1785443337.4976454,
+      "comment": "Printline / Missprint",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16080,7 +16244,7 @@
       "first_date": 1780300978.1701746,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16100,7 +16264,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "TOP",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16288,7 +16452,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve + slab",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16366,7 +16530,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Beckett 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16871,7 +17035,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster-Sleeve-Toploader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16903,6 +17067,44 @@
         ]
       ],
       "first_date": 1769114175.1608665,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "TCG-PEACE",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 599.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "*** Amazing *** - Contact Me !",
+      "date": 1785600263.0801861,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          600.0,
+          1785443337.4976454
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785600263.0801861
+        ]
+      ],
+      "first_date": 1785443337.4976454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -16975,7 +17177,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5. 9.5/9.5/9.5/9.5 fast shipping!",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16991,7 +17193,7 @@
       "previous_quantities": [],
       "first_date": 1785094188.490735,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -17152,89 +17354,16 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "TCG-PEACE",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "*** Amazing *** - Contact Me !",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785443337.4976454,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "Laudiwi",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! Pics available",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784752323.4290278
-        ],
-        [
-          0,
-          1784752323.4290278
-        ],
-        [
-          1,
-          1785094188.490735
-        ],
-        [
-          0,
-          1785094188.490735
-        ]
-      ],
-      "first_date": 1784752323.4290278,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Wanes085",
         "country": "Item location: Germany"
       },
       "language": "Korean",
       "price": 600.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785094188.490735,
-      "ended": true,
+      "date": 1785859007.4428086,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -17258,9 +17387,58 @@
         [
           1,
           1785094188.490735
+        ],
+        [
+          0,
+          1785094188.490735
         ]
       ],
       "first_date": 1767385184.4159522,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Laudiwi",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Pics available",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1784752323.4290278
+        ],
+        [
+          0,
+          1784752323.4290278
+        ],
+        [
+          1,
+          1785094188.490735
+        ],
+        [
+          0,
+          1785094188.490735
+        ]
+      ],
+      "first_date": 1784752323.4290278,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -17827,6 +18005,34 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Mplay",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 625.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NM Sleeve & Toploader",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785859007.4428086,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Molopo123",
         "country": "Item location: France"
       },
@@ -17960,12 +18166,12 @@
       },
       "language": "Japanese",
       "price": 630.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
+      "comment": "",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           649.95,
@@ -18000,12 +18206,16 @@
         [
           0,
           1785094188.490735
+        ],
+        [
+          1,
+          1785761179.8858023
         ]
       ],
       "first_date": 1782312644.2451408,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18242,14 +18452,19 @@
       },
       "language": "Japanese",
       "price": 639.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "GSG 9",
       "date": 1785443337.4976454,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785443337.4976454
+        ]
+      ],
       "first_date": 1785443337.4976454,
       "last_date": 0.0,
       "price_is_new": false,
@@ -18504,8 +18719,8 @@
       "price": 645.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
+      "comment": "",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18583,7 +18798,7 @@
       "first_date": 1779035917.0275497,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -18822,7 +19037,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Perfect Card DM for more",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18855,7 +19070,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Packfresh",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18904,7 +19119,65 @@
       ],
       "first_date": 1782389494.5693965,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "USFEDERER",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "RELISTED! Y-5-4",
+      "date": 1785600263.0801861,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          799.0,
+          1783418766.8153493
+        ],
+        [
+          700.0,
+          1784463026.6974218
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783418766.8153493
+        ],
+        [
+          0,
+          1783418766.8153493
+        ],
+        [
+          1,
+          1784463026.6974218
+        ],
+        [
+          0,
+          1784463026.6974218
+        ],
+        [
+          1,
+          1785600263.0801861
+        ]
+      ],
+      "first_date": 1783418766.8153493,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -18922,11 +19195,11 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "RELISTED! ",
       "date": 1785443337.4976454,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -19009,12 +19282,16 @@
         [
           0,
           1785094188.490735
+        ],
+        [
+          1,
+          1785443337.4976454
         ]
       ],
       "first_date": 1778605535.9048245,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -19701,357 +19978,15 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "EpicCardsNL",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 659.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "sleeve -> Toploader",
-      "date": 1778181852.255581,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          699.0,
-          1776247574.5580554
-        ],
-        [
-          639.0,
-          1776541148.5344853
-        ],
-        [
-          670.0,
-          1776633927.9290845
-        ],
-        [
-          659.0,
-          1777289324.2272987
-        ],
-        [
-          665.0,
-          1777402060.759896
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778181852.255581
-        ]
-      ],
-      "first_date": 1776247574.5580554,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "mojozone",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 659.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1763818161.7869513,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1763818161.7869513,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "MagicMansion",
-        "country": "Item location: Poland"
-      },
-      "language": "Japanese",
-      "price": 660.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1782808936.1558802,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782808936.1558802
-        ]
-      ],
-      "first_date": 1782808936.1558802,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "CardChamps",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 660.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Pack fresh - has no whitening - little OC",
-      "date": 1778384514.8816054,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          560.0,
-          1775162547.1740148
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776930706.8577323
-        ],
-        [
-          1,
-          1777551814.9132376
-        ],
-        [
-          0,
-          1777551814.9132376
-        ],
-        [
-          1,
-          1778113850.7850955
-        ],
-        [
-          0,
-          1778113850.7850955
-        ],
-        [
-          1,
-          1778384514.8816054
-        ]
-      ],
-      "first_date": 1775076741.5816913,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "SixtyoneTCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 670.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          794.99,
-          1783554895.5560305
-        ],
-        [
-          749.99,
-          1783920362.3282876
-        ],
-        [
-          685.0,
-          1784843943.7838166
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783920362.3282876
-        ],
-        [
-          0,
-          1783920362.3282876
-        ],
-        [
-          1,
-          1784843943.7838166
-        ],
-        [
-          0,
-          1784843943.7838166
-        ]
-      ],
-      "first_date": 1783554895.5560305,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "Barrito",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 674.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "Mint condition. Ask me anything",
-      "date": 1781923104.237664,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          725.0,
-          1780520835.7602243
-        ],
-        [
-          699.0,
-          1780978112.4518032
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780978112.4518032
-        ],
-        [
-          0,
-          1780978112.4518032
-        ],
-        [
-          1,
-          1781923104.237664
-        ]
-      ],
-      "first_date": 1780224460.806406,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "PeakpacksNL",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 675.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "More cards available! PM for pics!",
-      "date": 1776633927.9290845,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1776060127.735749,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "SmartLama",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 675.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "AOG 10 Rating: 97 / 100",
-      "date": 1769796055.2975316,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          700.0,
-          1769367269.6858654
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1769367269.6858654,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "AOG",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Forbiddenplanet",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 676.02,
+      "price": 657.02,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -20374,6 +20309,18 @@
         [
           675.2,
           1785271349.6853032
+        ],
+        [
+          676.02,
+          1785443337.4976454
+        ],
+        [
+          659.97,
+          1785600263.0801861
+        ],
+        [
+          658.57,
+          1785761179.8858023
         ]
       ],
       "previous_quantities": [
@@ -20397,44 +20344,382 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Eltequito4",
+        "name": "EpicCardsNL",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 659.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sleeve -> Toploader",
+      "date": 1778181852.255581,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          699.0,
+          1776247574.5580554
+        ],
+        [
+          639.0,
+          1776541148.5344853
+        ],
+        [
+          670.0,
+          1776633927.9290845
+        ],
+        [
+          659.0,
+          1777289324.2272987
+        ],
+        [
+          665.0,
+          1777402060.759896
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778181852.255581
+        ]
+      ],
+      "first_date": 1776247574.5580554,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "mojozone",
         "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 659.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1763818161.7869513,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1763818161.7869513,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "MagicMansion",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 660.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1782808936.1558802,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1782808936.1558802
+        ]
+      ],
+      "first_date": 1782808936.1558802,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "CardChamps",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 660.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Pack fresh - has no whitening - little OC",
+      "date": 1778384514.8816054,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          560.0,
+          1775162547.1740148
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776930706.8577323
+        ],
+        [
+          1,
+          1777551814.9132376
+        ],
+        [
+          0,
+          1777551814.9132376
+        ],
+        [
+          1,
+          1778113850.7850955
+        ],
+        [
+          0,
+          1778113850.7850955
+        ],
+        [
+          1,
+          1778384514.8816054
+        ]
+      ],
+      "first_date": 1775076741.5816913,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "SixtyoneTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 670.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785600263.0801861,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          794.99,
+          1783554895.5560305
+        ],
+        [
+          749.99,
+          1783920362.3282876
+        ],
+        [
+          685.0,
+          1784843943.7838166
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783920362.3282876
+        ],
+        [
+          0,
+          1783920362.3282876
+        ],
+        [
+          1,
+          1784843943.7838166
+        ],
+        [
+          0,
+          1784843943.7838166
+        ],
+        [
+          1,
+          1785600263.0801861
+        ]
+      ],
+      "first_date": 1783554895.5560305,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Barrito",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 674.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Mint condition. Ask me anything",
+      "date": 1781923104.237664,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          725.0,
+          1780520835.7602243
+        ],
+        [
+          699.0,
+          1780978112.4518032
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780978112.4518032
+        ],
+        [
+          0,
+          1780978112.4518032
+        ],
+        [
+          1,
+          1781923104.237664
+        ]
+      ],
+      "first_date": 1780224460.806406,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "PeakpacksNL",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 675.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "More cards available! PM for pics!",
+      "date": 1776633927.9290845,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1776060127.735749,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "SmartLama",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 675.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "AOG 10 Rating: 97 / 100",
+      "date": 1769796055.2975316,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          700.0,
+          1769367269.6858654
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1769367269.6858654,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "DerRoteBaron99",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
       "price": 680.0,
       "quantity": 1,
-      "condition": "NM",
-      "comment": "Beckett BGS 9 Strong",
-      "date": 1785443337.4976454,
+      "condition": "MT",
+      "comment": "PSA 9 / Happy to help. just ask!",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          900.0,
-          1783554895.5560305
-        ],
-        [
-          820.0,
-          1783673047.5595012
-        ],
-        [
-          850.0,
-          1784463026.6974218
+          800.0,
+          1785443337.4976454
         ],
         [
           700.0,
-          1785271349.6853032
+          1785761179.8858023
         ]
       ],
       "previous_quantities": [],
-      "first_date": 1782537882.8068974,
+      "first_date": 1784618968.8107848,
       "last_date": 0.0,
       "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "BGS",
+      "grade_company": "PSA",
       "grade": 9.0,
       "grade_source": "auto"
     },
@@ -20549,6 +20834,56 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Dome1717",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 685.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! ",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          740.0,
+          1782211761.3566773
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781605198.4192958
+        ],
+        [
+          0,
+          1781605198.4192958
+        ],
+        [
+          1,
+          1782211761.3566773
+        ],
+        [
+          0,
+          1782211761.3566773
+        ]
+      ],
+      "first_date": 1781605198.4192958,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "starz-collectibles",
         "country": "Item location: Germany"
       },
@@ -20582,11 +20917,11 @@
       },
       "language": "Japanese",
       "price": 690.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785094188.490735,
-      "ended": true,
+      "date": 1785859007.4428086,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -20601,6 +20936,10 @@
         ],
         [
           1,
+          1785094188.490735
+        ],
+        [
+          0,
           1785094188.490735
         ]
       ],
@@ -20819,7 +21158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "_.BGS 10_ Since 1996 - TOP SERVICE",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -20847,7 +21186,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved + Toploader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -21015,6 +21354,55 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Eltequito4",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Beckett BGS 9 Strong",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          900.0,
+          1783554895.5560305
+        ],
+        [
+          820.0,
+          1783673047.5595012
+        ],
+        [
+          850.0,
+          1784463026.6974218
+        ],
+        [
+          700.0,
+          1785271349.6853032
+        ],
+        [
+          680.0,
+          1785443337.4976454
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782537882.8068974,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Aricards-de",
         "country": "Item location: Germany"
       },
@@ -21022,8 +21410,8 @@
       "price": 700.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1785443337.4976454,
+      "comment": "RELISTED! PSA 9",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -21044,44 +21432,25 @@
           1785271349.6853032
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785600263.0801861
+        ],
+        [
+          0,
+          1785600263.0801861
+        ]
+      ],
       "first_date": 1784198230.115132,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "KnightDoll",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 700.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve & Toploader (Perfect Card) Fast Shipping",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784618968.8107848,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -21096,15 +21465,48 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785443337.4976454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "KnightDoll",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeve & Toploader (Perfect Card) Fast Shipping",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1784618968.8107848,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -21135,52 +21537,6 @@
         ]
       ],
       "first_date": 1784463026.6974218,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "USFEDERER",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 700.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "RELISTED! Y-5-4",
-      "date": 1784463026.6974218,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          799.0,
-          1783418766.8153493
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783418766.8153493
-        ],
-        [
-          0,
-          1783418766.8153493
-        ],
-        [
-          1,
-          1784463026.6974218
-        ]
-      ],
-      "first_date": 1783418766.8153493,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -22062,8 +22418,8 @@
       "price": 720.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
+      "comment": "",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22101,48 +22457,6 @@
       "first_date": 1782626244.7437909,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "anastasak0s",
-        "country": "Item location: Greece"
-      },
-      "language": "Japanese",
-      "price": 720.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          700.0,
-          1783673047.5595012
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783673047.5595012
-        ],
-        [
-          0,
-          1783673047.5595012
-        ]
-      ],
-      "first_date": 1783149035.5343285,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -22163,7 +22477,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -22182,6 +22496,52 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "anastasak0s",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 720.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          700.0,
+          1783673047.5595012
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783673047.5595012
+        ],
+        [
+          0,
+          1783673047.5595012
+        ],
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1783149035.5343285,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -22573,47 +22933,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Dome1717",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 740.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Great centering",
-      "date": 1782211761.3566773,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1781605198.4192958
-        ],
-        [
-          0,
-          1781605198.4192958
-        ],
-        [
-          1,
-          1782211761.3566773
-        ]
-      ],
-      "first_date": 1781605198.4192958,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Volkankonak",
         "country": "Item location: Germany"
       },
@@ -22789,12 +23108,40 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CARD REVIEW PCA MINT",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784198230.115132,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "MrBlueIsHere",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 745.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785761179.8858023,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -23251,7 +23598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PKM11 - 3 - 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23305,64 +23652,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "EttoreMTG",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 749.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          449.99,
-          1766529419.4306803
-        ],
-        [
-          479.99,
-          1767385184.4159522
-        ],
-        [
-          449.99,
-          1770206079.199567
-        ],
-        [
-          499.99,
-          1774906239.229626
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1774906239.229626
-        ],
-        [
-          1,
-          1785094188.490735
-        ],
-        [
-          0,
-          1785094188.490735
-        ]
-      ],
-      "first_date": 1766081364.3361063,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "DarkGrocery",
         "country": "Item location: Belgium"
       },
@@ -23371,7 +23660,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10/Gem Mint Fast shipping",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23419,6 +23708,68 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "EttoreMTG",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 749.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          449.99,
+          1766529419.4306803
+        ],
+        [
+          479.99,
+          1767385184.4159522
+        ],
+        [
+          449.99,
+          1770206079.199567
+        ],
+        [
+          499.99,
+          1774906239.229626
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1774906239.229626
+        ],
+        [
+          1,
+          1785094188.490735
+        ],
+        [
+          0,
+          1785094188.490735
+        ],
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1766081364.3361063,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -23542,7 +23893,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "V  - TIENDA FISICA Y ONLINE - VARIOS TCG",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23570,7 +23921,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -23607,7 +23958,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + toploaded",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -23630,6 +23981,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "NonaNinja",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 750.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785761179.8858023,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -24368,7 +24747,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition NO whitening / Shipping in Cardsaver after 1 Workday",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24467,6 +24846,34 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Luis-Bow",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 775.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Strong PSA 9",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785600263.0801861,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -24626,7 +25033,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -24691,7 +25098,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->Sleeve->Toploader .More Pictures available.",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25568,7 +25975,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Wide Selection B2B possible",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25610,7 +26017,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10/Fast shipping",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25664,7 +26071,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Look @ Photos",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25705,7 +26112,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Look @ Photos",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25733,40 +26140,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Look @ Photos",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782312644.2451408,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "jerryp3rry",
-        "country": "Item location: Finland"
-      },
-      "language": "Japanese",
-      "price": 799.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Ask for pictures.",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784198230.115132,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -25789,7 +26168,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Sleeve and Toploader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -25812,6 +26191,39 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "jerryp3rry",
+        "country": "Item location: Finland"
+      },
+      "language": "Japanese",
+      "price": 799.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Ask for pictures.",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1784198230.115132,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -25887,7 +26299,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PACK FRESH",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -25907,34 +26319,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "DerRoteBaron99",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 / Happy to help. just ask!",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784618968.8107848,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Sasa1720089",
         "country": "Item location: Italy"
       },
@@ -25943,7 +26327,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more info in dm+gift",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -27446,7 +27830,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA9",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -27685,6 +28069,59 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Pau04",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 900.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "ask for photos. Carta en perfecto estado. Compre con seguridad",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1100.0,
+          1776633927.9290845
+        ],
+        [
+          1080.0,
+          1776930706.8577323
+        ],
+        [
+          1000.0,
+          1777196387.235626
+        ],
+        [
+          980.0,
+          1777402060.759896
+        ],
+        [
+          950.0,
+          1778181852.255581
+        ],
+        [
+          1050.0,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1776437907.706998,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "szejmas",
         "country": "Item location: Switzerland"
       },
@@ -27693,7 +28130,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Fresh Packed From Booster Box to Top Holder with Sleever; Special Alter Rear (SAR) Classification!",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28005,6 +28442,64 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "CardAnvil",
+        "country": "Item location: Slovakia"
+      },
+      "language": "Japanese",
+      "price": 903.26,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "[BGS 9.5]",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1050.0,
+          1784198230.115132
+        ],
+        [
+          1000.0,
+          1784618968.8107848
+        ],
+        [
+          950.0,
+          1784752323.4290278
+        ],
+        [
+          940.5,
+          1785094188.490735
+        ],
+        [
+          921.69,
+          1785761179.8858023
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780978112.4518032
+        ],
+        [
+          0,
+          1780978112.4518032
+        ]
+      ],
+      "first_date": 1780978112.4518032,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "cecitcgstore",
         "country": "Item location: Italy"
       },
@@ -28013,7 +28508,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28041,66 +28536,12 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785094188.490735,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "CardAnvil",
-        "country": "Item location: Slovakia"
-      },
-      "language": "Japanese",
-      "price": 921.69,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "[BGS 9.5]",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1050.0,
-          1784198230.115132
-        ],
-        [
-          1000.0,
-          1784618968.8107848
-        ],
-        [
-          950.0,
-          1784752323.4290278
-        ],
-        [
-          940.5,
-          1785094188.490735
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780978112.4518032
-        ],
-        [
-          0,
-          1780978112.4518032
-        ]
-      ],
-      "first_date": 1780978112.4518032,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -28189,7 +28630,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28572,6 +29013,39 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "Oskaro",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 999.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Beckett 9.5 Gem Mint. graded",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1785761179.8858023,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "SedaAA",
         "country": "Item location: Germany"
       },
@@ -28654,7 +29128,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 SERIOUS SELLER",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28682,7 +29156,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCC 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28702,6 +29176,64 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "DV1985",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "BGS 9.5",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          599.0,
+          1775162547.1740148
+        ],
+        [
+          1500.0,
+          1782211761.3566773
+        ],
+        [
+          1200.0,
+          1784752323.4290278
+        ],
+        [
+          1100.0,
+          1785600263.0801861
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775162547.1740148
+        ],
+        [
+          1,
+          1780978112.4518032
+        ],
+        [
+          0,
+          1780978112.4518032
+        ]
+      ],
+      "first_date": 1773789740.1989517,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "dyocaru",
         "country": "Item location: Italy"
       },
@@ -28710,7 +29242,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to plastic box",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28752,7 +29284,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Becektt 9.5 - DM for more info or photos.The shipping price is incorrect.",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28780,7 +29312,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Pack Fresh",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -28808,7 +29340,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -28997,16 +29529,20 @@
       },
       "language": "Japanese",
       "price": 1039.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 - NEW CASE",
-      "date": 1784843943.7838166,
-      "ended": true,
+      "date": 1785859007.4428086,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784843943.7838166
+        ],
+        [
+          0,
           1784843943.7838166
         ]
       ],
@@ -29066,7 +29602,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29128,55 +29664,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Pau04",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 1050.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "ask for photos.",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1100.0,
-          1776633927.9290845
-        ],
-        [
-          1080.0,
-          1776930706.8577323
-        ],
-        [
-          1000.0,
-          1777196387.235626
-        ],
-        [
-          980.0,
-          1777402060.759896
-        ],
-        [
-          950.0,
-          1778181852.255581
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1776437907.706998,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Savu93",
         "country": "Item location: Germany"
       },
@@ -29185,7 +29672,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 - more Pictures available",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29391,6 +29878,84 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "mtekan",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 1080.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          10000.0,
+          1785271349.6853032
+        ],
+        [
+          1220.0,
+          1785443337.4976454
+        ],
+        [
+          1170.0,
+          1785600263.0801861
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785443337.4976454
+        ],
+        [
+          5,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1785094188.490735,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -4,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "mtekan",
+        "country": "Item location: Cyprus"
+      },
+      "language": "Japanese",
+      "price": 1080.0,
+      "quantity": 10,
+      "condition": "MT",
+      "comment": "PSA10 X 12",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785859007.4428086,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "rainenjoyerbear",
         "country": "Item location: Germany"
       },
@@ -29554,7 +30119,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 ( 9/9.5/9.5/9.5 ) ask for photo's",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29611,8 +30176,8 @@
       "price": 1100.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! collect aura 10 mp for shipping cost",
-      "date": 1785443337.4976454,
+      "comment": "collect aura 10 mp for shipping cost",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -29642,66 +30207,12 @@
       "first_date": 1769524956.8665097,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "",
       "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "DV1985",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1100.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          599.0,
-          1775162547.1740148
-        ],
-        [
-          1500.0,
-          1782211761.3566773
-        ],
-        [
-          1200.0,
-          1784752323.4290278
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1775162547.1740148
-        ],
-        [
-          1,
-          1780978112.4518032
-        ],
-        [
-          0,
-          1780978112.4518032
-        ]
-      ],
-      "first_date": 1773789740.1989517,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -29990,17 +30501,63 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "nico7816",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1130.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1190.0,
+          1784843943.7838166
+        ],
+        [
+          1170.0,
+          1785600263.0801861
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784843943.7838166
+        ],
+        [
+          0,
+          1784843943.7838166
+        ]
+      ],
+      "first_date": 1784843943.7838166,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Meedo",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1128.44,
-      "quantity": 1,
+      "price": 1131.47,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1136.46,
@@ -30037,13 +30594,59 @@
         [
           1131.68,
           1785271349.6853032
+        ],
+        [
+          1128.44,
+          1785443337.4976454
+        ],
+        [
+          1132.14,
+          1785600263.0801861
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
       "first_date": 1783920362.3282876,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "CardshopCRO",
+        "country": "Item location: Croatia"
+      },
+      "language": "Japanese",
+      "price": 1150.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Psa10.ask for shipping cost",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1785761179.8858023,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30326,25 +30929,20 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "nico7816",
-        "country": "Item location: France"
+        "name": "BlackPaule",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1190.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1784843943.7838166,
-      "ended": true,
+      "date": 1785859007.4428086,
+      "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784843943.7838166
-        ]
-      ],
-      "first_date": 1784843943.7838166,
+      "previous_quantities": [],
+      "first_date": 1785600263.0801861,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -30367,7 +30965,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "[CGC 10.0] POKEMON 0010 - 51",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30433,7 +31031,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30463,7 +31061,7 @@
       "first_date": 1780520835.7602243,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30483,7 +31081,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30529,7 +31127,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. ask for pictures",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30567,6 +31165,34 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "MaHein",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1200.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Graded AOG 10. ask for more pictures",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783319177.754463,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AOG",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "KimoorTCG",
         "country": "Item location: Netherlands"
       },
@@ -30574,8 +31200,8 @@
       "price": 1200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785443337.4976454,
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -30613,7 +31239,7 @@
       "first_date": 1783319177.754463,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -30625,27 +31251,27 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "MaHein",
-        "country": "Item location: Germany"
+        "name": "johnash",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 1200.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "Graded AOG 10. ask for more pictures",
-      "date": 1785443337.4976454,
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1783319177.754463,
+      "first_date": 1785271349.6853032,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "AOG",
+      "grade_company": "PSA",
       "grade": 10.0,
       "grade_source": "auto"
     },
@@ -30661,7 +31287,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRAD 9.5 MINT",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -30675,34 +31301,6 @@
       "archived": false,
       "grade_company": "UNK",
       "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
-        "name": "johnash",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 1200.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785271349.6853032,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -31018,39 +31616,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "mtekan",
-        "country": "Item location: Cyprus"
-      },
-      "language": "Japanese",
-      "price": 1220.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA10",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          10000.0,
-          1785271349.6853032
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1785094188.490735,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "EAG-TCG",
         "country": "Item location: France"
       },
@@ -31059,7 +31624,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 - RMP Paris",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31153,7 +31718,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31186,7 +31751,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31213,8 +31778,8 @@
       "price": 1250.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785443337.4976454,
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31231,7 +31796,7 @@
       "first_date": 1783149035.5343285,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -31481,7 +32046,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. 19% Mwst. täglicher Versand. Pn für Bilder",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31518,12 +32083,40 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782626244.7437909,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "BuiBui",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1299.99,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10!  /201*",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785859007.4428086,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -31545,8 +32138,8 @@
       "price": 1300.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785443337.4976454,
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31571,7 +32164,7 @@
       "first_date": 1784198230.115132,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -31591,7 +32184,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -31628,7 +32221,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -31656,7 +32249,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32062,7 +32655,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5 Guard + Extended Art included",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32090,12 +32683,49 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Differenzbesteuerung nach § 25a ustg",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785443337.4976454
+        ],
+        [
+          0,
+          1785443337.4976454
+        ]
+      ],
+      "first_date": 1784843943.7838166,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "Lahmie",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784843943.7838166,
+      "first_date": 1783554895.5560305,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -32118,7 +32748,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10. ritiro a mano Milano Bergamo",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32152,34 +32782,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "Lahmie",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 10",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783554895.5560305,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "PokemonCn",
         "country": "Item location: Italy"
       },
@@ -32188,7 +32790,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "PSA10 - 136956127",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32459,6 +33061,67 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
+        "name": "PokemonFr75",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1356.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1475.0,
+          1785443337.4976454
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784301381.6599684,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "PokemonFr75",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1356.0,
+      "quantity": 2,
+      "condition": "MT",
+      "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
+      "date": 1785859007.4428086,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785600263.0801861,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
         "name": "Benjamin67",
         "country": "Item location: Germany"
       },
@@ -32467,7 +33130,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC Pristine 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32545,7 +33208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -32610,7 +33273,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10. Safe and fast shipping",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -32632,6 +33295,39 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "CGC",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Mega Charizard X ex  (m2 110)",
+      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
+      "seller": {
+        "name": "xAlee4058",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 1399.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "PSA 10 / Trade auch möglich  /",
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785761179.8858023
+        ]
+      ],
+      "first_date": 1785761179.8858023,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
       "grade": 10.0,
       "grade_source": "auto"
     },
@@ -32820,7 +33516,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC GEM MINT 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33188,12 +33884,12 @@
       },
       "language": "Japanese",
       "price": 1402.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 - trusted new seller",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
+      "date": 1785761179.8858023,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           1533.0,
@@ -33208,12 +33904,16 @@
         [
           0,
           1782808936.1558802
+        ],
+        [
+          1,
+          1785761179.8858023
         ]
       ],
       "first_date": 1780870607.235888,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -33266,7 +33966,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - box #0002R",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33351,11 +34051,11 @@
       },
       "language": "Japanese",
       "price": 1450.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 || Insta : @vt.collectors",
       "date": 1785443337.4976454,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -33366,6 +34066,10 @@
         [
           0,
           1784463026.6974218
+        ],
+        [
+          2,
+          1785443337.4976454
         ]
       ],
       "first_date": 1782712883.1303477,
@@ -33671,34 +34375,6 @@
       "card": "Mega Charizard X ex  (m2 110)",
       "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
       "seller": {
-        "name": "PokemonFr75",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1475.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
-      "date": 1785443337.4976454,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784301381.6599684,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Mega Charizard X ex  (m2 110)",
-      "canonical_name": "Pokemon_Products_Singles_Inferno-X_Mega-Charizard-X-ex-V3-m2110",
-      "seller": {
         "name": "Renzz313",
         "country": "Item location: Netherlands"
       },
@@ -33740,7 +34416,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -33789,7 +34465,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -33905,7 +34581,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 -  IG: cardpacksplaza - I367",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34210,7 +34886,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34238,7 +34914,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34275,7 +34951,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 incl. 19%",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34377,7 +35053,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34431,7 +35107,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34459,7 +35135,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -34500,7 +35176,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34923,7 +35599,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -34984,7 +35660,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC Pristine 6143637001",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35165,7 +35841,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35193,7 +35869,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Possibilita' di ritiro a mano",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35221,7 +35897,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. Guard not included",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -35304,7 +35980,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10 -  New Cert",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35398,7 +36074,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve und toploader",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35476,7 +36152,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35565,7 +36241,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35592,8 +36268,8 @@
       "price": 1800.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785443337.4976454,
+      "comment": "PSA 10",
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -35610,7 +36286,7 @@
       "first_date": 1781605198.4192958,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -35630,7 +36306,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -35675,7 +36351,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC Pristine 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -35787,7 +36463,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -35986,7 +36662,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - 145938880",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36388,7 +37064,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36488,7 +37164,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36582,7 +37258,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 9.5",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36615,7 +37291,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36639,11 +37315,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 2963.57,
+      "price": 2966.16,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10!!!",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36734,6 +37410,18 @@
         [
           2972.06,
           1785271349.6853032
+        ],
+        [
+          2963.57,
+          1785443337.4976454
+        ],
+        [
+          2973.28,
+          1785600263.0801861
+        ],
+        [
+          2971.53,
+          1785761179.8858023
         ]
       ],
       "previous_quantities": [],
@@ -36760,7 +37448,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36788,7 +37476,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10   ask for photo",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -36829,7 +37517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36857,7 +37545,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Pending grading from PSA. i Will seel to the best buyer",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -36955,7 +37643,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -37058,7 +37746,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785443337.4976454,
+      "date": 1785859007.4428086,
       "ended": false,
       "new": false,
       "previous_prices": [

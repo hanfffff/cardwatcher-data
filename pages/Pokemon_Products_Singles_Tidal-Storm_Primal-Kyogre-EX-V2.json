@@ -11,7 +11,7 @@
   ],
   "only_germany": false,
   "available": 8,
-  "available_graded": 1,
+  "available_graded": 0,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -83,7 +83,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -115,8 +115,8 @@
       "price": 250.0,
       "quantity": 1,
       "condition": "GD",
-      "comment": "RELISTED! J6",
-      "date": 1785431043.0875375,
+      "comment": "J6",
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -141,7 +141,7 @@
       "first_date": 1781325087.4129007,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -232,7 +232,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -310,7 +310,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Excellent + / NM-",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -398,7 +398,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nuovo venditore. contattatemi per maggiori info. grazie",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -481,7 +481,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM- Bottom left corner",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -531,7 +531,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Groudon available !! unlimited edition !!",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -559,7 +559,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ask for pics - fast & save shipping - check out my other cards",
-      "date": 1785431043.0875375,
+      "date": 1785876992.5826483,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -805,11 +805,11 @@
       },
       "language": "Japanese",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / EU shipping possible / also have groudon",
-      "date": 1785431043.0875375,
-      "ended": false,
+      "date": 1785618323.1745832,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -821,7 +821,12 @@
           1777323200.7100592
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785618323.1745832
+        ]
+      ],
       "first_date": 1772056495.400314,
       "last_date": 0.0,
       "price_is_new": false,

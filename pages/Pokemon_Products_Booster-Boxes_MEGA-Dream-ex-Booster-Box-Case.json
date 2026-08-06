@@ -12,7 +12,7 @@
     "Thai"
   ],
   "only_germany": "False",
-  "available": 19,
+  "available": 21,
   "available_graded": 0,
   "sold": 0,
   "inserted": 0,
@@ -94,8 +94,8 @@
       "price": 1400.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "5 dispo sur commande. MP",
-      "date": 1785499000.7072988,
+      "comment": "RELISTED! 5 dispo sur commande. MP",
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -103,15 +103,23 @@
         [
           2,
           1785200358.884085
+        ],
+        [
+          1,
+          1785499000.7072988
+        ],
+        [
+          0,
+          1785499000.7072988
         ]
       ],
       "first_date": 1785024813.307057,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
-      "archived": false,
+      "archived": true,
       "grade_company": "",
       "grade": null,
       "grade_source": "auto"
@@ -288,11 +296,11 @@
       },
       "language": "Japanese",
       "price": 1600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "4 available - Send me a message if you want more than 1",
-      "date": 1785499000.7072988,
-      "ended": false,
+      "date": 1785571331.5379138,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -303,6 +311,10 @@
         [
           2,
           1785200358.884085
+        ],
+        [
+          1,
+          1785571331.5379138
         ]
       ],
       "first_date": 1785024813.307057,
@@ -679,7 +691,7 @@
       "comment": "RELISTED! SEALED - more available DM for more info",
       "date": 1785373399.016587,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           1949.0,
@@ -727,7 +739,7 @@
       "first_date": 1778620099.4501703,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -843,11 +855,11 @@
       },
       "language": "Japanese",
       "price": 1790.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "SEALED PERFECT NEW",
-      "date": 1785499000.7072988,
-      "ended": false,
+      "date": 1785571331.5379138,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -907,6 +919,10 @@
         [
           0,
           1784217561.1072364
+        ],
+        [
+          1,
+          1785571331.5379138
         ]
       ],
       "first_date": 1781723573.3804362,
@@ -1162,6 +1178,164 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
+        "name": "Kyodai-TCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1824.95,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "RELISTED! OVP Sealed - Dm Before Purchase",
+      "date": 1785840162.232055,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1995.95,
+          1776342352.0168588
+        ],
+        [
+          1989.95,
+          1777745335.8666513
+        ],
+        [
+          2299.95,
+          1779177933.4221282
+        ],
+        [
+          2099.95,
+          1779327550.267302
+        ],
+        [
+          2200.0,
+          1780101021.8375287
+        ],
+        [
+          2099.0,
+          1780537450.2538714
+        ],
+        [
+          1999.0,
+          1780887213.0393178
+        ],
+        [
+          1979.0,
+          1781621832.139054
+        ],
+        [
+          1989.0,
+          1781723573.3804362
+        ],
+        [
+          1999.0,
+          1782402541.6570578
+        ],
+        [
+          1949.0,
+          1782639522.416065
+        ],
+        [
+          1925.0,
+          1782820763.1325214
+        ],
+        [
+          1979.0,
+          1784683613.8378732
+        ],
+        [
+          1899.0,
+          1784775203.1209197
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1777745335.8666513
+        ],
+        [
+          0,
+          1777745335.8666513
+        ],
+        [
+          5,
+          1779327550.267302
+        ],
+        [
+          0,
+          1779327550.267302
+        ],
+        [
+          2,
+          1779483788.641771
+        ],
+        [
+          0,
+          1779483788.641771
+        ],
+        [
+          1,
+          1780310679.8958008
+        ],
+        [
+          2,
+          1780537450.2538714
+        ],
+        [
+          3,
+          1780887213.0393178
+        ],
+        [
+          1,
+          1780994751.3077466
+        ],
+        [
+          3,
+          1781621832.139054
+        ],
+        [
+          4,
+          1781723573.3804362
+        ],
+        [
+          3,
+          1782402541.6570578
+        ],
+        [
+          2,
+          1782639522.416065
+        ],
+        [
+          1,
+          1782820763.1325214
+        ],
+        [
+          0,
+          1782820763.1325214
+        ],
+        [
+          2,
+          1784775203.1209197
+        ],
+        [
+          0,
+          1784775203.1209197
+        ]
+      ],
+      "first_date": 1776242300.9086506,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "MEGA Dream ex Booster Box Case",
+      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
+      "seller": {
         "name": "PacenseMTG",
         "country": "Item location: Spain"
       },
@@ -1352,142 +1526,114 @@
       "card": "MEGA Dream ex Booster Box Case",
       "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
       "seller": {
-        "name": "Kyodai-TCG",
+        "name": "GK-TCG",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 1899.0,
-      "quantity": 0,
+      "price": 1895.0,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "Before Purchase. Please DM First - B2B Possible",
-      "date": 1784775203.1209197,
-      "ended": true,
+      "comment": "",
+      "date": 1785840162.232055,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
-          1995.95,
-          1776342352.0168588
+          2000.0,
+          1778032167.0337894
         ],
         [
-          1989.95,
-          1777745335.8666513
+          1950.0,
+          1778128456.7447526
         ],
         [
-          2299.95,
-          1779177933.4221282
+          2250.0,
+          1778196464.4005833
         ],
         [
-          2099.95,
-          1779327550.267302
+          1975.0,
+          1781939449.601159
         ],
         [
-          2200.0,
-          1780101021.8375287
+          1900.0,
+          1782136533.2917595
         ],
         [
-          2099.0,
-          1780537450.2538714
-        ],
-        [
-          1999.0,
-          1780887213.0393178
-        ],
-        [
-          1979.0,
-          1781621832.139054
-        ],
-        [
-          1989.0,
-          1781723573.3804362
-        ],
-        [
-          1999.0,
+          1895.0,
           1782402541.6570578
         ],
         [
-          1949.0,
-          1782639522.416065
+          1850.0,
+          1783330551.069125
         ],
         [
-          1925.0,
-          1782820763.1325214
+          1950.0,
+          1783565985.6127973
         ],
         [
-          1979.0,
-          1784683613.8378732
+          2200.0,
+          1783940523.0735495
+        ],
+        [
+          2250.0,
+          1784064648.4745593
+        ],
+        [
+          2295.0,
+          1784775203.1209197
         ]
       ],
       "previous_quantities": [
         [
-          4,
-          1777745335.8666513
+          1,
+          1778196464.4005833
         ],
         [
           0,
-          1777745335.8666513
-        ],
-        [
-          5,
-          1779327550.267302
-        ],
-        [
-          0,
-          1779327550.267302
-        ],
-        [
-          2,
-          1779483788.641771
-        ],
-        [
-          0,
-          1779483788.641771
+          1778196464.4005833
         ],
         [
           1,
-          1780310679.8958008
+          1782136533.2917595
         ],
         [
-          2,
-          1780537450.2538714
-        ],
-        [
-          3,
-          1780887213.0393178
+          0,
+          1782136533.2917595
         ],
         [
           1,
-          1780994751.3077466
-        ],
-        [
-          3,
-          1781621832.139054
-        ],
-        [
-          4,
-          1781723573.3804362
-        ],
-        [
-          3,
           1782402541.6570578
         ],
         [
-          2,
-          1782639522.416065
+          0,
+          1782402541.6570578
         ],
         [
           1,
-          1782820763.1325214
+          1783565985.6127973
         ],
         [
           0,
-          1782820763.1325214
+          1783565985.6127973
+        ],
+        [
+          2,
+          1784064648.4745593
+        ],
+        [
+          0,
+          1784064648.4745593
         ],
         [
           2,
           1784775203.1209197
+        ],
+        [
+          0,
+          1784775203.1209197
         ]
       ],
-      "first_date": 1776242300.9086506,
+      "first_date": 1778032167.0337894,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1510,7 +1656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1745,7 +1891,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2167,120 +2313,6 @@
       "price": 2295.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "Discount by order of 2",
-      "date": 1784775203.1209197,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          2000.0,
-          1778032167.0337894
-        ],
-        [
-          1950.0,
-          1778128456.7447526
-        ],
-        [
-          2250.0,
-          1778196464.4005833
-        ],
-        [
-          1975.0,
-          1781939449.601159
-        ],
-        [
-          1900.0,
-          1782136533.2917595
-        ],
-        [
-          1895.0,
-          1782402541.6570578
-        ],
-        [
-          1850.0,
-          1783330551.069125
-        ],
-        [
-          1950.0,
-          1783565985.6127973
-        ],
-        [
-          2200.0,
-          1783940523.0735495
-        ],
-        [
-          2250.0,
-          1784064648.4745593
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778196464.4005833
-        ],
-        [
-          0,
-          1778196464.4005833
-        ],
-        [
-          1,
-          1782136533.2917595
-        ],
-        [
-          0,
-          1782136533.2917595
-        ],
-        [
-          1,
-          1782402541.6570578
-        ],
-        [
-          0,
-          1782402541.6570578
-        ],
-        [
-          1,
-          1783565985.6127973
-        ],
-        [
-          0,
-          1783565985.6127973
-        ],
-        [
-          2,
-          1784064648.4745593
-        ],
-        [
-          0,
-          1784064648.4745593
-        ],
-        [
-          2,
-          1784775203.1209197
-        ]
-      ],
-      "first_date": 1778032167.0337894,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "MEGA Dream ex Booster Box Case",
-      "canonical_name": "Pokemon_Products_Booster-Boxes_MEGA-Dream-ex-Booster-Box-Case",
-      "seller": {
-        "name": "GK-TCG",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 2295.0,
-      "quantity": 0,
-      "condition": "NM",
       "comment": "RELISTED! Discount by order of 2",
       "date": 1784217561.1072364,
       "ended": true,
@@ -2466,7 +2498,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VAT | SEALED | FAST INSURED SHIPPING",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2494,7 +2526,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Really good Condition // original check with black light// Case shipping after 2 Days",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2531,7 +2563,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2559,7 +2591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2595,8 +2627,8 @@
       "price": 2469.99,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1785499000.7072988,
+      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2677,8 +2709,8 @@
       ],
       "first_date": 1767092069.4677231,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2728,18 +2760,23 @@
       },
       "language": "Japanese",
       "price": 2480.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785499000.7072988,
-      "ended": false,
-      "new": false,
+      "date": 1785739483.8521829,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785739483.8521829
+        ]
+      ],
       "first_date": 1778834713.7195306,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2759,7 +2796,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "inkl. VAT [5012-m2a]",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2915,7 +2952,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Solo recogida local(Valencia o alrededores) /Sellada de fabrica/ Pedir con antelacion / Precio 1850",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2999,7 +3036,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785499000.7072988,
+      "date": 1785840162.232055,
       "ended": false,
       "new": false,
       "previous_prices": [],

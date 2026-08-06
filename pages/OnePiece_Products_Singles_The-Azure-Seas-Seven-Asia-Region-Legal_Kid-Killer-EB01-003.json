@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 34,
+  "available": 33,
   "available_graded": 1,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -128,7 +128,7 @@
       "comment": "Japanese & Chinese seller!! Check my store!",
       "date": 1785256544.538172,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -143,7 +143,7 @@
       "first_date": 1784737780.1043115,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -440,9 +440,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785427532.0637121,
@@ -1266,17 +1266,21 @@
       },
       "language": "Japanese",
       "price": 39.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
-      "date": 1785427532.0637121,
-      "ended": false,
+      "date": 1785552530.8044584,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           2,
           1782784184.5472834
+        ],
+        [
+          1,
+          1785552530.8044584
         ]
       ],
       "first_date": 1782093716.558804,
@@ -1483,11 +1487,20 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785427532.0637121
+        ],
+        [
+          0,
+          1785427532.0637121
+        ]
+      ],
       "first_date": 1785256544.538172,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1925,9 +1938,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Small whitening",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785427532.0637121,
@@ -2496,7 +2509,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From pack to sleeves",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2524,7 +2537,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2641,18 +2654,27 @@
       },
       "language": "Japanese",
       "price": 44.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
-      "ended": false,
-      "new": false,
+      "date": 1785721565.3065474,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1785427532.0637121
+        ],
+        [
+          1,
+          1785721565.3065474
+        ]
+      ],
       "first_date": 1784737780.1043115,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2810,7 +2832,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller! More and more One Piece cards. both Japanese and English",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2929,6 +2951,48 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
+        "name": "Geriko08",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785822226.4425142,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          48.0,
+          1784448177.7280638
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784448177.7280638
+        ],
+        [
+          0,
+          1784448177.7280638
+        ]
+      ],
+      "first_date": 1783124087.1007552,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
         "name": "Accia96",
         "country": "Item location: Italy"
       },
@@ -2937,7 +3001,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2965,7 +3029,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2993,12 +3057,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Secured Shipping! Dms for pics",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785427532.0637121,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
+        "name": "Mocro206",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 45.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785822226.4425142,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785552530.8044584,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3736,39 +3828,6 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
-        "name": "Geriko08",
-        "country": "Item location: France"
-      },
-      "language": "S-Chinese",
-      "price": 48.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "",
-      "date": 1784448177.7280638,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784448177.7280638
-        ]
-      ],
-      "first_date": 1783124087.1007552,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Kid & Killer (EB01-003)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
-      "seller": {
         "name": "Toobeey96",
         "country": "Item location: Germany"
       },
@@ -3843,7 +3902,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3985,16 +4044,44 @@
       "card": "Kid & Killer (EB01-003)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
       "seller": {
-        "name": "markor",
-        "country": "Item location: Italy"
+        "name": "Chonin",
+        "country": "Item location: Poland"
       },
       "language": "Japanese",
       "price": 49.0,
       "quantity": 1,
       "condition": "NM",
+      "comment": "",
+      "date": 1785822226.4425142,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1778160995.2089367,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Kid & Killer (EB01-003)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
+      "seller": {
+        "name": "markor",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 49.0,
+      "quantity": 0,
+      "condition": "NM",
       "comment": "IG markor_tcg new seller pokemon/op! j5",
       "date": 1785427532.0637121,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4018,37 +4105,13 @@
         [
           0,
           1783651124.8524396
+        ],
+        [
+          1,
+          1785427532.0637121
         ]
       ],
       "first_date": 1772563163.5200267,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Kid & Killer (EB01-003)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Kid-Killer-EB01-003",
-      "seller": {
-        "name": "Chonin",
-        "country": "Item location: Poland"
-      },
-      "language": "Japanese",
-      "price": 49.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785427532.0637121,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1778160995.2089367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4374,7 +4437,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "O03",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4420,7 +4483,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "More Singles. Local Store Wuppertal",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4448,7 +4511,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Mannheim kommt vorbei",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4476,9 +4539,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785427532.0637121,
@@ -4532,7 +4595,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4565,7 +4628,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4593,7 +4656,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Bilder auf Anfrage / § 25a Dif­fe­renz­be­steue­rung",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4995,7 +5058,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5023,7 +5086,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "~#| Order more. save on shipping",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5202,7 +5265,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PG",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5239,7 +5302,7 @@
       ],
       "first_date": 1777775952.8040583,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5260,7 +5323,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster to sleeve+toploader",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5293,7 +5356,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5494,7 +5557,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5540,7 +5603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5556,7 +5619,7 @@
       "previous_quantities": [],
       "first_date": 1783292429.0553353,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5602,11 +5665,11 @@
       },
       "language": "Japanese",
       "price": 59.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "card is scand in sleve / from booster to sleve",
-      "date": 1784828807.9196417,
-      "ended": true,
+      "date": 1785822226.4425142,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -5620,6 +5683,10 @@
         ],
         [
           1,
+          1784828807.9196417
+        ],
+        [
+          0,
           1784828807.9196417
         ]
       ],
@@ -5829,7 +5896,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Gradable",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5867,7 +5934,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi en moins de 24h / Ultra protéger",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5900,7 +5967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve+Toploader",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6143,7 +6210,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Leggero difetto",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6267,7 +6334,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785427532.0637121,
+      "date": 1785822226.4425142,
       "ended": false,
       "new": false,
       "previous_prices": [],

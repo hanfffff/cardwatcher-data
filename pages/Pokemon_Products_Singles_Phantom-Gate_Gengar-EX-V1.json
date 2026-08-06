@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 9,
-  "available_graded": 7,
-  "sold": 0,
+  "available": 11,
+  "available_graded": 5,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -60,7 +60,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "ex-",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -121,7 +121,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -149,7 +149,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -177,7 +177,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "ABL-042",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -276,7 +276,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "+small scratches back | Keep cardgazing!^^",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -380,23 +380,27 @@
       },
       "language": "Japanese",
       "price": 69.95,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "NM/EX",
-      "date": 1785237434.5129175,
-      "ended": true,
-      "new": true,
+      "date": 1785861353.3932776,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785237434.5129175
+        ],
+        [
+          0,
           1785237434.5129175
         ]
       ],
       "first_date": 1782649578.3867354,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -416,7 +420,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -444,7 +448,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -471,8 +475,8 @@
       "price": 75.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "NM NM",
-      "date": 1785237434.5129175,
+      "comment": "RELISTED! NM NM",
+      "date": 1785763530.4764485,
       "ended": true,
       "new": true,
       "previous_prices": [],
@@ -488,6 +492,14 @@
         [
           1,
           1785237434.5129175
+        ],
+        [
+          0,
+          1785237434.5129175
+        ],
+        [
+          1,
+          1785763530.4764485
         ]
       ],
       "first_date": 1783176187.875346,
@@ -513,7 +525,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -566,16 +578,44 @@
       "card": "Gengar EX  (XY4 033)",
       "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
       "seller": {
-        "name": "Fabricio",
-        "country": "Item location: Spain"
+        "name": "skulax",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 100.0,
       "quantity": 1,
       "condition": "NM",
+      "comment": "ENVOIE RAPIDE + SLEEVE TOPLOADER",
+      "date": 1785861353.3932776,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785602874.019953,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gengar EX  (XY4 033)",
+      "canonical_name": "Pokemon_Products_Singles_Phantom-Gate_Gengar-EX-V1",
+      "seller": {
+        "name": "Fabricio",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 100.0,
+      "quantity": 0,
+      "condition": "NM",
       "comment": "CGC 7",
       "date": 1785409847.15951,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -583,7 +623,12 @@
           1784428559.9961348
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785409847.15951
+        ]
+      ],
       "first_date": 1782649578.3867354,
       "last_date": 0.0,
       "price_is_new": false,
@@ -660,8 +705,8 @@
       "price": 120.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! NM/M",
-      "date": 1785409847.15951,
+      "comment": "NM/M",
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -678,7 +723,7 @@
       "first_date": 1783176187.875346,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -761,14 +806,19 @@
       },
       "language": "Japanese",
       "price": 399.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "BGS 9.5",
       "date": 1785409847.15951,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785409847.15951
+        ]
+      ],
       "first_date": 1785237434.5129175,
       "last_date": 0.0,
       "price_is_new": false,
@@ -792,7 +842,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -829,7 +879,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "psa 10",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -857,7 +907,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -953,7 +1003,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -981,7 +1031,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785409847.15951,
+      "date": 1785861353.3932776,
       "ended": false,
       "new": false,
       "previous_prices": [],

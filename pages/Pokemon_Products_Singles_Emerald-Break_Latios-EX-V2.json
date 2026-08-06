@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -110,11 +110,11 @@
       },
       "language": "Japanese",
       "price": 66.03,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "LP",
       "comment": "",
       "date": 1785375053.764691,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -486,10 +486,15 @@
           1785201846.1072328
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785375053.764691
+        ]
+      ],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -535,11 +540,11 @@
       },
       "language": "Japanese",
       "price": 73.75,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
       "comment": "Really near to excellent",
-      "date": 1785026127.9603517,
-      "ended": true,
+      "date": 1785854753.642946,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -566,6 +571,10 @@
         [
           1,
           1785026127.9603517
+        ],
+        [
+          0,
+          1785026127.9603517
         ]
       ],
       "first_date": 1771628713.2180197,
@@ -591,7 +600,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -624,7 +633,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "TCG Shop in Finland - Ask for more cards",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -652,7 +661,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+ | B7",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -680,9 +689,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785375053.764691,
@@ -708,7 +717,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve > Toploader - DM me for more pics",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -736,7 +745,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -875,9 +884,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785375053.764691,
+      "date": 1785854753.642946,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785375053.764691,

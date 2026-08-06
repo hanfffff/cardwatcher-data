@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 19,
   "available_graded": 2,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -61,23 +61,27 @@
       },
       "language": "S-Chinese",
       "price": 40.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Japanese & Chinese seller!! Check my store!",
-      "date": 1785379231.8346777,
-      "ended": true,
-      "new": true,
+      "date": 1785823639.337725,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785379231.8346777
+        ],
+        [
+          0,
           1785379231.8346777
         ]
       ],
       "first_date": 1785030420.810019,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1808,12 +1812,12 @@
       },
       "language": "Japanese",
       "price": 57.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast and careful shipping. sleeve + toploader + bubble wrap",
-      "date": 1785504695.4957569,
-      "ended": false,
-      "new": false,
+      "date": 1785723117.4860897,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -1823,12 +1827,16 @@
         [
           0,
           1784781082.722193
+        ],
+        [
+          1,
+          1785723117.4860897
         ]
       ],
       "first_date": 1784488853.255664,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1848,7 +1856,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1925,7 +1933,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1953,7 +1961,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "V2. More Cards on Stock",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2366,7 +2374,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Top loader and sealed. Fast shipping",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2805,7 +2813,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "^_^ Experience and Passion at your Service ^_^",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2833,7 +2841,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "more cards in stock",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3183,11 +3191,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 72.21,
+      "price": 72.1,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3226,6 +3234,18 @@
         [
           72.03,
           1785379231.8346777
+        ],
+        [
+          72.21,
+          1785504695.4957569
+        ],
+        [
+          72.27,
+          1785554091.0360372
+        ],
+        [
+          72.23,
+          1785723117.4860897
         ]
       ],
       "previous_quantities": [],
@@ -3252,7 +3272,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3442,7 +3462,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3492,7 +3512,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Zuris-Shop Wuppertal",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3534,7 +3554,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3562,7 +3582,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3590,7 +3610,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3646,7 +3666,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ORIGINAL BILD - TOPLOADER",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3674,7 +3694,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New store legnano",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3702,7 +3722,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PERFECT CONDITION !",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3884,7 +3904,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10 Pristine. fast and safe shipping",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3912,7 +3932,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ai Grading 10",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3945,7 +3965,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GRAAD 10",
-      "date": 1785504695.4957569,
+      "date": 1785823639.337725,
       "ended": false,
       "new": false,
       "previous_prices": [],

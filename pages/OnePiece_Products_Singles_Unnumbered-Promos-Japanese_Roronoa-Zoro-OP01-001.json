@@ -10,7 +10,7 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 35,
+  "available": 53,
   "available_graded": 11,
   "sold": 0,
   "inserted": 0,
@@ -103,14 +103,60 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785414640.3256836
+        ],
+        [
+          0,
+          1785414640.3256836
+        ]
+      ],
       "first_date": 1784168820.993411,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "mikkl",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 399.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "dent on bottom",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          420.0,
+          1782652662.8361347
+        ],
+        [
+          410.0,
+          1785733576.673422
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782460903.0605304,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -127,11 +173,72 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 380.0,
+      "price": 400.0,
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          380.0,
+          1785414640.3256836
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784168820.993411,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "BlueFruitGames",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Ask for pictures!",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785733576.673422,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "Lauri510",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -156,11 +263,11 @@
       },
       "language": "Japanese",
       "price": 400.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "small bent on right corner. ask for more picture",
-      "date": 1785414640.3256836,
-      "ended": false,
+      "date": 1785564762.3749466,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -168,36 +275,13 @@
           1784168820.993411
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785564762.3749466
+        ]
+      ],
       "first_date": 1782563440.0207427,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
-        "name": "Lauri510",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 400.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784168820.993411,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -235,39 +319,6 @@
           1783889710.5657952
         ]
       ],
-      "first_date": 1782460903.0605304,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
-        "name": "mikkl",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 410.0,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "dent on bottom",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          420.0,
-          1782652662.8361347
-        ]
-      ],
-      "previous_quantities": [],
       "first_date": 1782460903.0605304,
       "last_date": 0.0,
       "price_is_new": false,
@@ -333,7 +384,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed! Fast shipping!",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -358,15 +409,43 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 450.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "From Pack to Sleeve / + cards in stock",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785733576.673422,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
         "name": "Mugiwara-San",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 475.0,
+      "price": 450.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition. No Flaws. + Figure and Box! Ask for pictures. from my personal collection",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -381,6 +460,10 @@
         [
           485.0,
           1785241393.3375838
+        ],
+        [
+          475.0,
+          1785414640.3256836
         ]
       ],
       "previous_quantities": [
@@ -395,7 +478,7 @@
       ],
       "first_date": 1783180707.3002536,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -412,11 +495,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 483.95,
+      "price": 474.95,
       "quantity": 4,
       "condition": "NM",
       "comment": "SEALED!  | Packed carefully with toploader | More Japanese articles for OP/PKM/YUGI available!",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -443,6 +526,10 @@
         [
           488.95,
           1784814840.0924585
+        ],
+        [
+          483.95,
+          1785733576.673422
         ]
       ],
       "previous_quantities": [
@@ -453,7 +540,57 @@
       ],
       "first_date": 1782838540.709272,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "RoomTCG",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 480.61,
+      "quantity": 14,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          717.27,
+          1782460903.0605304
+        ],
+        [
+          716.24,
+          1782652662.8361347
+        ],
+        [
+          481.48,
+          1785733576.673422
+        ]
+      ],
+      "previous_quantities": [
+        [
+          14,
+          1782652662.8361347
+        ],
+        [
+          0,
+          1782652662.8361347
+        ]
+      ],
+      "first_date": 1782460903.0605304,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -474,7 +611,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -502,7 +639,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -535,7 +672,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Factory Sealed",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -572,7 +709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed. pm for pictures. paris possible",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -643,6 +780,34 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
+        "name": "trapcardtcg",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed / + cards in stock",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785733576.673422,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
         "name": "AshuraB",
         "country": "Item location: France"
       },
@@ -651,7 +816,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoie soigné",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -811,7 +976,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -840,18 +1005,23 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 515.99,
+      "price": 517.99,
       "quantity": 1,
       "condition": "NM",
       "comment": "~#| Order more. save on shipping",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          515.99,
+          1785733576.673422
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1784168820.993411,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -905,7 +1075,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED! Top Zustand und Centering",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1009,7 +1179,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - perfect",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1133,54 +1303,25 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
-        "name": "Mugiwara-San",
+        "name": "threedays",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 600.0,
       "quantity": 1,
-      "condition": "MT",
-      "comment": "Brown Box! OVP SEALED! In Original package with Figure !",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          750.0,
-          1785241393.3375838
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783180707.3002536,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
-        "name": "threedays",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 600.0,
-      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed / No discount (1)",
-      "date": 1782743360.1143436,
-      "ended": true,
+      "date": 1785833883.3621855,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1782743360.1143436
+        ],
+        [
+          0,
           1782743360.1143436
         ]
       ],
@@ -1204,16 +1345,20 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / No discount (2)",
-      "date": 1782743360.1143436,
-      "ended": true,
+      "date": 1785833883.3621855,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1782743360.1143436
+        ],
+        [
+          0,
           1782743360.1143436
         ]
       ],
@@ -1237,16 +1382,20 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / No discount (3)",
-      "date": 1782743360.1143436,
-      "ended": true,
+      "date": 1785833883.3621855,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1782743360.1143436
+        ],
+        [
+          0,
           1782743360.1143436
         ]
       ],
@@ -1311,7 +1460,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1339,7 +1488,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Fast & Safe Shipment",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1364,44 +1513,6 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
-        "name": "RoomTCG",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 716.24,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Trusted Seller",
-      "date": 1782652662.8361347,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          717.27,
-          1782460903.0605304
-        ]
-      ],
-      "previous_quantities": [
-        [
-          14,
-          1782652662.8361347
-        ]
-      ],
-      "first_date": 1782460903.0605304,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
         "name": "Fr-L7",
         "country": "Item location: France"
       },
@@ -1410,7 +1521,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Not sealed. Mint condition",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1438,7 +1549,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed with figure - shoot me offers",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1463,6 +1574,43 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
+        "name": "Mugiwara-San",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 780.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Brown Box! OVP SEALED! In Original package with Figure !",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          750.0,
+          1785241393.3375838
+        ],
+        [
+          600.0,
+          1785733576.673422
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783180707.3002536,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
         "name": "Cributsuji",
         "country": "Item location: Italy"
       },
@@ -1471,7 +1619,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. info for photo dm",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1496,34 +1644,6 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
-        "name": "rxz21",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 799.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed. top for grading",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782460903.0605304,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
         "name": "nicolayjansen",
         "country": "Item location: Netherlands"
       },
@@ -1532,7 +1652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1565,6 +1685,84 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
+        "name": "rxz21",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 799.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed. top for grading",
+      "date": 1785414640.3256836,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785414640.3256836
+        ]
+      ],
+      "first_date": 1782460903.0605304,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "NiZe-Juste",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 845.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Sealed with figure | Perfect condition",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          3000.0,
+          1783621477.7696154
+        ],
+        [
+          1800.0,
+          1784168820.993411
+        ],
+        [
+          1250.0,
+          1784271674.372386
+        ],
+        [
+          1140.0,
+          1785564762.3749466
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782460903.0605304,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
         "name": "sc137",
         "country": "Item location: Portugal"
       },
@@ -1573,7 +1771,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1610,7 +1808,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED *perfect for grading ask photos",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1671,7 +1869,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED IN BOX with figurine",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1699,7 +1897,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1727,7 +1925,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1764,7 +1962,7 @@
       ],
       "first_date": 1782460903.0605304,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1785,7 +1983,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1813,7 +2011,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1833,47 +2031,6 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
-        "name": "NiZe-Juste",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 1140.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Sealed with figure | Perfect condition",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          3000.0,
-          1783621477.7696154
-        ],
-        [
-          1800.0,
-          1784168820.993411
-        ],
-        [
-          1250.0,
-          1784271674.372386
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782460903.0605304,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
         "name": "wollech",
         "country": "Item location: Germany"
       },
@@ -1882,7 +2039,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "GRADED PSA 10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1915,7 +2072,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "IG: Cardpacksplaza psa 10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1973,59 +2130,6 @@
       "card": "Roronoa Zoro (OP01-001)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
       "seller": {
-        "name": "SomnusTCG",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 1199.27,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785414640.3256836,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1211.41,
-          1784271674.372386
-        ],
-        [
-          1210.41,
-          1784432803.927109
-        ],
-        [
-          1210.56,
-          1784588680.4988954
-        ],
-        [
-          1207.5,
-          1784724256.297244
-        ],
-        [
-          1205.95,
-          1785065989.3386378
-        ],
-        [
-          1202.71,
-          1785241393.3375838
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784271674.372386,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Roronoa Zoro (OP01-001)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
-      "seller": {
         "name": "CerberusTCG",
         "country": "Item location: Italy"
       },
@@ -2067,7 +2171,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ccc10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2119,6 +2223,71 @@
       "archived": false,
       "grade_company": "BGS",
       "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Roronoa Zoro (OP01-001)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Roronoa-Zoro-OP01-001",
+      "seller": {
+        "name": "SomnusTCG",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 1200.32,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1785833883.3621855,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1211.41,
+          1784271674.372386
+        ],
+        [
+          1210.41,
+          1784432803.927109
+        ],
+        [
+          1210.56,
+          1784588680.4988954
+        ],
+        [
+          1207.5,
+          1784724256.297244
+        ],
+        [
+          1205.95,
+          1785065989.3386378
+        ],
+        [
+          1202.71,
+          1785241393.3375838
+        ],
+        [
+          1199.27,
+          1785414640.3256836
+        ],
+        [
+          1203.2,
+          1785564762.3749466
+        ],
+        [
+          1202.49,
+          1785733576.673422
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784271674.372386,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -2204,7 +2373,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2232,7 +2401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2260,7 +2429,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sealed box (luffy also availabl",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2288,7 +2457,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2325,7 +2494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2391,9 +2560,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BECKETT PRISTINE 10",
-      "date": 1785414640.3256836,
+      "date": 1785833883.3621855,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785414640.3256836,

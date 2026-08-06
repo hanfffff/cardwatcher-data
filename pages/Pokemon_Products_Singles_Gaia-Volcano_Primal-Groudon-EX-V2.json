@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 8,
-  "available_graded": 2,
+  "available": 9,
+  "available_graded": 1,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 1,
   "listings": [
     {
       "card": "Primal Groudon EX  (XY5g 074)",
@@ -92,7 +92,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -120,7 +120,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "### 12388",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -157,7 +157,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -203,7 +203,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -257,7 +257,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXCELLENT",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -302,7 +302,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Kyogre available Excellent ! Unlimited !!",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -344,11 +344,11 @@
       },
       "language": "Japanese",
       "price": 280.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "GD",
-      "comment": "Kyogre dispo",
-      "date": 1785046204.9763944,
-      "ended": true,
+      "comment": "RELISTED! Kyogre dispo",
+      "date": 1785857622.752088,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -363,12 +363,16 @@
         [
           1,
           1785046204.9763944
+        ],
+        [
+          0,
+          1785046204.9763944
         ]
       ],
       "first_date": 1772056465.9113202,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -435,7 +439,7 @@
       "comment": "Near mint and first ed. Text me for more pics",
       "date": 1785221533.9793136,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -470,7 +474,7 @@
       "first_date": 1772056465.9113202,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,
@@ -517,8 +521,8 @@
       "price": 300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785394436.416938,
+      "comment": "",
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -539,8 +543,8 @@
       ],
       "first_date": 1774550566.223997,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -651,7 +655,7 @@
       "comment": "",
       "date": 1785221533.9793136,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -662,7 +666,7 @@
       "first_date": 1775661828.3099954,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -724,7 +728,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selling all my cards! Got old and new!",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -819,7 +823,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 9",
-      "date": 1785394436.416938,
+      "date": 1785857622.752088,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -971,11 +975,11 @@
       },
       "language": "Japanese",
       "price": 1800.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 / EU shipping possible / Also have Kyogre",
-      "date": 1785394436.416938,
-      "ended": false,
+      "date": 1785598616.4288511,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -995,7 +999,12 @@
           1776958638.4065454
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785598616.4288511
+        ]
+      ],
       "first_date": 1772056465.9113202,
       "last_date": 0.0,
       "price_is_new": false,

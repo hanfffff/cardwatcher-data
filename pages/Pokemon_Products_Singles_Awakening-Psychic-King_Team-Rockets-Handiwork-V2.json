@@ -12,8 +12,8 @@
   "only_germany": "False",
   "available": 4,
   "available_graded": 3,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 1,
   "listings": [
     {
       "card": "Team Rocket's Handiwork (XY10 087)",
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "Many more Japanese and other cards! Safely packed!",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -60,7 +60,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #496",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -102,7 +102,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ask for pics. 1st ed",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -130,7 +130,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -158,7 +158,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA9 / Lokal Store in Esslingen",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -186,9 +186,37 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - BIG SALE NO OFFERS",
-      "date": 1785486914.205316,
+      "date": 1785794616.9042506,
       "ended": false,
-      "new": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785794616.9042506,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Team Rocket's Handiwork (XY10 087)",
+      "canonical_name": "Pokemon_Products_Singles_Awakening-Psychic-King_Team-Rockets-Handiwork-V2",
+      "seller": {
+        "name": "DorianTCG",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 499.99,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 - BIG SALE NO OFFERS",
+      "date": 1785486914.205316,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -198,12 +226,16 @@
         [
           0,
           1780506825.9882963
+        ],
+        [
+          1,
+          1785486914.205316
         ]
       ],
       "first_date": 1778272698.763233,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 1,
       "reverse_holo": 0,
       "archived": false,

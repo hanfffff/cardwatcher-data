@@ -11,7 +11,7 @@
   ],
   "only_germany": false,
   "available": 2,
-  "available_graded": 0,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -503,7 +503,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785436704.8109744,
+      "date": 1785882654.0781662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -531,7 +531,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "[EXC+] [JAPANESE VINTAGE/AR/SAR AVAILABLE]",
-      "date": 1785436704.8109744,
+      "date": 1785882654.0781662,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -556,16 +556,20 @@
       },
       "language": "Japanese",
       "price": 2400.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1784838254.7645123,
-      "ended": true,
+      "date": 1785882654.0781662,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784838254.7645123
+        ],
+        [
+          0,
           1784838254.7645123
         ]
       ],

@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 107,
+  "available": 95,
   "available_graded": 66,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 3,
   "listings": [
     {
       "card": "Tohoku's Pikachu  (SV-P 260)",
@@ -24,18 +24,23 @@
       },
       "language": "Japanese",
       "price": 79.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve+Toploader",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
+      "date": 1785771978.2167275,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785771978.2167275
+        ]
+      ],
       "first_date": 1785263636.216209,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -52,11 +57,11 @@
       },
       "language": "Japanese",
       "price": 79.99,
-      "quantity": 6,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve / toploader - Questions? Send us a message:)",
       "date": 1785435280.7763555,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -76,9 +81,55 @@
         [
           7,
           1785263636.216209
+        ],
+        [
+          6,
+          1785435280.7763555
         ]
       ],
       "first_date": 1784294076.0070138,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "GreatGamesTCG",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 80.0,
+      "quantity": 6,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          87.0,
+          1785435280.7763555
+        ]
+      ],
+      "previous_quantities": [
+        [
+          9,
+          1785435280.7763555
+        ],
+        [
+          7,
+          1785771978.2167275
+        ]
+      ],
+      "first_date": 1785086751.1497276,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": -1,
@@ -87,6 +138,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "Yassindksss",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 84.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785771978.2167275,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -129,7 +208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve -> Toploader #3",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -183,6 +262,137 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "Thokemen",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 84.99,
+      "quantity": 18,
+      "condition": "MT",
+      "comment": "PSA 9 - Fast shipping. contact for questions/pics",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          114.99,
+          1773216035.7507925
+        ],
+        [
+          129.99,
+          1779154677.2269852
+        ],
+        [
+          119.99,
+          1780511158.0649493
+        ],
+        [
+          99.99,
+          1785611024.3253133
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773216035.7507925
+        ],
+        [
+          1,
+          1778737060.3766627
+        ],
+        [
+          0,
+          1778737060.3766627
+        ],
+        [
+          1,
+          1779154677.2269852
+        ],
+        [
+          0,
+          1779154677.2269852
+        ],
+        [
+          1,
+          1780511158.0649493
+        ],
+        [
+          0,
+          1780511158.0649493
+        ],
+        [
+          1,
+          1783309972.3742454
+        ],
+        [
+          0,
+          1783309972.3742454
+        ],
+        [
+          1,
+          1785611024.3253133
+        ],
+        [
+          21,
+          1785771978.2167275
+        ]
+      ],
+      "first_date": 1772278905.2217748,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "FitzGX3495",
+        "country": "Item location: Finland"
+      },
+      "language": "Japanese",
+      "price": 85.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Freshly opened",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          129.99,
+          1784455583.2568443
+        ],
+        [
+          97.95,
+          1784836651.627853
+        ],
+        [
+          90.0,
+          1785611024.3253133
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784294076.0070138,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "aligateau",
         "country": "Item location: France"
       },
@@ -191,7 +401,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -228,7 +438,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -276,34 +486,6 @@
         ]
       ],
       "first_date": 1781594558.1991165,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "GreatGamesTCG",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 87.0,
-      "quantity": 9,
-      "condition": "NM",
-      "comment": "sealed",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785086751.1497276,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -418,7 +600,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #2220",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -460,9 +642,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785435280.7763555,
@@ -488,7 +670,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask For Pictures",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -598,49 +780,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784610320.2052011,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "FitzGX3495",
-        "country": "Item location: Finland"
-      },
-      "language": "Japanese",
-      "price": 90.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Freshly opened",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          129.99,
-          1784455583.2568443
-        ],
-        [
-          97.95,
-          1784836651.627853
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784294076.0070138,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -662,15 +807,24 @@
       "price": 94.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "PSA 8 cert number 146358327",
-      "date": 1785435280.7763555,
+      "comment": "PSA 8 cert number 155395885",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
-      "previous_prices": [],
+      "previous_prices": [
+        [
+          94.9,
+          1785611024.3253133
+        ],
+        [
+          99.9,
+          1785771978.2167275
+        ]
+      ],
       "previous_quantities": [],
       "first_date": 1785263636.216209,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -719,7 +873,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Cheap fast reliable shipping",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -747,7 +901,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Shrink sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -863,7 +1017,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Packed fresh/sleeved+toploader/ for better pictures pm!/ a lot of cards available!!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1064,7 +1218,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Message me for pictures and free shipping on order above 100 euro",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1110,7 +1264,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1204,7 +1358,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "NM TOP",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1241,7 +1395,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Cheap fast reliable shipping",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1389,7 +1543,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "B7",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1409,7 +1563,7 @@
       "previous_quantities": [],
       "first_date": 1781337107.290092,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -1430,7 +1584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A15|2",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1458,7 +1612,7 @@
       "previous_quantities": [],
       "first_date": 1781705241.5588608,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -1479,7 +1633,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1511,7 +1665,7 @@
       "previous_quantities": [],
       "first_date": 1781705241.5588608,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -1529,14 +1683,19 @@
       },
       "language": "Japanese",
       "price": 99.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8 cert number 155395885",
-      "date": 1785435280.7763555,
-      "ended": false,
+      "date": 1785611024.3253133,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611024.3253133
+        ]
+      ],
       "first_date": 1785263636.216209,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1617,78 +1776,28 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
-        "name": "Thokemen",
-        "country": "Item location: Netherlands"
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1785435280.7763555,
+      "quantity": 6,
+      "condition": "NM",
+      "comment": "Shrink sealed",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          114.99,
-          1773216035.7507925
-        ],
-        [
-          129.99,
-          1779154677.2269852
-        ],
-        [
-          119.99,
-          1780511158.0649493
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1773216035.7507925
-        ],
-        [
-          1,
-          1778737060.3766627
-        ],
-        [
-          0,
-          1778737060.3766627
-        ],
-        [
-          1,
-          1779154677.2269852
-        ],
-        [
-          0,
-          1779154677.2269852
-        ],
-        [
-          1,
-          1780511158.0649493
-        ],
-        [
-          0,
-          1780511158.0649493
-        ],
-        [
-          1,
-          1783309972.3742454
-        ],
-        [
-          0,
-          1783309972.3742454
-        ]
-      ],
-      "first_date": 1772278905.2217748,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1784455583.2568443,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1700,11 +1809,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1785435280.7763555,
-      "ended": false,
+      "date": 1785611024.3253133,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1740,6 +1849,10 @@
         [
           0,
           1783309972.3742454
+        ],
+        [
+          1,
+          1785611024.3253133
         ]
       ],
       "first_date": 1778889852.7253234,
@@ -1762,11 +1875,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1785435280.7763555,
-      "ended": false,
+      "date": 1785611024.3253133,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1782,6 +1895,10 @@
         [
           0,
           1780511158.0649493
+        ],
+        [
+          1,
+          1785611024.3253133
         ]
       ],
       "first_date": 1780198375.8404927,
@@ -1804,11 +1921,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 17,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9 - Fast shipping. contact for questions/pics",
-      "date": 1785435280.7763555,
-      "ended": false,
+      "date": 1785611024.3253133,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1832,45 +1949,21 @@
         [
           12,
           1785263636.216209
+        ],
+        [
+          17,
+          1785611024.3253133
         ]
       ],
       "first_date": 1780198375.8404927,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 5,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "alljapan-be",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 99.99,
-      "quantity": 6,
-      "condition": "NM",
-      "comment": "Shrink sealed",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784455583.2568443,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
-      "grade_company": "",
-      "grade": null,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -2434,7 +2527,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2471,7 +2564,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Scellé. envoi rapide dans toploader papier bulle",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3312,7 +3405,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3373,7 +3466,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3401,7 +3494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3643,32 +3736,23 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
-        "name": "Cardarenasalzburg",
-        "country": "Item location: Austria"
+        "name": "GymleaderBrock",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! SEALED",
-      "date": 1785435280.7763555,
+      "comment": "ZK1 SEALED",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784836651.627853
-        ],
-        [
-          0,
-          1784836651.627853
-        ]
-      ],
-      "first_date": 1784836651.627853,
+      "previous_quantities": [],
+      "first_date": 1783546662.671197,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -3680,20 +3764,33 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
-        "name": "GymleaderBrock",
-        "country": "Item location: Netherlands"
+        "name": "Cardarenasalzburg",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "ZK1 SEALED",
+      "comment": "RELISTED! SEALED",
       "date": 1785435280.7763555,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783546662.671197,
+      "previous_quantities": [
+        [
+          1,
+          1784836651.627853
+        ],
+        [
+          0,
+          1784836651.627853
+        ],
+        [
+          1,
+          1785435280.7763555
+        ]
+      ],
+      "first_date": 1784836651.627853,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3868,11 +3965,11 @@
       },
       "language": "Japanese",
       "price": 110.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "New / Sealed / OVP -> Fast ship",
       "date": 1785435280.7763555,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3912,6 +4009,10 @@
         [
           0,
           1783664550.287566
+        ],
+        [
+          3,
+          1785435280.7763555
         ]
       ],
       "first_date": 1776670787.0434253,
@@ -4463,12 +4564,40 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed. Full set available.",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784455583.2568443,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "BELLO-CARDS",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 115.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ORIGINAL BILD - SEALED",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785611024.3253133,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5104,7 +5233,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "nm but no psa 10 contender",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5193,7 +5322,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DS26-307 // PA1",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5226,7 +5355,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "DS26-328 // PA1",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5286,8 +5415,8 @@
       "price": 120.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 9 MINT",
-      "date": 1785435280.7763555,
+      "comment": "PSA 9 MINT",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5308,8 +5437,8 @@
       ],
       "first_date": 1782109714.8412988,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -5949,7 +6078,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed! Promo box! Private collection!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5986,7 +6115,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ARS 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6174,7 +6303,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "SEALED! Not PSA 10 because slightly off-center!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6412,7 +6541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for more pictures!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6600,11 +6729,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 132.06,
+      "price": 132.17,
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6707,6 +6836,18 @@
         [
           132.43,
           1785263636.216209
+        ],
+        [
+          132.06,
+          1785435280.7763555
+        ],
+        [
+          132.49,
+          1785611024.3253133
+        ],
+        [
+          132.41,
+          1785771978.2167275
         ]
       ],
       "previous_quantities": [],
@@ -7059,7 +7200,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7123,8 +7264,8 @@
       "price": 140.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PCG 9",
-      "date": 1785435280.7763555,
+      "comment": "PCG 9",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7141,7 +7282,7 @@
       "first_date": 1782703850.3977451,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -7161,7 +7302,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed ask for Pics",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7742,7 +7883,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve/Toploader   Many Single Cards :)",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7779,7 +7920,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7807,7 +7948,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "#1135555",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7896,7 +8037,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "GVO - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7982,7 +8123,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Tohoku special sleeve. Toploader. Daily Shipping",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8433,9 +8574,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785435280.7763555,
@@ -8461,7 +8602,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 / Happy to help. just ask!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8490,6 +8631,48 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "Pokefiore92",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Sealed . spedizione in giornata",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          200.0,
+          1779702890.0751352
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784610320.2052011
+        ],
+        [
+          0,
+          1784610320.2052011
+        ]
+      ],
+      "first_date": 1765402385.092618,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "wernerphi",
         "country": "Item location: Belgium"
       },
@@ -8498,7 +8681,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. clean slab. fast shipping",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8526,7 +8709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Carta en perfecto estado",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8537,44 +8720,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1779389989.1271665,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "Pokefiore92",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 150.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed . spedizione in giornata",
-      "date": 1784610320.2052011,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          200.0,
-          1779702890.0751352
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784610320.2052011
-        ]
-      ],
-      "first_date": 1765402385.092618,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8763,7 +8908,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed! Ask for fotos",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8792,6 +8937,51 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "Comic-Planet",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 155.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! schneller Versand / Viele weitere Einzelkarten",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1780860729.5359156
+        ],
+        [
+          0,
+          1780860729.5359156
+        ],
+        [
+          1,
+          1785263636.216209
+        ],
+        [
+          0,
+          1785263636.216209
+        ]
+      ],
+      "first_date": 1780511158.0649493,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "PkmTcg",
         "country": "Item location: Germany"
       },
@@ -8800,7 +8990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8818,47 +9008,6 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "Comic-Planet",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 155.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "schneller Versand / Viele weitere Einzelkarten",
-      "date": 1785263636.216209,
-      "ended": true,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1780860729.5359156
-        ],
-        [
-          0,
-          1780860729.5359156
-        ],
-        [
-          1,
-          1785263636.216209
-        ]
-      ],
-      "first_date": 1780511158.0649493,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -9078,7 +9227,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9106,7 +9255,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9199,7 +9348,7 @@
       "comment": "Prückis Cards TCG Store Berlin » Fragen: wa.me/pruckis",
       "date": 1785263636.216209,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           220.0,
@@ -9219,7 +9368,7 @@
       "first_date": 1764588586.9400012,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -9239,7 +9388,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - Check inventory for more slabs: Sort Mint condition - Z05",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9267,7 +9416,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Scellé. Plus de photos en DM",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9482,7 +9631,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9519,7 +9668,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9593,6 +9742,34 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "SnorlaxCrew",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 169.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA9+Gift(Negotiable)",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785869871.2110598,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "LucarioHunter",
         "country": "Item location: Netherlands"
       },
@@ -9601,7 +9778,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9695,14 +9872,19 @@
       },
       "language": "Japanese",
       "price": 179.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Becket 9 ( MINT ) ask for Pic",
       "date": 1785435280.7763555,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785435280.7763555
+        ]
+      ],
       "first_date": 1785263636.216209,
       "last_date": 0.0,
       "price_is_new": false,
@@ -9726,7 +9908,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9754,7 +9936,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 - NEW LABEL",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9853,7 +10035,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153924971 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9881,7 +10063,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   142720393 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9909,7 +10091,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153925023 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9937,7 +10119,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9.0   153924904 - Buy from the biggest TCG Onlineshop in Europe!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10125,7 +10307,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "not sealed De #1 dealer in ACE & TAG slabs van de Benelux! > Website",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10227,7 +10409,7 @@
       "quantity": 2,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10255,7 +10437,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 9.0] PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10906,7 +11088,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9 (#155 833 397) | inkl. 19% MwSt. | sleeved + Toploader",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10952,7 +11134,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA9 (#155 925 405) | inkl. 19% MwSt. | sleeved + Toploader",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11237,7 +11419,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "New/OVP/Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11335,7 +11517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unopened and sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11363,7 +11545,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "safe/fast shipping",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11495,7 +11677,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11593,7 +11775,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "cgc 9 ERROR CRIMP",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11671,7 +11853,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed / Holo Huge selection. no shipping on holidays and weekends.",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11696,16 +11878,20 @@
       },
       "language": "Japanese",
       "price": 249.69,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 / Cert 0019069243 / Fast & Secure Shipping",
-      "date": 1784836651.627853,
-      "ended": true,
+      "date": 1785869871.2110598,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784836651.627853
+        ],
+        [
+          0,
           1784836651.627853
         ]
       ],
@@ -11732,7 +11918,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed | vetrina",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11816,7 +12002,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sous perfect sleeve",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11853,7 +12039,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 9.5 Gem Mint",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11907,7 +12093,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11973,11 +12159,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 300.12,
+      "price": 300.38,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12248,6 +12434,18 @@
         [
           300.98,
           1785263636.216209
+        ],
+        [
+          300.12,
+          1785435280.7763555
+        ],
+        [
+          301.1,
+          1785611024.3253133
+        ],
+        [
+          300.93,
+          1785771978.2167275
         ]
       ],
       "previous_quantities": [
@@ -12320,8 +12518,8 @@
       "price": 329.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785435280.7763555,
+      "comment": "PSA 10",
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12398,70 +12596,8 @@
       ],
       "first_date": 1779866068.2975578,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "DanishViking",
-        "country": "Item location: Denmark"
-      },
-      "language": "Japanese",
-      "price": 329.0,
-      "quantity": 0,
-      "condition": "MT",
-      "comment": "RELISTED! PSA 10",
-      "date": 1785263636.216209,
-      "ended": true,
-      "new": true,
-      "previous_prices": [
-        [
-          338.0,
-          1784036285.111976
-        ],
-        [
-          329.0,
-          1784455583.2568443
-        ],
-        [
-          324.0,
-          1784836651.627853
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784036285.111976
-        ],
-        [
-          0,
-          1784036285.111976
-        ],
-        [
-          1,
-          1784836651.627853
-        ],
-        [
-          0,
-          1784836651.627853
-        ],
-        [
-          1,
-          1785263636.216209
-        ]
-      ],
-      "first_date": 1784036285.111976,
-      "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -12481,7 +12617,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "PSA 10!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12567,7 +12703,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12634,15 +12770,69 @@
       },
       "language": "Japanese",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785435280.7763555,
-      "ended": false,
+      "date": 1785611024.3253133,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785611024.3253133
+        ]
+      ],
       "first_date": 1784036285.111976,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "Wint3r99",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 357.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Graded",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1784294076.0070138
+        ],
+        [
+          390.0,
+          1784836651.627853
+        ],
+        [
+          375.0,
+          1785086751.1497276
+        ],
+        [
+          385.0,
+          1785263636.216209
+        ],
+        [
+          375.0,
+          1785611024.3253133
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783309972.3742454,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12762,51 +12952,6 @@
       "first_date": 1764588586.9400012,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
-        "name": "Wint3r99",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 375.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 Graded",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          400.0,
-          1784294076.0070138
-        ],
-        [
-          390.0,
-          1784836651.627853
-        ],
-        [
-          375.0,
-          1785086751.1497276
-        ],
-        [
-          385.0,
-          1785263636.216209
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1783309972.3742454,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -12946,34 +13091,6 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
-        "name": "TurboBallCards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 390.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Psa 10. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
-      "date": 1785435280.7763555,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785086751.1497276,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Tohoku's Pikachu  (SV-P 260)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
-      "seller": {
         "name": "Massti21",
         "country": "Item location: Germany"
       },
@@ -12982,7 +13099,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12996,6 +13113,39 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
+        "name": "TurboBallCards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 390.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Psa 10. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
+      "date": 1785435280.7763555,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785435280.7763555
+        ]
+      ],
+      "first_date": 1785086751.1497276,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -13265,7 +13415,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE 10 label! De #1 dealer in ACE & TAG slabs van de Benelux! > Website",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13550,7 +13700,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13782,7 +13932,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13819,7 +13969,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 SEQ SET",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13831,7 +13981,7 @@
       "previous_quantities": [],
       "first_date": 1785086751.1497276,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -14029,7 +14179,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Graded!",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14136,7 +14286,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14207,7 +14357,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14366,7 +14516,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14443,7 +14593,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CGC 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14471,7 +14621,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ccc 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14588,7 +14738,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[BGS 9.5]",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14612,11 +14762,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 570.23,
+      "price": 570.72,
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 Cert Number 152950571",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14719,6 +14869,18 @@
         [
           571.86,
           1785263636.216209
+        ],
+        [
+          570.23,
+          1785435280.7763555
+        ],
+        [
+          572.09,
+          1785611024.3253133
+        ],
+        [
+          571.76,
+          1785771978.2167275
         ]
       ],
       "previous_quantities": [
@@ -14779,16 +14941,20 @@
       },
       "language": "Japanese",
       "price": 579.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1784036285.111976,
-      "ended": true,
+      "date": 1785869871.2110598,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1784036285.111976
+        ],
+        [
+          0,
           1784036285.111976
         ]
       ],
@@ -15040,6 +15206,76 @@
       "card": "Tohoku's Pikachu  (SV-P 260)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
       "seller": {
+        "name": "DanishViking",
+        "country": "Item location: Denmark"
+      },
+      "language": "Japanese",
+      "price": 1175.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Pikachu 260+261+289 all 3 Together - PSA 10",
+      "date": 1785869871.2110598,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          338.0,
+          1784036285.111976
+        ],
+        [
+          329.0,
+          1784455583.2568443
+        ],
+        [
+          324.0,
+          1784836651.627853
+        ],
+        [
+          329.0,
+          1785263636.216209
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784036285.111976
+        ],
+        [
+          0,
+          1784036285.111976
+        ],
+        [
+          1,
+          1784836651.627853
+        ],
+        [
+          0,
+          1784836651.627853
+        ],
+        [
+          1,
+          1785263636.216209
+        ],
+        [
+          0,
+          1785263636.216209
+        ]
+      ],
+      "first_date": 1784036285.111976,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Tohoku's Pikachu  (SV-P 260)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Tohokus-Pikachu-SV-P260",
+      "seller": {
         "name": "Xyrandox",
         "country": "Item location: Netherlands"
       },
@@ -15050,7 +15286,7 @@
       "comment": "PSA 10 sequential set of all 3!",
       "date": 1785263636.216209,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -15065,7 +15301,7 @@
       "first_date": 1784036285.111976,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -15266,7 +15502,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Trio Progressive Psa 10",
-      "date": 1785435280.7763555,
+      "date": 1785869871.2110598,
       "ended": false,
       "new": false,
       "previous_prices": [],

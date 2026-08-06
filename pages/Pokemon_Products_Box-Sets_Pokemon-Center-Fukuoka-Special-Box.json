@@ -8,10 +8,10 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 475,
+  "available": 480,
   "available_graded": 0,
-  "sold": 0,
-  "inserted": 0,
+  "sold": 1,
+  "inserted": 5,
   "listings": [
     {
       "card": "Pokémon Center Fukuoka Special Box",
@@ -54,13 +54,13 @@
         "country": "Item location: Sweden"
       },
       "language": "Japanese",
-      "price": 109.0,
-      "quantity": 0,
+      "price": 94.56,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Small shrink tear",
-      "date": 1785378726.1369886,
-      "ended": true,
-      "new": true,
+      "comment": "Small shrink tear",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           149.0,
@@ -69,6 +69,10 @@
         [
           129.0,
           1785029900.6226664
+        ],
+        [
+          109.0,
+          1785378726.1369886
         ]
       ],
       "previous_quantities": [
@@ -83,12 +87,16 @@
         [
           1,
           1785378726.1369886
+        ],
+        [
+          0,
+          1785378726.1369886
         ]
       ],
       "first_date": 1784272630.933555,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -105,10 +113,10 @@
       },
       "language": "Japanese",
       "price": 124.99,
-      "quantity": 11,
+      "quantity": 3,
       "condition": "NM",
       "comment": "OVP Sealed | B2B Possible",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -157,12 +165,52 @@
         [
           36,
           1785378726.1369886
+        ],
+        [
+          11,
+          1785504186.7130215
+        ],
+        [
+          10,
+          1785572664.450509
+        ],
+        [
+          5,
+          1785740937.4688218
         ]
       ],
       "first_date": 1768160962.8869832,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -25,
+      "quantity_change": -2,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 125.0,
+      "quantity": 10,
+      "condition": "NM",
+      "comment": "Shrink sealed. Full set available.",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785841663.1467166,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -179,12 +227,12 @@
       },
       "language": "Japanese",
       "price": 129.95,
-      "quantity": 0,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785378726.1369886,
-      "ended": true,
-      "new": true,
+      "comment": "",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
       "previous_prices": [
         [
           149.95,
@@ -203,12 +251,16 @@
         [
           2,
           1785378726.1369886
+        ],
+        [
+          0,
+          1785378726.1369886
         ]
       ],
       "first_date": 1785029900.6226664,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -225,10 +277,10 @@
       },
       "language": "Japanese",
       "price": 129.99,
-      "quantity": 68,
+      "quantity": 63,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -445,12 +497,57 @@
         [
           74,
           1785378726.1369886
+        ],
+        [
+          68,
+          1785504186.7130215
+        ],
+        [
+          71,
+          1785572664.450509
+        ],
+        [
+          67,
+          1785740937.4688218
         ]
       ],
       "first_date": 1767729127.7220016,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -6,
+      "quantity_change": -4,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "L4rs1010",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 130.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Ovp - sealed",
+      "date": 1785740937.4688218,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785740937.4688218
+        ]
+      ],
+      "first_date": 1785740937.4688218,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -481,6 +578,68 @@
         ]
       ],
       "first_date": 1785029900.6226664,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "Hinoarashi777",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 139.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "sealed. paris possible",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.99,
+          1782584705.9330032
+        ],
+        [
+          179.99,
+          1783363651.7029335
+        ],
+        [
+          174.99,
+          1783890605.8657873
+        ],
+        [
+          169.99,
+          1784169679.1297457
+        ],
+        [
+          164.99,
+          1785572664.450509
+        ]
+      ],
+      "previous_quantities": [
+        [
+          4,
+          1783363651.7029335
+        ],
+        [
+          0,
+          1783363651.7029335
+        ],
+        [
+          4,
+          1784358328.6205084
+        ]
+      ],
+      "first_date": 1781882951.3880436,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -536,7 +695,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -573,7 +732,7 @@
       "quantity": 26,
       "condition": "NM",
       "comment": "OVP Sealed (with shrink) / In Stock ready to ship !",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -691,7 +850,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed - OVP - Sicherer Versand",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -772,7 +931,7 @@
       ],
       "first_date": 1780830507.7683432,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -790,12 +949,12 @@
       },
       "language": "Japanese",
       "price": 145.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Sealed",
-      "date": 1785378726.1369886,
-      "ended": true,
-      "new": true,
+      "comment": "Sealed",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -809,12 +968,16 @@
         [
           1,
           1785378726.1369886
+        ],
+        [
+          0,
+          1785378726.1369886
         ]
       ],
       "first_date": 1784780612.5187447,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -864,6 +1027,133 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
+        "name": "PokekaTCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 147.98,
+      "quantity": 15,
+      "condition": "NM",
+      "comment": "OVP Sealed · VAT Incl · Fast Ship",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          199.99,
+          1784014682.0471327
+        ],
+        [
+          189.98,
+          1784780612.5187447
+        ],
+        [
+          179.94,
+          1785029900.6226664
+        ],
+        [
+          149.9,
+          1785740937.4688218
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783363651.7029335,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "WS-TCG",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 147.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "All three availabe",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          219.98,
+          1778147724.7120445
+        ],
+        [
+          199.99,
+          1782171590.097553
+        ],
+        [
+          198.79,
+          1782348540.4164133
+        ],
+        [
+          197.79,
+          1782498096.8354526
+        ],
+        [
+          189.89,
+          1782584705.9330032
+        ],
+        [
+          166.99,
+          1785572664.450509
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778147724.7120445
+        ],
+        [
+          0,
+          1778147724.7120445
+        ],
+        [
+          3,
+          1782171590.097553
+        ],
+        [
+          0,
+          1782171590.097553
+        ],
+        [
+          1,
+          1782348540.4164133
+        ],
+        [
+          2,
+          1782584705.9330032
+        ],
+        [
+          0,
+          1782584705.9330032
+        ]
+      ],
+      "first_date": 1778147724.7120445,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
         "name": "SWE-Commerce",
         "country": "Item location: Germany"
       },
@@ -872,7 +1162,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Sealed / inkl. 19% MwSt.",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -930,36 +1220,65 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "PokekaTCG",
+        "name": "Bulktopia",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 149.9,
-      "quantity": 15,
+      "price": 149.99,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "OVP Sealed · VAT Incl · Fast Ship",
-      "date": 1785504186.7130215,
+      "comment": "RELISTED! Ovp sealed",
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          199.99,
-          1784014682.0471327
+          399.99,
+          1781882951.3880436
         ],
         [
-          189.98,
+          299.99,
+          1782744173.802191
+        ],
+        [
+          184.99,
+          1782839640.7445254
+        ],
+        [
+          174.99,
+          1783181688.0602393
+        ],
+        [
+          169.99,
+          1784780612.5187447
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1782744173.802191
+        ],
+        [
+          1,
+          1782839640.7445254
+        ],
+        [
+          2,
+          1783363651.7029335
+        ],
+        [
+          3,
           1784780612.5187447
         ],
         [
-          179.94,
-          1785029900.6226664
+          0,
+          1784780612.5187447
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1783363651.7029335,
+      "first_date": 1781743534.8094919,
       "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "price_is_new": true,
+      "quantity_change": 3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -979,7 +1298,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "All three boxes available",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1106,8 +1425,8 @@
       "price": 150.68,
       "quantity": 3,
       "condition": "NM",
-      "comment": "RELISTED! OVP - SEALED",
-      "date": 1785504186.7130215,
+      "comment": "OVP - SEALED",
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1152,8 +1471,8 @@
       ],
       "first_date": 1767729127.7220016,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 3,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1173,7 +1492,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "40 dispo",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1317,64 +1636,6 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "Hinoarashi777",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 164.99,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "sealed. paris possible",
-      "date": 1785504186.7130215,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          199.99,
-          1782584705.9330032
-        ],
-        [
-          179.99,
-          1783363651.7029335
-        ],
-        [
-          174.99,
-          1783890605.8657873
-        ],
-        [
-          169.99,
-          1784169679.1297457
-        ]
-      ],
-      "previous_quantities": [
-        [
-          4,
-          1783363651.7029335
-        ],
-        [
-          0,
-          1783363651.7029335
-        ],
-        [
-          4,
-          1784358328.6205084
-        ]
-      ],
-      "first_date": 1781882951.3880436,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
         "name": "Pyjee",
         "country": "Item location: Germany"
       },
@@ -1425,12 +1686,118 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Incl gemloader acryl case. Full set available",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785205586.402766,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "TcgSpainOficial",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 165.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Precintado. perfecto estado.",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          285.0,
+          1770298422.7669804
+        ],
+        [
+          235.0,
+          1773398607.5392334
+        ],
+        [
+          205.0,
+          1776938619.305137
+        ],
+        [
+          180.0,
+          1777983654.0626323
+        ],
+        [
+          199.0,
+          1779127400.1193504
+        ],
+        [
+          200.0,
+          1779431630.6287272
+        ],
+        [
+          198.0,
+          1779500743.9054446
+        ],
+        [
+          200.0,
+          1781307513.3175704
+        ],
+        [
+          198.0,
+          1782839640.7445254
+        ],
+        [
+          180.0,
+          1784014682.0471327
+        ],
+        [
+          170.0,
+          1785504186.7130215
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1777598585.444816
+        ],
+        [
+          1,
+          1777759081.9731083
+        ],
+        [
+          0,
+          1777759081.9731083
+        ],
+        [
+          1,
+          1777983654.0626323
+        ],
+        [
+          3,
+          1778251580.9627893
+        ],
+        [
+          2,
+          1778350913.8927293
+        ],
+        [
+          3,
+          1780480939.653521
+        ],
+        [
+          1,
+          1782839640.7445254
+        ]
+      ],
+      "first_date": 1767729127.7220016,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1516,84 +1883,6 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "WS-TCG",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 166.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "original & sealed",
-      "date": 1785504186.7130215,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          219.98,
-          1778147724.7120445
-        ],
-        [
-          199.99,
-          1782171590.097553
-        ],
-        [
-          198.79,
-          1782348540.4164133
-        ],
-        [
-          197.79,
-          1782498096.8354526
-        ],
-        [
-          189.89,
-          1782584705.9330032
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778147724.7120445
-        ],
-        [
-          0,
-          1778147724.7120445
-        ],
-        [
-          3,
-          1782171590.097553
-        ],
-        [
-          0,
-          1782171590.097553
-        ],
-        [
-          1,
-          1782348540.4164133
-        ],
-        [
-          2,
-          1782584705.9330032
-        ],
-        [
-          0,
-          1782584705.9330032
-        ]
-      ],
-      "first_date": 1778147724.7120445,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
         "name": "Korekutatcg",
         "country": "Item location: Italy"
       },
@@ -1602,7 +1891,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed ready to ship",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1790,7 +2079,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1935,7 +2224,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2077,7 +2366,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2167,7 +2456,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed ovp. gemäß paragraph 19 ustg wird keine umsatzsteuer ausgewiesen",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2225,68 +2514,6 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "Bulktopia",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 169.99,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Ovp sealed",
-      "date": 1784780612.5187447,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          399.99,
-          1781882951.3880436
-        ],
-        [
-          299.99,
-          1782744173.802191
-        ],
-        [
-          184.99,
-          1782839640.7445254
-        ],
-        [
-          174.99,
-          1783181688.0602393
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1782744173.802191
-        ],
-        [
-          1,
-          1782839640.7445254
-        ],
-        [
-          2,
-          1783363651.7029335
-        ],
-        [
-          3,
-          1784780612.5187447
-        ]
-      ],
-      "first_date": 1781743534.8094919,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
         "name": "Poke-Starr",
         "country": "Item location: Portugal"
       },
@@ -2295,7 +2522,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED! full set available",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2328,7 +2555,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2356,108 +2583,6 @@
         ]
       ],
       "first_date": 1780912358.276975,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
-        "name": "TcgSpainOficial",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 170.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "Precintado. perfecto estado.",
-      "date": 1785504186.7130215,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          285.0,
-          1770298422.7669804
-        ],
-        [
-          235.0,
-          1773398607.5392334
-        ],
-        [
-          205.0,
-          1776938619.305137
-        ],
-        [
-          180.0,
-          1777983654.0626323
-        ],
-        [
-          199.0,
-          1779127400.1193504
-        ],
-        [
-          200.0,
-          1779431630.6287272
-        ],
-        [
-          198.0,
-          1779500743.9054446
-        ],
-        [
-          200.0,
-          1781307513.3175704
-        ],
-        [
-          198.0,
-          1782839640.7445254
-        ],
-        [
-          180.0,
-          1784014682.0471327
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1777598585.444816
-        ],
-        [
-          1,
-          1777759081.9731083
-        ],
-        [
-          0,
-          1777759081.9731083
-        ],
-        [
-          1,
-          1777983654.0626323
-        ],
-        [
-          3,
-          1778251580.9627893
-        ],
-        [
-          2,
-          1778350913.8927293
-        ],
-        [
-          3,
-          1780480939.653521
-        ],
-        [
-          1,
-          1782839640.7445254
-        ]
-      ],
-      "first_date": 1767729127.7220016,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2616,7 +2741,7 @@
       "quantity": 35,
       "condition": "NM",
       "comment": "sealed perfect box",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2767,14 +2892,19 @@
       },
       "language": "Japanese",
       "price": 175.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "For more pics please message and only tracked parcel shipping.",
-      "date": 1785504186.7130215,
-      "ended": false,
+      "date": 1785572664.450509,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785572664.450509
+        ]
+      ],
       "first_date": 1784358328.6205084,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2896,7 +3026,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3002,7 +3132,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "sealed ovp & fast shipping",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3072,7 +3202,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3115,10 +3245,10 @@
       },
       "language": "Japanese",
       "price": 179.99,
-      "quantity": 6,
+      "quantity": 5,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3155,6 +3285,10 @@
         [
           0,
           1783622479.1981897
+        ],
+        [
+          6,
+          1785504186.7130215
         ]
       ],
       "first_date": 1781649149.5911796,
@@ -3274,7 +3408,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp sealed. other boxes available as well",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3307,7 +3441,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved / No Damage",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3340,7 +3474,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved / No Damage",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3382,7 +3516,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect condition",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3714,7 +3848,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3764,7 +3898,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping.",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3884,7 +4018,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEW/SEALED/OVP",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3954,7 +4088,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP/Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4000,6 +4134,48 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
+        "name": "MuellerTCG",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 190.0,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "RELISTED! Sealed    Fast Shipping /Many other Cards in Stock",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          192.5,
+          1782269425.7751465
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782269425.7751465
+        ],
+        [
+          0,
+          1782269425.7751465
+        ]
+      ],
+      "first_date": 1782171590.097553,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
         "name": "Caius215",
         "country": "Item location: Italy"
       },
@@ -4008,7 +4184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4162,39 +4338,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1773728345.7004268,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
-        "name": "MuellerTCG",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 192.5,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed (With Shrink/Foil)",
-      "date": 1782269425.7751465,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1782269425.7751465
-        ]
-      ],
-      "first_date": 1782171590.097553,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4384,6 +4527,52 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
+        "name": "ItsRoelie",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 195.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed/ for questions or offers dm me",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          280.0,
+          1783181688.0602393
+        ],
+        [
+          205.0,
+          1784358328.6205084
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784488237.3079116
+        ],
+        [
+          0,
+          1784488237.3079116
+        ]
+      ],
+      "first_date": 1783181688.0602393,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
         "name": "UnitedPotatoes",
         "country": "Item location: Germany"
       },
@@ -4392,7 +4581,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4425,7 +4614,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED (With Shrink)",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4453,54 +4642,12 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Photos are available upon request.",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784688761.0890584,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
-        "name": "ItsRoelie",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 195.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sealed/ for questions or offers dm me",
-      "date": 1784488237.3079116,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          280.0,
-          1783181688.0602393
-        ],
-        [
-          205.0,
-          1784358328.6205084
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784488237.3079116
-        ]
-      ],
-      "first_date": 1783181688.0602393,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4919,7 +5066,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED (With Shrink)",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4965,7 +5112,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "TVA 20% INCL. B2B POSSIBLE. 100+ AVAILABLE.",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5154,6 +5301,60 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
+        "name": "PokeLukasSwiss",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "TRIO AVAIABLE",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          254.99,
+          1774531448.7702792
+        ],
+        [
+          199.0,
+          1776641828.0999122
+        ],
+        [
+          259.99,
+          1785740937.4688218
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776641828.0999122
+        ],
+        [
+          1,
+          1784488237.3079116
+        ],
+        [
+          0,
+          1784488237.3079116
+        ]
+      ],
+      "first_date": 1767729127.7220016,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
         "name": "KhezusCards",
         "country": "Item location: Germany"
       },
@@ -5296,7 +5497,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Neuf et scellé",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5338,7 +5539,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5375,9 +5576,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785504186.7130215,
@@ -6016,7 +6217,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfectly sealed. ask for more pics. also Hiroshima and Tohoku on stock",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6044,7 +6245,7 @@
       "quantity": 13,
       "condition": "NM",
       "comment": "sealed with shrink",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6115,7 +6316,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6254,8 +6455,8 @@
       "price": 206.06,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785504186.7130215,
+      "comment": "",
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6309,7 +6510,7 @@
       "first_date": 1777759081.9731083,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -6571,7 +6772,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed. Questions? send me a message",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6784,7 +6985,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7047,20 +7248,20 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "cardbucketshop",
-        "country": "Item location: Austria"
+        "name": "TradingTCG",
+        "country": "Item location: Portugal"
       },
       "language": "Japanese",
       "price": 214.9,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Sicherer Versand - TCG Händler aus Österreich",
-      "date": 1785504186.7130215,
+      "comment": "NEW & SEALED!",
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785029900.6226664,
+      "first_date": 1782080013.3867447,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7075,20 +7276,29 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "TradingTCG",
-        "country": "Item location: Portugal"
+        "name": "cardbucketshop",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
       "price": 214.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "NEW & SEALED!",
-      "date": 1785504186.7130215,
-      "ended": false,
+      "comment": "Sicherer Versand - TCG Händler aus Österreich",
+      "date": 1785572664.450509,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782080013.3867447,
+      "previous_quantities": [
+        [
+          2,
+          1785504186.7130215
+        ],
+        [
+          1,
+          1785572664.450509
+        ]
+      ],
+      "first_date": 1785029900.6226664,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7111,7 +7321,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. ohne Schäden",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7307,7 +7517,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil)",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7340,7 +7550,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7658,7 +7868,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sigillato/Nuovo/Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7736,7 +7946,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Clean no damage",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7764,7 +7974,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7792,7 +8002,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7903,8 +8113,8 @@
       "price": 225.25,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Have also HIROSHIMA PKC BOX in Stock! - SEALED - Sammler",
-      "date": 1785504186.7130215,
+      "comment": "Have also HIROSHIMA PKC BOX in Stock! - SEALED - Sammler",
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7970,7 +8180,7 @@
       "first_date": 1777759081.9731083,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8409,7 +8619,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "@ OVP Sealed / Ask for Photos @",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8601,7 +8811,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8789,7 +8999,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8878,7 +9088,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP Sealed / little Dents possible!",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8948,7 +9158,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed ||| Fast Same/Next Day Shipping",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9009,7 +9219,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9037,7 +9247,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "5 in stock",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9115,7 +9325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9171,7 +9381,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / also Hiroshima box in stock",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9208,7 +9418,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9262,7 +9472,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9463,56 +9673,6 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "PokeLukasSwiss",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 259.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "TRIO AVAIABLE",
-      "date": 1785504186.7130215,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          254.99,
-          1774531448.7702792
-        ],
-        [
-          199.0,
-          1776641828.0999122
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776641828.0999122
-        ],
-        [
-          1,
-          1784488237.3079116
-        ],
-        [
-          0,
-          1784488237.3079116
-        ]
-      ],
-      "first_date": 1767729127.7220016,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
         "name": "HanjoM",
         "country": "Item location: France"
       },
@@ -9521,7 +9681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SCELLÉ ENVOIE RAPIDE",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9648,7 +9808,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Premium WPN Store/huge selection. no shipping on holidays and weekends.",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9840,7 +10000,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9868,7 +10028,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9896,7 +10056,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Great condition. Factory sealed - fast shipping",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9985,7 +10145,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New sealed OVP. We offer B2B",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10022,7 +10182,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "in stock",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10078,7 +10238,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10115,7 +10275,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10143,7 +10303,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10176,7 +10336,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Box has been opened - Promo sealed - inkl. VAT",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10209,7 +10369,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10308,7 +10468,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10345,7 +10505,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed perfect box",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10375,7 +10535,7 @@
       "comment": "",
       "date": 1785378726.1369886,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -10386,7 +10546,7 @@
       "first_date": 1781476538.3201962,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10560,11 +10720,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 300.84,
+      "price": 300.38,
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed and Fast Shipping",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10999,6 +11159,18 @@
         [
           300.12,
           1785378726.1369886
+        ],
+        [
+          300.84,
+          1785504186.7130215
+        ],
+        [
+          301.1,
+          1785572664.450509
+        ],
+        [
+          300.93,
+          1785740937.4688218
         ]
       ],
       "previous_quantities": [],
@@ -11231,7 +11403,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "inkl. 19% MwSt | OVP. sealed | schneller Versand",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11276,7 +11448,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11304,7 +11476,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11333,34 +11505,6 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
-        "name": "Qualitycardstcg-",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed professional. info@qualitycardstcg in the Netherlands",
-      "date": 1785504186.7130215,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1767729127.7220016,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Fukuoka Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
-      "seller": {
         "name": "NotZexion",
         "country": "Item location: Portugal"
       },
@@ -11369,7 +11513,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11403,6 +11547,34 @@
       "card": "Pokémon Center Fukuoka Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
       "seller": {
+        "name": "cardslabo",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "EN PERFECTO ESTADO",
+      "date": 1785841663.1467166,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785841663.1467166,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
         "name": "cecitcgstore",
         "country": "Item location: Italy"
       },
@@ -11411,12 +11583,45 @@
       "quantity": 100,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1783890605.8657873,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Fukuoka Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Fukuoka-Special-Box",
+      "seller": {
+        "name": "Qualitycardstcg-",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 350.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed professional. info@qualitycardstcg in the Netherlands",
+      "date": 1785572664.450509,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785572664.450509
+        ]
+      ],
+      "first_date": 1767729127.7220016,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11439,7 +11644,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP - SEALED FAST DAILY SHIPPING",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11467,7 +11672,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11508,7 +11713,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11541,7 +11746,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP SEALED / FAST SHIPPING",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11671,7 +11876,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11699,7 +11904,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Shipping 3/10 - Perfect seal",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11809,7 +12014,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. all 3 PC Special boxes available",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11971,7 +12176,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEU / OVP / SEALED",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11999,7 +12204,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12041,7 +12246,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and NEW",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12069,7 +12274,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12150,11 +12355,11 @@
       },
       "language": "Japanese",
       "price": 550.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Insta : @vt.collectors",
       "date": 1785504186.7130215,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -12194,6 +12399,10 @@
         [
           0,
           1784488237.3079116
+        ],
+        [
+          1,
+          1785504186.7130215
         ]
       ],
       "first_date": 1778712986.3327532,
@@ -12247,7 +12456,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12308,7 +12517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12336,7 +12545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12364,7 +12573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed / ask for pictures",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12502,7 +12711,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12530,7 +12739,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12555,23 +12764,27 @@
       },
       "language": "Japanese",
       "price": 1249.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "Differenzbesteuert",
-      "date": 1784780612.5187447,
-      "ended": true,
+      "comment": "RELISTED! Differenzbesteuert",
+      "date": 1785841663.1467166,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
           1784780612.5187447
+        ],
+        [
+          0,
+          1784780612.5187447
         ]
       ],
       "first_date": 1781743534.8094919,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12649,7 +12862,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785504186.7130215,
+      "date": 1785841663.1467166,
       "ended": false,
       "new": false,
       "previous_prices": [],

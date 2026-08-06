@@ -8,10 +8,10 @@
     "English"
   ],
   "only_germany": "False",
-  "available": 43,
-  "available_graded": 11,
-  "sold": 0,
-  "inserted": 0,
+  "available": 39,
+  "available_graded": 13,
+  "sold": 3,
+  "inserted": 2,
   "listings": [
     {
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
@@ -9411,8 +9411,8 @@
       "price": 235.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Becket 8.5",
-      "date": 1785407515.2794764,
+      "comment": "Becket 8.5",
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9429,7 +9429,7 @@
       "first_date": 1785059391.0833075,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9477,7 +9477,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 8",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10088,7 +10088,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Store in Cologno Monzese (MI)",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10304,15 +10304,58 @@
       },
       "language": "English",
       "price": 260.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": true,
+      "date": 1785569130.5772684,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785569130.5772684
+        ]
+      ],
       "first_date": 1785407515.2794764,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "Pr0t0Typ",
+        "country": "Item location: Austria"
+      },
+      "language": "English",
+      "price": 270.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785569130.5772684,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          300.0,
+          1785407515.2794764
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785569130.5772684
+        ]
+      ],
+      "first_date": 1785059391.0833075,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10443,7 +10486,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10533,7 +10576,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10658,7 +10701,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "-- SHIPPING DAILY !! --",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10708,6 +10751,64 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
+        "name": "Table-flip",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 299.98,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785737227.841967,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          378.99,
+          1784582109.949382
+        ],
+        [
+          360.04,
+          1784717635.3980103
+        ],
+        [
+          342.04,
+          1784808547.575923
+        ],
+        [
+          299.98,
+          1785059391.0833075
+        ],
+        [
+          349.98,
+          1785407515.2794764
+        ],
+        [
+          315.86,
+          1785569130.5772684
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785737227.841967
+        ]
+      ],
+      "first_date": 1784162180.5828173,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
         "name": "DualityGames",
         "country": "Item location: Germany"
       },
@@ -10716,7 +10817,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Value",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10777,7 +10878,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Not sealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10831,34 +10932,6 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "Pr0t0Typ",
-        "country": "Item location: Austria"
-      },
-      "language": "English",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785059391.0833075,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "Suabon",
         "country": "Item location: Spain"
       },
@@ -10867,7 +10940,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11051,7 +11124,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11080,6 +11153,43 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
+        "name": "Itsnella",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 310.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED // Fast Shipping",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          275.0,
+          1785234793.530897
+        ],
+        [
+          320.0,
+          1785569130.5772684
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784264644.9887192,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
         "name": "greatmugiwara",
         "country": "Item location: Belgium"
       },
@@ -11088,7 +11198,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11106,39 +11216,6 @@
       "first_date": 1717497726.173129,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
-        "name": "Itsnella",
-        "country": "Item location: Spain"
-      },
-      "language": "English",
-      "price": 320.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED // Fast Shipping",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          275.0,
-          1785234793.530897
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784264644.9887192,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -11192,7 +11269,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Seald",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11276,44 +11353,16 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "Gizmou",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 340.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782736241.2880564,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "Glyphbound",
         "country": "Item location: Netherlands"
       },
       "language": "English",
       "price": 340.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1784808547.575923,
-      "ended": true,
+      "comment": "RELISTED! ",
+      "date": 1785837773.3689435,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -11328,9 +11377,41 @@
         [
           1,
           1784808547.575923
+        ],
+        [
+          0,
+          1784808547.575923
         ]
       ],
       "first_date": 1782641636.7193034,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "Gizmou",
+        "country": "Item location: Germany"
+      },
+      "language": "English",
+      "price": 340.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782736241.2880564,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -11353,7 +11434,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11452,51 +11533,6 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "Table-flip",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 349.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          378.99,
-          1784582109.949382
-        ],
-        [
-          360.04,
-          1784717635.3980103
-        ],
-        [
-          342.04,
-          1784808547.575923
-        ],
-        [
-          299.98,
-          1785059391.0833075
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784162180.5828173,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "BuiBui",
         "country": "Item location: Germany"
       },
@@ -11505,7 +11541,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11596,7 +11632,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11633,7 +11669,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11653,17 +11689,78 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "PokemonTrainerCards",
-        "country": "Item location: Spain"
+        "name": "NagaCards",
+        "country": "Item location: Germany"
       },
       "language": "English",
       "price": 350.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! Boosterfresh. Check all my cards. shipping every day",
-      "date": 1785407515.2794764,
+      "comment": "",
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783173518.7240188,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "Amber1983",
+        "country": "Item location: Netherlands"
+      },
+      "language": "English",
+      "price": 350.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          380.0,
+          1782831140.1193647
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781444132.3621333,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "PokemonTrainerCards",
+        "country": "Item location: Spain"
+      },
+      "language": "English",
+      "price": 350.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Boosterfresh. Check all my cards. shipping every day",
+      "date": 1785737227.841967,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -11681,12 +11778,16 @@
         [
           0,
           1784006780.6536667
+        ],
+        [
+          1,
+          1785737227.841967
         ]
       ],
       "first_date": 1779486366.5211349,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11703,12 +11804,12 @@
       },
       "language": "English",
       "price": 350.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sleeve + Toploader",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
+      "date": 1785737227.841967,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           250.0,
@@ -11739,73 +11840,16 @@
         [
           0,
           1783490378.4051986
+        ],
+        [
+          1,
+          1785737227.841967
         ]
       ],
       "first_date": 1772020634.65209,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
-        "name": "NagaCards",
-        "country": "Item location: Germany"
-      },
-      "language": "English",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783173518.7240188,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
-        "name": "Amber1983",
-        "country": "Item location: Netherlands"
-      },
-      "language": "English",
-      "price": 350.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          380.0,
-          1782831140.1193647
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1781444132.3621333,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -12618,11 +12662,11 @@
       },
       "language": "English",
       "price": 389.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1783614207.6438088,
-      "ended": true,
+      "date": 1785837773.3689435,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -12633,6 +12677,10 @@
       "previous_quantities": [
         [
           1,
+          1783614207.6438088
+        ],
+        [
+          0,
           1783614207.6438088
         ]
       ],
@@ -12766,7 +12814,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "V  - TIENDA FISICA Y ONLINE - VARIOS TCG",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12794,7 +12842,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12942,7 +12990,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "AOG 9.5 Gem MInt",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12976,11 +13024,11 @@
       },
       "language": "English",
       "price": 445.95,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "** Mint. sealed **",
       "date": 1785407515.2794764,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -12988,7 +13036,12 @@
           1781536192.0625753
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785407515.2794764
+        ]
+      ],
       "first_date": 1771629173.0582745,
       "last_date": 0.0,
       "price_is_new": false,
@@ -13140,7 +13193,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13169,11 +13222,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 480.19,
+      "price": 480.61,
       "quantity": 1,
       "condition": "NM",
       "comment": "Unsealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13216,6 +13269,18 @@
         [
           481.57,
           1785234793.530897
+        ],
+        [
+          480.19,
+          1785407515.2794764
+        ],
+        [
+          481.76,
+          1785569130.5772684
+        ],
+        [
+          481.48,
+          1785737227.841967
         ]
       ],
       "previous_quantities": [],
@@ -13238,11 +13303,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 480.19,
+      "price": 480.61,
       "quantity": 1,
       "condition": "NM",
       "comment": "30k cards available =)",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13281,6 +13346,18 @@
         [
           481.57,
           1785234793.530897
+        ],
+        [
+          480.19,
+          1785407515.2794764
+        ],
+        [
+          481.76,
+          1785569130.5772684
+        ],
+        [
+          481.48,
+          1785737227.841967
         ]
       ],
       "previous_quantities": [],
@@ -13307,7 +13384,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13421,7 +13498,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13455,34 +13532,6 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "Stillen92",
-        "country": "Item location: Portugal"
-      },
-      "language": "English",
-      "price": 500.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771629173.0582745,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "yungxramoz",
         "country": "Item location: Switzerland"
       },
@@ -13491,7 +13540,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13516,6 +13565,34 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
+        "name": "Stillen92",
+        "country": "Item location: Portugal"
+      },
+      "language": "English",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1771629173.0582745,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
         "name": "Soufy",
         "country": "Item location: Germany"
       },
@@ -13524,7 +13601,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13705,11 +13782,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 540.21,
+      "price": 540.69,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13756,6 +13833,18 @@
         [
           541.76,
           1785234793.530897
+        ],
+        [
+          540.21,
+          1785407515.2794764
+        ],
+        [
+          541.98,
+          1785569130.5772684
+        ],
+        [
+          541.67,
+          1785737227.841967
         ]
       ],
       "previous_quantities": [],
@@ -13778,11 +13867,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 540.21,
+      "price": 540.69,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14305,6 +14394,18 @@
         [
           541.76,
           1785234793.530897
+        ],
+        [
+          540.21,
+          1785407515.2794764
+        ],
+        [
+          541.98,
+          1785569130.5772684
+        ],
+        [
+          541.67,
+          1785737227.841967
         ]
       ],
       "previous_quantities": [
@@ -14420,7 +14521,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "En parfait état. photos sur demande",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14477,11 +14578,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "English",
-      "price": 600.24,
+      "price": 600.76,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14844,6 +14945,18 @@
         [
           601.96,
           1785234793.530897
+        ],
+        [
+          600.24,
+          1785407515.2794764
+        ],
+        [
+          602.2,
+          1785569130.5772684
+        ],
+        [
+          601.85,
+          1785737227.841967
         ]
       ],
       "previous_quantities": [],
@@ -14856,6 +14969,52 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "adpoke",
+        "country": "Item location: Switzerland"
+      },
+      "language": "English",
+      "price": 620.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA10",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1773375638.7067707
+        ],
+        [
+          770.0,
+          1784006780.6536667
+        ],
+        [
+          700.0,
+          1785737227.841967
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1773375638.7067707
+        ]
+      ],
+      "first_date": 1772116389.827996,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -14895,58 +15054,16 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "adpoke",
-        "country": "Item location: Switzerland"
-      },
-      "language": "English",
-      "price": 700.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA10",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          450.0,
-          1773375638.7067707
-        ],
-        [
-          770.0,
-          1784006780.6536667
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1773375638.7067707
-        ]
-      ],
-      "first_date": 1772116389.827996,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "Glyphbound",
         "country": "Item location: Netherlands"
       },
       "language": "English",
       "price": 700.0,
-      "quantity": 0,
+      "quantity": 3,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1784808547.575923,
-      "ended": true,
+      "comment": "RELISTED! PSA 10",
+      "date": 1785837773.3689435,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -15006,16 +15123,66 @@
         [
           3,
           1784808547.575923
+        ],
+        [
+          0,
+          1784808547.575923
         ]
       ],
       "first_date": 1782404760.682914,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nefeltari Vivi (ST01-009) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
+      "seller": {
+        "name": "MoeTCG",
+        "country": "Item location: Luxembourg"
+      },
+      "language": "English",
+      "price": 700.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "ACE 10.  open to offer",
+      "date": 1785837773.3689435,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          500.0,
+          1781536192.0625753
+        ],
+        [
+          800.0,
+          1785569130.5772684
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782554111.932949
+        ],
+        [
+          0,
+          1782554111.932949
+        ]
+      ],
+      "first_date": 1780540358.3482237,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "PSA",
+      "grade_company": "ACE",
       "grade": 10.0,
       "grade_source": "auto"
     },
@@ -15064,7 +15231,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15135,7 +15302,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "[PSA 10.0]",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15155,61 +15322,24 @@
       "card": "Nefeltari Vivi (ST01-009) (V.2)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
       "seller": {
-        "name": "MoeTCG",
-        "country": "Item location: Luxembourg"
-      },
-      "language": "English",
-      "price": 800.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "ACE 10.  open to offer",
-      "date": 1785407515.2794764,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          500.0,
-          1781536192.0625753
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782554111.932949
-        ],
-        [
-          0,
-          1782554111.932949
-        ]
-      ],
-      "first_date": 1780540358.3482237,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "ACE",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nefeltari Vivi (ST01-009) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos_Nefeltari-Vivi-ST01-009-V2",
-      "seller": {
         "name": "Pokemonfelix",
         "country": "Item location: Germany"
       },
       "language": "English",
       "price": 850.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
       "date": 1785407515.2794764,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785407515.2794764
+        ]
+      ],
       "first_date": 1784162180.5828173,
       "last_date": 0.0,
       "price_is_new": false,
@@ -15294,7 +15424,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast Shipping and safe packaging.",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15336,7 +15466,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graded CGC 10",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15473,7 +15603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15551,7 +15681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Psa 10",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15663,7 +15793,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15700,7 +15830,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15728,7 +15858,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BLACK LABEL POP5/MEET",
-      "date": 1785407515.2794764,
+      "date": 1785837773.3689435,
       "ended": false,
       "new": false,
       "previous_prices": [],
