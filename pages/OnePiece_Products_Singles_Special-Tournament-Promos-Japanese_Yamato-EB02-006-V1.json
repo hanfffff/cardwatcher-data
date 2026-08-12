@@ -12,27 +12,65 @@
   "only_germany": false,
   "available": 0,
   "available_graded": 2,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
-        "name": "Rondibus",
-        "country": "Item location: Germany"
+        "name": "EAG-TCG",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 7200.0,
+      "price": 6400.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 / RMP Paris possible",
+      "date": 1786323994.5928698,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          7500.0,
+          1785885403.2027845
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786323994.5928698
+        ]
+      ],
+      "first_date": 1785789651.847149,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (EB02-006) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Yamato-EB02-006-V1",
+      "seller": {
+        "name": "Djeha2706",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 6500.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10 - For Japan - ONLY PICKUP - PM before Buying",
-      "date": 1785885403.2027845,
+      "comment": "PSA 10 - For Asia - 2032/2050",
+      "date": 1786541388.9703014,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785789651.847149,
+      "first_date": 1786202272.868798,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -47,15 +85,15 @@
       "card": "Yamato (EB02-006) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Special-Tournament-Promos-Japanese_Yamato-EB02-006-V1",
       "seller": {
-        "name": "EAG-TCG",
-        "country": "Item location: France"
+        "name": "Rondibus",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 7500.0,
+      "price": 7200.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10 / RMP Paris possible",
-      "date": 1785885403.2027845,
+      "comment": "PSA 10 - For Japan - ONLY PICKUP - PM before Buying",
+      "date": 1786541388.9703014,
       "ended": false,
       "new": false,
       "previous_prices": [],

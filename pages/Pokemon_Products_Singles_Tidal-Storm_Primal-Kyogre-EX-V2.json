@@ -11,7 +11,7 @@
   ],
   "only_germany": false,
   "available": 8,
-  "available_graded": 0,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -83,7 +83,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -116,7 +116,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "J6",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -232,7 +232,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -310,7 +310,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Excellent + / NM-",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -398,8 +398,36 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Nuovo venditore. contattatemi per maggiori info. grazie",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786133736.2272394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Kyogre EX  (XY5t 073)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
+      "seller": {
+        "name": "corradobg",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 340.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Nuovo venditore. contattatemi per maggiori info. grazie",
+      "date": 1785876992.5826483,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -415,6 +443,10 @@
         [
           0,
           1783127556.9916413
+        ],
+        [
+          1,
+          1785876992.5826483
         ]
       ],
       "first_date": 1783127556.9916413,
@@ -481,7 +513,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM- Bottom left corner",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -531,7 +563,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Groudon available !! unlimited edition !!",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -559,7 +591,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "ask for pics - fast & save shipping - check out my other cards",
-      "date": 1785876992.5826483,
+      "date": 1786406611.8013697,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -573,6 +605,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Primal Kyogre EX  (XY5t 073)",
+      "canonical_name": "Pokemon_Products_Singles_Tidal-Storm_Primal-Kyogre-EX-V2",
+      "seller": {
+        "name": "Lukman29",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 8",
+      "date": 1786406611.8013697,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786133736.2272394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 8.0,
       "grade_source": "auto"
     },
     {

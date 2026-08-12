@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 2,
+  "available": 1,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -24,11 +24,11 @@
       },
       "language": "Korean",
       "price": 145.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "PO",
       "comment": "",
       "date": 1785584909.0803447,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -39,6 +39,10 @@
         [
           0,
           1784674935.0773404
+        ],
+        [
+          1,
+          1785584909.0803447
         ]
       ],
       "first_date": 1771830443.176994,
@@ -106,7 +110,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785584909.0803447,
+      "date": 1786543006.719415,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -162,7 +166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1785584909.0803447,
+      "date": 1786543006.719415,
       "ended": false,
       "new": false,
       "previous_prices": [

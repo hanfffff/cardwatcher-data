@@ -10,10 +10,10 @@
     "Korean"
   ],
   "only_germany": "False",
-  "available": 31,
-  "available_graded": 2,
-  "sold": 2,
-  "inserted": 3,
+  "available": 29,
+  "available_graded": 3,
+  "sold": 3,
+  "inserted": 2,
   "listings": [
     {
       "card": "Sengoku (OP07-046)",
@@ -108,7 +108,7 @@
       "comment": "",
       "date": 1785722540.471339,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -127,7 +127,7 @@
       "first_date": 1777219467.2148292,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -916,11 +916,11 @@
       },
       "language": "S-Chinese",
       "price": 29.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785823225.4704418,
-      "ended": false,
+      "comment": "",
+      "date": 1786077920.7285922,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -931,12 +931,16 @@
         [
           0,
           1785080359.378648
+        ],
+        [
+          1,
+          1786077920.7285922
         ]
       ],
       "first_date": 1785080359.378648,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2238,6 +2242,44 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "joakim88",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 35.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "10 carte = - 10%",
+      "date": 1786173457.4511576,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1786077920.7285922
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786173457.4511576
+        ]
+      ],
+      "first_date": 1785428108.419123,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "BooTCG",
         "country": "Item location: Germany"
       },
@@ -2561,7 +2603,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster to sleeve + toploader",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2610,7 +2652,7 @@
       ],
       "first_date": 1775744180.3622594,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2763,20 +2805,20 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
-        "name": "Neoplay",
-        "country": "Item location: Italy"
+        "name": "dred71",
+        "country": "Item location: France"
       },
-      "language": "S-Chinese",
+      "language": "Japanese",
       "price": 39.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1782687537.5804956,
+      "first_date": 1783905658.6317432,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2791,23 +2833,70 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
-        "name": "dred71",
-        "country": "Item location: France"
+        "name": "hoangphuong",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 39.0,
-      "quantity": 1,
+      "quantity": 3,
       "condition": "NM",
-      "comment": "",
-      "date": 1785823225.4704418,
+      "comment": "RELISTED! Secured Shipping! Dms for pics",
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
+      "previous_prices": [
+        [
+          40.0,
+          1786173457.4511576
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1786173457.4511576
+        ],
+        [
+          0,
+          1786173457.4511576
+        ]
+      ],
+      "first_date": 1785428108.419123,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
+        "name": "Neoplay",
+        "country": "Item location: Italy"
+      },
+      "language": "S-Chinese",
+      "price": 39.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786282934.7457185,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783905658.6317432,
+      "previous_quantities": [
+        [
+          1,
+          1786282934.7457185
+        ]
+      ],
+      "first_date": 1782687537.5804956,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2897,7 +2986,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Wide selection. B2B possible",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3001,12 +3090,12 @@
       },
       "language": "Japanese",
       "price": 39.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "R.P. - 233",
-      "date": 1785823225.4704418,
-      "ended": false,
-      "new": false,
+      "date": 1786282934.7457185,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           39.99,
@@ -3049,12 +3138,16 @@
         [
           0,
           1783292941.4205575
+        ],
+        [
+          1,
+          1786282934.7457185
         ]
       ],
       "first_date": 1773726696.1516807,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3271,7 +3364,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3299,7 +3392,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "shipping with toploader",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3319,48 +3412,20 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
-        "name": "joakim88",
-        "country": "Item location: France"
+        "name": "Pokemon-PAY",
+        "country": "Item location: Switzerland"
       },
       "language": "Japanese",
       "price": 40.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "10 carte = - 10%",
-      "date": 1785823225.4704418,
+      "comment": "Booster to Sleeve to toploader",
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785428108.419123,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sengoku (OP07-046)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
-      "seller": {
-        "name": "hoangphuong",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 40.0,
-      "quantity": 3,
-      "condition": "NM",
-      "comment": "Secured Shipping! Dms for pics",
-      "date": 1785823225.4704418,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785428108.419123,
+      "first_date": 1786282934.7457185,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3380,23 +3445,27 @@
       },
       "language": "Japanese",
       "price": 40.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785722540.471339,
-      "ended": true,
-      "new": true,
+      "comment": "RELISTED! ",
+      "date": 1786439379.2269895,
+      "ended": false,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785722540.471339
+        ],
+        [
+          0,
           1785722540.471339
         ]
       ],
       "first_date": 1785428108.419123,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3927,7 +3996,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best Service - Only Tracked Shipping",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3977,11 +4046,11 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785553679.5057065,
-      "ended": true,
+      "date": 1786439379.2269895,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -4000,6 +4069,10 @@
         ],
         [
           1,
+          1785553679.5057065
+        ],
+        [
+          0,
           1785553679.5057065
         ]
       ],
@@ -4104,7 +4177,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4132,7 +4205,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeve+Toploader",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4160,7 +4233,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "See my other cards JP2",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4210,7 +4283,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4238,7 +4311,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4456,7 +4529,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Over 2000 cards sold on other platforms | Sleeve + Toploader and safe shipping",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4573,6 +4646,34 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "TNTm0vi",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 49.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "opened my self. sleeved and toploaded immediately",
+      "date": 1786439379.2269895,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786173457.4511576,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "MythicVault",
         "country": "Item location: Greece"
       },
@@ -4642,9 +4743,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeved + Tolploader",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785823225.4704418,
@@ -4920,6 +5021,39 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "Hallofgame",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 54.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786077920.7285922,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786077920.7285922
+        ]
+      ],
+      "first_date": 1786077920.7285922,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "HUNTER-GAMES",
         "country": "Item location: Italy"
       },
@@ -4953,64 +5087,24 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
-        "name": "Hansecollectibles",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 54.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1785823225.4704418,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1784029397.0642252
-        ],
-        [
-          0,
-          1784029397.0642252
-        ],
-        [
-          1,
-          1784287257.9389427
-        ],
-        [
-          0,
-          1784287257.9389427
-        ]
-      ],
-      "first_date": 1769352973.3712986,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Sengoku (OP07-046)",
-      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
-      "seller": {
         "name": "Jero-TCG",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 54.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "more JP Cards",
-      "date": 1785823225.4704418,
-      "ended": false,
+      "date": 1786077920.7285922,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786077920.7285922
+        ]
+      ],
       "first_date": 1785428108.419123,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5034,7 +5128,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sleeved/toploader",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5072,6 +5166,62 @@
       "card": "Sengoku (OP07-046)",
       "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
       "seller": {
+        "name": "SilverShanks",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786439379.2269895,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786077920.7285922,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
+        "name": "jhones",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 55.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786439379.2269895,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786077920.7285922,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
         "name": "Skysix",
         "country": "Item location: Germany"
       },
@@ -5080,7 +5230,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Direct to sleeve + toploader + fast shipped",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5163,6 +5313,56 @@
       "first_date": 1769508338.2241528,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
+        "name": "Hansecollectibles",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 59.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sleeved - Toploader - Fast Secured Shipping",
+      "date": 1786439379.2269895,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          54.95,
+          1786282934.7457185
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784029397.0642252
+        ],
+        [
+          0,
+          1784029397.0642252
+        ],
+        [
+          1,
+          1784287257.9389427
+        ],
+        [
+          0,
+          1784287257.9389427
+        ]
+      ],
+      "first_date": 1769352973.3712986,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -5328,11 +5528,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 66.08,
+      "price": 66.29,
       "quantity": 2,
       "condition": "NM",
       "comment": "Anti-Meta - Professionally Packed",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5343,6 +5543,14 @@
         [
           66.2,
           1785722540.471339
+        ],
+        [
+          66.08,
+          1785823225.4704418
+        ],
+        [
+          66.13,
+          1786282934.7457185
         ]
       ],
       "previous_quantities": [],
@@ -5404,14 +5612,19 @@
       },
       "language": "Japanese",
       "price": 75.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "ORIGINAL BILD - LIEFERUNG IM TOPLOADER",
       "date": 1785823225.4704418,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785823225.4704418
+        ]
+      ],
       "first_date": 1785257018.9942813,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5468,7 +5681,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Shipments outside the EU only with tracking.",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5542,12 +5755,45 @@
       "price": 120.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "60K+ CARDS IN STOCK",
-      "date": 1785823225.4704418,
+      "comment": "[AiGrad 10.0] 60K+ CARDS IN STOCK",
+      "date": 1786439379.2269895,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1786077920.7285922,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "AIG",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Sengoku (OP07-046)",
+      "canonical_name": "OnePiece_Products_Singles_The-Azure-Seas-Seven-Asia-Region-Legal_Sengoku-OP07-046",
+      "seller": {
+        "name": "GliStarters",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "60K+ CARDS IN STOCK",
+      "date": 1785823225.4704418,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785823225.4704418
+        ]
+      ],
       "first_date": 1785823225.4704418,
       "last_date": 0.0,
       "price_is_new": false,
@@ -5606,18 +5852,23 @@
       },
       "language": "Japanese",
       "price": 169.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "GRAAD 10",
-      "date": 1785823225.4704418,
-      "ended": false,
-      "new": false,
+      "date": 1786282934.7457185,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786282934.7457185
+        ]
+      ],
       "first_date": 1784448737.5019753,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5703,7 +5954,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 -  Bonus Card with every order",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5774,7 +6025,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785823225.4704418,
+      "date": 1786439379.2269895,
       "ended": false,
       "new": false,
       "previous_prices": [],

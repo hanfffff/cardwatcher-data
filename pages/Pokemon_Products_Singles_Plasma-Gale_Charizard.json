@@ -12,7 +12,7 @@
   "only_germany": "False",
   "available": 2,
   "available_graded": 6,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -361,6 +361,34 @@
       "card": "Charizard  (BW7 077)",
       "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
       "seller": {
+        "name": "Yazhgar",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 500.0,
+      "quantity": 1,
+      "condition": "LP",
+      "comment": "",
+      "date": 1786393207.6492074,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786237202.8147125,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charizard  (BW7 077)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
+      "seller": {
         "name": "Chopakka",
         "country": "Item location: Belgium"
       },
@@ -430,7 +458,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -558,18 +586,23 @@
       },
       "language": "Japanese",
       "price": 650.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "B9",
-      "date": 1785862996.0936913,
-      "ended": false,
-      "new": false,
+      "date": 1786237202.8147125,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786237202.8147125
+        ]
+      ],
       "first_date": 1780318674.6554627,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -860,7 +893,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 5 Differenzbesteuerung nach § 25a UStG.",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1194,7 +1227,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "grading 7 - unlimited! (rarer) (seltener)",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1356,7 +1389,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 6 ig: tcgcollector19",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1389,7 +1422,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 7 POP 30 VB! inkl. 19% MwSt.",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1471,45 +1504,8 @@
       "price": 20000.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "Unlimited PSA10 More Photos and Vidéos in private message",
-      "date": 1785862996.0936913,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          9500.0,
-          1771927276.802383
-        ],
-        [
-          15000.0,
-          1773925567.6769118
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1764750789.8694246,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Charizard  (BW7 077)",
-      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
-      "seller": {
-        "name": "Elcomedia",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 20000.0,
-      "quantity": 1,
-      "condition": "MT",
       "comment": "PSA10 More Photos and Vidéos in private message",
-      "date": 1785862996.0936913,
+      "date": 1786393207.6492074,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1528,6 +1524,43 @@
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Charizard  (BW7 077)",
+      "canonical_name": "Pokemon_Products_Singles_Plasma-Gale_Charizard",
+      "seller": {
+        "name": "Elcomedia",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 20000.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Unlimited PSA10 More Photos and Vidéos in private message",
+      "date": 1786393207.6492074,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          9500.0,
+          1771927276.802383
+        ],
+        [
+          15000.0,
+          1773925567.6769118
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1764750789.8694246,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",

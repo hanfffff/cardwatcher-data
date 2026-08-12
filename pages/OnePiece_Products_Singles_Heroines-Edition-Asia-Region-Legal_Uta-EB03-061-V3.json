@@ -10,9 +10,9 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 11,
-  "available_graded": 4,
-  "sold": 0,
+  "available": 10,
+  "available_graded": 3,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -249,11 +249,11 @@
       },
       "language": "Japanese",
       "price": 600.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "White dot - Selfpulled sleeved and toploaded -",
       "date": 1785811613.9549334,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -261,7 +261,12 @@
           1784848060.1290674
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785811613.9549334
+        ]
+      ],
       "first_date": 1780432653.8936708,
       "last_date": 0.0,
       "price_is_new": false,
@@ -372,7 +377,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "257/400",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -405,7 +410,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack fresh",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -500,12 +505,12 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 720.91,
-      "quantity": 1,
+      "price": 721.46,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785811613.9549334,
-      "ended": false,
+      "date": 1786161541.008155,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -535,12 +540,25 @@
         [
           722.64,
           1785710832.2378771
+        ],
+        [
+          720.91,
+          1785811613.9549334
+        ],
+        [
+          721.5,
+          1786066296.715848
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786161541.008155
+        ]
+      ],
       "first_date": 1784571856.5450902,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -627,7 +645,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for pics :)",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -655,7 +673,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -688,7 +706,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Bilder auf Anfrage / § 25a Dif­fe­renz­be­steue­rung",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -716,7 +734,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Selfpulled sleeved and toploaded.",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -744,7 +762,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -769,11 +787,11 @@
       },
       "language": "Japanese",
       "price": 819.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "BGS 9.5",
       "date": 1785811613.9549334,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -785,11 +803,49 @@
           1785710832.2378771
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785811613.9549334
+        ]
+      ],
       "first_date": 1782826118.170642,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Uta (EB03-061) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
+      "seller": {
+        "name": "StoreCollect",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 819.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "BGS 9.5",
+      "date": 1786272159.3776984,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786272159.3776984
+        ]
+      ],
+      "first_date": 1786066296.715848,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -834,6 +890,34 @@
       "card": "Uta (EB03-061) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
       "seller": {
+        "name": "Massti21",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 999.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786428122.1926105,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786066296.715848,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Uta (EB03-061) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
+      "seller": {
         "name": "ChimeraTrading",
         "country": "Item location: Italy"
       },
@@ -842,7 +926,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SHOWCASE",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1045,12 +1129,61 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 Differenzbesteuerung § 25a ustg",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784756996.2947402,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Uta (EB03-061) (V.3)",
+      "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
+      "seller": {
+        "name": "GuruB4L",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1390.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1786428122.1926105,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1400.0,
+          1780545697.5363617
+        ],
+        [
+          1500.0,
+          1783168131.5754106
+        ],
+        [
+          1400.0,
+          1783572867.1897268
+        ],
+        [
+          1600.0,
+          1784571856.5450902
+        ],
+        [
+          1450.0,
+          1785811613.9549334
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780432653.8936708,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1098,51 +1231,6 @@
       "card": "Uta (EB03-061) (V.3)",
       "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
       "seller": {
-        "name": "GuruB4L",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 1450.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785811613.9549334,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1400.0,
-          1780545697.5363617
-        ],
-        [
-          1500.0,
-          1783168131.5754106
-        ],
-        [
-          1400.0,
-          1783572867.1897268
-        ],
-        [
-          1600.0,
-          1784571856.5450902
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1780432653.8936708,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Uta (EB03-061) (V.3)",
-      "canonical_name": "OnePiece_Products_Singles_Heroines-Edition-Asia-Region-Legal_Uta-EB03-061-V3",
-      "seller": {
         "name": "spaceslave",
         "country": "Item location: Greece"
       },
@@ -1151,7 +1239,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785811613.9549334,
+      "date": 1786428122.1926105,
       "ended": false,
       "new": false,
       "previous_prices": [],

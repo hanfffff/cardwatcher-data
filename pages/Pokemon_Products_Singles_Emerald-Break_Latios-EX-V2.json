@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": false,
-  "available": 8,
-  "available_graded": 1,
+  "available": 9,
+  "available_graded": 2,
   "sold": 0,
-  "inserted": 0,
+  "inserted": 2,
   "listings": [
     {
       "card": "Latios EX  (XY6 082)",
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -542,8 +542,8 @@
       "price": 73.75,
       "quantity": 1,
       "condition": "GD",
-      "comment": "Really near to excellent",
-      "date": 1785854753.642946,
+      "comment": "RELISTED! Really near to excellent",
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -575,12 +575,20 @@
         [
           0,
           1785026127.9603517
+        ],
+        [
+          1,
+          1786110743.3095114
+        ],
+        [
+          0,
+          1786110743.3095114
         ]
       ],
       "first_date": 1771628713.2180197,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -600,7 +608,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "A13",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -633,7 +641,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "TCG Shop in Finland - Ask for more cards",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -661,7 +669,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EXC+ | B7",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -689,7 +697,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -709,6 +717,34 @@
       "card": "Latios EX  (XY6 082)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
       "seller": {
+        "name": "entonsmigraene",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786527147.0565076,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786228781.9521933,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Latios EX  (XY6 082)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
+      "seller": {
         "name": "SuikaSlayer",
         "country": "Item location: Germany"
       },
@@ -717,7 +753,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster > Sleeve > Toploader - DM me for more pics",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -745,7 +781,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785854753.642946,
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -876,19 +912,52 @@
       "card": "Latios EX  (XY6 082)",
       "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
       "seller": {
-        "name": "DennisLanden",
+        "name": "Eddy-PokeTcg",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 400.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1785854753.642946,
+      "comment": "PSA 9 / + 100 other Articles for sale",
+      "date": 1786527147.0565076,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
+      "first_date": 1786110743.3095114,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Latios EX  (XY6 082)",
+      "canonical_name": "Pokemon_Products_Singles_Emerald-Break_Latios-EX-V2",
+      "seller": {
+        "name": "DennisLanden",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 400.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1785854753.642946,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785854753.642946
+        ]
+      ],
       "first_date": 1785375053.764691,
       "last_date": 0.0,
       "price_is_new": false,
@@ -970,11 +1039,11 @@
       },
       "language": "Japanese",
       "price": 1100.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10",
-      "date": 1785026127.9603517,
-      "ended": true,
+      "comment": "RELISTED! PSA 10",
+      "date": 1786527147.0565076,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -989,12 +1058,16 @@
         [
           1,
           1785026127.9603517
+        ],
+        [
+          0,
+          1785026127.9603517
         ]
       ],
       "first_date": 1784066057.9999855,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,

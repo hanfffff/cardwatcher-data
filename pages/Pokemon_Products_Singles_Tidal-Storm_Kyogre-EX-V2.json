@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 6,
-  "available_graded": 1,
-  "sold": 0,
+  "available": 7,
+  "available_graded": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -129,7 +129,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -166,7 +166,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller. check other cards! Fast ship with sleeve+toploader! Posta 4 SOLO sleeve",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -439,7 +439,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best in town - 01-1E2",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -641,23 +641,28 @@
       },
       "language": "Korean",
       "price": 199.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 7 GRADED cheap shipping",
-      "date": 1785876224.7934623,
-      "ended": false,
-      "new": false,
+      "date": 1786250220.760207,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           299.0,
           1783383531.850665
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786250220.760207
+        ]
+      ],
       "first_date": 1776942743.8995254,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -738,7 +743,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #715",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -817,7 +822,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "B7",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -875,16 +880,20 @@
       },
       "language": "Japanese",
       "price": 379.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Many other cards in store!",
-      "date": 1785418769.319391,
-      "ended": true,
+      "date": 1786405764.6481335,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785418769.319391
+        ],
+        [
+          0,
           1785418769.319391
         ]
       ],
@@ -939,7 +948,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Many Japanese Vintage Singles&Graded cards available! ..",
-      "date": 1785876224.7934623,
+      "date": 1786405764.6481335,
       "ended": false,
       "new": false,
       "previous_prices": [],

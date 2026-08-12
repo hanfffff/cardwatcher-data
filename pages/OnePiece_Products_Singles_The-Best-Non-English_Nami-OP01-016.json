@@ -10,10 +10,10 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 14,
-  "available_graded": 27,
+  "available": 15,
+  "available_graded": 26,
   "sold": 3,
-  "inserted": 6,
+  "inserted": 5,
   "listings": [
     {
       "card": "Nami (OP01-016)",
@@ -1308,39 +1308,6 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "RELIC-TCG",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 400.0,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Best in town - 01-3D8",
-      "date": 1778715345.651048,
-      "ended": true,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778715345.651048
-        ]
-      ],
-      "first_date": 1777302985.6595073,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
         "name": "Arikirinmoto",
         "country": "Item location: Germany"
       },
@@ -2364,14 +2331,27 @@
       },
       "language": "Japanese",
       "price": 490.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
-      "comment": "little whitening but for collectors a good deal",
-      "date": 1785824692.9765427,
-      "ended": false,
+      "comment": "RELISTED! little whitening but for collectors a good deal",
+      "date": 1786174903.63019,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785824692.9765427
+        ],
+        [
+          0,
+          1785824692.9765427
+        ],
+        [
+          1,
+          1786174903.63019
+        ]
+      ],
       "first_date": 1783563061.023223,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2917,6 +2897,180 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "darkarmy",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "Japanese",
+      "price": 542.4,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "DM for pictures.",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          713.5,
+          1780334400.6934793
+        ],
+        [
+          656.02,
+          1780533419.4742112
+        ],
+        [
+          631.84,
+          1780883188.502071
+        ],
+        [
+          631.32,
+          1780990714.9407625
+        ],
+        [
+          632.71,
+          1781437200.908368
+        ],
+        [
+          632.86,
+          1781529259.7302759
+        ],
+        [
+          631.73,
+          1781617805.780107
+        ],
+        [
+          631.21,
+          1781720770.878839
+        ],
+        [
+          628.96,
+          1781862023.2745357
+        ],
+        [
+          617.7,
+          1781935484.1008036
+        ],
+        [
+          617.52,
+          1782132564.4791086
+        ],
+        [
+          620.88,
+          1782224134.1593013
+        ],
+        [
+          621.32,
+          1782323742.0887358
+        ],
+        [
+          621.06,
+          1782399205.533945
+        ],
+        [
+          620.74,
+          1782636559.6209197
+        ],
+        [
+          608.8,
+          1782722295.5708015
+        ],
+        [
+          609.62,
+          1782818021.2906897
+        ],
+        [
+          583.11,
+          1783158510.5505702
+        ],
+        [
+          583.15,
+          1783327565.1160553
+        ],
+        [
+          584.75,
+          1783426131.0590281
+        ],
+        [
+          585.78,
+          1783563061.023223
+        ],
+        [
+          586.44,
+          1783861977.0401213
+        ],
+        [
+          586.37,
+          1783937461.2795322
+        ],
+        [
+          585.78,
+          1784061577.2339568
+        ],
+        [
+          589.37,
+          1784214304.8098042
+        ],
+        [
+          588.13,
+          1784317745.5822384
+        ],
+        [
+          584.99,
+          1785197307.3458672
+        ],
+        [
+          583.01,
+          1785370577.5770814
+        ],
+        [
+          583.62,
+          1785496073.1498525
+        ],
+        [
+          584.14,
+          1785555290.1847105
+        ],
+        [
+          583.79,
+          1785724157.572946
+        ],
+        [
+          582.74,
+          1785824692.9765427
+        ],
+        [
+          583.21,
+          1786079163.7121403
+        ],
+        [
+          541.1,
+          1786284292.9090638
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784317745.5822384
+        ],
+        [
+          0,
+          1784317745.5822384
+        ]
+      ],
+      "first_date": 1780334400.6934793,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "Atonmain",
         "country": "Item location: United Kingdom"
       },
@@ -2949,6 +3103,34 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "tomrimk",
+        "country": "Item location: Lithuania"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "White dot in the top right corner at the back",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786079163.7121403,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -3298,7 +3480,7 @@
       "comment": "",
       "date": 1785724157.572946,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -3317,7 +3499,7 @@
       "first_date": 1783861977.0401213,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3391,168 +3573,6 @@
       "first_date": 1772659002.6702883,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
-        "name": "darkarmy",
-        "country": "Item location: United Kingdom"
-      },
-      "language": "Japanese",
-      "price": 582.74,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "DM for pictures.",
-      "date": 1785824692.9765427,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          713.5,
-          1780334400.6934793
-        ],
-        [
-          656.02,
-          1780533419.4742112
-        ],
-        [
-          631.84,
-          1780883188.502071
-        ],
-        [
-          631.32,
-          1780990714.9407625
-        ],
-        [
-          632.71,
-          1781437200.908368
-        ],
-        [
-          632.86,
-          1781529259.7302759
-        ],
-        [
-          631.73,
-          1781617805.780107
-        ],
-        [
-          631.21,
-          1781720770.878839
-        ],
-        [
-          628.96,
-          1781862023.2745357
-        ],
-        [
-          617.7,
-          1781935484.1008036
-        ],
-        [
-          617.52,
-          1782132564.4791086
-        ],
-        [
-          620.88,
-          1782224134.1593013
-        ],
-        [
-          621.32,
-          1782323742.0887358
-        ],
-        [
-          621.06,
-          1782399205.533945
-        ],
-        [
-          620.74,
-          1782636559.6209197
-        ],
-        [
-          608.8,
-          1782722295.5708015
-        ],
-        [
-          609.62,
-          1782818021.2906897
-        ],
-        [
-          583.11,
-          1783158510.5505702
-        ],
-        [
-          583.15,
-          1783327565.1160553
-        ],
-        [
-          584.75,
-          1783426131.0590281
-        ],
-        [
-          585.78,
-          1783563061.023223
-        ],
-        [
-          586.44,
-          1783861977.0401213
-        ],
-        [
-          586.37,
-          1783937461.2795322
-        ],
-        [
-          585.78,
-          1784061577.2339568
-        ],
-        [
-          589.37,
-          1784214304.8098042
-        ],
-        [
-          588.13,
-          1784317745.5822384
-        ],
-        [
-          584.99,
-          1785197307.3458672
-        ],
-        [
-          583.01,
-          1785370577.5770814
-        ],
-        [
-          583.62,
-          1785496073.1498525
-        ],
-        [
-          584.14,
-          1785555290.1847105
-        ],
-        [
-          583.79,
-          1785724157.572946
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784317745.5822384
-        ],
-        [
-          0,
-          1784317745.5822384
-        ]
-      ],
-      "first_date": 1780334400.6934793,
-      "last_date": 0.0,
-      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4177,16 +4197,44 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "tomrimk",
-        "country": "Item location: Lithuania"
+        "name": "TCGCARD-38",
+        "country": "Item location: France"
       },
       "language": "Japanese",
       "price": 600.0,
       "quantity": 1,
       "condition": "NM",
+      "comment": "Sleeve to toploader. DM for pics",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786441008.0948436,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "tomrimk",
+        "country": "Item location: Lithuania"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 0,
+      "condition": "NM",
       "comment": "White dot in the top right corner at the back",
       "date": 1785824692.9765427,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -4198,7 +4246,12 @@
           1785197307.3458672
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785824692.9765427
+        ]
+      ],
       "first_date": 1784214304.8098042,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4580,16 +4633,25 @@
       "price": 620.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeve and Toploader",
-      "date": 1785824692.9765427,
+      "comment": "RELISTED! Sleeve and Toploader",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786174903.63019
+        ],
+        [
+          0,
+          1786174903.63019
+        ]
+      ],
       "first_date": 1785370577.5770814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -5140,6 +5202,48 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "RELIC-TCG",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 650.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "RELISTED! Best in town - 01-4E6",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          400.0,
+          1778715345.651048
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778715345.651048
+        ],
+        [
+          0,
+          1778715345.651048
+        ]
+      ],
+      "first_date": 1777302985.6595073,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "Bacovi",
         "country": "Item location: Spain"
       },
@@ -5148,7 +5252,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "little whitening in the back",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5853,6 +5957,44 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "artofthecards",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 700.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "Psa 9!",
+      "date": 1786284292.9090638,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          800.0,
+          1785824692.9765427
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786284292.9090638
+        ]
+      ],
+      "first_date": 1785724157.572946,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -6919,6 +7061,39 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "RELIC-TCG",
+        "country": "Item location: France"
+      },
+      "language": "S-Chinese",
+      "price": 780.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Best in town - 01-4E6",
+      "date": 1786284292.9090638,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786284292.9090638
+        ]
+      ],
+      "first_date": 1786079163.7121403,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "Travisscotta",
         "country": "Item location: Italy"
       },
@@ -6960,7 +7135,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "NEO 9.5 - with cardholder",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7258,34 +7433,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
-        "name": "artofthecards",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 800.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "Psa 9!",
-      "date": 1785824692.9765427,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785724157.572946,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -8238,7 +8385,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NM. Perfect centering",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8271,9 +8418,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "photo in pvt",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785824692.9765427,
@@ -8356,8 +8503,8 @@
       "price": 999.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! GRADES PSA 9",
-      "date": 1785824692.9765427,
+      "comment": "GRADES PSA 9",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8379,7 +8526,7 @@
       "first_date": 1782548167.022601,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8391,16 +8538,44 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "Moberri",
+        "country": "Item location: Netherlands"
+      },
+      "language": "S-Chinese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Serial #081  BGS 9.5",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1785724157.572946,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "BuiBui",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 999.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "RELISTED! BGS 9.5  /48*",
-      "date": 1785824692.9765427,
-      "ended": false,
+      "comment": "BGS 9.5  /48*",
+      "date": 1786079163.7121403,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -8416,37 +8591,13 @@
         [
           0,
           1785555290.1847105
+        ],
+        [
+          1,
+          1786079163.7121403
         ]
       ],
       "first_date": 1783426131.0590281,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
-        "name": "Moberri",
-        "country": "Item location: Netherlands"
-      },
-      "language": "S-Chinese",
-      "price": 999.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Serial #081  BGS 9.5",
-      "date": 1785824692.9765427,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785724157.572946,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8502,7 +8653,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "ACE Graded 10",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8539,7 +8690,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8591,6 +8742,34 @@
         ]
       ],
       "first_date": 1771634699.2420568,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "akber361",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1000.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CLEAN",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786284292.9090638,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8793,20 +8972,20 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "HeavensDoorTCGmore",
+        "name": "pruckis",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1099.99,
       "quantity": 1,
       "condition": "MT",
-      "comment": "#131 - Diff // AOG 10",
-      "date": 1785824692.9765427,
+      "comment": "[AOG 10] Prückis Cards TCG Store Berlin » Fragen: wa.me/pruckis",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785724157.572946,
+      "first_date": 1781360340.7613115,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8821,20 +9000,25 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "pruckis",
+        "name": "HeavensDoorTCGmore",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 1099.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
-      "comment": "[AOG 10] Prückis Cards TCG Store Berlin » Fragen: wa.me/pruckis",
-      "date": 1785824692.9765427,
-      "ended": false,
+      "comment": "#131 - Diff // AOG 10",
+      "date": 1786079163.7121403,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781360340.7613115,
+      "previous_quantities": [
+        [
+          1,
+          1786079163.7121403
+        ]
+      ],
+      "first_date": 1785724157.572946,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8859,7 +9043,7 @@
       "comment": "_BGS 9.5_ Since 1996 - TOP SERVICE",
       "date": 1785724157.572946,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -8870,7 +9054,7 @@
       "first_date": 1785370577.5770814,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8922,8 +9106,8 @@
       "price": 1100.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! BGS 9.5",
-      "date": 1785824692.9765427,
+      "comment": "BGS 9.5",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8952,8 +9136,8 @@
       ],
       "first_date": 1779439990.907068,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8973,7 +9157,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Strong BGS 9.5",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9001,7 +9185,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9020,6 +9204,39 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "DennisMartinez",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1100.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "BGS 9.5 -DM for Pics",
+      "date": 1786284292.9090638,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786284292.9090638
+        ]
+      ],
+      "first_date": 1786284292.9090638,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -9219,28 +9436,28 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "Zeff97",
-        "country": "Item location: Italy"
+        "name": "AlsyroS",
+        "country": "Item location: France"
       },
       "language": "Japanese",
-      "price": 1149.9,
+      "price": 1150.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA 10 cert number 102118977",
-      "date": 1785824692.9765427,
+      "comment": "Strong BGS 9.5 (9.5-10-10-9.5)",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785197307.3458672,
+      "first_date": 1786284292.9090638,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
+      "grade_company": "BGS",
+      "grade": 9.5,
       "grade_source": "auto"
     },
     {
@@ -9252,14 +9469,19 @@
       },
       "language": "Japanese",
       "price": 1150.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "ORIGINAL BILD - TOPLOADER",
       "date": 1785824692.9765427,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785824692.9765427
+        ]
+      ],
       "first_date": 1784480489.307731,
       "last_date": 0.0,
       "price_is_new": false,
@@ -9275,6 +9497,34 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "ThreeSwordsTcg",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 1175.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "Psa10",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786441008.0948436,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "steish",
         "country": "Item location: Italy"
       },
@@ -9283,7 +9533,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 (ask for photo) scambio a mano a milano e dintorni",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9320,7 +9570,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "[PSA 10.0]",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9350,7 +9600,7 @@
       "comment": "PSA 10 GEM Mint  /87*",
       "date": 1785724157.572946,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9361,7 +9611,7 @@
       "first_date": 1784680530.5449903,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9381,7 +9631,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9409,7 +9659,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5: 9.5. 9.5. 10. 9",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9442,7 +9692,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10 info dm",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9533,6 +9783,39 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
+        "name": "denTib",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1220.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA10",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          1350.0,
+          1785824692.9765427
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784772278.7581012,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
         "name": "MarcoMarcetti",
         "country": "Item location: Germany"
       },
@@ -9568,6 +9851,120 @@
       "reverse_holo": 0,
       "archived": false,
       "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "Hille92",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1280.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "BGS 10 Pristine",
+      "date": 1786174903.63019,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1300.0,
+          1776645104.833505
+        ],
+        [
+          1100.0,
+          1778574385.658363
+        ],
+        [
+          1199.0,
+          1780334400.6934793
+        ],
+        [
+          1260.0,
+          1780533419.4742112
+        ],
+        [
+          1380.0,
+          1780990714.9407625
+        ],
+        [
+          1850.0,
+          1781360340.7613115
+        ],
+        [
+          1930.0,
+          1783426131.0590281
+        ],
+        [
+          1750.0,
+          1783563061.023223
+        ],
+        [
+          1700.0,
+          1784061577.2339568
+        ],
+        [
+          1490.0,
+          1784214304.8098042
+        ],
+        [
+          1600.0,
+          1785021930.747895
+        ],
+        [
+          1400.0,
+          1785724157.572946
+        ],
+        [
+          1380.0,
+          1785824692.9765427
+        ],
+        [
+          1320.0,
+          1786079163.7121403
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1778574385.658363
+        ],
+        [
+          0,
+          1778574385.658363
+        ],
+        [
+          1,
+          1780533419.4742112
+        ],
+        [
+          0,
+          1780533419.4742112
+        ],
+        [
+          1,
+          1781360340.7613115
+        ],
+        [
+          0,
+          1781360340.7613115
+        ],
+        [
+          1,
+          1786174903.63019
+        ]
+      ],
+      "first_date": 1774916558.7367806,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "BGS",
       "grade": 10.0,
       "grade_source": "auto"
     },
@@ -9637,7 +10034,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 9.5  wie immer speed versand",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9665,7 +10062,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 10 - New Cert",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9676,6 +10073,44 @@
       ],
       "previous_quantities": [],
       "first_date": 1780990714.9407625,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "Zeff97",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 1300.0,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10 cert number 102118977",
+      "date": 1786174903.63019,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          1149.9,
+          1785824692.9765427
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786174903.63019
+        ]
+      ],
+      "first_date": 1785197307.3458672,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9794,20 +10229,20 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "denTib",
-        "country": "Item location: Italy"
+        "name": "Samilovic",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 1350.0,
+      "price": 1349.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "PSA10",
-      "date": 1785824692.9765427,
+      "comment": "PSA 10",
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784772278.7581012,
+      "first_date": 1786079163.7121403,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9855,117 +10290,15 @@
       "card": "Nami (OP01-016)",
       "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
       "seller": {
-        "name": "Hille92",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 1380.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "BGS 10 Pristine",
-      "date": 1785824692.9765427,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          1300.0,
-          1776645104.833505
-        ],
-        [
-          1100.0,
-          1778574385.658363
-        ],
-        [
-          1199.0,
-          1780334400.6934793
-        ],
-        [
-          1260.0,
-          1780533419.4742112
-        ],
-        [
-          1380.0,
-          1780990714.9407625
-        ],
-        [
-          1850.0,
-          1781360340.7613115
-        ],
-        [
-          1930.0,
-          1783426131.0590281
-        ],
-        [
-          1750.0,
-          1783563061.023223
-        ],
-        [
-          1700.0,
-          1784061577.2339568
-        ],
-        [
-          1490.0,
-          1784214304.8098042
-        ],
-        [
-          1600.0,
-          1785021930.747895
-        ],
-        [
-          1400.0,
-          1785724157.572946
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1778574385.658363
-        ],
-        [
-          0,
-          1778574385.658363
-        ],
-        [
-          1,
-          1780533419.4742112
-        ],
-        [
-          0,
-          1780533419.4742112
-        ],
-        [
-          1,
-          1781360340.7613115
-        ],
-        [
-          0,
-          1781360340.7613115
-        ]
-      ],
-      "first_date": 1774916558.7367806,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "BGS",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP01-016)",
-      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
-      "seller": {
         "name": "causewaycards",
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 1441.82,
+      "price": 1446.38,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Ships from Northern Ireland | Inside the EU customs area. arrives like any EU parcel",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9992,6 +10325,18 @@
         [
           1444.43,
           1785724157.572946
+        ],
+        [
+          1441.82,
+          1785824692.9765427
+        ],
+        [
+          1443.0,
+          1786079163.7121403
+        ],
+        [
+          1442.92,
+          1786284292.9090638
         ]
       ],
       "previous_quantities": [],
@@ -10018,7 +10363,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "AOG 10",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10046,12 +10391,40 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 - Prague/Dresden/Leipzig Handover.",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1771425551.4092717,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP01-016)",
+      "canonical_name": "OnePiece_Products_Singles_The-Best-Non-English_Nami-OP01-016",
+      "seller": {
+        "name": "VaultTCG0",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 1500.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 / §25a",
+      "date": 1786441008.0948436,
+      "ended": false,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786441008.0948436,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10074,9 +10447,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PRB-01",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785824692.9765427,
@@ -10102,9 +10475,9 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 sur PARIS",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785824692.9765427,
@@ -10224,7 +10597,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10290,7 +10663,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Top Condition",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10344,7 +10717,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "from booster to plastic box",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10390,7 +10763,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10446,7 +10819,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 10 GOLD ASK FOR PICTURES",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10602,7 +10975,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 10. send with red Guard!!",
-      "date": 1785824692.9765427,
+      "date": 1786441008.0948436,
       "ended": false,
       "new": false,
       "previous_prices": [

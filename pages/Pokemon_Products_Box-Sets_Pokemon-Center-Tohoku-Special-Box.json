@@ -8,10 +8,10 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 433,
+  "available": 351,
   "available_graded": 0,
-  "sold": 1,
-  "inserted": 4,
+  "sold": 3,
+  "inserted": 1,
   "listings": [
     {
       "card": "Pokémon Center Tohoku Special Box",
@@ -186,7 +186,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ONLY BOX - with sleeves and cardholder",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -211,11 +211,11 @@
       },
       "language": "Japanese",
       "price": 107.5,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785842636.9451168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -327,12 +327,16 @@
         [
           24,
           1785741798.5564344
+        ],
+        [
+          4,
+          1785842636.9451168
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -20,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -349,10 +353,10 @@
       },
       "language": "Japanese",
       "price": 109.95,
-      "quantity": 3,
+      "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -373,12 +377,16 @@
         [
           0,
           1785371152.9895797
+        ],
+        [
+          3,
+          1786224325.1741054
         ]
       ],
       "first_date": 1785022368.6981802,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -395,11 +403,11 @@
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 62,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1785842636.9451168,
-      "ended": false,
+      "date": 1786102187.953479,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -647,12 +655,20 @@
         [
           66,
           1785741798.5564344
+        ],
+        [
+          62,
+          1785842636.9451168
+        ],
+        [
+          52,
+          1786102187.953479
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -4,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -669,11 +685,11 @@
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 7,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed | B2B Possible",
       "date": 1785842636.9451168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -801,58 +817,16 @@
         [
           13,
           1785573725.109597
+        ],
+        [
+          7,
+          1785842636.9451168
         ]
       ],
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "alljapan-be",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 110.0,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "RELISTED! Shrink sealed. Full set available.",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          135.0,
-          1782548668.65896
-        ],
-        [
-          139.0,
-          1782818369.9294412
-        ]
-      ],
-      "previous_quantities": [
-        [
-          2,
-          1782818369.9294412
-        ],
-        [
-          0,
-          1782818369.9294412
-        ]
-      ],
-      "first_date": 1781936047.5795994,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 5,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -872,7 +846,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -881,6 +855,93 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Shrink sealed. Full set available.",
+      "date": 1786102187.953479,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          135.0,
+          1782548668.65896
+        ],
+        [
+          139.0,
+          1782818369.9294412
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1782818369.9294412
+        ],
+        [
+          0,
+          1782818369.9294412
+        ],
+        [
+          5,
+          1785842636.9451168
+        ],
+        [
+          1,
+          1786102187.953479
+        ]
+      ],
+      "first_date": 1781936047.5795994,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "milos-fero",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 114.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "SEALED incl. Case / Fast Shipping / more products available / Gemäß §25a UStG keine USt",
+      "date": 1786224325.1741054,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786224325.1741054
+        ]
+      ],
+      "first_date": 1786224325.1741054,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -902,7 +963,7 @@
       "comment": "OVP Schneller Versand",
       "date": 1785741798.5564344,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -913,7 +974,7 @@
       "first_date": 1785741798.5564344,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -3,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -933,7 +994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Mint",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1044,62 +1105,78 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "CardsGamesAndMore",
-        "country": "Item location: Germany"
+        "name": "AkiraComicsNovi",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 120.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Neu. OVP",
-      "date": 1785842636.9451168,
+      "comment": "sealed",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786102187.953479,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "Poke-Starr",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED! full set available",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           140.0,
-          1772714910.2050402
+          1774538087.8769817
         ],
         [
-          155.0,
-          1772809351.9805112
+          135.0,
+          1774617555.6469357
         ],
         [
-          140.0,
-          1773385477.978612
+          120.0,
+          1774919768.5596879
         ],
         [
-          155.0,
-          1773715227.136409
+          129.99,
+          1784481072.0921395
         ],
         [
-          140.0,
-          1773773804.0652413
+          125.0,
+          1785842636.9451168
         ],
         [
-          155.0,
-          1776362255.84809
-        ],
-        [
-          128.0,
-          1784772659.7321262
+          109.0,
+          1786102187.953479
         ]
       ],
       "previous_quantities": [
         [
           0,
-          1776362255.84809
-        ],
-        [
-          1,
-          1784772659.7321262
-        ],
-        [
-          0,
-          1784772659.7321262
+          1774919768.5596879
         ]
       ],
-      "first_date": 1772667363.1790183,
+      "first_date": 1774365340.9287486,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1122,7 +1199,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ovp - sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1150,7 +1227,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1197,6 +1274,80 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "CardsGamesAndMore",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 120.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Neu. OVP",
+      "date": 1786224325.1741054,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          140.0,
+          1772714910.2050402
+        ],
+        [
+          155.0,
+          1772809351.9805112
+        ],
+        [
+          140.0,
+          1773385477.978612
+        ],
+        [
+          155.0,
+          1773715227.136409
+        ],
+        [
+          140.0,
+          1773773804.0652413
+        ],
+        [
+          155.0,
+          1776362255.84809
+        ],
+        [
+          128.0,
+          1784772659.7321262
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776362255.84809
+        ],
+        [
+          1,
+          1784772659.7321262
+        ],
+        [
+          0,
+          1784772659.7321262
+        ],
+        [
+          1,
+          1786224325.1741054
+        ]
+      ],
+      "first_date": 1772667363.1790183,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1559,7 +1710,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1666,6 +1817,104 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "tcgdeals",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 124.99,
+      "quantity": 6,
+      "condition": "NM",
+      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          144.99,
+          750739.933
+        ],
+        [
+          138.99,
+          5402341.035
+        ],
+        [
+          138.9,
+          1766081311.0737822
+        ],
+        [
+          129.99,
+          1767092078.3901722
+        ],
+        [
+          128.89,
+          1769608361.8641734
+        ],
+        [
+          149.99,
+          1782224697.004273
+        ],
+        [
+          139.99,
+          1785842636.9451168
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1769608361.8641734
+        ],
+        [
+          5,
+          1777515734.1607776
+        ],
+        [
+          0,
+          1777515734.1607776
+        ],
+        [
+          8,
+          1782548668.65896
+        ],
+        [
+          7,
+          1783158953.196289
+        ],
+        [
+          6,
+          1783328198.7749982
+        ],
+        [
+          0,
+          1783328198.7749982
+        ],
+        [
+          5,
+          1784772659.7321262
+        ],
+        [
+          4,
+          1785842636.9451168
+        ],
+        [
+          9,
+          1786224325.1741054
+        ]
+      ],
+      "first_date": 1764588602.3972394,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "andreitr13",
         "country": "Item location: Portugal"
       },
@@ -1722,56 +1971,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "Poke-Starr",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 125.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED! full set available",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          140.0,
-          1774538087.8769817
-        ],
-        [
-          135.0,
-          1774617555.6469357
-        ],
-        [
-          120.0,
-          1774919768.5596879
-        ],
-        [
-          129.99,
-          1784481072.0921395
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1774919768.5596879
-        ]
-      ],
-      "first_date": 1774365340.9287486,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "mystidrop",
         "country": "Item location: France"
       },
@@ -1780,7 +1979,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1886,7 +2085,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Magasin physique Mystidrop. Produit en stock. expédition immédiate après commande.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1923,7 +2122,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1962,11 +2161,11 @@
       },
       "language": "Japanese",
       "price": 125.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ovp sealed. other boxes available as well",
-      "date": 1785842636.9451168,
-      "ended": false,
+      "date": 1786102187.953479,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1981,6 +2180,10 @@
         [
           0,
           1785022368.6981802
+        ],
+        [
+          2,
+          1786102187.953479
         ]
       ],
       "first_date": 1784772659.7321262,
@@ -2411,11 +2614,11 @@
       },
       "language": "Japanese",
       "price": 128.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
-      "ended": false,
+      "date": 1786102187.953479,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -2426,6 +2629,10 @@
         [
           0,
           1785022368.6981802
+        ],
+        [
+          1,
+          1786102187.953479
         ]
       ],
       "first_date": 1784680944.8962183,
@@ -2513,14 +2720,19 @@
       },
       "language": "Japanese",
       "price": 128.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
-      "ended": false,
+      "date": 1786102187.953479,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786102187.953479
+        ]
+      ],
       "first_date": 1784481072.0921395,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2601,6 +2813,34 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "FilippoChampagne",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 129.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786102187.953479,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "MBDCards",
         "country": "Item location: Netherlands"
       },
@@ -2609,7 +2849,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast and secure shipping!",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2750,10 +2990,10 @@
       },
       "language": "Japanese",
       "price": 129.99,
-      "quantity": 11,
+      "quantity": 10,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2902,12 +3142,16 @@
         [
           10,
           1785371152.9895797
+        ],
+        [
+          11,
+          1786224325.1741054
         ]
       ],
       "first_date": 1768908734.4230418,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3245,7 +3489,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Incl gemloader acryl case. Full set available",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3273,7 +3517,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "perfect condition",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3323,7 +3567,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3844,12 +4088,12 @@
       },
       "language": "Japanese",
       "price": 132.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "All three availabe",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
+      "date": 1786224325.1741054,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           144.99,
@@ -3888,12 +4132,16 @@
         [
           0,
           1783328198.7749982
+        ],
+        [
+          1,
+          1786224325.1741054
         ]
       ],
       "first_date": 1776174583.1723497,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -4506,7 +4754,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "All three boxes available",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4548,7 +4796,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Precintado. perfecto estado.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5447,10 +5695,10 @@
       },
       "language": "Japanese",
       "price": 139.0,
-      "quantity": 2,
+      "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5523,6 +5771,10 @@
         [
           0,
           1783158953.196289
+        ],
+        [
+          2,
+          1785842636.9451168
         ]
       ],
       "first_date": 1781529832.762606,
@@ -5548,7 +5800,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "sealed . fast ship",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5906,7 +6158,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5963,92 +6215,6 @@
         [
           1,
           1785022368.6981802
-        ]
-      ],
-      "first_date": 1764588602.3972394,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "tcgdeals",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 139.99,
-      "quantity": 4,
-      "condition": "NM",
-      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          144.99,
-          750739.933
-        ],
-        [
-          138.99,
-          5402341.035
-        ],
-        [
-          138.9,
-          1766081311.0737822
-        ],
-        [
-          129.99,
-          1767092078.3901722
-        ],
-        [
-          128.89,
-          1769608361.8641734
-        ],
-        [
-          149.99,
-          1782224697.004273
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1769608361.8641734
-        ],
-        [
-          5,
-          1777515734.1607776
-        ],
-        [
-          0,
-          1777515734.1607776
-        ],
-        [
-          8,
-          1782548668.65896
-        ],
-        [
-          7,
-          1783158953.196289
-        ],
-        [
-          6,
-          1783328198.7749982
-        ],
-        [
-          0,
-          1783328198.7749982
-        ],
-        [
-          5,
-          1784772659.7321262
         ]
       ],
       "first_date": 1764588602.3972394,
@@ -6210,7 +6376,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6256,40 +6422,12 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782548668.65896,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "FreakyEmotions",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 140.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782399691.4627845,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6312,7 +6450,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6343,6 +6481,39 @@
         ]
       ],
       "first_date": 1768771468.6153588,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "FreakyEmotions",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 140.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786102187.953479,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786102187.953479
+        ]
+      ],
+      "first_date": 1782399691.4627845,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7084,16 +7255,66 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "liuke7",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 144.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          169.9,
+          1770228254.188199
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1779005679.9606647
+        ],
+        [
+          0,
+          1779005679.9606647
+        ],
+        [
+          1,
+          1780262268.8047376
+        ],
+        [
+          0,
+          1780262268.8047376
+        ]
+      ],
+      "first_date": 1769109641.293058,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "Elite-store",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 144.9,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
       "date": 1785842636.9451168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -7165,59 +7386,13 @@
         [
           1,
           1785197903.0623765
+        ],
+        [
+          2,
+          1785842636.9451168
         ]
       ],
       "first_date": 1764588602.3972394,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "liuke7",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 144.9,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          169.9,
-          1770228254.188199
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1779005679.9606647
-        ],
-        [
-          0,
-          1779005679.9606647
-        ],
-        [
-          1,
-          1780262268.8047376
-        ],
-        [
-          0,
-          1780262268.8047376
-        ]
-      ],
-      "first_date": 1769109641.293058,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -7737,48 +7912,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "decav",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 149.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          169.99,
-          1784062110.687171
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783158953.196289
-        ],
-        [
-          0,
-          1783158953.196289
-        ]
-      ],
-      "first_date": 1780991289.8919463,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "bbblind",
         "country": "Item location: Italy"
       },
@@ -7787,7 +7920,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED - perfect - Stan's Collectibles Guarantee!",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7810,6 +7943,52 @@
         ]
       ],
       "first_date": 1773327169.3147893,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "decav",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 149.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1785842636.9451168,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          169.99,
+          1784062110.687171
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ],
+        [
+          0,
+          1783158953.196289
+        ],
+        [
+          1,
+          1785842636.9451168
+        ]
+      ],
+      "first_date": 1780991289.8919463,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8006,40 +8185,22 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "PokeLukasSwiss",
-        "country": "Item location: Switzerland"
+        "name": "MistiCards",
+        "country": "Item location: Austria"
       },
       "language": "Japanese",
       "price": 149.99,
-      "quantity": 1,
+      "quantity": 2,
       "condition": "NM",
-      "comment": "TRIO AVAIABLE",
-      "date": 1785842636.9451168,
+      "comment": "safe and fast shipping",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
-      "previous_prices": [
-        [
-          159.99,
-          1774538087.8769817
-        ],
-        [
-          139.99,
-          1776648537.0776527
-        ],
-        [
-          169.99,
-          1785741798.5564344
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1776648537.0776527
-        ]
-      ],
-      "first_date": 1765402341.035903,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786102187.953479,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -8060,7 +8221,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sammlerzustand inkl. Acryl Case / Fast Shipping",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8080,6 +8241,56 @@
         ]
       ],
       "first_date": 1782548668.65896,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "PokeLukasSwiss",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 149.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "TRIO AVAIABLE",
+      "date": 1786102187.953479,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          159.99,
+          1774538087.8769817
+        ],
+        [
+          139.99,
+          1776648537.0776527
+        ],
+        [
+          169.99,
+          1785741798.5564344
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1776648537.0776527
+        ],
+        [
+          1,
+          1786102187.953479
+        ]
+      ],
+      "first_date": 1765402341.035903,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8215,39 +8426,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "SB-Cards",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 150.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          2,
-          1785573725.109597
-        ]
-      ],
-      "first_date": 1783158953.196289,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "Korekutatcg",
         "country": "Item location: Italy"
       },
@@ -8256,7 +8434,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "Sealed ready to ship",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8326,7 +8504,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Fast shipping.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8367,7 +8545,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/ for questions or offers dm me",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8413,7 +8591,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Solo pacco tracciato. consegna a mano Pisa",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8455,7 +8633,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8483,7 +8661,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pokemon Tohoku Special",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9376,11 +9554,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 156.2,
+      "price": 156.32,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9451,12 +9629,20 @@
         [
           156.48,
           1785741798.5564344
+        ],
+        [
+          156.2,
+          1785842636.9451168
+        ],
+        [
+          156.33,
+          1786102187.953479
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783158953.196289,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -9527,7 +9713,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sigillato/Nuovo/Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9613,7 +9799,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED (With Shrink)",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9739,7 +9925,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed incl vat / mwst",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9809,7 +9995,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9871,7 +10057,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP Sealed / little Dents possible!",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9941,7 +10127,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10048,7 +10234,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10076,7 +10262,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in Bubblewrap",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10142,7 +10328,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10415,11 +10601,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 162.21,
+      "price": 162.33,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10590,12 +10776,20 @@
         [
           162.5,
           1785741798.5564344
+        ],
+        [
+          162.21,
+          1785842636.9451168
+        ],
+        [
+          162.34,
+          1786102187.953479
         ]
       ],
       "previous_quantities": [],
       "first_date": 1779282326.9888778,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -10649,7 +10843,7 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "New / Sealed / OVP",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10689,6 +10883,34 @@
         ]
       ],
       "first_date": 1766081311.0737822,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "El-Podenco-TCG",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 164.9,
+      "quantity": 4,
+      "condition": "NM",
+      "comment": "Envío rápido y bien protegido.",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786102187.953479,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10880,7 +11102,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10905,14 +11127,19 @@
       },
       "language": "Japanese",
       "price": 165.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Nieuw sealed",
       "date": 1785842636.9451168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1785842636.9451168
+        ]
+      ],
       "first_date": 1780051749.3840148,
       "last_date": 0.0,
       "price_is_new": false,
@@ -11386,11 +11613,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 168.22,
+      "price": 168.35,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! SEALED Daily shipping",
-      "date": 1785842636.9451168,
+      "comment": "SEALED Daily shipping",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11605,6 +11832,10 @@
         [
           168.47,
           1785496507.0018544
+        ],
+        [
+          168.22,
+          1785842636.9451168
         ]
       ],
       "previous_quantities": [
@@ -11651,8 +11882,8 @@
       ],
       "first_date": 1777211957.2312193,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 2,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -11763,6 +11994,44 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "SB-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 170.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1786224325.1741054
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1785573725.109597
+        ]
+      ],
+      "first_date": 1783158953.196289,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "StephanTCGNL",
         "country": "Item location: Netherlands"
       },
@@ -11771,7 +12040,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and with acrylic box",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11799,7 +12068,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Photos are available upon request.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11827,7 +12096,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "New seller.For more photos. write to me.Sealed box.Perfect condition.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11860,7 +12129,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12196,7 +12465,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12233,7 +12502,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12258,11 +12527,11 @@
       },
       "language": "Japanese",
       "price": 174.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed / keine Beschädigung",
       "date": 1785842636.9451168,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -12286,7 +12555,12 @@
           1770911516.6453364
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785842636.9451168
+        ]
+      ],
       "first_date": 1766529400.5857623,
       "last_date": 0.0,
       "price_is_new": false,
@@ -12310,7 +12584,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / sealed con pellicola",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12352,7 +12626,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Perfect seal. fast and safe shipping",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12385,7 +12659,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed ||| Fast Same/Next Day Shipping",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12567,6 +12841,60 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "cardbucketshop",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 179.9,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sicherer Versand - TCG Händler aus Österreich",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          169.9,
+          1780991289.8919463
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780991289.8919463
+        ],
+        [
+          0,
+          1780991289.8919463
+        ],
+        [
+          2,
+          1785496507.0018544
+        ],
+        [
+          1,
+          1785573725.109597
+        ],
+        [
+          0,
+          1785573725.109597
+        ]
+      ],
+      "first_date": 1779369287.5917137,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "TonyTonyChoppa",
         "country": "Item location: Switzerland"
       },
@@ -12575,7 +12903,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Fast shipping",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12608,62 +12936,12 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "TVA 20% INCL. B2B POSSIBLE. 100+ AVAILABLE.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782323517.1958306,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
-        "name": "cardbucketshop",
-        "country": "Item location: Austria"
-      },
-      "language": "Japanese",
-      "price": 179.9,
-      "quantity": 0,
-      "condition": "NM",
-      "comment": "Sicherer Versand - TCG Händler aus Österreich",
-      "date": 1785573725.109597,
-      "ended": true,
-      "new": false,
-      "previous_prices": [
-        [
-          169.9,
-          1780991289.8919463
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780991289.8919463
-        ],
-        [
-          0,
-          1780991289.8919463
-        ],
-        [
-          2,
-          1785496507.0018544
-        ],
-        [
-          1,
-          1785573725.109597
-        ]
-      ],
-      "first_date": 1779369287.5917137,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12686,7 +12964,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "new and factory sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12775,7 +13053,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "In stock ovp sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12803,12 +13081,40 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PERFECT SEAL !!!",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1767729095.3848803,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "christzamos",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "OVP SEALED",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786224325.1741054,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -12831,7 +13137,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13259,7 +13565,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "5 in stock",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13329,7 +13635,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Sealed + Extras :-)",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13366,7 +13672,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13460,7 +13766,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13572,7 +13878,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13685,11 +13991,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 192.25,
+      "price": 192.39,
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14132,12 +14438,20 @@
         [
           192.6,
           1785741798.5564344
+        ],
+        [
+          192.25,
+          1785842636.9451168
+        ],
+        [
+          192.4,
+          1786102187.953479
         ]
       ],
       "previous_quantities": [],
       "first_date": 1769938516.5235727,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -14158,7 +14472,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14219,7 +14533,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed - B2B possible",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14264,7 +14578,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14301,7 +14615,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Fast & Safe shipping!",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14338,7 +14652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfectly sealed. ask for more pictures. also Hiroshima and Fukuoka on stock",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14366,7 +14680,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "( Wien abholung möglich)",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14394,7 +14708,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -14520,7 +14834,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14548,7 +14862,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Great condition. Factory sealed - fast shipping",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14576,7 +14890,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VENDITORE PROFESSIONALE SU CARDTRADER. PROFESSIONAL SELLER ON CARDTRADER",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14624,34 +14938,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "rjbrethouwer",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 200.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1774617555.6469357,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "ESSECARDS",
         "country": "Item location: Italy"
       },
@@ -14660,7 +14946,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14696,16 +14982,25 @@
       "price": 200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Ships next business day / Envío siguiente día hábil Protected in toploader / Protegido en toploader",
-      "date": 1785842636.9451168,
+      "comment": "RELISTED! Ships next business day / Envío siguiente día hábil Protected in toploader / Protegido en toploader",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786102187.953479
+        ],
+        [
+          0,
+          1786102187.953479
+        ]
+      ],
       "first_date": 1785573725.109597,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -14725,12 +15020,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SCELLÉ ENVOIE RAPIDE",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1765402341.035903,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "rjbrethouwer",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1785842636.9451168,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785842636.9451168
+        ]
+      ],
+      "first_date": 1774617555.6469357,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -14977,7 +15305,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15005,7 +15333,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15089,7 +15417,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "inkl. 19% MwSt. | OVP. sealed | schneller Versand",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15317,7 +15645,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Mini cut on the backside",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15350,7 +15678,7 @@
       "quantity": 100,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15497,7 +15825,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New. Sealed. OVP // We offer B2B services",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15542,7 +15870,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Premium WPN Store/huge selection. no shipping on holidays and weekends.",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15659,7 +15987,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15715,7 +16043,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Box has been opened - Promo sealed - inkl. VAT",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15781,7 +16109,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15846,7 +16174,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP SEALED / §25a",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15874,7 +16202,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. all 3 PC Special boxes available",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15916,7 +16244,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Original verpackt",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15944,7 +16272,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16058,6 +16386,34 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
+        "name": "p0kegirl13",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 255.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SCELLAGE OK",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786102187.953479,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
         "name": "lolocrisso",
         "country": "Item location: France"
       },
@@ -16132,7 +16488,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16482,7 +16838,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16579,7 +16935,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED / FAST SHIPPING",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16604,11 +16960,11 @@
       },
       "language": "Japanese",
       "price": 279.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "New | OVP - sealed",
-      "date": 1785197903.0623765,
-      "ended": true,
+      "date": 1786344539.2573414,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -16622,6 +16978,10 @@
         ],
         [
           1,
+          1785197903.0623765
+        ],
+        [
+          0,
           1785197903.0623765
         ]
       ],
@@ -16676,7 +17036,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP SEALED / CON PELLICOLA NEW SELLER",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16734,43 +17094,6 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "Jokerslair",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 299.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1783158953.196289
-        ],
-        [
-          0,
-          1783158953.196289
-        ]
-      ],
-      "first_date": 1773327169.3147893,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "collectandcompute",
         "country": "Item location: Germany"
       },
@@ -16779,7 +17102,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16806,8 +17129,8 @@
       "price": 299.99,
       "quantity": 2,
       "condition": "NM",
-      "comment": "RELISTED! Differenzbesteuert. sealed",
-      "date": 1785842636.9451168,
+      "comment": "Differenzbesteuert. sealed",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16824,7 +17147,48 @@
       "first_date": 1770746650.866361,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 2,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "Jokerslair",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 299.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785842636.9451168,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1783158953.196289
+        ],
+        [
+          0,
+          1783158953.196289
+        ],
+        [
+          1,
+          1785842636.9451168
+        ]
+      ],
+      "first_date": 1773327169.3147893,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -16844,7 +17208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16889,7 +17253,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -16931,7 +17295,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed perfetto",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16959,7 +17323,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sellado",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17081,7 +17445,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP - SEALED FAST DAILY SHIPPING",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17142,7 +17506,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17268,7 +17632,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NEU / OVP / SEALED",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17296,7 +17660,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17409,8 +17773,8 @@
       "price": 499.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! OVP Sealed",
-      "date": 1785842636.9451168,
+      "comment": "OVP Sealed",
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17455,7 +17819,7 @@
       "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -17508,7 +17872,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17545,7 +17909,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and NEW",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17601,7 +17965,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17629,7 +17993,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17657,7 +18021,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17685,7 +18049,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17714,44 +18078,16 @@
       "card": "Pokémon Center Tohoku Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
       "seller": {
-        "name": "floketchum",
-        "country": "Item location: Switzerland"
-      },
-      "language": "Japanese",
-      "price": 999.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed / perfect state",
-      "date": 1785842636.9451168,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1764588602.3972394,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Tohoku Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
-      "seller": {
         "name": "JJSCardDepot",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
       "price": 999.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785197903.0623765,
-      "ended": true,
+      "date": 1786344539.2573414,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -17782,9 +18118,41 @@
         [
           1,
           1785197903.0623765
+        ],
+        [
+          0,
+          1785197903.0623765
         ]
       ],
       "first_date": 1783158953.196289,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Tohoku Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Tohoku-Special-Box",
+      "seller": {
+        "name": "floketchum",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 999.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed / perfect state",
+      "date": 1786344539.2573414,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1764588602.3972394,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -17840,7 +18208,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17868,7 +18236,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -17985,7 +18353,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - long time investment",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -18013,7 +18381,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -18046,7 +18414,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842636.9451168,
+      "date": 1786344539.2573414,
       "ended": false,
       "new": false,
       "previous_prices": [],

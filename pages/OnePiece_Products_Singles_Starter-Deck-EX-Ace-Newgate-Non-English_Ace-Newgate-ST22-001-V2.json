@@ -10,10 +10,10 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 17,
+  "available": 15,
   "available_graded": 0,
   "sold": 0,
-  "inserted": 2,
+  "inserted": 5,
   "listings": [
     {
       "card": "Ace & Newgate (ST22-001) (V.2)",
@@ -27,7 +27,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect card",
-      "date": 1785820930.7858994,
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -87,8 +87,8 @@
       "price": 120.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeved and Toploaded. DM for pictures.",
-      "date": 1785820930.7858994,
+      "comment": "RELISTED! Sleeved and Toploaded. DM for pictures.",
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -105,12 +105,20 @@
         [
           0,
           1783889288.2148263
+        ],
+        [
+          1,
+          1786171200.329596
+        ],
+        [
+          0,
+          1786171200.329596
         ]
       ],
       "first_date": 1783620545.3045013,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -127,11 +135,11 @@
       },
       "language": "Japanese",
       "price": 135.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785820930.7858994,
-      "ended": false,
+      "date": 1786171200.329596,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -139,7 +147,12 @@
           1785551350.3221636
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786171200.329596
+        ]
+      ],
       "first_date": 1785414029.6874876,
       "last_date": 0.0,
       "price_is_new": false,
@@ -162,8 +175,8 @@
       "price": 138.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785820930.7858994,
+      "comment": "RELISTED! ",
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -188,11 +201,20 @@
           1785240939.0944088
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786171200.329596
+        ],
+        [
+          0,
+          1786171200.329596
+        ]
+      ],
       "first_date": 1782460082.3016572,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -211,8 +233,8 @@
       "price": 140.0,
       "quantity": 3,
       "condition": "NM",
-      "comment": "",
-      "date": 1785820930.7858994,
+      "comment": "RELISTED! ",
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -225,11 +247,20 @@
           1785065463.0626192
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          3,
+          1786171200.329596
+        ],
+        [
+          0,
+          1786171200.329596
+        ]
+      ],
       "first_date": 1784432367.0021994,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 3,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -246,14 +277,19 @@
       },
       "language": "Japanese",
       "price": 149.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Boosterfrisch",
       "date": 1785820930.7858994,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785820930.7858994
+        ]
+      ],
       "first_date": 1785414029.6874876,
       "last_date": 0.0,
       "price_is_new": false,
@@ -276,13 +312,50 @@
       "price": 149.9,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sleeve + Toploader envoi rapide !",
-      "date": 1785820930.7858994,
+      "comment": "RELISTED! Sleeve + Toploader envoi rapide !",
+      "date": 1786437146.0284843,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786171200.329596
+        ],
+        [
+          0,
+          1786171200.329596
+        ]
+      ],
+      "first_date": 1785820930.7858994,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Ace & Newgate (ST22-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Starter-Deck-EX-Ace-Newgate-Non-English_Ace-Newgate-ST22-001-V2",
+      "seller": {
+        "name": "Rikou999",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 159.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786437146.0284843,
       "ended": false,
       "new": true,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1785820930.7858994,
+      "first_date": 1786437146.0284843,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -305,7 +378,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785820930.7858994,
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -338,7 +411,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "VI",
-      "date": 1785820930.7858994,
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -374,8 +447,8 @@
       "price": 200.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! sleeved - toploader - fast ship",
-      "date": 1785820930.7858994,
+      "comment": "sleeved - toploader - fast ship",
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -405,34 +478,6 @@
       "first_date": 1783180248.5110865,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Ace & Newgate (ST22-001) (V.2)",
-      "canonical_name": "OnePiece_Products_Singles_Starter-Deck-EX-Ace-Newgate-Non-English_Ace-Newgate-ST22-001-V2",
-      "seller": {
-        "name": "GamesTimeAlzate",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 300.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785820930.7858994,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785414029.6874876,
-      "last_date": 0.0,
-      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -453,12 +498,45 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785820930.7858994,
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1782742196.1593208,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Ace & Newgate (ST22-001) (V.2)",
+      "canonical_name": "OnePiece_Products_Singles_Starter-Deck-EX-Ace-Newgate-Non-English_Ace-Newgate-ST22-001-V2",
+      "seller": {
+        "name": "GamesTimeAlzate",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 300.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785820930.7858994,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785820930.7858994
+        ]
+      ],
+      "first_date": 1785414029.6874876,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -514,7 +592,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OP1 - Fast Ship",
-      "date": 1785820930.7858994,
+      "date": 1786437146.0284843,
       "ended": false,
       "new": false,
       "previous_prices": [],

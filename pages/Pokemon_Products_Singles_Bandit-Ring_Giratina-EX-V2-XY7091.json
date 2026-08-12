@@ -10,8 +10,8 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
-  "available_graded": 2,
+  "available": 6,
+  "available_graded": 1,
   "sold": 0,
   "inserted": 0,
   "listings": [
@@ -176,11 +176,11 @@
       },
       "language": "Japanese",
       "price": 82.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "LP",
       "comment": "ask for pictures",
-      "date": 1785099470.0593088,
-      "ended": true,
+      "date": 1786528260.5837328,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -199,6 +199,10 @@
         ],
         [
           1,
+          1785099470.0593088
+        ],
+        [
+          0,
           1785099470.0593088
         ]
       ],
@@ -323,7 +327,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "9-22 (2) See pics. Double sleeved. daily shipping. contact for reduced shipping!",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -397,7 +401,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "custom slab not included",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -534,7 +538,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "psa 8",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -859,11 +863,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 238.0,
+      "price": 238.36,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -966,6 +970,22 @@
         [
           238.14,
           1785586987.8882263
+        ],
+        [
+          238.0,
+          1785748674.1799397
+        ],
+        [
+          237.35,
+          1786050308.828238
+        ],
+        [
+          237.76,
+          1786147317.26257
+        ],
+        [
+          237.75,
+          1786260871.0970287
         ]
       ],
       "previous_quantities": [
@@ -1034,7 +1054,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "### 12370",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1123,7 +1143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Unlimited. front perfect back with white dots",
-      "date": 1785748674.1799397,
+      "date": 1786528260.5837328,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1659,14 +1679,19 @@
       },
       "language": "Japanese",
       "price": 1500.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785748674.1799397,
-      "ended": false,
+      "date": 1786147317.26257,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786147317.26257
+        ]
+      ],
       "first_date": 1784758870.9652033,
       "last_date": 0.0,
       "price_is_new": false,

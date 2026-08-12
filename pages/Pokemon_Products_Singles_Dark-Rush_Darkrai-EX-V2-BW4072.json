@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 10,
+  "available": 9,
   "available_graded": 2,
   "sold": 0,
   "inserted": 0,
@@ -172,7 +172,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "Daily Shipping",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -298,7 +298,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -323,11 +323,11 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "GREAT STOCK OF VINTAGE JP",
       "date": 1785853078.0160258,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -371,6 +371,10 @@
         [
           0,
           1781927297.6002667
+        ],
+        [
+          1,
+          1785853078.0160258
         ]
       ],
       "first_date": 1772284184.4142463,
@@ -597,7 +601,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "Front GD/ Back LP",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -837,7 +841,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "unlimited",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1404,7 +1408,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1469,7 +1473,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Slight edge wear. overall in great condition",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1519,7 +1523,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "(TOPLOADER)BW4.001 - fast ship and maximum protection check the store for all cards!!",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1684,39 +1688,6 @@
       "card": "Darkrai EX  (BW4 072)",
       "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
       "seller": {
-        "name": "DemaSquall93",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 84.99,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "EXC++NM-/ask for photos",
-      "date": 1785853078.0160258,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
-        [
-          0,
-          1775893516.2272341
-        ]
-      ],
-      "first_date": 1771764581.0808065,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Darkrai EX  (BW4 072)",
-      "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
-      "seller": {
         "name": "Zentrax97",
         "country": "Item location: Switzerland"
       },
@@ -1847,7 +1818,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2215,6 +2186,44 @@
       "grade_source": "auto"
     },
     {
+      "card": "Darkrai EX  (BW4 072)",
+      "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
+      "seller": {
+        "name": "DemaSquall93",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 149.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "EXC++NM-/ask for photos",
+      "date": 1786525558.7373421,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          84.99,
+          1785853078.0160258
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1775893516.2272341
+        ]
+      ],
+      "first_date": 1771764581.0808065,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
       "card": "Darkrai EX (BW4 072)",
       "canonical_name": "Pokemon_Products_Singles_Dark-Rush_Darkrai-EX-V2-BW4072",
       "seller": {
@@ -2519,7 +2528,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. ask for photos",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2603,7 +2612,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785853078.0160258,
+      "date": 1786525558.7373421,
       "ended": false,
       "new": false,
       "previous_prices": [

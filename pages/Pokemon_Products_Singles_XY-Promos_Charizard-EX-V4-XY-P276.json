@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
-  "available_graded": 10,
-  "sold": 0,
+  "available": 4,
+  "available_graded": 9,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -1939,7 +1939,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PGS 9",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1998,6 +1998,14 @@
         [
           4500.0,
           1785216520.5299206
+        ],
+        [
+          4250.0,
+          1786137332.4234173
+        ],
+        [
+          4000.0,
+          1786255126.2197628
         ]
       ],
       "previous_quantities": [
@@ -2008,7 +2016,7 @@
       ],
       "first_date": 1711009919.66888,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -2263,7 +2271,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "little whitening on bottom left edge - Rest is clean",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2516,7 +2524,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2590,7 +2598,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2737,7 +2745,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CCC 9.5",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3023,7 +3031,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3495,7 +3503,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - cert: 120105816",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3698,12 +3706,12 @@
       },
       "language": "Japanese",
       "price": 10100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 10 Gem Mint",
-      "date": 1785881067.44471,
-      "ended": false,
-      "new": false,
+      "date": 1786255126.2197628,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           10000.0,
@@ -3738,12 +3746,16 @@
         [
           0,
           1784145051.9793687
+        ],
+        [
+          1,
+          1786255126.2197628
         ]
       ],
       "first_date": 1773254584.908259,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3829,7 +3841,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - 13XXX New cert - See my other stuff :)",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4025,11 +4037,11 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 14000.0,
+      "price": 13000.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 new cert - book - sleeves - guard",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4044,6 +4056,10 @@
         [
           15000.0,
           1782493598.7219603
+        ],
+        [
+          14000.0,
+          1786255126.2197628
         ]
       ],
       "previous_quantities": [
@@ -4058,7 +4074,7 @@
       ],
       "first_date": 1781304002.021428,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -4079,7 +4095,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Sealed Art Book in bubble wrap contains the unopened card inside. Fresh from the Pokecenter .",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4113,14 +4129,19 @@
       },
       "language": "Japanese",
       "price": 15000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Complete set. Sealed Card. artbook. postcard. sleeves. ask for more pictures.",
       "date": 1785881067.44471,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785881067.44471
+        ]
+      ],
       "first_date": 1783272032.5715375,
       "last_date": 0.0,
       "price_is_new": false,
@@ -4182,7 +4203,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4236,7 +4257,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4269,7 +4290,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Complete set with artbook and other 2 Charizard card psa10",
-      "date": 1785881067.44471,
+      "date": 1786410172.95318,
       "ended": false,
       "new": false,
       "previous_prices": [

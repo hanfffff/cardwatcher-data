@@ -13,10 +13,10 @@
     "Portuguese"
   ],
   "only_germany": "False",
-  "available": 18,
+  "available": 15,
   "available_graded": 8,
   "sold": 0,
-  "inserted": 3,
+  "inserted": 0,
   "listings": [
     {
       "card": "Champions Festival  (XYPR 176)",
@@ -30,7 +30,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "fast shipping in Toploader",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -200,14 +200,19 @@
       },
       "language": "Portuguese",
       "price": 97.5,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "front NM back EX ask for pictures",
       "date": 1785880490.0857742,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785880490.0857742
+        ]
+      ],
       "first_date": 1771418484.2898958,
       "last_date": 0.0,
       "price_is_new": false,
@@ -231,7 +236,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "VI",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -376,7 +381,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "B2.5",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -413,7 +418,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Worlds 2016 // off-center to the right // DM for pics",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -463,7 +468,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Worlds 2016 // off-center to the right // DM for pics",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -509,7 +514,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Worlds 2016 // DM for pics",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -599,34 +604,6 @@
       "card": "Champions Festival  (XYPR 176)",
       "canonical_name": "Pokemon_Products_Singles_XY-Black-Star-Promos_Champions-Festival-V3-XYPR176",
       "seller": {
-        "name": "Darkeclipse",
-        "country": "Item location: Netherlands"
-      },
-      "language": "German",
-      "price": 139.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "NM ask for pictures",
-      "date": 1785880490.0857742,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1771418484.2898958,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Champions Festival  (XYPR 176)",
-      "canonical_name": "Pokemon_Products_Singles_XY-Black-Star-Promos_Champions-Festival-V3-XYPR176",
-      "seller": {
         "name": "Bisafan96",
         "country": "Item location: Germany"
       },
@@ -634,8 +611,8 @@
       "price": 139.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! small surface scratches. otherwise beautiful! :)",
-      "date": 1785880490.0857742,
+      "comment": "small surface scratches. otherwise beautiful! :)",
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -697,7 +674,7 @@
       "first_date": 1719416855.2365408,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -716,8 +693,8 @@
       "price": 139.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! see photos! :)",
-      "date": 1785880490.0857742,
+      "comment": "see photos! :)",
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -766,8 +743,41 @@
       ],
       "first_date": 1719416855.2365408,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Champions Festival  (XYPR 176)",
+      "canonical_name": "Pokemon_Products_Singles_XY-Black-Star-Promos_Champions-Festival-V3-XYPR176",
+      "seller": {
+        "name": "Darkeclipse",
+        "country": "Item location: Netherlands"
+      },
+      "language": "German",
+      "price": 139.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "NM ask for pictures",
+      "date": 1785880490.0857742,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785880490.0857742
+        ]
+      ],
+      "first_date": 1771418484.2898958,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -883,11 +893,11 @@
       },
       "language": "German",
       "price": 144.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "fast shipping in Toploader",
       "date": 1785880490.0857742,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -898,6 +908,10 @@
         [
           0,
           1780911638.7055807
+        ],
+        [
+          1,
+          1785880490.0857742
         ]
       ],
       "first_date": 1771418484.2898958,
@@ -995,8 +1009,8 @@
       "price": 149.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! see photos! :)",
-      "date": 1785880490.0857742,
+      "comment": "see photos! :)",
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1049,8 +1063,8 @@
       ],
       "first_date": 1771418484.2898958,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 1,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1131,7 +1145,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "EX+ ! Serious seller !",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1165,11 +1179,11 @@
       },
       "language": "German",
       "price": 150.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1784170464.1387935,
-      "ended": true,
+      "date": 1786409688.8972538,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1183,6 +1197,10 @@
         ],
         [
           1,
+          1784170464.1387935
+        ],
+        [
+          0,
           1784170464.1387935
         ]
       ],
@@ -1242,7 +1260,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Best in town - CGC-8.5 - 001",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1537,7 +1555,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 / Fast shipping!",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1587,7 +1605,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "in Vitrinen",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1620,7 +1638,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "5271. NM Front. 2016",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1690,7 +1708,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8 - Mehr Fotos auf Anfrage :)",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1792,7 +1810,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 PORTUGUESE GRADED - LOW POP - OPEN TO OFFERS",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1833,7 +1851,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1976,7 +1994,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "World 16 PSA8",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2606,7 +2624,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 - POP 7",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2695,11 +2713,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "German",
-      "price": 660.84,
+      "price": 662.93,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2722,6 +2740,18 @@
         [
           662.03,
           1785782197.7253008
+        ],
+        [
+          660.84,
+          1785880490.0857742
+        ],
+        [
+          661.38,
+          1786136991.2797146
+        ],
+        [
+          661.34,
+          1786254641.2450304
         ]
       ],
       "previous_quantities": [],
@@ -2748,7 +2778,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 FRENCH GRADED - LOW POP - OPEN TO OFFERS",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2960,14 +2990,19 @@
       },
       "language": "English",
       "price": 2000.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Full set - Opened - NM Ask for photos",
       "date": 1785880490.0857742,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785880490.0857742
+        ]
+      ],
       "first_date": 1720783934.4529464,
       "last_date": 0.0,
       "price_is_new": false,
@@ -3024,7 +3059,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed promo booster full set",
-      "date": 1785880490.0857742,
+      "date": 1786409688.8972538,
       "ended": false,
       "new": false,
       "previous_prices": [],

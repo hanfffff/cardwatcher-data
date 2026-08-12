@@ -10,9 +10,9 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 5,
-  "available_graded": 3,
-  "sold": 0,
+  "available": 4,
+  "available_graded": 2,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
@@ -711,7 +711,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "LP+; Good-",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -753,7 +753,7 @@
       "quantity": 1,
       "condition": "PO",
       "comment": "",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -790,7 +790,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ask for photos",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -960,12 +960,12 @@
       },
       "language": "Japanese",
       "price": 1300.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "cl",
-      "date": 1785861738.484004,
-      "ended": false,
-      "new": false,
+      "date": 1786235969.2518787,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           599.0,
@@ -1004,12 +1004,16 @@
         [
           0,
           1782699832.5093563
+        ],
+        [
+          1,
+          1786235969.2518787
         ]
       ],
       "first_date": 1764588803.6463687,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1029,7 +1033,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "A1-014. send in toploader",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1140,7 +1144,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 9",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1198,11 +1202,11 @@
       },
       "language": "Japanese",
       "price": 2499.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785861738.484004,
-      "ended": false,
+      "date": 1786118180.4493117,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -1213,6 +1217,10 @@
         [
           0,
           1784763502.4202702
+        ],
+        [
+          1,
+          1786118180.4493117
         ]
       ],
       "first_date": 1784206041.2710843,
@@ -1396,7 +1404,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Gem Mint - RMP Paris possible - Envoi suivi et assure",
-      "date": 1785861738.484004,
+      "date": 1786391964.5141163,
       "ended": false,
       "new": false,
       "previous_prices": [

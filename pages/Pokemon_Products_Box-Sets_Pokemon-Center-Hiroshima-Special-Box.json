@@ -8,10 +8,10 @@
     "Japanese"
   ],
   "only_germany": "False",
-  "available": 408,
+  "available": 388,
   "available_graded": 0,
-  "sold": 2,
-  "inserted": 4,
+  "sold": 5,
+  "inserted": 1,
   "listings": [
     {
       "card": "Pokémon Center Hiroshima Special Box",
@@ -120,15 +120,52 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "Bluel",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 149.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed with original invoice included",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          165.0,
+          1785842112.619828
+        ],
+        [
+          160.0,
+          1786223945.96568
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1785741294.7092612,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "Nicenijs",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 130.0,
-      "quantity": 1,
+      "price": 149.95,
+      "quantity": 8,
       "condition": "NM",
-      "comment": "Buyer Dialga/ Little Damage Seal",
-      "date": 1785842112.619828,
+      "comment": "",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -163,6 +200,10 @@
         [
           158.95,
           1785741294.7092612
+        ],
+        [
+          130.0,
+          1785842112.619828
         ]
       ],
       "previous_quantities": [
@@ -281,12 +322,20 @@
         [
           17,
           1785741294.7092612
+        ],
+        [
+          1,
+          1785842112.619828
+        ],
+        [
+          4,
+          1786223945.96568
         ]
       ],
       "first_date": 1764588628.4382932,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": -16,
+      "price_is_new": false,
+      "quantity_change": 4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -302,19 +351,33 @@
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
-      "price": 130.0,
-      "quantity": 1,
+      "price": 149.95,
+      "quantity": 4,
       "condition": "NM",
-      "comment": "Buyer Dialga/ Little Damage corner",
-      "date": 1785842112.619828,
+      "comment": "Weekend deal/ Sealed/ direct delivery",
+      "date": 1786343956.9883635,
       "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
+      "new": false,
+      "previous_prices": [
+        [
+          130.0,
+          1785842112.619828
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1785842112.619828
+        ],
+        [
+          9,
+          1786223945.96568
+        ]
+      ],
       "first_date": 1785842112.619828,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -5,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -380,20 +443,121 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "alljapan-be",
+        "country": "Item location: Belgium"
+      },
+      "language": "Japanese",
+      "price": 154.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "Shrink sealed. Full set available.",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          160.0,
+          1786223945.96568
+        ]
+      ],
+      "previous_quantities": [
+        [
+          5,
+          1785842112.619828
+        ],
+        [
+          1,
+          1786101671.7135913
+        ],
+        [
+          3,
+          1786223945.96568
+        ]
+      ],
+      "first_date": 1785842112.619828,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "Nicenijs",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 154.95,
-      "quantity": 7,
+      "quantity": 0,
       "condition": "NM",
       "comment": "OVP Sealed (with shrink) / In Stock ready to ship !",
       "date": 1785842112.619828,
-      "ended": false,
-      "new": true,
+      "ended": true,
+      "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          7,
+          1785842112.619828
+        ]
+      ],
       "first_date": 1785842112.619828,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
+        "name": "Mikiee13",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 155.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          174.0,
+          1782825326.0519974
+        ],
+        [
+          169.0,
+          1784706402.7458608
+        ],
+        [
+          165.0,
+          1785842112.619828
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782825326.0519974
+        ],
+        [
+          0,
+          1782825326.0519974
+        ]
+      ],
+      "first_date": 1782825326.0519974,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -466,6 +630,64 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "TomFox86",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 159.9,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786223945.96568,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          189.9,
+          1782407690.7351792
+        ],
+        [
+          184.9,
+          1782729597.2235956
+        ],
+        [
+          175.0,
+          1782825326.0519974
+        ],
+        [
+          172.0,
+          1783167180.263979
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783167180.263979
+        ],
+        [
+          0,
+          1783167180.263979
+        ],
+        [
+          1,
+          1786223945.96568
+        ]
+      ],
+      "first_date": 1782332162.3815157,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "Deoxic",
         "country": "Item location: Netherlands"
       },
@@ -474,7 +696,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -504,10 +726,10 @@
       },
       "language": "Japanese",
       "price": 159.99,
-      "quantity": 60,
+      "quantity": 50,
       "condition": "NM",
       "comment": "Sealed (With Shrink/Plastic Foil) - OVP",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -776,40 +998,24 @@
         [
           62,
           1785741294.7092612
+        ],
+        [
+          60,
+          1785842112.619828
+        ],
+        [
+          50,
+          1786101671.7135913
+        ],
+        [
+          51,
+          1786223945.96568
         ]
       ],
       "first_date": 1765402331.7882023,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
-        "name": "alljapan-be",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 160.0,
-      "quantity": 5,
-      "condition": "NM",
-      "comment": "Shrink sealed. Full set available.",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": true,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785842112.619828,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -831,7 +1037,7 @@
       "comment": "Ovp - sealed",
       "date": 1785741294.7092612,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -842,7 +1048,7 @@
       "first_date": 1785741294.7092612,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -859,14 +1065,19 @@
       },
       "language": "Japanese",
       "price": 162.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
-      "ended": false,
+      "date": 1786101671.7135913,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786101671.7135913
+        ]
+      ],
       "first_date": 1784706402.7458608,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1093,38 +1304,25 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "Mikiee13",
-        "country": "Item location: Netherlands"
+        "name": "Giannii",
+        "country": "Item location: Belgium"
       },
       "language": "Japanese",
       "price": 165.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785842112.619828,
+      "comment": "Sealed. Incl gemloader acryl case. Full set available",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          174.0,
-          1782825326.0519974
-        ],
-        [
-          169.0,
-          1784706402.7458608
+          175.0,
+          1785842112.619828
         ]
       ],
-      "previous_quantities": [
-        [
-          1,
-          1782825326.0519974
-        ],
-        [
-          0,
-          1782825326.0519974
-        ]
-      ],
-      "first_date": 1782825326.0519974,
+      "previous_quantities": [],
+      "first_date": 1785223174.5721312,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1147,7 +1345,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "10 dispo",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1158,34 +1356,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1784570991.6645997,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
-        "name": "Bluel",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 165.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed with original invoice included",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785741294.7092612,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1352,7 +1522,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1405,7 +1575,7 @@
       ],
       "first_date": 1764588628.4382932,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1423,10 +1593,10 @@
       },
       "language": "Japanese",
       "price": 169.0,
-      "quantity": 3,
+      "quantity": 4,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1527,6 +1697,10 @@
         [
           5,
           1785395823.606341
+        ],
+        [
+          3,
+          1785842112.619828
         ]
       ],
       "first_date": 1781540337.6687007,
@@ -1615,11 +1789,11 @@
       },
       "language": "Japanese",
       "price": 169.49,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1631,10 +1805,15 @@
           1785741294.7092612
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          2,
+          1785842112.619828
+        ]
+      ],
       "first_date": 1785395823.606341,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -1782,7 +1961,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "JAPANESE SELLER - Daily shipping",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1820,6 +1999,39 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "Poke-Starr",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 170.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED! full set available",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          175.0,
+          1785842112.619828
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783571936.155369,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "GradedGengar",
         "country": "Item location: Belgium"
       },
@@ -1828,7 +2040,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1874,7 +2086,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Precintado/Correos certificado",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2182,12 +2394,12 @@
       },
       "language": "Japanese",
       "price": 171.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "All three availabe",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
+      "comment": "RELISTED! All three availabe",
+      "date": 1786223945.96568,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           198.99,
@@ -2234,12 +2446,24 @@
         [
           0,
           1785395823.606341
+        ],
+        [
+          1,
+          1785842112.619828
+        ],
+        [
+          0,
+          1785842112.619828
+        ],
+        [
+          1,
+          1786223945.96568
         ]
       ],
       "first_date": 1776159806.8718045,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2284,41 +2508,73 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "TomFox86",
+        "name": "tcgdeals",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 172.0,
+      "price": 172.99,
       "quantity": 0,
       "condition": "NM",
-      "comment": "",
-      "date": 1783167180.263979,
+      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
+      "date": 1786223945.96568,
       "ended": true,
-      "new": false,
+      "new": true,
       "previous_prices": [
         [
-          189.9,
-          1782407690.7351792
+          196.99,
+          1766081305.9174547
         ],
         [
-          184.9,
-          1782729597.2235956
+          234.99,
+          1778919500.880489
         ],
         [
-          175.0,
-          1782825326.0519974
+          229.99,
+          1779057687.338575
+        ],
+        [
+          225.99,
+          1779184744.3861175
+        ],
+        [
+          179.99,
+          1785047794.0553327
+        ],
+        [
+          189.99,
+          1785842112.619828
         ]
       ],
       "previous_quantities": [
         [
+          0,
+          1766081305.9174547
+        ],
+        [
+          11,
+          1779184744.3861175
+        ],
+        [
+          0,
+          1779184744.3861175
+        ],
+        [
+          2,
+          1785047794.0553327
+        ],
+        [
           1,
-          1783167180.263979
+          1785223174.5721312
+        ],
+        [
+          4,
+          1786223945.96568
         ]
       ],
-      "first_date": 1782332162.3815157,
+      "first_date": 1765807651.0341156,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -4,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -2338,7 +2594,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2618,62 +2874,6 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "Poke-Starr",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 175.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED! full set available",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783571936.155369,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
-        "name": "Giannii",
-        "country": "Item location: Belgium"
-      },
-      "language": "Japanese",
-      "price": 175.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed. Incl gemloader acryl case. Full set available",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1785223174.5721312,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
         "name": "ThePopo",
         "country": "Item location: Czech Republic"
       },
@@ -2682,7 +2882,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2910,7 +3110,7 @@
       "quantity": 9,
       "condition": "NM",
       "comment": "OVP/Sealed inkl. 19% MwSt.",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2938,7 +3138,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "OVP - SEALED",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3110,7 +3310,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP - sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3143,7 +3343,7 @@
       "quantity": 12,
       "condition": "NM",
       "comment": "sealed . fast ship",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3285,16 +3485,44 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "El-Podenco-TCG",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 179.9,
+      "quantity": 3,
+      "condition": "NM",
+      "comment": "Envío rápido y bien protegido.",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786101671.7135913,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "Elite-store",
         "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 179.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3334,12 +3562,16 @@
         [
           3,
           1785741294.7092612
+        ],
+        [
+          1,
+          1785842112.619828
         ]
       ],
       "first_date": 1764588628.4382932,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -2,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -3426,11 +3658,11 @@
       },
       "language": "Japanese",
       "price": 179.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "TRIO AVAIABLE",
-      "date": 1785842112.619828,
-      "ended": false,
+      "date": 1786101671.7135913,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3454,6 +3686,10 @@
         [
           0,
           1784570991.6645997
+        ],
+        [
+          1,
+          1786101671.7135913
         ]
       ],
       "first_date": 1765402331.7882023,
@@ -3476,11 +3712,11 @@
       },
       "language": "Japanese",
       "price": 179.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed ovp. gemäß paragraph 19 ustg wird keine umsatzsteuer ausgewiesen",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3512,6 +3748,10 @@
         [
           0,
           1785047794.0553327
+        ],
+        [
+          1,
+          1785842112.619828
         ]
       ],
       "first_date": 1781869748.975699,
@@ -3608,34 +3848,6 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "GIAFE1",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 180.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783167180.263979,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
         "name": "six69626",
         "country": "Item location: Switzerland"
       },
@@ -3643,8 +3855,8 @@
       "price": 180.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Safe and fast shipping",
-      "date": 1785842112.619828,
+      "comment": "Sealed",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3673,20 +3885,20 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "six69626",
-        "country": "Item location: Switzerland"
+        "name": "itoacr07",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 180.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785842112.619828,
+      "comment": "In perfect condition.",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
-      "first_date": 1784151037.8742049,
+      "first_date": 1783167180.263979,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -3706,11 +3918,11 @@
       },
       "language": "Japanese",
       "price": 180.0,
-      "quantity": 2,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ovp sealed. other boxes available as well",
-      "date": 1785842112.619828,
-      "ended": false,
+      "date": 1786101671.7135913,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -3726,6 +3938,10 @@
         [
           0,
           1784570991.6645997
+        ],
+        [
+          2,
+          1786101671.7135913
         ]
       ],
       "first_date": 1784570991.6645997,
@@ -3743,20 +3959,58 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "itoacr07",
-        "country": "Item location: Spain"
+        "name": "GIAFE1",
+        "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 180.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "In perfect condition.",
+      "comment": "SEALED",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785842112.619828
+        ]
+      ],
       "first_date": 1783167180.263979,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
+        "name": "six69626",
+        "country": "Item location: Switzerland"
+      },
+      "language": "Japanese",
+      "price": 180.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1785842112.619828,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785842112.619828
+        ]
+      ],
+      "first_date": 1784151037.8742049,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -4074,7 +4328,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "NEW/SEALED/OVP",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4441,7 +4695,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed ready to ship",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4507,7 +4761,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4540,7 +4794,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4576,6 +4830,52 @@
         ]
       ],
       "first_date": 1779334371.4539883,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
+        "name": "AquaSchiggy",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 185.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed - Sammlerzustand",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          230.3,
+          1781001809.716643
+        ],
+        [
+          199.95,
+          1785842112.619828
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782729597.2235956
+        ],
+        [
+          0,
+          1782729597.2235956
+        ]
+      ],
+      "first_date": 1778919500.880489,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -5233,76 +5533,6 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "tcgdeals",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 189.99,
-      "quantity": 4,
-      "condition": "NM",
-      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          196.99,
-          1766081305.9174547
-        ],
-        [
-          234.99,
-          1778919500.880489
-        ],
-        [
-          229.99,
-          1779057687.338575
-        ],
-        [
-          225.99,
-          1779184744.3861175
-        ],
-        [
-          179.99,
-          1785047794.0553327
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1766081305.9174547
-        ],
-        [
-          11,
-          1779184744.3861175
-        ],
-        [
-          0,
-          1779184744.3861175
-        ],
-        [
-          2,
-          1785047794.0553327
-        ],
-        [
-          1,
-          1785223174.5721312
-        ]
-      ],
-      "first_date": 1765807651.0341156,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
         "name": "Packripper1987",
         "country": "Item location: Netherlands"
       },
@@ -5372,7 +5602,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP/Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5422,7 +5652,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed/ for questions or offers dm me",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5903,7 +6133,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED. DM for photo",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6275,6 +6505,34 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1764588628.4382932,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
+        "name": "SB-Cards",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 195.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "sealed ovp",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786223945.96568,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -6979,7 +7237,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ovp/ saled. perfect condition",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7408,48 +7666,6 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "AquaSchiggy",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 199.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed - Sammlerzustand",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          230.3,
-          1781001809.716643
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782729597.2235956
-        ],
-        [
-          0,
-          1782729597.2235956
-        ]
-      ],
-      "first_date": 1778919500.880489,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
         "name": "Dalarmare",
         "country": "Item location: Germany"
       },
@@ -7548,7 +7764,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "sealed / inkl. 19% USt",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7598,6 +7814,34 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
+        "name": "MistiCards",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 199.99,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "safe and fast shipping",
+      "date": 1786343956.9883635,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786101671.7135913,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
         "name": "CharliezardCardhouse",
         "country": "Item location: Germany"
       },
@@ -7606,7 +7850,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed - Perfect Condition! Private Sealed Collection! + Acryl Case! Fast & Safe Shipping!",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7645,7 +7889,7 @@
       "comment": "Sealed - Perfect Condition! Private Sealed Collection! + Acryl Case! Fast & Safe Shipping!",
       "date": 1785741294.7092612,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           214.99,
@@ -7661,7 +7905,7 @@
       "first_date": 1783336727.4512372,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -8082,7 +8326,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8532,7 +8776,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed Good condition",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8842,62 +9086,12 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1780238836.3457184,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Pokémon Center Hiroshima Special Box",
-      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
-      "seller": {
-        "name": "TommyLoStregone",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 210.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed ovp",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          230.0,
-          1777287591.2342498
-        ],
-        [
-          5000.0,
-          1783995456.606983
-        ]
-      ],
-      "previous_quantities": [
-        [
-          0,
-          1777287591.2342498
-        ],
-        [
-          1,
-          1784414233.4128404
-        ],
-        [
-          0,
-          1784414233.4128404
-        ]
-      ],
-      "first_date": 1775780056.573485,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -8920,7 +9114,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8948,7 +9142,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Perfect Condition",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8990,7 +9184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfect sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8999,6 +9193,60 @@
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Pokémon Center Hiroshima Special Box",
+      "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
+      "seller": {
+        "name": "TommyLoStregone",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 210.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sealed ovp",
+      "date": 1786223945.96568,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          230.0,
+          1777287591.2342498
+        ],
+        [
+          5000.0,
+          1783995456.606983
+        ]
+      ],
+      "previous_quantities": [
+        [
+          0,
+          1777287591.2342498
+        ],
+        [
+          1,
+          1784414233.4128404
+        ],
+        [
+          0,
+          1784414233.4128404
+        ],
+        [
+          1,
+          1786223945.96568
+        ]
+      ],
+      "first_date": 1775780056.573485,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -9461,7 +9709,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9540,7 +9788,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "OVP sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9680,9 +9928,9 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "EN PERFECTO ESTADO",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785842112.619828,
@@ -9782,7 +10030,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Perfectly sealed. ask for more pics. also Fukuoka and Tohoku on stock",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9810,7 +10058,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "TVA 20% INCL. B2B POSSIBLE. 100+ AVAILABLE.",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9934,7 +10182,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED. ready to ship.",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10011,16 +10259,25 @@
       "price": 220.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Ships next business day / Envío siguiente día hábil Protected in toploader / Protegido en toploader",
-      "date": 1785842112.619828,
+      "comment": "RELISTED! Ships next business day / Envío siguiente día hábil Protected in toploader / Protegido en toploader",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786101671.7135913
+        ],
+        [
+          0,
+          1786101671.7135913
+        ]
+      ],
       "first_date": 1785573101.606635,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -10040,7 +10297,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED (With Shrink)",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10068,7 +10325,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10298,7 +10555,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP Sealed / little Dents possible!",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10368,7 +10625,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed and fast shipping.",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10409,7 +10666,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sigillato/Nuovo/Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10503,29 +10760,20 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "rjbrethouwer",
-        "country": "Item location: Netherlands"
+        "name": "VictorVRA",
+        "country": "Item location: Spain"
       },
       "language": "Japanese",
       "price": 225.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785842112.619828,
+      "comment": "",
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [
-        [
-          1,
-          1778841519.4574184
-        ],
-        [
-          0,
-          1778841519.4574184
-        ]
-      ],
-      "first_date": 1774602365.3884656,
+      "previous_quantities": [],
+      "first_date": 1779334371.4539883,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10540,20 +10788,33 @@
       "card": "Pokémon Center Hiroshima Special Box",
       "canonical_name": "Pokemon_Products_Box-Sets_Pokemon-Center-Hiroshima-Special-Box",
       "seller": {
-        "name": "VictorVRA",
-        "country": "Item location: Spain"
+        "name": "rjbrethouwer",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 225.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "",
+      "comment": "Sealed",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1779334371.4539883,
+      "previous_quantities": [
+        [
+          1,
+          1778841519.4574184
+        ],
+        [
+          0,
+          1778841519.4574184
+        ],
+        [
+          1,
+          1785842112.619828
+        ]
+      ],
+      "first_date": 1774602365.3884656,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10831,7 +11092,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10901,7 +11162,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10947,14 +11208,19 @@
       },
       "language": "Japanese",
       "price": 230.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed",
       "date": 1785842112.619828,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785842112.619828
+        ]
+      ],
       "first_date": 1781371430.1212008,
       "last_date": 0.0,
       "price_is_new": false,
@@ -11072,7 +11338,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Have also FUKUOKA PKC BOX in Stock! - SEALED - Sammler",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11203,7 +11469,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11527,7 +11793,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Incl. 19% mwst",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11581,7 +11847,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "@ OVP Sealed / Ask for Photos @",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11782,11 +12048,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 240.31,
+      "price": 240.49,
       "quantity": 3,
       "condition": "NM",
       "comment": "fast shipping factory sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12273,12 +12539,20 @@
         [
           240.74,
           1785741294.7092612
+        ],
+        [
+          240.31,
+          1785842112.619828
+        ],
+        [
+          240.5,
+          1786101671.7135913
         ]
       ],
       "previous_quantities": [],
       "first_date": 1764588628.4382932,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -12299,7 +12573,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12378,7 +12652,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12467,7 +12741,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed some dents on the box incl vat",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12516,7 +12790,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12544,7 +12818,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "New / Sealed / OVP",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12618,7 +12892,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / also Fukuoka box in stock",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12655,7 +12929,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12693,7 +12967,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12718,16 +12992,20 @@
       },
       "language": "Japanese",
       "price": 249.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785223174.5721312,
-      "ended": true,
+      "date": 1786343956.9883635,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           1,
+          1785223174.5721312
+        ],
+        [
+          0,
           1785223174.5721312
         ]
       ],
@@ -12782,7 +13060,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12827,7 +13105,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -12877,7 +13155,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12905,7 +13183,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13092,7 +13370,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "5 in stock",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13120,7 +13398,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13176,7 +13454,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13232,7 +13510,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13260,7 +13538,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13537,12 +13815,12 @@
       },
       "language": "Japanese",
       "price": 270.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
-      "ended": false,
-      "new": false,
+      "date": 1786223945.96568,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           399.0,
@@ -13557,12 +13835,16 @@
         [
           0,
           1779734108.0957787
+        ],
+        [
+          1,
+          1786223945.96568
         ]
       ],
       "first_date": 1764588628.4382932,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -13660,7 +13942,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Great condition. Factory sealed - fast shipping",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13716,7 +13998,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13753,7 +14035,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13916,7 +14198,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -13944,7 +14226,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "New. Sealed. OVP // We offer B2B services",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13977,7 +14259,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "New & Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14005,7 +14287,7 @@
       "quantity": 8,
       "condition": "NM",
       "comment": "inkl. 19% MwSt | OVP. sealed | schneller Versand",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14050,7 +14332,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP Sealed - B2B possible",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14179,7 +14461,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "Box has been opened - Promo sealed - inkl. VAT",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14245,7 +14527,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14442,7 +14724,7 @@
       "quantity": 10,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14821,7 +15103,7 @@
       "quantity": 100,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14938,7 +15220,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Premium WPN Store/huge selection. no shipping on holidays and weekends.",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -14971,7 +15253,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. all 3 PC Special boxes available",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15009,7 +15291,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15131,7 +15413,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15197,7 +15479,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15225,7 +15507,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15262,7 +15544,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "NEU / OVP / SEALED",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15290,7 +15572,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "OVP - SEALED FAST DAILY SHIPPING",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15318,7 +15600,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15449,7 +15731,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15486,7 +15768,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed and NEW",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15514,7 +15796,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -15555,8 +15837,8 @@
       "price": 550.0,
       "quantity": 0,
       "condition": "NM",
-      "comment": "Insta : @vt.collectors",
-      "date": 1785395823.606341,
+      "comment": "RELISTED! Insta : @vt.collectors",
+      "date": 1786101671.7135913,
       "ended": true,
       "new": false,
       "previous_prices": [
@@ -15609,6 +15891,14 @@
         [
           3,
           1785395823.606341
+        ],
+        [
+          0,
+          1785395823.606341
+        ],
+        [
+          3,
+          1786101671.7135913
         ]
       ],
       "first_date": 1775075478.1569185,
@@ -15667,7 +15957,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED! Professional seller. Shipping in 24 hours. fast and secure delivery",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15784,7 +16074,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "OVP / Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15825,7 +16115,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15853,7 +16143,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Per",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15881,7 +16171,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed in Acryl Case",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15915,11 +16205,11 @@
       },
       "language": "Japanese",
       "price": 999.99,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785223174.5721312,
-      "ended": true,
+      "date": 1786343956.9883635,
+      "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
@@ -15941,6 +16231,10 @@
         ],
         [
           1,
+          1785223174.5721312
+        ],
+        [
+          0,
           1785223174.5721312
         ]
       ],
@@ -15967,7 +16261,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -15995,7 +16289,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16112,7 +16406,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16140,7 +16434,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -16201,7 +16495,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785842112.619828,
+      "date": 1786343956.9883635,
       "ended": false,
       "new": false,
       "previous_prices": [],

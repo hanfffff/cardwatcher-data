@@ -10,10 +10,10 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 79,
-  "available_graded": 33,
-  "sold": 3,
-  "inserted": 3,
+  "available": 81,
+  "available_graded": 35,
+  "sold": 6,
+  "inserted": 2,
   "listings": [
     {
       "card": "Hiroshima's Pikachu  (SV-P 261)",
@@ -162,11 +162,11 @@
       },
       "language": "Japanese",
       "price": 99.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Smallest pressure point (barely visible)",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -206,6 +206,10 @@
         [
           0,
           1785489468.0209558
+        ],
+        [
+          1,
+          1785869479.3269272
         ]
       ],
       "first_date": 1780365968.0178437,
@@ -256,17 +260,59 @@
       },
       "language": "Japanese",
       "price": 104.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785869479.3269272
+        ]
+      ],
       "first_date": 1785489468.0209558,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "FitzGX3495",
+        "country": "Item location: Finland"
+      },
+      "language": "Japanese",
+      "price": 105.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Crimped error otherwise sweet card",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          139.99,
+          1786126110.1799397
+        ],
+        [
+          115.0,
+          1786243233.903471
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786126110.1799397,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -317,11 +363,11 @@
       },
       "language": "Japanese",
       "price": 109.99,
-      "quantity": 0,
+      "quantity": 14,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785610412.7636473,
-      "ended": true,
+      "date": 1786399178.6359959,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -393,11 +439,76 @@
         [
           1,
           1785610412.7636473
+        ],
+        [
+          0,
+          1785610412.7636473
+        ],
+        [
+          16,
+          1786126110.1799397
+        ],
+        [
+          12,
+          1786243233.903471
         ]
       ],
       "first_date": 1779784153.1378007,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 2,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "Oskaro",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 114.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          149.99,
+          1784472482.9441993
+        ],
+        [
+          139.99,
+          1785190456.3584375
+        ],
+        [
+          134.99,
+          1785363073.3102577
+        ],
+        [
+          138.99,
+          1785489468.0209558
+        ],
+        [
+          119.99,
+          1785771466.6858525
+        ],
+        [
+          124.99,
+          1786243233.903471
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1783854333.7845736,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -509,6 +620,248 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "TagusCollectibles",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 117.96,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED #4",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          159.9,
+          1778007701.097025
+        ],
+        [
+          164.95,
+          1778595307.1733825
+        ],
+        [
+          163.95,
+          1779025720.2809715
+        ],
+        [
+          177.98,
+          1781504125.1439385
+        ],
+        [
+          169.98,
+          1781676769.061834
+        ],
+        [
+          167.98,
+          1782377269.0690508
+        ],
+        [
+          157.95,
+          1782797892.4593997
+        ],
+        [
+          148.95,
+          1784053324.2304688
+        ],
+        [
+          144.96,
+          1785014242.933886
+        ],
+        [
+          119.96,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          5,
+          1778007701.097025
+        ],
+        [
+          0,
+          1778007701.097025
+        ],
+        [
+          1,
+          1779025720.2809715
+        ],
+        [
+          0,
+          1779025720.2809715
+        ]
+      ],
+      "first_date": 1777926566.5871198,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "TagusCollectibles",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 117.97,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED #3",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          159.0,
+          1779152806.949939
+        ],
+        [
+          157.0,
+          1780858786.7831714
+        ],
+        [
+          177.98,
+          1780965529.3882382
+        ],
+        [
+          157.96,
+          1782797892.4593997
+        ],
+        [
+          148.96,
+          1784053324.2304688
+        ],
+        [
+          144.97,
+          1785014242.933886
+        ],
+        [
+          119.97,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780965529.3882382
+        ],
+        [
+          0,
+          1780965529.3882382
+        ]
+      ],
+      "first_date": 1777926566.5871198,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "TagusCollectibles",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 117.98,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED #2",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          157.97,
+          1782797892.4593997
+        ],
+        [
+          148.97,
+          1784053324.2304688
+        ],
+        [
+          144.98,
+          1785014242.933886
+        ],
+        [
+          119.98,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782527148.136775,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "TagusCollectibles",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 117.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED #5",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          157.98,
+          1782797892.4593997
+        ],
+        [
+          148.98,
+          1784053324.2304688
+        ],
+        [
+          144.99,
+          1785014242.933886
+        ],
+        [
+          119.99,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782527148.136775,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "newANDREAnew",
         "country": "Item location: Italy"
       },
@@ -547,7 +900,7 @@
       "comment": "really clean",
       "date": 1785771466.6858525,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -558,7 +911,7 @@
       "first_date": 1785771466.6858525,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -578,7 +931,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sleeve & Toploader",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -632,9 +985,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785869479.3269272,
@@ -660,7 +1013,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "JA4 SEALED check my big Japanese Inventory",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -683,6 +1036,14 @@
         [
           134.9,
           1784672286.174228
+        ],
+        [
+          119.9,
+          1785869479.3269272
+        ],
+        [
+          116.9,
+          1786126110.1799397
         ]
       ],
       "previous_quantities": [
@@ -727,11 +1088,11 @@
       },
       "language": "Japanese",
       "price": 119.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "JA5 check my big Japanese Inventory",
-      "date": 1785869479.3269272,
-      "ended": false,
+      "comment": "JA4 SEALED check my big Japanese Inventory",
+      "date": 1786126110.1799397,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -767,6 +1128,10 @@
         [
           0,
           1784672286.174228
+        ],
+        [
+          1,
+          1786126110.1799397
         ]
       ],
       "first_date": 1782797892.4593997,
@@ -856,232 +1221,6 @@
       ],
       "previous_quantities": [],
       "first_date": 1764588621.3978124,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "TagusCollectibles",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 119.96,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED #4",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          159.9,
-          1778007701.097025
-        ],
-        [
-          164.95,
-          1778595307.1733825
-        ],
-        [
-          163.95,
-          1779025720.2809715
-        ],
-        [
-          177.98,
-          1781504125.1439385
-        ],
-        [
-          169.98,
-          1781676769.061834
-        ],
-        [
-          167.98,
-          1782377269.0690508
-        ],
-        [
-          157.95,
-          1782797892.4593997
-        ],
-        [
-          148.95,
-          1784053324.2304688
-        ],
-        [
-          144.96,
-          1785014242.933886
-        ]
-      ],
-      "previous_quantities": [
-        [
-          5,
-          1778007701.097025
-        ],
-        [
-          0,
-          1778007701.097025
-        ],
-        [
-          1,
-          1779025720.2809715
-        ],
-        [
-          0,
-          1779025720.2809715
-        ]
-      ],
-      "first_date": 1777926566.5871198,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "TagusCollectibles",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 119.97,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED #3",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          159.0,
-          1779152806.949939
-        ],
-        [
-          157.0,
-          1780858786.7831714
-        ],
-        [
-          177.98,
-          1780965529.3882382
-        ],
-        [
-          157.96,
-          1782797892.4593997
-        ],
-        [
-          148.96,
-          1784053324.2304688
-        ],
-        [
-          144.97,
-          1785014242.933886
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780965529.3882382
-        ],
-        [
-          0,
-          1780965529.3882382
-        ]
-      ],
-      "first_date": 1777926566.5871198,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "TagusCollectibles",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 119.98,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED #2",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          157.97,
-          1782797892.4593997
-        ],
-        [
-          148.97,
-          1784053324.2304688
-        ],
-        [
-          144.98,
-          1785014242.933886
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782527148.136775,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "TagusCollectibles",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 119.99,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "SEALED #5",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          157.98,
-          1782797892.4593997
-        ],
-        [
-          148.98,
-          1784053324.2304688
-        ],
-        [
-          144.99,
-          1785014242.933886
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1782527148.136775,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1190,44 +1329,45 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "Oskaro",
+        "name": "Jahlili",
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 124.99,
-      "quantity": 1,
+      "price": 125.0,
+      "quantity": 0,
       "condition": "NM",
-      "comment": "Sealed",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
+      "comment": "",
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
-          149.99,
-          1784472482.9441993
+          175.0,
+          1774243524.760631
         ],
         [
-          139.99,
-          1785190456.3584375
+          140.0,
+          1785610412.7636473
         ],
         [
-          134.99,
-          1785363073.3102577
-        ],
-        [
-          138.99,
-          1785489468.0209558
-        ],
-        [
-          119.99,
-          1785771466.6858525
+          130.0,
+          1785869479.3269272
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1783854333.7845736,
+      "previous_quantities": [
+        [
+          0,
+          1774243524.760631
+        ],
+        [
+          1,
+          1786243233.903471
+        ]
+      ],
+      "first_date": 1774243524.760631,
       "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
+      "price_is_new": false,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -1359,11 +1499,11 @@
       },
       "language": "Japanese",
       "price": 129.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Ask For Pictures",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -1371,50 +1511,13 @@
           1785771466.6858525
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1784764983.2879775,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "Jahlili",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 130.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          175.0,
-          1774243524.760631
-        ],
-        [
-          140.0,
-          1785610412.7636473
-        ]
-      ],
       "previous_quantities": [
         [
-          0,
-          1774243524.760631
+          1,
+          1785869479.3269272
         ]
       ],
-      "first_date": 1774243524.760631,
+      "first_date": 1784764983.2879775,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -1462,6 +1565,39 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "PommesPokemon",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 134.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Great centering. PSA 10 Chance. ask for more pictures. more cards in stock",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          139.99,
+          1786243233.903471
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786126110.1799397,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "Nicenijs",
         "country": "Item location: Netherlands"
       },
@@ -1470,7 +1606,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1498,7 +1634,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1568,7 +1704,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1696,7 +1832,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 8",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1723,6 +1859,108 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 8.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "PokeTuga2024",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 139.95,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "NEW // SEALED (sent in Card Saver)",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          169.99,
+          1781592631.102691
+        ],
+        [
+          169.9,
+          1782377269.0690508
+        ],
+        [
+          165.0,
+          1784053324.2304688
+        ],
+        [
+          159.95,
+          1785771466.6858525
+        ],
+        [
+          149.95,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1781592631.102691
+        ],
+        [
+          0,
+          1781592631.102691
+        ],
+        [
+          1,
+          1784207161.9188004
+        ],
+        [
+          0,
+          1784207161.9188004
+        ],
+        [
+          1,
+          1784472482.9441993
+        ],
+        [
+          0,
+          1784472482.9441993
+        ]
+      ],
+      "first_date": 1776897565.5995216,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "tcgdeals",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 139.99,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "original & sealed . inkl. 19% MwSt. B2B possible",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786243233.903471,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1778,82 +2016,12 @@
       "quantity": 6,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1784472482.9441993,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "CanShipFromGermany",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 140.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "sealed",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          174.99,
-          1767385260.9013116
-        ],
-        [
-          175.0,
-          1777383513.515593
-        ],
-        [
-          169.0,
-          1784309926.458789
-        ]
-      ],
-      "previous_quantities": [
-        [
-          3,
-          1779025720.2809715
-        ],
-        [
-          1,
-          1779302395.2771103
-        ],
-        [
-          0,
-          1779302395.2771103
-        ],
-        [
-          1,
-          1780001163.5909598
-        ],
-        [
-          0,
-          1780001163.5909598
-        ],
-        [
-          1,
-          1784309926.458789
-        ],
-        [
-          0,
-          1784309926.458789
-        ]
-      ],
-      "first_date": 1764588621.3978124,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -2136,11 +2304,11 @@
       },
       "language": "Japanese",
       "price": 144.9,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA 8 cert number 139313793",
-      "date": 1785869479.3269272,
-      "ended": false,
+      "date": 1786126110.1799397,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2148,10 +2316,15 @@
           1785771466.6858525
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786126110.1799397
+        ]
+      ],
       "first_date": 1785190456.3584375,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -2253,8 +2426,8 @@
       "price": 144.99,
       "quantity": 1,
       "condition": "NM",
-      "comment": "sealed. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
-      "date": 1785869479.3269272,
+      "comment": "RELISTED! sealed. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2279,12 +2452,20 @@
         [
           0,
           1784207161.9188004
+        ],
+        [
+          1,
+          1785869479.3269272
+        ],
+        [
+          0,
+          1785869479.3269272
         ]
       ],
       "first_date": 1782198476.5002596,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -2334,11 +2515,11 @@
       },
       "language": "Japanese",
       "price": 145.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "GD",
       "comment": "Freshly opened - crimped error",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -2358,7 +2539,12 @@
           1785610412.7636473
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785869479.3269272
+        ]
+      ],
       "first_date": 1784309926.458789,
       "last_date": 0.0,
       "price_is_new": false,
@@ -2589,7 +2775,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "SEALED",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -2712,64 +2898,40 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "PokeTuga2024",
-        "country": "Item location: Portugal"
+        "name": "MBDCards",
+        "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 149.95,
       "quantity": 1,
       "condition": "NM",
-      "comment": "NEW // SEALED (sent in Card Saver)",
-      "date": 1785869479.3269272,
+      "comment": "Sealed - Fast and secure shipping!",
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          169.99,
-          1781592631.102691
-        ],
-        [
-          169.9,
-          1782377269.0690508
-        ],
-        [
-          165.0,
-          1784053324.2304688
+          169.95,
+          1783307276.7618923
         ],
         [
           159.95,
-          1785771466.6858525
+          1785869479.3269272
         ]
       ],
       "previous_quantities": [
         [
           1,
-          1781592631.102691
+          1784309926.458789
         ],
         [
           0,
-          1781592631.102691
-        ],
-        [
-          1,
-          1784207161.9188004
-        ],
-        [
-          0,
-          1784207161.9188004
-        ],
-        [
-          1,
-          1784472482.9441993
-        ],
-        [
-          0,
-          1784472482.9441993
+          1784309926.458789
         ]
       ],
-      "first_date": 1776897565.5995216,
+      "first_date": 1781779388.0928662,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -2790,7 +2952,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "ZK1 SEALED",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2840,7 +3002,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Sealed. Full set available.",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -2997,8 +3159,8 @@
       "price": 150.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "RELISTED! ",
-      "date": 1785869479.3269272,
+      "comment": "",
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -3032,7 +3194,45 @@
       "first_date": 1779784153.1378007,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "Aricards-de",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "SEALED Toploader/Cardsaver Safe Shipping",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          165.0,
+          1786126110.1799397
+        ]
+      ],
+      "previous_quantities": [
+        [
+          2,
+          1786126110.1799397
+        ]
+      ],
+      "first_date": 1784053324.2304688,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -3052,7 +3252,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Saled",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -3705,7 +3905,7 @@
       "quantity": 5,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4265,48 +4465,6 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "MBDCards",
-        "country": "Item location: Netherlands"
-      },
-      "language": "Japanese",
-      "price": 159.95,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed - Fast and secure shipping!",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          169.95,
-          1783307276.7618923
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784309926.458789
-        ],
-        [
-          0,
-          1784309926.458789
-        ]
-      ],
-      "first_date": 1781779388.0928662,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
         "name": "Misterbale",
         "country": "Item location: Germany"
       },
@@ -4492,7 +4650,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "De #1 dealer in ACE & TAG slabs van de Benelux!",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -4638,8 +4796,8 @@
       "price": 160.0,
       "quantity": 1,
       "condition": "EX",
-      "comment": "RELISTED! SEALED Over 10k feedback in other marketplace",
-      "date": 1785869479.3269272,
+      "comment": "SEALED Over 10k feedback in other marketplace",
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -4672,7 +4830,7 @@
       "first_date": 1776281687.4333155,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -4684,17 +4842,99 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "Bluel",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 160.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA9 check picture",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          215.0,
+          1779530617.3109603
+        ],
+        [
+          208.0,
+          1779700815.19799
+        ],
+        [
+          200.0,
+          1779784153.1378007
+        ],
+        [
+          195.0,
+          1780001163.5909598
+        ],
+        [
+          172.0,
+          1780509213.5937767
+        ],
+        [
+          160.0,
+          1780965529.3882382
+        ],
+        [
+          164.0,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1780001163.5909598
+        ],
+        [
+          0,
+          1780001163.5909598
+        ],
+        [
+          1,
+          1780509213.5937767
+        ],
+        [
+          0,
+          1780509213.5937767
+        ],
+        [
+          1,
+          1780965529.3882382
+        ],
+        [
+          0,
+          1780965529.3882382
+        ]
+      ],
+      "first_date": 1779302395.2771103,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "TommyLoStregone",
         "country": "Item location: Italy"
       },
       "language": "Japanese",
       "price": 160.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -4712,12 +4952,16 @@
         [
           0,
           1784472482.9441993
+        ],
+        [
+          1,
+          1786243233.903471
         ]
       ],
       "first_date": 1781335177.8861074,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -5225,84 +5469,6 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "Bluel",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 164.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA9 check picture",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          215.0,
-          1779530617.3109603
-        ],
-        [
-          208.0,
-          1779700815.19799
-        ],
-        [
-          200.0,
-          1779784153.1378007
-        ],
-        [
-          195.0,
-          1780001163.5909598
-        ],
-        [
-          172.0,
-          1780509213.5937767
-        ],
-        [
-          160.0,
-          1780965529.3882382
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1780001163.5909598
-        ],
-        [
-          0,
-          1780001163.5909598
-        ],
-        [
-          1,
-          1780509213.5937767
-        ],
-        [
-          0,
-          1780509213.5937767
-        ],
-        [
-          1,
-          1780965529.3882382
-        ],
-        [
-          0,
-          1780965529.3882382
-        ]
-      ],
-      "first_date": 1779302395.2771103,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
         "name": "VDavids",
         "country": "Item location: Netherlands"
       },
@@ -5560,7 +5726,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack>Sleeve>Toploader. Fast & secure shipping.",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -5588,7 +5754,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Ask for Pictures",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -5613,34 +5779,6 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "Aricards-de",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 165.0,
-      "quantity": 2,
-      "condition": "NM",
-      "comment": "SEALED Toploader/Cardsaver Safe Shipping",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1784053324.2304688,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
         "name": "Jorgeheimer",
         "country": "Item location: Portugal"
       },
@@ -5649,7 +5787,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6053,6 +6191,84 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "CanShipFromGermany",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 168.3,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "sealed",
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          174.99,
+          1767385260.9013116
+        ],
+        [
+          175.0,
+          1777383513.515593
+        ],
+        [
+          169.0,
+          1784309926.458789
+        ],
+        [
+          140.0,
+          1786126110.1799397
+        ]
+      ],
+      "previous_quantities": [
+        [
+          3,
+          1779025720.2809715
+        ],
+        [
+          1,
+          1779302395.2771103
+        ],
+        [
+          0,
+          1779302395.2771103
+        ],
+        [
+          1,
+          1780001163.5909598
+        ],
+        [
+          0,
+          1780001163.5909598
+        ],
+        [
+          1,
+          1784309926.458789
+        ],
+        [
+          0,
+          1784309926.458789
+        ],
+        [
+          1,
+          1786243233.903471
+        ]
+      ],
+      "first_date": 1764588621.3978124,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "WS-TCG",
         "country": "Item location: Germany"
       },
@@ -6089,7 +6305,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "ACE 8 with label De #1 dealer in ACE & TAG slabs van de Benelux!",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -6278,7 +6494,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Sealed. Fast & secure shipping.",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6561,7 +6777,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6786,7 +7002,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -6842,7 +7058,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7086,7 +7302,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7255,7 +7471,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Pulled n sleeved",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7386,11 +7602,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 192.25,
+      "price": 192.39,
       "quantity": 1,
       "condition": "NM",
       "comment": "sealed",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7513,12 +7729,20 @@
         [
           192.6,
           1785771466.6858525
+        ],
+        [
+          192.25,
+          1785869479.3269272
+        ],
+        [
+          192.4,
+          1786126110.1799397
         ]
       ],
       "previous_quantities": [],
       "first_date": 1781335177.8861074,
       "last_date": 0.0,
-      "price_is_new": true,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
@@ -7651,7 +7875,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Check picture - Sleeved - Toploader - Fast Secured Shipping",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7705,7 +7929,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED De #1 dealer in ACE & TAG slabs van de Benelux!",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7885,6 +8109,60 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "Defsune",
+        "country": "Item location: Spain"
+      },
+      "language": "Japanese",
+      "price": 200.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "CGC 9 CRIMPED ERROR",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          450.0,
+          1785014242.933886
+        ],
+        [
+          225.0,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1782614988.2259026
+        ],
+        [
+          0,
+          1782614988.2259026
+        ],
+        [
+          1,
+          1783543815.7517855
+        ],
+        [
+          0,
+          1783543815.7517855
+        ]
+      ],
+      "first_date": 1777926566.5871198,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "CGC",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "djelfade",
         "country": "Item location: Italy"
       },
@@ -7893,7 +8171,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Beckett 9",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -7926,7 +8204,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Come with box and SEALED. DM for photo",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -7965,7 +8243,7 @@
       "comment": "BECKETT 8.5  -  We have Other Cards and PSAs :D",
       "date": 1785771466.6858525,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -7984,7 +8262,7 @@
       "first_date": 1778275459.2999284,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -8132,7 +8410,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "ERROR. crimped error",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8195,14 +8473,19 @@
       },
       "language": "Japanese",
       "price": 208.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed!",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785869479.3269272
+        ]
+      ],
       "first_date": 1764588621.3978124,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8226,7 +8509,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9. ask for Pics",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8304,7 +8587,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8324,17 +8607,45 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "Pansardynka",
+        "country": "Item location: Poland"
+      },
+      "language": "Japanese",
+      "price": 210.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "PSA 9",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1783137743.9490602,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "kiezuz",
         "country": "Item location: Netherlands"
       },
       "language": "Japanese",
       "price": 210.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "MT",
       "comment": "Beckett BGS 9.5",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           580.0,
@@ -8353,44 +8664,21 @@
           1785610412.7636473
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786243233.903471
+        ]
+      ],
       "first_date": 1777926566.5871198,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
       "grade_company": "BGS",
       "grade": 9.5,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "Pansardynka",
-        "country": "Item location: Poland"
-      },
-      "language": "Japanese",
-      "price": 210.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "PSA 9",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783137743.9490602,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -8689,7 +8977,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Graded ACE 9",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -8827,14 +9115,19 @@
       },
       "language": "Japanese",
       "price": 225.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "PSA9. Check for More",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785869479.3269272
+        ]
+      ],
       "first_date": 1774394282.167276,
       "last_date": 0.0,
       "price_is_new": false,
@@ -8850,56 +9143,6 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "Defsune",
-        "country": "Item location: Spain"
-      },
-      "language": "Japanese",
-      "price": 225.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "CGC 9 CRIMPED ERROR",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          450.0,
-          1785014242.933886
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1782614988.2259026
-        ],
-        [
-          0,
-          1782614988.2259026
-        ],
-        [
-          1,
-          1783543815.7517855
-        ],
-        [
-          0,
-          1783543815.7517855
-        ]
-      ],
-      "first_date": 1777926566.5871198,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "CGC",
-      "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
         "name": "Anhao",
         "country": "Item location: France"
       },
@@ -8908,7 +9151,7 @@
       "quantity": 4,
       "condition": "NM",
       "comment": "Scellé. Plus de photos en DM",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -8941,7 +9184,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "PSA 9",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9025,7 +9268,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "SEALED ERROR!! De #1 dealer in ACE & TAG slabs van de Benelux! > Website",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9141,12 +9384,12 @@
       },
       "language": "Japanese",
       "price": 250.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9156,12 +9399,16 @@
         [
           0,
           1783406690.9005156
+        ],
+        [
+          1,
+          1786243233.903471
         ]
       ],
       "first_date": 1781335177.8861074,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -9229,6 +9476,34 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "Games-Island",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 252.02,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "HAV - Buy from the biggest TCG Onlineshop in Europe!",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786126110.1799397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "PiRoGammaTCG",
         "country": "Item location: Germany"
       },
@@ -9237,7 +9512,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 (#135 897 131) | inkl. 19% MwSt. | sleeved",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -9283,7 +9558,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 (#148 838 698) | inkl. 19% MwSt. | sleeved",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9320,7 +9595,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 9 (#135 897 134) | inkl. 19% MwSt. | sleeved",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9343,6 +9618,43 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "goncalompls",
+        "country": "Item location: Portugal"
+      },
+      "language": "Japanese",
+      "price": 260.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Sealed | Crimped error!",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          295.0,
+          1780965529.3882382
+        ],
+        [
+          285.0,
+          1785869479.3269272
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1779863697.793252,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -9420,48 +9732,20 @@
       },
       "language": "Japanese",
       "price": 270.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Sealed!",
       "date": 1785869479.3269272,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1764588621.3978124,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "goncalompls",
-        "country": "Item location: Portugal"
-      },
-      "language": "Japanese",
-      "price": 285.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sealed | Crimped error!",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
+      "previous_quantities": [
         [
-          295.0,
-          1780965529.3882382
+          1,
+          1785869479.3269272
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1779863697.793252,
+      "first_date": 1764588621.3978124,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -9484,7 +9768,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9 Mint",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9687,7 +9971,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCIC 10 Gem Mint",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9773,7 +10057,7 @@
       "comment": "BGS 9.5 CERT: 0019025429",
       "date": 1785771466.6858525,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -9784,7 +10068,7 @@
       "first_date": 1783854333.7845736,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -9804,7 +10088,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9832,7 +10116,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "BGS 9.5",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -9857,11 +10141,11 @@
       },
       "language": "Japanese",
       "price": 349.99,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "NM",
       "comment": "New/OVP/Sealed",
-      "date": 1785869479.3269272,
-      "ended": false,
+      "date": 1786126110.1799397,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -9917,6 +10201,10 @@
         [
           0,
           1784053324.2304688
+        ],
+        [
+          3,
+          1786126110.1799397
         ]
       ],
       "first_date": 1765402379.84698,
@@ -10232,6 +10520,39 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "tcgvolcanstore",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 390.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 9",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          540.0,
+          1786243233.903471
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1781779388.0928662,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "lucasg2000",
         "country": "Item location: Netherlands"
       },
@@ -10268,7 +10589,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CCIC 10 / 21% VAT",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10282,6 +10603,34 @@
       "archived": false,
       "grade_company": "",
       "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "Sandraiek",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 399.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - 2 scratches on back of slap. See picture.",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786243233.903471,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
       "grade_source": "auto"
     },
     {
@@ -10324,7 +10673,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "crimped error. NM",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -10410,7 +10759,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Ace 10",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -10530,6 +10879,76 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "DD-Collectibles",
+        "country": "Item location: Netherlands"
+      },
+      "language": "Japanese",
+      "price": 424.95,
+      "quantity": 0,
+      "condition": "MT",
+      "comment": "PSA 10",
+      "date": 1786243233.903471,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1786243233.903471
+        ]
+      ],
+      "first_date": 1786243233.903471,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "Floshowdy",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 429.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 Coffret clean dm pour photos/vidéos",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          560.0,
+          1785771466.6858525
+        ],
+        [
+          520.0,
+          1786243233.903471
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1784207161.9188004,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "threedays",
         "country": "Item location: Germany"
       },
@@ -10544,6 +10963,34 @@
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1768771569.3031497,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
+        "name": "phuyhoang",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 430.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Psa10 full set available 1k",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786126110.1799397,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -10643,6 +11090,34 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "Poke-Gallery",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 449.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA 10 - GEM MT - fast shipping",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786243233.903471,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "Thokemen",
         "country": "Item location: Netherlands"
       },
@@ -10651,7 +11126,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 - Fast shipping. contact for questions/pics",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11084,7 +11559,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11133,7 +11608,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 Graded!",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11239,7 +11714,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11341,7 +11816,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10 / Check out my slabs",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -11369,7 +11844,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA10 SEQ SET",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -11583,39 +12058,6 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
-        "name": "Floshowdy",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 520.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 10 Coffret clean dm pour photos/vidéos",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          560.0,
-          1785771466.6858525
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1784207161.9188004,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
         "name": "Ekcolfus",
         "country": "Item location: Germany"
       },
@@ -11718,34 +12160,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 10.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Hiroshima's Pikachu  (SV-P 261)",
-      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
-      "seller": {
-        "name": "tcgvolcanstore",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 540.0,
-      "quantity": 1,
-      "condition": "MT",
-      "comment": "PSA 9",
-      "date": 1785869479.3269272,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1781779388.0928662,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 1,
-      "archived": false,
-      "grade_company": "PSA",
-      "grade": 9.0,
       "grade_source": "auto"
     },
     {
@@ -11937,7 +12351,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "PSA 10. CLEAN SLAB",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -12457,16 +12871,25 @@
       "price": 650.0,
       "quantity": 1,
       "condition": "MT",
-      "comment": "BGS 10. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
-      "date": 1785869479.3269272,
+      "comment": "RELISTED! BGS 10. gemäß § 19 ustg wird keine umsatzsteuer ausgewiesen",
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785869479.3269272
+        ],
+        [
+          0,
+          1785869479.3269272
+        ]
+      ],
       "first_date": 1785363073.3102577,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 1,
       "first_ed": 0,
       "reverse_holo": 1,
       "archived": false,
@@ -12782,7 +13205,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Pikachu 260+261+289 all 3 Together - PSA 10",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -13226,6 +13649,34 @@
       "card": "Hiroshima's Pikachu  (SV-P 261)",
       "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
       "seller": {
+        "name": "PokemonFr75",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 1590.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "LOT 3 PSA 10 Pokemon Center: Pikachu Hiroshima 261 + Fukuoka 289 + Tohoku - vendus ensemble",
+      "date": 1786399178.6359959,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786126110.1799397,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 1,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 10.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Hiroshima's Pikachu  (SV-P 261)",
+      "canonical_name": "Pokemon_Products_Singles_Scarlet-Violet-Promos_Hiroshimas-Pikachu-SV-P261",
+      "seller": {
         "name": "AleTuz",
         "country": "Item location: Italy"
       },
@@ -13284,7 +13735,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "Trio Progressive Psa 10",
-      "date": 1785869479.3269272,
+      "date": 1786399178.6359959,
       "ended": false,
       "new": false,
       "previous_prices": [],

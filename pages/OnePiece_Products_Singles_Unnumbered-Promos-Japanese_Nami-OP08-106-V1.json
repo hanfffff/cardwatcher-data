@@ -9,9 +9,9 @@
     "Japanese"
   ],
   "only_germany": false,
-  "available": 49,
-  "available_graded": 4,
-  "sold": 2,
+  "available": 42,
+  "available_graded": 5,
+  "sold": 3,
   "inserted": 0,
   "listings": [
     {
@@ -23,12 +23,12 @@
       },
       "language": "S-Chinese",
       "price": 98.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
-      "ended": false,
-      "new": false,
+      "date": 1786335509.3742173,
+      "ended": true,
+      "new": true,
       "previous_prices": [
         [
           69.99,
@@ -55,12 +55,16 @@
         [
           0,
           1783174124.5116262
+        ],
+        [
+          1,
+          1786335509.3742173
         ]
       ],
       "first_date": 1782736617.7515743,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": -1,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -159,7 +163,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -210,11 +214,11 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "Whettening",
-      "date": 1785831824.1495955,
-      "ended": false,
+      "date": 1786090760.8016367,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -222,7 +226,12 @@
           1785235251.1438818
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1786090760.8016367
+        ]
+      ],
       "first_date": 1785059753.864878,
       "last_date": 0.0,
       "price_is_new": false,
@@ -271,6 +280,34 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
+        "name": "Firefistayl",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 110.0,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "Light damage on backside front perfect",
+      "date": 1786553739.9459333,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786335509.3742173,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
         "name": "BlueFruitGames",
         "country": "Item location: Germany"
       },
@@ -279,7 +316,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Ask for pictures!",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -337,10 +374,10 @@
       },
       "language": "S-Chinese",
       "price": 125.0,
-      "quantity": 1,
+      "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -357,12 +394,16 @@
         [
           0,
           1785059753.864878
+        ],
+        [
+          1,
+          1786335509.3742173
         ]
       ],
       "first_date": 1784809020.8567052,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": 0,
+      "quantity_change": 2,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -533,97 +574,6 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
-        "name": "Hero2-11",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 139.49,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785831824.1495955,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          149.95,
-          1785562637.796432
-        ],
-        [
-          139.89,
-          1785731812.9573157
-        ]
-      ],
-      "previous_quantities": [],
-      "first_date": 1785235251.1438818,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP08-106) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
-      "seller": {
-        "name": "slimbabbah",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 139.5,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Sleeve -> Toploader",
-      "date": 1785831824.1495955,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          149.0,
-          1783614561.9229975
-        ],
-        [
-          155.0,
-          1785731812.9573157
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1783614561.9229975
-        ],
-        [
-          0,
-          1783614561.9229975
-        ],
-        [
-          1,
-          1785235251.1438818
-        ],
-        [
-          0,
-          1785235251.1438818
-        ]
-      ],
-      "first_date": 1783614561.9229975,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Nami (OP08-106) (V.1)",
-      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
-      "seller": {
         "name": "Ghostcards",
         "country": "Item location: Germany"
       },
@@ -634,7 +584,7 @@
       "comment": "RELISTED! ",
       "date": 1785731812.9573157,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
@@ -669,7 +619,7 @@
       "first_date": 1782831580.4128554,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -714,22 +664,64 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
+        "name": "Firefistayl",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 140.0,
+      "quantity": 2,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786553739.9459333,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          150.0,
+          1786335509.3742173
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786335509.3742173
+        ]
+      ],
+      "first_date": 1786335509.3742173,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
         "name": "ChobanovGamesLtd",
         "country": "Item location: Bulgaria"
       },
       "language": "Japanese",
       "price": 148.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "Fast & Cheap Shipping show stock",
       "date": 1785831824.1495955,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
       "previous_quantities": [
         [
           2,
           1785407843.4847112
+        ],
+        [
+          1,
+          1785831824.1495955
         ]
       ],
       "first_date": 1785407843.4847112,
@@ -747,25 +739,38 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
-        "name": "johnlaker87",
-        "country": "Item location: Austria"
+        "name": "Hero2-11",
+        "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 149.99,
-      "quantity": 1,
+      "price": 148.99,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
-      "ended": false,
+      "date": 1786214633.963702,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
-          159.99,
+          149.95,
           1785562637.796432
+        ],
+        [
+          139.89,
+          1785731812.9573157
+        ],
+        [
+          139.49,
+          1785831824.1495955
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1785059753.864878,
+      "previous_quantities": [
+        [
+          1,
+          1786214633.963702
+        ]
+      ],
+      "first_date": 1785235251.1438818,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -788,7 +793,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Check my store",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -799,6 +804,44 @@
         ]
       ],
       "first_date": 1785235251.1438818,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
+        "name": "johnlaker87",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 149.99,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786090760.8016367,
+      "ended": true,
+      "new": false,
+      "previous_prices": [
+        [
+          159.99,
+          1785562637.796432
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1786090760.8016367
+        ]
+      ],
+      "first_date": 1785059753.864878,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -851,15 +894,53 @@
       },
       "language": "Japanese",
       "price": 150.0,
-      "quantity": 3,
+      "quantity": 0,
       "condition": "MT",
       "comment": "",
-      "date": 1785831824.1495955,
-      "ended": false,
+      "date": 1786335509.3742173,
+      "ended": true,
+      "new": true,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          3,
+          1786335509.3742173
+        ]
+      ],
+      "first_date": 1783356157.3786993,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -3,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
+        "name": "Geriko08",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 150.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786090760.8016367,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783356157.3786993,
+      "previous_quantities": [
+        [
+          1,
+          1786090760.8016367
+        ]
+      ],
+      "first_date": 1786090760.8016367,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -927,7 +1008,7 @@
       "quantity": 2,
       "condition": "NM",
       "comment": "Bonus Card with every order",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -980,6 +1061,72 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
+        "name": "slimbabbah",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 175.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "Sleeve -> Toploader",
+      "date": 1786335509.3742173,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          149.0,
+          1783614561.9229975
+        ],
+        [
+          155.0,
+          1785731812.9573157
+        ],
+        [
+          139.5,
+          1785831824.1495955
+        ],
+        [
+          148.95,
+          1786090760.8016367
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1783614561.9229975
+        ],
+        [
+          0,
+          1783614561.9229975
+        ],
+        [
+          1,
+          1785235251.1438818
+        ],
+        [
+          0,
+          1785235251.1438818
+        ],
+        [
+          1,
+          1786335509.3742173
+        ]
+      ],
+      "first_date": 1783614561.9229975,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
         "name": "Petat",
         "country": "Item location: Germany"
       },
@@ -988,7 +1135,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1016,7 +1163,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1077,7 +1224,7 @@
       "quantity": 3,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1107,6 +1254,39 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
+        "name": "Sasukescott",
+        "country": "Item location: United Kingdom"
+      },
+      "language": "S-Chinese",
+      "price": 216.94,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786553739.9459333,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          216.38,
+          1786335509.3742173
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1786335509.3742173,
+      "last_date": 0.0,
+      "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
         "name": "Trfqnt",
         "country": "Item location: France"
       },
@@ -1115,7 +1295,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1139,11 +1319,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 240.31,
+      "price": 241.11,
       "quantity": 14,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1154,6 +1334,18 @@
         [
           240.74,
           1785731812.9573157
+        ],
+        [
+          240.31,
+          1785831824.1495955
+        ],
+        [
+          240.5,
+          1786090760.8016367
+        ],
+        [
+          240.49,
+          1786335509.3742173
         ]
       ],
       "previous_quantities": [
@@ -1189,7 +1381,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1214,14 +1406,19 @@
       },
       "language": "Japanese",
       "price": 247.99,
-      "quantity": 4,
+      "quantity": 0,
       "condition": "NM",
       "comment": "playset please - check out my other cards",
       "date": 1785831824.1495955,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          4,
+          1785831824.1495955
+        ]
+      ],
       "first_date": 1782831580.4128554,
       "last_date": 0.0,
       "price_is_new": false,
@@ -1245,7 +1442,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "double sleeve & Toploader - envoi rapide !",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1275,7 +1472,7 @@
       "comment": "PSA 10",
       "date": 1785731812.9573157,
       "ended": true,
-      "new": true,
+      "new": false,
       "previous_prices": [
         [
           450.0,
@@ -1303,7 +1500,7 @@
       "first_date": 1784426522.3095696,
       "last_date": 0.0,
       "price_is_new": false,
-      "quantity_change": -1,
+      "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
       "archived": false,
@@ -1323,7 +1520,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Envoi soigné - photos sur demande",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1352,6 +1549,34 @@
       "card": "Nami (OP08-106) (V.1)",
       "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
       "seller": {
+        "name": "Firefistayl",
+        "country": "Item location: Austria"
+      },
+      "language": "Japanese",
+      "price": 290.0,
+      "quantity": 1,
+      "condition": "MT",
+      "comment": "PSA9",
+      "date": 1786553739.9459333,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1786335509.3742173,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "PSA",
+      "grade": 9.0,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Nami (OP08-106) (V.1)",
+      "canonical_name": "OnePiece_Products_Singles_Unnumbered-Promos-Japanese_Nami-OP08-106-V1",
+      "seller": {
         "name": "Johni1993",
         "country": "Item location: Austria"
       },
@@ -1360,7 +1585,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1447,7 +1672,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10 GEM MINT",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1514,11 +1739,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 443.36,
+      "price": 444.84,
       "quantity": 1,
       "condition": "NM",
       "comment": "Pack to sleeve + toploader",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1577,6 +1802,18 @@
         [
           444.17,
           1785731812.9573157
+        ],
+        [
+          443.36,
+          1785831824.1495955
+        ],
+        [
+          443.73,
+          1786090760.8016367
+        ],
+        [
+          443.7,
+          1786335509.3742173
         ]
       ],
       "previous_quantities": [],
@@ -1599,11 +1836,11 @@
         "country": "Item location: Romania"
       },
       "language": "Japanese",
-      "price": 450.0,
+      "price": 550.0,
       "quantity": 1,
       "condition": "MT",
       "comment": "Psa 10 / ask for photos!",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1618,6 +1855,10 @@
         [
           600.0,
           1784809020.8567052
+        ],
+        [
+          450.0,
+          1785831824.1495955
         ]
       ],
       "previous_quantities": [
@@ -1657,7 +1898,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "From booster to plastic box",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1714,17 +1955,21 @@
         "country": "Item location: Italy"
       },
       "language": "Japanese",
-      "price": 799.95,
+      "price": 779.95,
       "quantity": 1,
       "condition": "NM",
       "comment": "_*HUGE STOCK AND FAIR GRADING*_ _*Daily Shipments - Top Packaging*_",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
           159.95,
           1784718124.0367858
+        ],
+        [
+          799.95,
+          1785831824.1495955
         ]
       ],
       "previous_quantities": [
@@ -1760,7 +2005,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Viele JP Karten verfügbar! | BOX: JP-1",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1788,7 +2033,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "CGC 10 Pristine Gold Label",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -1849,7 +2094,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785831824.1495955,
+      "date": 1786553739.9459333,
       "ended": false,
       "new": false,
       "previous_prices": [],

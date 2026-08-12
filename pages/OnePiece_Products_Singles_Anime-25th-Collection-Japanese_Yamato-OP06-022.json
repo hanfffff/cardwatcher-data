@@ -10,40 +10,49 @@
     "Korean"
   ],
   "only_germany": false,
-  "available": 9,
+  "available": 7,
   "available_graded": 0,
-  "sold": 0,
+  "sold": 1,
   "inserted": 0,
   "listings": [
     {
       "card": "Yamato (OP06-022)",
       "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
       "seller": {
-        "name": "Bartaz1988",
-        "country": "Item location: Germany"
+        "name": "Geriko08",
+        "country": "Item location: France"
       },
       "language": "S-Chinese",
-      "price": 350.0,
+      "price": 300.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "Flawless!",
-      "date": 1785805063.1787698,
+      "comment": "",
+      "date": 1786545425.109869,
       "ended": false,
       "new": false,
       "previous_prices": [
         [
-          350.0,
-          1784815229.963916
+          370.0,
+          1786060968.9699695
         ],
         [
-          320.0,
-          1785536459.8742275
+          330.0,
+          1786327490.2619977
         ]
       ],
-      "previous_quantities": [],
-      "first_date": 1784433411.5802343,
+      "previous_quantities": [
+        [
+          1,
+          1784433411.5802343
+        ],
+        [
+          0,
+          1784433411.5802343
+        ]
+      ],
+      "first_date": 1783498136.6327288,
       "last_date": 0.0,
-      "price_is_new": false,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -56,29 +65,37 @@
       "card": "Yamato (OP06-022)",
       "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
       "seller": {
-        "name": "Geriko08",
-        "country": "Item location: France"
+        "name": "Bartaz1988",
+        "country": "Item location: Germany"
       },
       "language": "S-Chinese",
-      "price": 370.0,
+      "price": 355.0,
       "quantity": 1,
       "condition": "NM",
-      "comment": "",
-      "date": 1785805063.1787698,
+      "comment": "Flawless!",
+      "date": 1786545425.109869,
       "ended": false,
       "new": false,
-      "previous_prices": [],
-      "previous_quantities": [
+      "previous_prices": [
         [
-          1,
-          1784433411.5802343
+          350.0,
+          1784815229.963916
         ],
         [
-          0,
-          1784433411.5802343
+          320.0,
+          1785536459.8742275
+        ],
+        [
+          350.0,
+          1785805063.1787698
+        ],
+        [
+          300.0,
+          1786060968.9699695
         ]
       ],
-      "first_date": 1783498136.6327288,
+      "previous_quantities": [],
+      "first_date": 1784433411.5802343,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -164,6 +181,47 @@
       "card": "Yamato (OP06-022)",
       "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
       "seller": {
+        "name": "AkibaCollectors",
+        "country": "Item location: France"
+      },
+      "language": "Japanese",
+      "price": 420.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "",
+      "date": 1786545425.109869,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          419.99,
+          1782743824.1246016
+        ],
+        [
+          410.0,
+          1785536459.8742275
+        ],
+        [
+          440.0,
+          1785805063.1787698
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1782460927.7988453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP06-022)",
+      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
+      "seller": {
         "name": "Vananh",
         "country": "Item location: Germany"
       },
@@ -182,43 +240,6 @@
           1782743824.1246016
         ]
       ],
-      "first_date": 1782460927.7988453,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP06-022)",
-      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
-      "seller": {
-        "name": "AkibaCollectors",
-        "country": "Item location: France"
-      },
-      "language": "Japanese",
-      "price": 440.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785805063.1787698,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          419.99,
-          1782743824.1246016
-        ],
-        [
-          410.0,
-          1785536459.8742275
-        ]
-      ],
-      "previous_quantities": [],
       "first_date": 1782460927.7988453,
       "last_date": 0.0,
       "price_is_new": false,
@@ -276,11 +297,11 @@
         "country": "Item location: Germany"
       },
       "language": "Japanese",
-      "price": 485.0,
+      "price": 470.0,
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785805063.1787698,
+      "date": 1786545425.109869,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -299,112 +320,14 @@
         [
           490.0,
           1785705338.6035845
+        ],
+        [
+          485.0,
+          1785805063.1787698
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783363278.8758004,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP06-022)",
-      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
-      "seller": {
-        "name": "Kizaru86",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 489.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "perfect conditions",
-      "date": 1785805063.1787698,
-      "ended": false,
-      "new": false,
-      "previous_prices": [
-        [
-          500.0,
-          1783621965.0179746
-        ],
-        [
-          499.0,
-          1785705338.6035845
-        ]
-      ],
-      "previous_quantities": [
-        [
-          1,
-          1784169271.2371686
-        ],
-        [
-          0,
-          1784169271.2371686
-        ]
-      ],
-      "first_date": 1782460927.7988453,
-      "last_date": 0.0,
-      "price_is_new": true,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP06-022)",
-      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
-      "seller": {
-        "name": "anastasak0s",
-        "country": "Item location: Greece"
-      },
-      "language": "Japanese",
-      "price": 550.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "",
-      "date": 1785805063.1787698,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1783181140.0271964,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 0,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Yamato (OP06-022)",
-      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
-      "seller": {
-        "name": "sangennarocards",
-        "country": "Item location: Italy"
-      },
-      "language": "Japanese",
-      "price": 600.0,
-      "quantity": 1,
-      "condition": "NM",
-      "comment": "Perfect Conditions More High End Cards Available",
-      "date": 1785805063.1787698,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1782460927.7988453,
       "last_date": 0.0,
       "price_is_new": false,
       "quantity_change": 0,
@@ -423,11 +346,11 @@
         "country": "Item location: United Kingdom"
       },
       "language": "Japanese",
-      "price": 600.76,
+      "price": 482.21,
       "quantity": 1,
       "condition": "MT",
       "comment": "Msg for pics/ offers :)",
-      "date": 1785805063.1787698,
+      "date": 1786545425.109869,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -494,12 +417,139 @@
         [
           602.2,
           1785705338.6035845
+        ],
+        [
+          600.76,
+          1785805063.1787698
+        ],
+        [
+          600.2,
+          1786060968.9699695
+        ],
+        [
+          480.98,
+          1786327490.2619977
         ]
       ],
       "previous_quantities": [],
       "first_date": 1783181140.0271964,
       "last_date": 0.0,
       "price_is_new": true,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP06-022)",
+      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
+      "seller": {
+        "name": "Kizaru86",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 484.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "perfect conditions",
+      "date": 1786327490.2619977,
+      "ended": true,
+      "new": true,
+      "previous_prices": [
+        [
+          500.0,
+          1783621965.0179746
+        ],
+        [
+          499.0,
+          1785705338.6035845
+        ],
+        [
+          489.0,
+          1785805063.1787698
+        ]
+      ],
+      "previous_quantities": [
+        [
+          1,
+          1784169271.2371686
+        ],
+        [
+          0,
+          1784169271.2371686
+        ],
+        [
+          1,
+          1786327490.2619977
+        ]
+      ],
+      "first_date": 1782460927.7988453,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": -1,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP06-022)",
+      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
+      "seller": {
+        "name": "anastasak0s",
+        "country": "Item location: Greece"
+      },
+      "language": "Japanese",
+      "price": 550.0,
+      "quantity": 0,
+      "condition": "NM",
+      "comment": "",
+      "date": 1785805063.1787698,
+      "ended": true,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [
+        [
+          1,
+          1785805063.1787698
+        ]
+      ],
+      "first_date": 1783181140.0271964,
+      "last_date": 0.0,
+      "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 0,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Yamato (OP06-022)",
+      "canonical_name": "OnePiece_Products_Singles_Anime-25th-Collection-Japanese_Yamato-OP06-022",
+      "seller": {
+        "name": "sangennarocards",
+        "country": "Item location: Italy"
+      },
+      "language": "Japanese",
+      "price": 600.0,
+      "quantity": 1,
+      "condition": "NM",
+      "comment": "Perfect Conditions More High End Cards Available",
+      "date": 1786545425.109869,
+      "ended": false,
+      "new": false,
+      "previous_prices": [],
+      "previous_quantities": [],
+      "first_date": 1782460927.7988453,
+      "last_date": 0.0,
+      "price_is_new": false,
       "quantity_change": 0,
       "first_ed": 0,
       "reverse_holo": 0,
@@ -558,7 +608,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster->top loader",
-      "date": 1785805063.1787698,
+      "date": 1786545425.109869,
       "ended": false,
       "new": false,
       "previous_prices": [],

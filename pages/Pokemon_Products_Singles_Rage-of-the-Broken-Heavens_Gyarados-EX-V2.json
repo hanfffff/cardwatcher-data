@@ -10,7 +10,7 @@
     "T-Chinese"
   ],
   "only_germany": "False",
-  "available": 11,
+  "available": 10,
   "available_graded": 1,
   "sold": 0,
   "inserted": 0,
@@ -136,14 +136,19 @@
       },
       "language": "Korean",
       "price": 95.0,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "EX",
       "comment": "",
       "date": 1785865388.6036384,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785865388.6036384
+        ]
+      ],
       "first_date": 1780104501.400017,
       "last_date": 0.0,
       "price_is_new": false,
@@ -317,7 +322,7 @@
       "quantity": 1,
       "condition": "MT",
       "comment": "",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -429,7 +434,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "CRIMPED - ask for photo",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -495,7 +500,7 @@
       "quantity": 1,
       "condition": "PL",
       "comment": "SHOWCASE",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -746,7 +751,7 @@
       "quantity": 1,
       "condition": "LP",
       "comment": "Fast Ship · VAT Incl · Sleeve Toploader · white lines from scanner · #485",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -816,7 +821,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Check my other cards",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -828,6 +833,14 @@
         [
           0,
           1782233266.479136
+        ],
+        [
+          1,
+          1785865388.6036384
+        ],
+        [
+          0,
+          1785865388.6036384
         ]
       ],
       "first_date": 1781868489.5206609,
@@ -853,7 +866,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "Many Japanese Vintage Singles&Graded cards available!",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -861,6 +874,39 @@
       "first_date": 1781727258.3021774,
       "last_date": 0.0,
       "price_is_new": false,
+      "quantity_change": 0,
+      "first_ed": 1,
+      "reverse_holo": 0,
+      "archived": false,
+      "grade_company": "",
+      "grade": null,
+      "grade_source": "auto"
+    },
+    {
+      "card": "Gyarados EX  (XY9 081)",
+      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V2",
+      "seller": {
+        "name": "Misterbale",
+        "country": "Item location: Germany"
+      },
+      "language": "Japanese",
+      "price": 229.9,
+      "quantity": 1,
+      "condition": "EX",
+      "comment": "EXC+ | B7",
+      "date": 1786395621.629217,
+      "ended": false,
+      "new": false,
+      "previous_prices": [
+        [
+          259.9,
+          1786239593.6520784
+        ]
+      ],
+      "previous_quantities": [],
+      "first_date": 1780892474.2035222,
+      "last_date": 0.0,
+      "price_is_new": true,
       "quantity_change": 0,
       "first_ed": 1,
       "reverse_holo": 0,
@@ -881,7 +927,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "(*) Free shipping! / T54",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -909,7 +955,7 @@
       "quantity": 1,
       "condition": "GD",
       "comment": "many more cards",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -956,34 +1002,6 @@
       "archived": false,
       "grade_company": "PSA",
       "grade": 9.0,
-      "grade_source": "auto"
-    },
-    {
-      "card": "Gyarados EX  (XY9 081)",
-      "canonical_name": "Pokemon_Products_Singles_Rage-of-the-Broken-Heavens_Gyarados-EX-V2",
-      "seller": {
-        "name": "Misterbale",
-        "country": "Item location: Germany"
-      },
-      "language": "Japanese",
-      "price": 259.9,
-      "quantity": 1,
-      "condition": "EX",
-      "comment": "EXC+ | B7",
-      "date": 1785865388.6036384,
-      "ended": false,
-      "new": false,
-      "previous_prices": [],
-      "previous_quantities": [],
-      "first_date": 1780892474.2035222,
-      "last_date": 0.0,
-      "price_is_new": false,
-      "quantity_change": 0,
-      "first_ed": 1,
-      "reverse_holo": 0,
-      "archived": false,
-      "grade_company": "",
-      "grade": null,
       "grade_source": "auto"
     },
     {
@@ -1261,7 +1279,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "BGS 9.5 -> Centering 9 / Edges 9.5 / Corners 10 / Surface 10 / Pics via request :)",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -1294,7 +1312,7 @@
       "quantity": 1,
       "condition": "EX",
       "comment": "",
-      "date": 1785865388.6036384,
+      "date": 1786395621.629217,
       "ended": false,
       "new": false,
       "previous_prices": [],

@@ -12,7 +12,7 @@
   "available": 9,
   "available_graded": 0,
   "sold": 0,
-  "inserted": 1,
+  "inserted": 0,
   "listings": [
     {
       "card": "Nico Olvia (OP09-106) (V.2)",
@@ -112,11 +112,11 @@
       },
       "language": "Japanese",
       "price": 44.99,
-      "quantity": 1,
+      "quantity": 0,
       "condition": "NM",
       "comment": "",
       "date": 1785832394.5851011,
-      "ended": false,
+      "ended": true,
       "new": false,
       "previous_prices": [
         [
@@ -132,7 +132,12 @@
           1780511645.92216
         ]
       ],
-      "previous_quantities": [],
+      "previous_quantities": [
+        [
+          1,
+          1785832394.5851011
+        ]
+      ],
       "first_date": 1776385059.8998477,
       "last_date": 0.0,
       "price_is_new": false,
@@ -156,7 +161,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Booster sleeve + topleader envoie rapide et soigné",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -201,7 +206,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "booster frisch / fast shipping",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -280,7 +285,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -345,7 +350,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "Double Sleeved & Fast Shipping + Toploader",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -439,7 +444,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [
@@ -476,7 +481,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "CHINESE CHAMPIONSHIP STAMP FOILD CARD",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -513,9 +518,9 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "championship stamp",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
-      "new": true,
+      "new": false,
       "previous_prices": [],
       "previous_quantities": [],
       "first_date": 1785832394.5851011,
@@ -541,7 +546,7 @@
       "quantity": 1,
       "condition": "NM",
       "comment": "",
-      "date": 1785832394.5851011,
+      "date": 1786554375.5230205,
       "ended": false,
       "new": false,
       "previous_prices": [],
@@ -627,11 +632,11 @@
       },
       "language": "Japanese",
       "price": 100.0,
-      "quantity": 0,
+      "quantity": 1,
       "condition": "NM",
       "comment": "Other cards in trade-pack fresh!",
-      "date": 1785051789.1586437,
-      "ended": true,
+      "date": 1786554375.5230205,
+      "ended": false,
       "new": false,
       "previous_prices": [
         [
@@ -658,6 +663,10 @@
         ],
         [
           1,
+          1785051789.1586437
+        ],
+        [
+          0,
           1785051789.1586437
         ]
       ],
